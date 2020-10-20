@@ -1,0 +1,137 @@
+{
+    "count": 10,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_10_P8VlsG5.m4a",
+            "content": "আপনি একটু পরেই ফিরে যেতে পারবেন।",
+            "id": 52,
+            "language": "Bengali",
+            "phrase": {
+                "content": "You can go back soon.",
+                "id": 52,
+                "summary": "Can go back"
+            },
+            "romanized": "Apni ektu porei fire jete parben.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_11_hJvX47z.m4a",
+            "content": "এখানে অপেক্ষা করুন, আপাতত এখান থেকে চলে যাবেন না",
+            "id": 53,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Wait here, do not leave this area",
+                "id": 53,
+                "summary": "Wait Patient"
+            },
+            "romanized": "Ekhane opekkha korun, apatoto ekhan theke chole jaben na.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_12_Ps3O57p.m4a",
+            "content": "আপনাকে কিছুদিন হাসপাতালে থাকতে হবে।",
+            "id": 54,
+            "language": "Bengali",
+            "phrase": {
+                "content": "You have to stay in the hospital for a few days",
+                "id": 54,
+                "summary": "Hospital Stay"
+            },
+            "romanized": "Apnake kichudin hashpatal/hospital e thakte hobe.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_13_oqbjBya.m4a",
+            "content": "আমি আপনাকে ওষুধ দেব। তাতে আপনি আরাম বোধ করবেন।",
+            "id": 55,
+            "language": "Bengali",
+            "phrase": {
+                "content": "I'll give you medicine to make you feel better",
+                "id": 55,
+                "summary": "Medicine"
+            },
+            "romanized": "Ami apnake oshudh dibo. Taate apni aaram bodh korben.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_14_Hf8Eqie.m4a",
+            "content": "পরবর্তী ৫ দিন আপনার কাজ করা উচিত নয়।",
+            "id": 56,
+            "language": "Bengali",
+            "phrase": {
+                "content": "You must not work for the next 5 days.",
+                "id": 56,
+                "summary": "No work 5 days"
+            },
+            "romanized": "Poroborti paach (5) din apnar kaaj kora uchit noy.",
+            "special_note": "(See sidebar for more translation on quarantine measures)"
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4c6a576f35718eb465d002d239b7848b.mp3",
+            "content": "আপনার শ্বাস কষ্ট হলে, আপনাকে অবশ্যই ফেরত আসতে হবে।",
+            "id": 57,
+            "language": "Bengali",
+            "phrase": {
+                "content": "You must come back if you have problems with breathing.",
+                "id": 57,
+                "summary": "Problem after 5 days"
+            },
+            "romanized": "Apnar shaash koshto hole, apnake obosshoy ferot aashte hobe.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d412da4e4ab6d4387e03b34b8641efe5.mp3",
+            "content": "৫ দিন পরেও যদি আপনি সম্পুর্ণ সুস্থ না হন তবে অবশ্যই ফেরত আসতে হবে।",
+            "id": 601,
+            "language": "Bengali",
+            "phrase": {
+                "content": "You must come back if you do not recover completely after 5 days.",
+                "id": 151,
+                "summary": "Come back 5 days"
+            },
+            "romanized": "Paach din poreo jodi apni shompurno shustho na hon tobe obosshoi ferot aashte hobe.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_16.m4a",
+            "content": "কাগজটা ভাল করে পড়ুন।",
+            "id": 58,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Read the handout carefully",
+                "id": 58,
+                "summary": "Handout"
+            },
+            "romanized": "Kogojta bhalo kore porun.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_17.m4a",
+            "content": "ধন্যবাদ, dhonnobad",
+            "id": 59,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Thank you",
+                "id": 59,
+                "summary": "Thank you"
+            },
+            "romanized": "Dhonnobaad",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3de4b906cb25cf288ccbd7661c356a46.mp3",
+            "content": "কোভিড-১৯ এর লক্ষণগুলো ১০ দিন পর্যন্ত থাকতে পারে।",
+            "id": 3104,
+            "language": "Bengali",
+            "phrase": {
+                "content": "COVID symptoms can last up to 10 days.",
+                "id": 214,
+                "summary": "Symptom 10D"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

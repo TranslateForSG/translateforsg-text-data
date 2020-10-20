@@ -1,0 +1,189 @@
+{
+    "count": 14,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": null,
+            "content": "ਮੈਂ ਤੁਹਾਡੀਆਂ ਅੱਖਾਂ ਵਿਚ ਇਕ ਰੋਸ਼ਨੀ ਚਮਕਾਉਣ ਜਾ ਰਿਹਾ ਹਾਂ. ਇਹ ਚਮਕਦਾਰ ਹੋਵੇਗੀ.",
+            "id": 3211,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "I’m going to shine a light into your eyes. It will be bright.",
+                "id": 88,
+                "summary": "Shine a light into your eyes"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਤੁਹਾਡੇ ਫੇਫੜੇ ਕਮਜ਼ੋਰ ਹਨ. ਤੁਹਾਨੂੰ ਸਾਹ ਲੈਣ ਵਿੱਚ ਆਸਾਨੀ ਹੋਵੇ ਇਸ ਲਈ ਅਸੀਂ ਇੱਕ ਸਾਹ ਵਾਲੀ ਟਿਯੂਬ ਲਗਾਉਣ ਜਾ ਰਹੇ ਹਾਂ.",
+            "id": 3212,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Your lungs are weak. We are going to insert a breathing tube to help you breathe",
+                "id": 89,
+                "summary": "Insert a breathing tube"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਤੁਸੀਂ ਹੁਣ ਸੌਂ ਜਾਓ.",
+            "id": 3213,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "You are going to sleep now",
+                "id": 90,
+                "summary": "Sleep"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਅਸੀਂ ਤੁਹਾਨੂੰ ਪੇਟ ਵੱਲ ਮੋੜ ਰਹੇ ਹਾਂ ਜੋ ਕਿ ਤੁਹਾਡੇ ਫੇਫੜਿਆਂ ਨੂੰ ਫੁੱਲਾਉਂਣ ਵਿੱਚ ਸਹਾਇਤਾ ਕਰੇਗਾ.",
+            "id": 3214,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "We are turning you onto your belly to help your lungs expand",
+                "id": 91,
+                "summary": "Turn onto belly"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਤੁਹਾਨੂੰ ਪਿਸ਼ਾਬ ਕਰਨ ਵਿੱਚ ਆਸਾਨੀ ਹੋਵੇ ਇਸ ਲਈ ਅਸੀਂ ਤੁਹਾਨੂੰ ਪਿਸ਼ਾਬ ਵਾਲੀ ਨਾਲੀ ਲਗਾ ਰਹੇ ਹਾਂ.",
+            "id": 3215,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "We are inserting a tube to help you pass urine",
+                "id": 92,
+                "summary": "Insert tube urine"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਅਸੀਂ ਤੁਹਾਡੀ ਨੱਕ ਰਾਹੀਂ ਇੱਕ ਟਿਊਬ ਪਾ ਰਹੇ ਹਾਂ.",
+            "id": 3216,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "We are inserting a tube through your nose",
+                "id": 93,
+                "summary": "Insert tube nose"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਅਸੀਂ ਤੁਹਾਨੂੰ ਦਵਾਈ ਦੇਣ ਲਈ ਤੁਹਾਡੀ ਗਰਦਨ ਵਿੱਚ ਟੀਕਾ ਲਗਾਉਣ ਜਾ ਰਹੇ ਹਾਂ.",
+            "id": 3217,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "We are going to give you an injection in your neck to give you medications",
+                "id": 94,
+                "summary": "Injection in Neck"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਤੁਹਾਡੇ ਬਲੱਡ ਪ੍ਰੈਸ਼ਰ ਨੂੰ ਮਾਪਣ ਲਈ ਅਸੀਂ ਤੁਹਾਡੀ ਬਾਂਹ ਵਿਚ ਟੀਕਾ ਲਗਾਉਣ ਜਾ ਰਹੇ ਹਾਂ.",
+            "id": 3218,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "We are going to give you an injection in your arm to measure your blood pressure",
+                "id": 95,
+                "summary": "Measure Blood Pressure"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਅਸੀਂ ਤੁਹਾਨੂੰ ਨੀਂਦ ਦੀ ਦਵਾਈ ਦੇਵਾਂਗੇ.",
+            "id": 3219,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "We will give you sleeping medications.",
+                "id": 96,
+                "summary": "Sleeping Meds"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਅਸੀਂ ਤੁਹਾਨੂੰ ਦਰਦ ਵਾਸਤੇ ਦਵਾਈ ਦੇਵਾਂਗੇ.",
+            "id": 3220,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "We will give you painkillers.",
+                "id": 97,
+                "summary": "Painkillers"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਅਸੀਂ ਤੁਹਾਡੇ ਬਲੱਡ ਪ੍ਰੈਸ਼ਰ ਨੂੰ ਸਹੀ ਬਣਾਈ ਰੱਖਣ ਲਈ ਦਵਾਈ ਦੇ ਰਹੇ ਹਾਂ.",
+            "id": 3221,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "We are giving you medication to keep your blood pressure up.",
+                "id": 98,
+                "summary": "Blood Pressure Medication"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਅਸੀਂ ਸਾਹ ਲੈਣ ਵਾਲੀ ਟਿਊਬ ਨੂੰ ਹਟਾਉਣ ਜਾ ਰਹੇ ਹਾਂ.",
+            "id": 3222,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "We are going to remove the breathing tube.",
+                "id": 99,
+                "summary": "Remove Tube"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਅਸੀਂ ਤੁਹਾਡੇ ਬਲਗਮ ਨੂੰ ਬਾਹਰ ਕਢੱਣ ਜਾ ਰਹੇ ਹਾਂ.",
+            "id": 3223,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "We are going to suck out your phlegm",
+                "id": 100,
+                "summary": "Phlegm suck out"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਅਸੀਂ ਤੁਹਾਨੂੰ ਸਪੰਜ ਨਾਲ ਸਾਫ ਕਰਨ ਜਾ ਰਹੇ ਹਾਂ.",
+            "id": 3224,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "We are going to clean you with a sponge",
+                "id": 101,
+                "summary": "Clean with sponge"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

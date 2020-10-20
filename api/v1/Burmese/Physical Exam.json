@@ -1,0 +1,72 @@
+{
+    "count": 5,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6596f0bc75ed6b27cedd2ea725ea18e4_hrIgk5w.mp3",
+            "content": "စမ်းသပ်စစ်ဆေးမှု စတင်ပါ‌တော့မယ်။",
+            "id": 1708,
+            "language": "Burmese",
+            "phrase": {
+                "content": "I’m going to examine you.",
+                "id": 43,
+                "summary": "Physical Exam Starts"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/01e3de96d73c58ac21760b74243bf34c_Rq2P8Y5.mp3",
+            "content": "နာကျင်မှုခံစားရရင် ‌ပြောပါ။",
+            "id": 1709,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Tell me if you feel more pain.",
+                "id": 149,
+                "summary": "Tell if Pain"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4fe216984f50bc418d2adba21a98cc0f_VvrTsDV.mp3",
+            "content": "သင်၏အင်္ကျီကို ချွတ်ပေးပါ။",
+            "id": 1710,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Please remove your shirt.",
+                "id": 150,
+                "summary": "Remove Clothing"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7a8f7f25e9acbcf4e498eabfc49a8e86_xZ7tCW0.mp3",
+            "content": "ပါးစပ်နဲ့ အသက်ကိုခပ်ပြင်းပြင်းလေး ရှုပေးပါ။",
+            "id": 1711,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Keep taking deep breaths through your mouth.",
+                "id": 44,
+                "summary": "Deep Breath"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/840384bae8f353dbb8dc753130707f28_N8dQDqT.mp3",
+            "content": "နားကြပ်ကိရိယာနဲ့ စမ်းသပ်နား‌ထောင်နေတဲ့ အချိန်မှာ နိုင်တီနိုင်း \"99\" လို့ပြောပေးပါ။",
+            "id": 1712,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Say \"99\" when I listen with my stethoscope.",
+                "id": 45,
+                "summary": "99"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

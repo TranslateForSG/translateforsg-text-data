@@ -1,0 +1,163 @@
+{
+    "count": 12,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/58b2321796ef9dfecf48c24852b0a71d_gnrv2a2.mp3",
+            "content": "Ulo",
+            "id": 740,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Head",
+                "id": 114,
+                "summary": "Head"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/357742da3f7a2fcec0fcffa840db38ce_E1i5Byy.mp3",
+            "content": "Mata",
+            "id": 741,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Eyes",
+                "id": 115,
+                "summary": "Eyes"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/df25e480371311adbe876ffdd88e3eb7_wGMczLI.mp3",
+            "content": "Tenga",
+            "id": 742,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Ears",
+                "id": 116,
+                "summary": "Ears"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/864a39d1b6ce2b9430ac30dea126e647_mYMECLE.mp3",
+            "content": "Ilong",
+            "id": 743,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Nose",
+                "id": 117,
+                "summary": "Nose"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c3c804a1d8d1a22490b4b0d2ce3c7e46_H3yCph1.mp3",
+            "content": "Bibig",
+            "id": 744,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Mouth",
+                "id": 118,
+                "summary": "Mouth"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/23c80c941336e47a2e679f59fd9ee16f_vIcE88F.mp3",
+            "content": "Lalamunan",
+            "id": 745,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Throat",
+                "id": 119,
+                "summary": "Throat"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/daacc99ad3ec1f4d53540dded0177acf_fxvAT5B.mp3",
+            "content": "Dibdib",
+            "id": 746,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Chest",
+                "id": 120,
+                "summary": "Chest"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/02cc9a1720aaac1367d890c99b0102ea_Fr3KI62.mp3",
+            "content": "Tiyan",
+            "id": 747,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Abdomen",
+                "id": 121,
+                "summary": "Abdomen"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/2ee17feba4eecda3b642c11d3338051c_RU0YpBw.mp3",
+            "content": "Likod",
+            "id": 748,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Back",
+                "id": 122,
+                "summary": "Back"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/23764ab020c2738120c96e328cb40f27.mp3",
+            "content": "Kamay o Arm",
+            "id": 749,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Hand or Arm",
+                "id": 123,
+                "summary": "Arms"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/2a92841b14381d15a7a7a98a5c234b6d_PlSJrr2.mp3",
+            "content": "Hita",
+            "id": 750,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Legs",
+                "id": 124,
+                "summary": "Legs"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/298da4610b51213458138d4f800d5a83_J57rILl.mp3",
+            "content": "Paa",
+            "id": 751,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Feet",
+                "id": 125,
+                "summary": "Feet"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

@@ -1,0 +1,202 @@
+{
+    "count": 15,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/36c36880d1f5048fc2938801e9c25b8f_ZZjEVAz.mp3",
+            "content": "మీకు గత వైద్య చరిత్ర ఏదైనా ఉందా?",
+            "id": 2921,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Do you have any past medical history?",
+                "id": 28,
+                "summary": "Medical History"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a46cf1e34974454071db58b16742364d_LkGLx27.mp3",
+            "content": "వైద్య చరిత్ర సూచించండి.",
+            "id": 2922,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Point to which ones.",
+                "id": 29,
+                "summary": "Symptoms"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6b2db4b1c0efa5c9644fc0b8e478223b_z82qPsB.mp3",
+            "content": "ఆస్తమా",
+            "id": 2923,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Asthma",
+                "id": 30,
+                "summary": "Asthma"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f19bc9ae262cfd869cc1a6d69d1348d8_Irl6dNT.mp3",
+            "content": "న్యుమోనియా",
+            "id": 2924,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Pneumonia",
+                "id": 31,
+                "summary": "Pneumonia"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b4c11d7fc19efb48179abf45afb9a425_AiMLmD9.mp3",
+            "content": "రక్తపోటు",
+            "id": 2925,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Hypertension",
+                "id": 32,
+                "summary": "Hypertension"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ba8b3c4d9ebd00ae6ee9ef9481af695c_I3aZLye.mp3",
+            "content": "కొలెస్ట్రాల్",
+            "id": 2926,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Hyperlipidemia / Cholesterol",
+                "id": 33,
+                "summary": "Hyperlipidemia"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c1e9363b6af13c364f46866546c46da0_e8bY3Ld.mp3",
+            "content": "సుగర్/\nడయాబెటిస్",
+            "id": 2927,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Diabetes",
+                "id": 34,
+                "summary": "Diabetes"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/dfa01a6787c61cfadc0d0ccd367ba972_dSCYhd7.mp3",
+            "content": "గుండె సమస్యలు",
+            "id": 2928,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Heart problems",
+                "id": 35,
+                "summary": "Heart problems"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/df10748794ab84af5f4f925efe81e547_nLcNPGu.mp3",
+            "content": "కిడ్నీ సమస్యలు",
+            "id": 2929,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Kidney problems",
+                "id": 36,
+                "summary": "Kidney problems"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/27aa6caf977ff32773a4a597f2bf8d7c_CcOAsdb.mp3",
+            "content": "మీకు ఏదైనా మందులకు అలెర్జీ ఉందా?",
+            "id": 2930,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Do you have a drug allergy?",
+                "id": 37,
+                "summary": "Drug allergy"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/966a5876588cb33f95f29cec822b22ef_WCRsXX9.mp3",
+            "content": "మీరు పొగత్రాగుతారా? అవును అయితే, రోజుకు ఎన్ని సిగరెట్లు?",
+            "id": 2931,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Do you smoke? If yes, how many cigarettes a day?",
+                "id": 38,
+                "summary": "Smoke"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b1f196e3819b5420ecceb0b6cfc3fabc_afSiojE.mp3",
+            "content": "మీరు త్రాగుతారా? ఒక్కవేల తాగితే  వారానికి ఎన్ని సీసాలు లేదా బాటిల్స్ త్రాగుతారు?  ఏ రకమైన మందు త్రాగుతారు?",
+            "id": 2932,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Do you drink? If yes, how much (number of bottles a week, type of alcohol)?",
+                "id": 39,
+                "summary": "Drink Alcohol"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a4eff340a60b704689274197a9164cd3_pqYGOmC.mp3",
+            "content": "మీరు మానసికంగా ఎలా వున్నారు? (👍🏽👎🏽)",
+            "id": 2933,
+            "language": "Telugu",
+            "phrase": {
+                "content": "How do you feel emotionally?",
+                "id": 40,
+                "summary": "Emotion Feeling"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3369ecad0441f367081745bb47ffc270.mp3",
+            "content": "మీకు ఆత్మహత్య చేసుకోవాలన్న ఆలోచన వస్తోoదా?",
+            "id": 2934,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Do you have suicidal thoughts?",
+                "id": 41,
+                "summary": "Suicidal thoughts"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/dbc94e1adef7013c135927d88fb5ef1b_KNUxHsC.mp3",
+            "content": "మీకు ఏమైనా సమస్యలు ఉంటే, మీరు నాకు ఇంగ్లీషులో చెప్పండి",
+            "id": 2935,
+            "language": "Telugu",
+            "phrase": {
+                "content": "If you have any other problems, you can tell me in English.",
+                "id": 42,
+                "summary": "Other Problems"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "count": 5,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm35.m4a",
+            "content": "நான் உங்களை பரிசோதிக்க போகிறேன்",
+            "id": 2206,
+            "language": "Tamil",
+            "phrase": {
+                "content": "I’m going to examine you.",
+                "id": 43,
+                "summary": "Physical Exam Starts"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm36.m4a",
+            "content": "ஏதேனும் வலியுண்டானால் என்னிடம் தெரியப்படுத்தவும்.",
+            "id": 2207,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Tell me if you feel more pain.",
+                "id": 149,
+                "summary": "Tell if Pain"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm37.m4a",
+            "content": "தயவுசெய்து உங்களுடைய சட்டையை அகற்றுங்கள்",
+            "id": 2208,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Please remove your shirt.",
+                "id": 150,
+                "summary": "Remove Clothing"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm38.m4a",
+            "content": "உங்களுடைய வாய் மூலம் ஆழமாக மூச்சு விடுங்கள்.",
+            "id": 2209,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Keep taking deep breaths through your mouth.",
+                "id": 44,
+                "summary": "Deep Breath"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm39.m4a",
+            "content": "நான் இந்த ஸ்டெதஸ்கோப்-ஐ உங்கள் மீது வைக்கும்போது ”99” (நைன் நைன்) என்று மீண்டும் மீண்டும் சொல்லவும்.",
+            "id": 2210,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Say \"99\" when I listen with my stethoscope.",
+                "id": 45,
+                "summary": "99"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

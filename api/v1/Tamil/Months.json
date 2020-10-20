@@ -1,0 +1,163 @@
+{
+    "count": 12,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm131.m4a",
+            "content": "ஜனவரி",
+            "id": 2313,
+            "language": "Tamil",
+            "phrase": {
+                "content": "January",
+                "id": 137,
+                "summary": "January"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm132.m4a",
+            "content": "பிப்ரவரி",
+            "id": 2314,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Feb",
+                "id": 138,
+                "summary": "Feb"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm133.m4a",
+            "content": "மார்ச்",
+            "id": 2315,
+            "language": "Tamil",
+            "phrase": {
+                "content": "March",
+                "id": 139,
+                "summary": "March"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm134.m4a",
+            "content": "ஏப்ரல்",
+            "id": 2316,
+            "language": "Tamil",
+            "phrase": {
+                "content": "April",
+                "id": 140,
+                "summary": "April"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm135.m4a",
+            "content": "மே",
+            "id": 2317,
+            "language": "Tamil",
+            "phrase": {
+                "content": "May",
+                "id": 141,
+                "summary": "May"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm136.m4a",
+            "content": "ஜூன்",
+            "id": 2318,
+            "language": "Tamil",
+            "phrase": {
+                "content": "June",
+                "id": 142,
+                "summary": "June"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm137.m4a",
+            "content": "ஜூலை",
+            "id": 2319,
+            "language": "Tamil",
+            "phrase": {
+                "content": "July",
+                "id": 143,
+                "summary": "July"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm138.m4a",
+            "content": "ஆகஸ்ட்",
+            "id": 2320,
+            "language": "Tamil",
+            "phrase": {
+                "content": "August",
+                "id": 144,
+                "summary": "August"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm139.m4a",
+            "content": "செப்டம்பர்",
+            "id": 2321,
+            "language": "Tamil",
+            "phrase": {
+                "content": "September",
+                "id": 145,
+                "summary": "September"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm140.m4a",
+            "content": "அக்டோபர்",
+            "id": 2322,
+            "language": "Tamil",
+            "phrase": {
+                "content": "October",
+                "id": 146,
+                "summary": "October"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm141.m4a",
+            "content": "நவம்பர்",
+            "id": 2323,
+            "language": "Tamil",
+            "phrase": {
+                "content": "November",
+                "id": 147,
+                "summary": "November"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm142.m4a",
+            "content": "டிசம்பர்",
+            "id": 2324,
+            "language": "Tamil",
+            "phrase": {
+                "content": "December",
+                "id": 148,
+                "summary": "December"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "count": 9,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/9baaf7030418d0bd0865845e0ea4adad.mp3",
+            "content": "आप जल्द ही वापस जा सकते हैं।",
+            "id": 175,
+            "language": "Hindi",
+            "phrase": {
+                "content": "You can go back soon.",
+                "id": 52,
+                "summary": "Can go back"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0f30d7daf14ed4ea343acbda17b366dd.mp3",
+            "content": "यहां रुको, इस क्षेत्र को मत छोड़ो",
+            "id": 176,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Wait here, do not leave this area",
+                "id": 53,
+                "summary": "Wait Patient"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/402d8f549e7799b7a485ba87a3ef314e.mp3",
+            "content": "आपको कुछ दिनों तक अस्पताल में रहना होगा",
+            "id": 177,
+            "language": "Hindi",
+            "phrase": {
+                "content": "You have to stay in the hospital for a few days",
+                "id": 54,
+                "summary": "Hospital Stay"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f2109b1e0954d1e409054d4c24223eb9.mp3",
+            "content": "मैं आपको बेहतर महसूस कराने के लिए दवा दूंगा",
+            "id": 178,
+            "language": "Hindi",
+            "phrase": {
+                "content": "I'll give you medicine to make you feel better",
+                "id": 55,
+                "summary": "Medicine"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/70735b4773792521fc9e1876fe8c1f09.mp3",
+            "content": "आपको अगले 5 दिनों तक काम नहीं करना चाहिए।",
+            "id": 179,
+            "language": "Hindi",
+            "phrase": {
+                "content": "You must not work for the next 5 days.",
+                "id": 56,
+                "summary": "No work 5 days"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/80ac5f4733466512404d8448c50bb026.mp3",
+            "content": "सांस लेने में समस्या होने पर आपको वापस आना चाहिए।",
+            "id": 180,
+            "language": "Hindi",
+            "phrase": {
+                "content": "You must come back if you have problems with breathing.",
+                "id": 57,
+                "summary": "Problem after 5 days"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/30d8c96ffa5dc167f9756dc866635034.mp3",
+            "content": "5 दिनों के बाद पूरी तरह से ठीक नहीं होने पर आपको वापस आना होगा।",
+            "id": 603,
+            "language": "Hindi",
+            "phrase": {
+                "content": "You must come back if you do not recover completely after 5 days.",
+                "id": 151,
+                "summary": "Come back 5 days"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/781b9e8f43cd185cb97d3c467be9bb12.mp3",
+            "content": "हैंडआउट को ध्यान से पढ़ें",
+            "id": 181,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Read the handout carefully",
+                "id": 58,
+                "summary": "Handout"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/29db52969d3985965cd01dc51b235ede.mp3",
+            "content": "धन्यवाद",
+            "id": 182,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Thank you",
+                "id": 59,
+                "summary": "Thank you"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

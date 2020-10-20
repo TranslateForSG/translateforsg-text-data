@@ -1,0 +1,2321 @@
+{
+    "count": 178,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b224ad36d21151eb80b74630555fc299_5Y9z0YJ.mp3",
+            "content": "ကျွန်ုပ် ဆရာဝန်တစ်ယောက်ပါ။ ဗမာစကားမပြောတတ်ပါဘူ။း ဒီwebsiteနဲ့အပြန်အလှန်စကားပြောကြပါမယ်။ အင်္ဂလိပ်လိုအတတ်နိုင်ဆုံး‌ဖြေကြားပေးပါ။ ကျေးဇူးပါ။ ",
+            "id": 1670,
+            "language": "Burmese",
+            "phrase": {
+                "content": "I am a doctor. I do not speak your language. I will communicate with you using this website. Answer me in English as much as possible. Thank you.",
+                "id": 1,
+                "summary": "Intro"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/11730f360340c2049152658ac7374660_4ApVEBj.mp3",
+            "content": "သင့်နာမည်ဘယ်လိုခေါ််ပါသလဲ?",
+            "id": 1671,
+            "language": "Burmese",
+            "phrase": {
+                "content": "What's your name?",
+                "id": 2,
+                "summary": "Name"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/da0b11440843d6a7fdbd386645745afb_gA40597.mp3",
+            "content": "ကျေးဇူးပြုပြီး သင့်ရဲ့ မှတ်ပုံတင်ကတ်ပြား ဒါမှမဟုတ် ဝန်ထမ်းကဒ်ကို ပေးပါ။",
+            "id": 1672,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Please give me your Identity Card or Work Permit",
+                "id": 3,
+                "summary": "IC"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/541d46144959b4140bd9fbd89ad905e1_2jWO2Vf.mp3",
+            "content": "ဘယ် ကုမ္ပဏီမှာအလုပ်လုပ်နေပါသလဲ?",
+            "id": 1673,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Which company are you employed under / work for?",
+                "id": 4,
+                "summary": "Company"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c59cfac383afd112212e83c5526431e0_Psuf0tq.mp3",
+            "content": "သင့်အထက်လူကြီးနာမည်နှင့် ဆက်သွယ်လို့ရမယ့် ဖုန်းနံပါတ် ပြောပြပါ။",
+            "id": 1674,
+            "language": "Burmese",
+            "phrase": {
+                "content": "What is your supervisor’s name and contact number?",
+                "id": 5,
+                "summary": "Supervisor"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/46bbbc52459a670ba6fd0597e8896188.m4a",
+            "content": "စင်္ကာပူနိုင်ငံရဲ့ ဘယ်နေရာမှာ သင်နေထိုင်ပါသလဲ",
+            "id": 2346,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Where do you live in Singapore?",
+                "id": 6,
+                "summary": "Residence"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/822b001107242c45ecb5531827fb0ec1.m4a",
+            "content": "သင့် အနီးအနား ရောဂါပိုးကူးစက်ခံထားရသူ ရှိမရှိ သင်သိပါသလား",
+            "id": 2347,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Do you know if any infected patients are from your area?",
+                "id": 7,
+                "summary": "Cluster"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b937ea281087a0a84ca24d0603a63fce_jxYhM1U.mp3",
+            "content": "လွန်ခဲ့တဲ့‌ ၁၄ရက်အတွင်း ကိုရိုနာဗိုင်းရပ်စ်‌ရောဂါရှိသူနှင့်ထိတွေ့ ထားခြင်းရှိပါသလား။",
+            "id": 1675,
+            "language": "Burmese",
+            "phrase": {
+                "content": "In the last 14 days, did you meet anyone who has coronavirus?",
+                "id": 9,
+                "summary": "People"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f68e7c6c2f5ea04aaebf7f76ad10c23a_jgS09HH.mp3",
+            "content": "သင့်အခန်းမှာ အတူနေတဲ့သူ ဘယ်နှစ်ယောက်ရှိပါသလဲ?",
+            "id": 1676,
+            "language": "Burmese",
+            "phrase": {
+                "content": "How many people are staying in the same room as you?",
+                "id": 8,
+                "summary": "Room"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ce4c1d907759c1abb1fe6f234aa86ab0_B6YgAAJ.mp3",
+            "content": "အခန်းဖော်များ၏အမည်နှင့် ထိုသူများနှင့်မည်သို့ပတ်သက်ပါသလဲ?",
+            "id": 1677,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Who? What is your relationship with them?",
+                "id": 10,
+                "summary": "People Meet"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/396a0d3de7274267107816b99d680854_jKj1oua.mp3",
+            "content": "လွန်ခဲ့‌သော ဘယ်နှရက်ခန်.က ‌ထိုသူများနှင်.‌တွေ.ဆုံခဲ.ပါသလဲ။ (‌အောက်တွင်ဖေါ်် ပြထား‌သောဇယားအတွင်း နံပါတ်ကိုရွေးချယ်ပေးနိုင်ပါသည်။",
+            "id": 1678,
+            "language": "Burmese",
+            "phrase": {
+                "content": "How many days ago did you meet them?",
+                "id": 11,
+                "summary": "People Meet"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d9006be0d7dca608f79c9a1b443de4e0_fo61BM4.mp3",
+            "content": "အချိန်ဘယ်လောက်ကြာကြာ ထိုသူများနဲ့ရှိနေခဲ့ပါသလဲ?",
+            "id": 1679,
+            "language": "Burmese",
+            "phrase": {
+                "content": "How long were you with him/her?",
+                "id": 12,
+                "summary": "People Meet"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/25357d17c005ac8b430430eb991b7dc2_Y8lpyxv.mp3",
+            "content": "လွန်ခဲ့တဲ့ ၁၄ရက်အတွင်း စင်ကာပူနိုင်ငံပြင်ပကို ခရီးသွားခဲ့ခြင်းရှိပါသလား။ သွားလာခဲ့ပါက သွားခဲ့သော နိုင်ငံများကို အင်္ဂလိပ်လို ပြောပြပေးပါ။",
+            "id": 1680,
+            "language": "Burmese",
+            "phrase": {
+                "content": "In the last 14 days, did you travel out of Singapore? If yes, tell us the countries in English.",
+                "id": 13,
+                "summary": "14 Days Travel"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4acb267c930cdc385ab0d52e8cc3eb0f_gt5T6ZB.mp3",
+            "content": "အဖျားရှိပါသလား။",
+            "id": 1681,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Do you have a fever?",
+                "id": 14,
+                "summary": "Fever"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/185ec9524ee3e5bde9bf54eee4a20674_8qwSFTK.mp3",
+            "content": "ဘယ်နှစ်ရက်ခန့်‌ဖျားနာ‌နေခဲ့ပါသလဲ။ အခြား‌သော‌‌ဝေဒနာများခံစားရပါကလည်း ပြောပြပေးပါ။",
+            "id": 1682,
+            "language": "Burmese",
+            "phrase": {
+                "content": "How many days?",
+                "id": 15,
+                "summary": "Length"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/49e774776960a995c4940c94e2104c1b_PnDEuFf.mp3",
+            "content": "အဖျားကိုသာမိုမီတာ သုံး၍တိုင်းတာခဲ့ပါသလား။ သင့်ရဲ့ အမြင့်ဆုံးအပူချိန်ကို ‌ဖော်ပြပေးပါ။",
+            "id": 1683,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Did you measure it with a thermometer? If you did, what was the highest reading?",
+                "id": 16,
+                "summary": "Reading"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c8ef5e81d3182fc8a665edf72349078a_nu8H5N0.mp3",
+            "content": "နှာ‌စေး‌နေပါသလား။",
+            "id": 1684,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Runny nose?",
+                "id": 17,
+                "summary": "Runny nose"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a868bfcd357acbe55f4da1fd13ef696f_q4K3qnD.mp3",
+            "content": "ချောင်းဆိုးနေပါသလား။",
+            "id": 1685,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Cough?",
+                "id": 18,
+                "summary": "Cough"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/03f8f4659d41c55ae5c54412ba421b8b_hwG6DDm.mp3",
+            "content": "လည်ပင်းနာ‌နေပါသလား။",
+            "id": 1686,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Sore throat?",
+                "id": 19,
+                "summary": "Sore throat"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/bb49486e65f259de7a432e2d84d27b51_A2byDOt.mp3",
+            "content": "အသက်ရှုကြပ်‌နေပါသလား။",
+            "id": 1687,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Difficulty breathing?",
+                "id": 20,
+                "summary": "Breathing"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5b277270a1ee77b2a5ddbc9a1d186cb8_2XUURet.mp3",
+            "content": "အနံ့မရခြင်း ပျောက်ဆုံးခြင်း ရှိပါသလား?",
+            "id": 1688,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Cannot smell properly?",
+                "id": 21,
+                "summary": "Anosmia"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f35901396f3857a775cf5f42e9ab15b8_ti6ubSZ.mp3",
+            "content": "အရသာခံစားမှုပျောက်ဆုံးခြင်း ခံစားရပါသလား?",
+            "id": 1689,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Do you feel less taste in the mouth?",
+                "id": 22,
+                "summary": "Ageusia"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1c2cf0da88e37c7c7d4f4978282c448b_8vdw36x.mp3",
+            "content": "ဝမ်းပျက်နေပါသလား။ တစ်ရက်ဘယ်နှစ်ကြိမ်သွားပါသလဲ။",
+            "id": 1690,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Do you have diarrhoea / diarrhea? How many times a day?",
+                "id": 23,
+                "summary": "diarrhoea"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/18685d81c5a639d9c7f46ec6c28f6947.m4a",
+            "content": "အရေပြားယားယံတာ အကွက်တွေထွက်လာတာ ဖြစ်ပါသလား",
+            "id": 2348,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Skin Rash or Itching?",
+                "id": 24,
+                "summary": "Rash"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/df12edda0c5cca3e8ba976e2ced73df7.m4a",
+            "content": "ကိုယ်ပေါ်မှာ နာကျင်တဲ့နေရာ ရှိပါသလား",
+            "id": 2349,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Do you have any pain on your body?",
+                "id": 25,
+                "summary": "Pain"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d8a314ae2f78c197d08b5d73aa890265_L2R9gYl.mp3",
+            "content": "အထူးသဖြင်ရင်ဘတ်အောင်.ခြင်းနာခြင်းများဖြစ်ပါသလား။",
+            "id": 1691,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Specifically, any chest pain?",
+                "id": 26,
+                "summary": "Chest Pain"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/109e954d4ee6671c854ead27b22f717d_KuQQOIM.mp3",
+            "content": "နာကျင်သော ‌နေရာကိုညွှန်ပြ ‌ပေးပါ။",
+            "id": 1692,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Point to the place.",
+                "id": 27,
+                "summary": "Point Out"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/08cc3592e28b8dad1b29930f9bb00262_ELFJTD0.mp3",
+            "content": "သင့်တွင် ယခင်က အခြား‌သော‌ရောဂါများ ရှိခဲ့ပါသလား။",
+            "id": 1693,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Do you have any past medical history?",
+                "id": 28,
+                "summary": "Medical History"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7162b8796e20e18fdff0fb3541ee565d_a9hThPY.mp3",
+            "content": "အခြားရောဂါများရှိခဲ့ပါက အောက်တွင်ဖော်ပြ ထား‌သော ‌ရောဂါများအနက်မှ ‌ရွေးချယ်ပေးပါ။",
+            "id": 1694,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Point to which ones.",
+                "id": 29,
+                "summary": "Symptoms"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/89af65b8972a6ebd097d7c3ecc57061a_3h28G6l.mp3",
+            "content": "ရင်ကြပ် ‌ရောဂါ",
+            "id": 1695,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Asthma",
+                "id": 30,
+                "summary": "Asthma"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5f28a10b7e147304de5e96d5e41a859b_VzZ2hR7.mp3",
+            "content": "အဆုတ်အအေးမိခြင်း",
+            "id": 1696,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Pneumonia",
+                "id": 31,
+                "summary": "Pneumonia"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/73799096d968ff982ef60a5749653835_f3hkNry.mp3",
+            "content": "သွေးတိုး‌ရောဂါ",
+            "id": 1697,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Hypertension",
+                "id": 32,
+                "summary": "Hypertension"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b42e246eb661752fa2f9905632075d9b_4sKbfke.mp3",
+            "content": "ကိုလက်စထရော များခြင်း",
+            "id": 1698,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Hyperlipidemia / Cholesterol",
+                "id": 33,
+                "summary": "Hyperlipidemia"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f5c7ced97860b61f3016a8580282ad95_5AZyNYz.mp3",
+            "content": "ဆီးချိုရောဂါ",
+            "id": 1699,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Diabetes",
+                "id": 34,
+                "summary": "Diabetes"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ecef8ccd5e5be511c92d026df8db67c0_3p2ORji.mp3",
+            "content": "နှလုံးအားနည်းခြင်း နှလုံး‌ရောဂါ",
+            "id": 1700,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Heart problems",
+                "id": 35,
+                "summary": "Heart problems"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/bf82b3179470412bde7aa1044e81d575_yz4c4lZ.mp3",
+            "content": "ကျောက်ကပ်‌ရောဂါ",
+            "id": 1701,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Kidney problems",
+                "id": 36,
+                "summary": "Kidney problems"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ef4f11de067ad87597e69136cac79318_z4cRIHM.mp3",
+            "content": "မတည့်သည့်ဆေးအမျိုးအစားရှိပါသလား။ ‌ဖော်ပြပေးပါ။",
+            "id": 1702,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Do you have a drug allergy?",
+                "id": 37,
+                "summary": "Drug allergy"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0a843753de9e6a5595cbbc475b16ac4a_WgQES9i.mp3",
+            "content": "ဆေးလိပ်သောက်ပါသလား။ သောက်လျှင်တနေ့‌လျှင်ဘယ်နှစ်လိပ်သောက်ပါသလဲ။",
+            "id": 1703,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Do you smoke? If yes, how many cigarettes a day?",
+                "id": 38,
+                "summary": "Smoke"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/51b3d532576088f619d73f29cc8ae32d_Om39yqf.mp3",
+            "content": "အရက်ဘီယာ ‌သောက်ပါသလား။ သောက်လျှင်(တပါတ်အတွင်း‌သောက်သုံး‌သော ပုလင်းအရေအတွက်နှင့်အမျိုးအစားကို‌ ဖော်ပြပါ။",
+            "id": 1704,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Do you drink? If yes, how much (number of bottles a week, type of alcohol)?",
+                "id": 39,
+                "summary": "Drink Alcohol"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6c1703065fbf86ab134dd71209739b76_IhkdTAL.mp3",
+            "content": "သင်ရဲ့ စိတ်ခံစားချက်ဘယ်လိုရှိပါသလဲ?",
+            "id": 1705,
+            "language": "Burmese",
+            "phrase": {
+                "content": "How do you feel emotionally?",
+                "id": 40,
+                "summary": "Emotion Feeling"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/01c2ec7fc54281e403611d5312c4b881_9JiZR6D.mp3",
+            "content": "သတ်သေချင်တဲ့အတွေးတွေ တွေးမိပါသလား?",
+            "id": 1706,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Do you have suicidal thoughts?",
+                "id": 41,
+                "summary": "Suicidal thoughts"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/dea5826de58cc6d637551803184213ac_oEl25bZ.mp3",
+            "content": "အခြားပြသနာတွေရှိရင်လည်း ပြောပြပါ။ အင်္ဂလိပ်လို ပြောနိုင်ပါတယ်။",
+            "id": 1707,
+            "language": "Burmese",
+            "phrase": {
+                "content": "If you have any other problems, you can tell me in English.",
+                "id": 42,
+                "summary": "Other Problems"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6596f0bc75ed6b27cedd2ea725ea18e4_hrIgk5w.mp3",
+            "content": "စမ်းသပ်စစ်ဆေးမှု စတင်ပါ‌တော့မယ်။",
+            "id": 1708,
+            "language": "Burmese",
+            "phrase": {
+                "content": "I’m going to examine you.",
+                "id": 43,
+                "summary": "Physical Exam Starts"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/01e3de96d73c58ac21760b74243bf34c_Rq2P8Y5.mp3",
+            "content": "နာကျင်မှုခံစားရရင် ‌ပြောပါ။",
+            "id": 1709,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Tell me if you feel more pain.",
+                "id": 149,
+                "summary": "Tell if Pain"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4fe216984f50bc418d2adba21a98cc0f_VvrTsDV.mp3",
+            "content": "သင်၏အင်္ကျီကို ချွတ်ပေးပါ။",
+            "id": 1710,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Please remove your shirt.",
+                "id": 150,
+                "summary": "Remove Clothing"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7a8f7f25e9acbcf4e498eabfc49a8e86_xZ7tCW0.mp3",
+            "content": "ပါးစပ်နဲ့ အသက်ကိုခပ်ပြင်းပြင်းလေး ရှုပေးပါ။",
+            "id": 1711,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Keep taking deep breaths through your mouth.",
+                "id": 44,
+                "summary": "Deep Breath"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/840384bae8f353dbb8dc753130707f28_N8dQDqT.mp3",
+            "content": "နားကြပ်ကိရိယာနဲ့ စမ်းသပ်နား‌ထောင်နေတဲ့ အချိန်မှာ နိုင်တီနိုင်း \"99\" လို့ပြောပေးပါ။",
+            "id": 1712,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Say \"99\" when I listen with my stethoscope.",
+                "id": 45,
+                "summary": "99"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f8c1b20ebedac070cdb9b05be15f9032_WAjpuaB.mp3",
+            "content": "နားကြပ်တံလေးကိုသင့်နှာ‌ခေါင်း‌ပေါက် အတွင်းသို့ ထိုးသွင်းပါ‌တော့မယ်။ ခံစားရတာ အနည်းငယ်မသက်မသာဖြစ်ပါလိမ့်မယ်။နာတော့မနာကျင်ပါဘူး။",
+            "id": 1713,
+            "language": "Burmese",
+            "phrase": {
+                "content": "I'm going to put this cotton bud into your nostrils. You will feel strange but it is not painful.",
+                "id": 46,
+                "summary": "Swabbing"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f4465210cddc832f44713e04effcc20a_A1JLeCT.mp3",
+            "content": "ဒီလိုမျိုးတွေလုပ်ပြီးတော့ ကိုရိုနာဗိုင်းရပ်စ် ရှိ၊မရှိ စစ်ဆေးတာ ဖြစ်ပါတယ်။",
+            "id": 1715,
+            "language": "Burmese",
+            "phrase": {
+                "content": "This is to test for coronavirus",
+                "id": 47,
+                "summary": "Covid"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6431ae35a093a146aae0d662ed272b90_u8ZpvqU.mp3",
+            "content": "သင့်တွင် ကိုရိုနာဗိုင်းရပ်စ်တွေ့ရှိပါက မနက်ဖြန် သင့်ကိုဆက်သွယ်လိုက်ပါ့မယ်။",
+            "id": 1714,
+            "language": "Burmese",
+            "phrase": {
+                "content": "If coronavirus positive, we call your phone by tomorrow.",
+                "id": 49,
+                "summary": "Result Collection"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/af55c1bb98a663da3fbaf297715d5e70_rH78XoY.mp3",
+            "content": "ခေါင်းကိုအနောက်သို့အနည်းငယ်လှန်ပေးပါ။",
+            "id": 1717,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Tilt your head back",
+                "id": 48,
+                "summary": "Tilt Head"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5378647c72e76c4fc4effda6ffd346fe_1FdSSLp.mp3",
+            "content": "သင့်ထံတွင် ကိုရိုနာဗိုင်းရပ်စ်မတွေ့ရှိပါက နောက် ၃ရက်နေရင် သင့်ဆီကို မက်ဆေ့ပို့ပေးပါလိမ့်မယ်။",
+            "id": 1716,
+            "language": "Burmese",
+            "phrase": {
+                "content": "If coronavirus negative, we send you an SMS after 3 days.",
+                "id": 152,
+                "summary": "COVID Negative"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b66a525d12e245eec42fcbbe30ca4439_eB3Xacz.mp3",
+            "content": "ခဏနေရင် ဓာတ်မှန်ရိုက်ရပါမယ်။",
+            "id": 1718,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Later, you will do an X-ray",
+                "id": 50,
+                "summary": "X-ray"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ede7832f47077872e4e352000879a1b3_nkWUzMT.mp3",
+            "content": "ဓာတ်မှန်ရဲ့အဖြေမှာ ရောဂါကူးစက်တဲ့ အရိပ်အယောင်မတွေ့ပါဘူး။",
+            "id": 1719,
+            "language": "Burmese",
+            "phrase": {
+                "content": "There is no sign of infection on your X-ray",
+                "id": 51,
+                "summary": "X-ray OK"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7a11d98414b3601936f32795147701d5_fZNL1XX.mp3",
+            "content": "ခဏနေရင် ပြန်လို့ရပါပြီ။",
+            "id": 1720,
+            "language": "Burmese",
+            "phrase": {
+                "content": "You can go back soon.",
+                "id": 52,
+                "summary": "Can go back"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a5ed47baaf8f449a5984e52c5b2955f7_ljOrQkk.mp3",
+            "content": "ဒီနေရာမှာ ခဏစောင့်နေပေးပါ။ ဒီကနေဘယ်မှ မထွက်သွားပါနဲ့။",
+            "id": 1721,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Wait here, do not leave this area",
+                "id": 53,
+                "summary": "Wait Patient"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b0ce0c78f48579ae12951a4dff4f2889_wdWkS3y.mp3",
+            "content": "သင်ဆေးရုံတွင်ရက်အနည်းငယ်နေရန်လိုအပ်ပါတယ်။",
+            "id": 1722,
+            "language": "Burmese",
+            "phrase": {
+                "content": "You have to stay in the hospital for a few days",
+                "id": 54,
+                "summary": "Hospital Stay"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7379efeae22888ae582955fe0d4748b3_xb0rM4U.mp3",
+            "content": "သင်ခံစားရတာ သက်သာအောင် ဆေးပေးပါမယ်။",
+            "id": 1723,
+            "language": "Burmese",
+            "phrase": {
+                "content": "I'll give you medicine to make you feel better",
+                "id": 55,
+                "summary": "Medicine"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8e8e6c786d408d908c60e5d5e74bf9b6_Rn2uiS2.mp3",
+            "content": "သင်အသက်ရူရအဆင်မပြေတာ၊ ခက်ခဲတာတွေရှိရင် ဆေးရုံ၊ ဆေးခန်းကို ပြန်လာပေးဖို့လိုပါတယ်။",
+            "id": 1724,
+            "language": "Burmese",
+            "phrase": {
+                "content": "You must come back if you have problems with breathing.",
+                "id": 57,
+                "summary": "Problem after 5 days"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d47a0bc5085cb3a2ac48c840dd647e26_8UCamZk.mp3",
+            "content": "သင် ‌နောက် ၅ရက်အတွင်း အလုပ်လုပ်လို့မရပါဘူး။",
+            "id": 1725,
+            "language": "Burmese",
+            "phrase": {
+                "content": "You must not work for the next 5 days.",
+                "id": 56,
+                "summary": "No work 5 days"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7b6594ac592021d14fc489602203041f_tuHL2u3.mp3",
+            "content": "နောက် ၅ရက်အတွင်း မသက်သာပါက ဆေးရုံဆေးခန်းကို ပြန်လာ‌ခဲ့ပါ။",
+            "id": 1726,
+            "language": "Burmese",
+            "phrase": {
+                "content": "You must come back if you do not recover completely after 5 days.",
+                "id": 151,
+                "summary": "Come back 5 days"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/830664e497ae66ceea8c7f725470f3c9_Qsgyjuw.mp3",
+            "content": "ပေးထား‌တဲ့ ညွှန်ကြားချက်တွေကိုသေချာနားလည်အောင်ဖတ်ပါ။",
+            "id": 1727,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Read the handout carefully",
+                "id": 58,
+                "summary": "Handout"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/cd86c74531c48bf03287856a9577b7a8_1fQmszo.mp3",
+            "content": "ကျေးဇူးတင်ပါသည်။",
+            "id": 1729,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Thank you",
+                "id": 59,
+                "summary": "Thank you"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/cdbfc9c69003e3fc4a6eda60eb88d4b1.m4a",
+            "content": "ကျေးဇူးပြုပြီး အများပြည်သူသုံးတဲ့ လိုင်းကားတွေစီးခြင်းကို ရှောင်ပေးပါ။",
+            "id": 2350,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Please avoid public transport.",
+                "id": 166,
+                "summary": "Transport"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/550fc43c463d3ab64750b757b6b1179b.m4a",
+            "content": "သင်တစ်ဦးတည်းစီးမယ့် တက်စီ ဒါမှမဟုတ် ကားတစ်စီးကို သပ်သပ်ငှားထားသင့်ပါတယ်။",
+            "id": 2351,
+            "language": "Burmese",
+            "phrase": {
+                "content": "You can take your own private transport, a taxi or a private hire car.",
+                "id": 167,
+                "summary": "Take Taxi"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/47fbe5852aca7f2978cd6a30bd592c06.m4a",
+            "content": "သင့်အနေနဲ့ နှာခေါင်းစည်းကို လုံခြုံစွာတပ်ပြီး ကားနောက်ခန်းမှာ သီးသန့်ထိုင်သင့်ပါတယ်။",
+            "id": 2352,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Wear a mask and sit alone in the back seat in the car.",
+                "id": 168,
+                "summary": "In Car"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1892391f9f8230abbbfd61eeab64addf.m4a",
+            "content": "အဲကွန်းကို ပိတ်ပြီး ကားတံခါးတွေကို ဖွင့်ထားပါ။",
+            "id": 2353,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Open car windows and turn off air-conditioning.",
+                "id": 169,
+                "summary": "No AC"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ec9c2d293ca454a77c6c04f87c36bce1.m4a",
+            "content": "ကျေးဇူးပြုပြီး တက်စီ ဒါမှမဟုတ် သီးသန့်အငှားကားရဲ့ ပြေစာတွေကို သိမ်းထားပေးပါ။ တကယ်လို့ သင်ကူးစက်ခံရတယ်ဆိုတာကို စစ်ဆေးသိရှိတဲ့အခါ ဒီပြေစာတွေက လိုအပ်လာမှာမို့လို့ပါ။",
+            "id": 2354,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Please safely keep the receipt from the taxi or private hire car. If your test results indicate you are infected, this will be needed.",
+                "id": 170,
+                "summary": "Receipt"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/41095c91d47d62fd8e73c93e054546c7.m4a",
+            "content": "လူတွေနဲ့ဝေးဝေးမှာနေပါ။  ဆေးခွင့်ယူထားတဲ့ချိန်အတွင်းမှာ အိမ်မှာပဲနေပြီး အပြင်ကိုမထွက်ပါနဲ့။ သင့်အနေနဲ့ ကျန်းမာရေးကိစ္စတွေအတွက်နဲ့ပဲ အပြင်ကို သွားလို့ရမှာပါ။",
+            "id": 2355,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Stay away from others. You must stay home and can not go outside while being on medical leave. You may only go out for health or medical reasons.",
+                "id": 171,
+                "summary": "Isolation"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/2e1c2dae56ccd0ad9446c16c7d6f039c.m4a",
+            "content": "သင့်ရဲ့ ဆေးစစ်ချက်ရလဒ်မထွက်ခင် ဆေးရုံ၊ ဆေးခန်းသွားဖို့လိုအပ်တယ်ဆိုရင် သေချာဂရုစိုက်ပြီး သွားပါ။ ဆရာဝန်တွေ၊ သူနာပြုတွေနဲ့ တစ်ခြား ဆေးရုံဝန်ထမ်းတွေကို သင်ကိုရိုနာဗိုင်းရပ်စ် စစ်ဆေးထားတယ်ဆိုတာနဲ့ သင်ခံစားနေရတဲ့ ရောဂါလက္ခဏာတွေကို ပြောပြပါ။ ဆေးရုံ၊ ဆေးခန်းကို မသွားခင် တစ်ရက်ကြိုပြီး သင်ခံစားနေရတာတွေကို ၆၃၄၄၈၂၂၂ ကိုဖုန်းခေါ်ပြီး အသိပေးသင့်ပါတယ်။",
+            "id": 2356,
+            "language": "Burmese",
+            "phrase": {
+                "content": "If you need to go for any medical appointment before you get your test result, be careful. Tell the doctor, nurse, or other staff that you were recently tested for COVID-19. Also, tell them about your symptoms. Before the day, you should call 6344 8222 to inform them.",
+                "id": 172,
+                "summary": "Medical Appointment"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/008dc230c73fc39c69c7205bf99c8f2a_TW6SvZ6.mp3",
+            "content": "သင့်တွင် ကိုရိုနာဗိုင်းရပ်စ် ရှိကြောင်း တွေ့ရှိပါတယ်။",
+            "id": 1728,
+            "language": "Burmese",
+            "phrase": {
+                "content": "You have tested positive for coronavirus.",
+                "id": 60,
+                "summary": "Tested Positive"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f636193a9f7f4208bb546f1abfd66e9d_zUXeGVF.mp3",
+            "content": "ကျွန်ုပ်တို့ သင့်ကိုဆေးရုံကို ခေါ်ဆောင်သွားပါမယ်။",
+            "id": 1730,
+            "language": "Burmese",
+            "phrase": {
+                "content": "We will take you to the hospital.",
+                "id": 61,
+                "summary": "Hospital Admission"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/870e7401ad3dd7b93cdec63961ddc0a6_jEPa8oT.mp3",
+            "content": "သင့်ကို သီးသန့်ခန်းကို ပြောင်းပေးပါမယ်။",
+            "id": 1731,
+            "language": "Burmese",
+            "phrase": {
+                "content": "We will transfer you to an isolation facility.",
+                "id": 62,
+                "summary": "Isolation Facility"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b9e359d167e826e0bc231dc9b3d5f496.m4a",
+            "content": "မင်္ဂလာ နံနက်ခင်းပါ။",
+            "id": 2357,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Good morning",
+                "id": 64,
+                "summary": "Morning"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3b851cdb0eeda8fffa250c785ee8db29.m4a",
+            "content": "မင်္ဂလာ ညနေခင်းပါ။",
+            "id": 2358,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Good Evening",
+                "id": 173,
+                "summary": "Evening"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/737ca641db2c818500d018b9eb368f6c.m4a",
+            "content": "မင်္ဂလာ နေ့လည်ခင်းပါ။",
+            "id": 2359,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Good Afternoon",
+                "id": 174,
+                "summary": "Afternoon"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6c3b4fb556f6574a153ffed5be223678_ejKjuDj.mp3",
+            "content": "ကျွန်ုပ်သူနာပြုတစ်ယောက်ပါ။",
+            "id": 1732,
+            "language": "Burmese",
+            "phrase": {
+                "content": "I am the nurse",
+                "id": 65,
+                "summary": "Nurse"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7a46e4de6f60d17eb0875547e0408097_2ys5qtp.mp3",
+            "content": "ကျွန်ုပ်ဆရာဝန်တစ်ယောက်ပါ။",
+            "id": 1733,
+            "language": "Burmese",
+            "phrase": {
+                "content": "I am the doctor",
+                "id": 66,
+                "summary": "Doctor"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1616a3041a9b28b4d385f50778cb0356_6Z73qmp.mp3",
+            "content": "သင်ယခုအထူးကြပ်မတ်ဆောင်အထဲရောက်နေပါတယ်။",
+            "id": 1734,
+            "language": "Burmese",
+            "phrase": {
+                "content": "You are in the intensive care unit.",
+                "id": 67,
+                "summary": "In ICU"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a149c0ecf7d2265248ec848d5dba3679_9xJvttU.mp3",
+            "content": "ယနေ့တနင်္လာနေ့ဖြစ်ပါတယ်။",
+            "id": 1735,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Today is Monday",
+                "id": 68,
+                "summary": "Monday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d66f0b54623b3c062c66e5e4e19358ca_Id0YASI.mp3",
+            "content": "ယနေ့အင်္ဂါနေ့ဖြစ်ပါတယ်။",
+            "id": 1736,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Today is Tuesday",
+                "id": 69,
+                "summary": "Tuesday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b0b0fed34a3f4b7a395350c47912b2bd_xgwjiaD.mp3",
+            "content": "ယနေ့ဗုဒ္ဓဟူးနေ့ဖြစ်ပါတယ်။",
+            "id": 1737,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Today is Wednesday",
+                "id": 70,
+                "summary": "Wednesday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4ed66a1f7bee6dcf89b1ef17cfefe30f_DYrBynn.mp3",
+            "content": "ယနေ့ကြာသပတေးနေ့ဖြစ်ပါတယ်။",
+            "id": 1738,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Today is Thursday",
+                "id": 71,
+                "summary": "Thursday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/baf3b01ecb4ff232c86dbdd046e432da_QQdY7eT.mp3",
+            "content": "ယနေ့သောကြာနေ့ဖြစ်ပါတယ်။",
+            "id": 1739,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Today is Friday",
+                "id": 72,
+                "summary": "Friday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/688b25f33e706ceff8c3bea0099d62fa_yUPdYat.mp3",
+            "content": "ယနေ့စနေနေ့ဖြစ်ပါတယ်။",
+            "id": 1740,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Today is Saturday",
+                "id": 73,
+                "summary": "Saturday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8fb69c7c81bcef3450a96d5aee909cb4_kxVfgTO.mp3",
+            "content": "ယနေ့တနင်္ဂနွေနေ့ဖြစ်ပါတယ်။",
+            "id": 1741,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Today is Sunday",
+                "id": 74,
+                "summary": "Sunday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/294443d856b8e02fa90461035fb5dd0e_juxDepZ.mp3",
+            "content": "သင်သက်သာသွားပါပြီ။",
+            "id": 1742,
+            "language": "Burmese",
+            "phrase": {
+                "content": "You are getting better",
+                "id": 153,
+                "summary": "Getting Better"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1fcfcf23f43684e1e6e3ec9c73c19492_eGI5fQh.mp3",
+            "content": "သင်သက်သာသွားရင် အသက်ရှုပိုက်ကိုဖြုတ်ပါမယ်။",
+            "id": 1743,
+            "language": "Burmese",
+            "phrase": {
+                "content": "We will remove the breathing tube when you are better",
+                "id": 75,
+                "summary": "Remove Tube Later"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/9f4fea089583a2a7e15e68aea477d51d_JqK26Xe.mp3",
+            "content": "အသက်ရှုပိုက်ကိုဖြုတ်ပြီးရင်စကားပြောနိုင်ပါပြီ။",
+            "id": 1745,
+            "language": "Burmese",
+            "phrase": {
+                "content": "You can talk after we remove the breathing tube",
+                "id": 76,
+                "summary": "Can Talk as Remove"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a5c322a3cd209145ec6476d8d8b80c44_AkihpCH.mp3",
+            "content": "အသက်ပြင်းပြင်းတစ်ချက်ရှု‌ပေးပါ။",
+            "id": 1744,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Take a deep breath",
+                "id": 77,
+                "summary": "Deep breath"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/e6ec92c11b269a76d110fed3905c07c7_Xyv6TDI.mp3",
+            "content": "ချောင်းပြင်းပြင်းတစ်ချက်ဆိုး‌ပေးပါ။",
+            "id": 1746,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Give me a big cough",
+                "id": 78,
+                "summary": "Big cough"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/65b0ea6826a550fcfff40c179d522b17_l9GZGtM.mp3",
+            "content": "မရုန်းကန်ပါနှင့်။",
+            "id": 1747,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Don’t struggle",
+                "id": 79,
+                "summary": "Don’t struggle"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/e004aa94a6a93eca41f66faa301b5da2_Il5EYOr.mp3",
+            "content": "မလှုပ်ရှားပါနှင့်။",
+            "id": 1748,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Don’t move",
+                "id": 80,
+                "summary": "Don’t move"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5564b89259d627a9f7349a9920e08b55_vkeawIx.mp3",
+            "content": "သင်၏လက်ကိုမြှောက်‌ပေးပါ။",
+            "id": 1749,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Lift up your arm",
+                "id": 81,
+                "summary": "Lift up your arm"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/12a0437eef50329eec44beff7ea50464_TqSdJaa.mp3",
+            "content": "သင်၏ခြေထောက်ကိုမြှောက်‌ပေးပါ။",
+            "id": 1750,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Lift up your leg",
+                "id": 82,
+                "summary": "Lift up your leg"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5725a6b3345c532272e58fcb06d92ea2_I6N37cV.mp3",
+            "content": "ကျွန်ုပ်လက်ကိုညှစ်‌ပေးပါ။",
+            "id": 1752,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Squeeze my hand",
+                "id": 83,
+                "summary": "Squeeze my hand"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c162a04f4b6a89db85600ffd57f3da45_1RJ2EN3.mp3",
+            "content": "လက်‌ ချောင်း၂ ‌ချောင်းကိုထောင်ပြပါ။",
+            "id": 1753,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Show me two fingers",
+                "id": 84,
+                "summary": "Show two fingers"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4b12d0d593b14fcf6285727f6bccdc26_4SunOEE.mp3",
+            "content": "ပါးစပ်ကို ဟပေးပါ။",
+            "id": 1754,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Open your mouth",
+                "id": 85,
+                "summary": "Open mouth"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/29afab5d73d48ff4eccc1c426b469749_oRf0gFQ.mp3",
+            "content": "လျှာကိုအပြင်သို့ထုတ်ပေးပါ။",
+            "id": 1755,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Stick out your tongue",
+                "id": 86,
+                "summary": "Stick out tongue"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/81ec9b7e3adcaa76dc232fe18b4ec0f7_lSThM38.mp3",
+            "content": "သင့်မျက်လုံးများကို ကျယ်ကျယ်ဖွင့်ထားပါ။",
+            "id": 1756,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Open your eyes",
+                "id": 87,
+                "summary": "Open eyes"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5e57ef35a749402bd957c5746c702109_maWgmwJ.mp3",
+            "content": "သင့်မျက်လုံးများကို ဓါတ်မီးထိုးပြီးစစ်ဆေးပါမယ်။ အနည်းငယ်မျက်စိစူးပါမယ်။",
+            "id": 1757,
+            "language": "Burmese",
+            "phrase": {
+                "content": "I’m going to shine a light into your eyes. It will be bright.",
+                "id": 88,
+                "summary": "Shine a light into your eyes"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/cee5cf5bb023483ebffe2de427fcdc4b_SvIEbuL.mp3",
+            "content": "သင်အဆုတ် အားနည်း‌နေပါတယ်။ အသက်ရှုရလွယ်ကူအောင် အသက်ရှု လေပြွန်ကို ထည့်သွင်း‌ပေးပါမယ်။",
+            "id": 1758,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Your lungs are weak. We are going to insert a breathing tube to help you breathe",
+                "id": 89,
+                "summary": "Insert a breathing tube"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/139ebbe59ac9de9311468d4c14e90db0_hJgTtK8.mp3",
+            "content": "သင်အိပ်ပျော် သွားပါလိမ့်မယ်။",
+            "id": 1759,
+            "language": "Burmese",
+            "phrase": {
+                "content": "You are going to sleep now",
+                "id": 90,
+                "summary": "Sleep"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/37c63483d6991d1ffa4bc9bab4631e5d_OocEl08.mp3",
+            "content": "သင်၏အဆုတ်အနေအထားကျယ်ပြန့်‌စေရန် သင့်ကိုမှောက်ရက်အ‌နေအထားကို လှည့်‌ပေး‌နေပါတယ်။",
+            "id": 1760,
+            "language": "Burmese",
+            "phrase": {
+                "content": "We are turning you onto your belly to help your lungs expand",
+                "id": 91,
+                "summary": "Turn onto belly"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1bf96a0b6d39839c7c7d7877e464ba66_cDDd0sk.mp3",
+            "content": "သင်ဆီးသွားရလွယ်ကူအောင် သင့်ကို ဆီးပိုက်ထည့်သွင်း‌ပေး‌နေပါတယ်။",
+            "id": 1761,
+            "language": "Burmese",
+            "phrase": {
+                "content": "We are inserting a tube to help you pass urine",
+                "id": 92,
+                "summary": "Insert tube urine"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7460e4fd7940d5f00d6f660c68c96e74_0O0E9Pv.mp3",
+            "content": "သင့်နှာ‌ခေါင်း‌ပေါက်အတွင်းသို့ ပိုက်ကို ထည့်သွင်း‌ပေး‌နေပါတယ်။",
+            "id": 1762,
+            "language": "Burmese",
+            "phrase": {
+                "content": "We are inserting a tube through your nose",
+                "id": 93,
+                "summary": "Insert tube nose"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/2ba2c5275f8309c35a2a560c42c45760_HYqIacE.mp3",
+            "content": "သင့်ကိုဆေးသွင်း‌ပေးရန် သင်၏လည်ပင်းကိုဆေးထိုးပါမယ်။ ",
+            "id": 1763,
+            "language": "Burmese",
+            "phrase": {
+                "content": "We are going to give you an injection in your neck to give you medications",
+                "id": 94,
+                "summary": "Injection in Neck"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8943d2ef074842e57c6b3c7227424864_bEQcOAH.mp3",
+            "content": "သင်၏ ‌သွေးဖိအားကို တိုင်းတာရန် သင်၏လက်မောင်းအတွင်းသို့ဆေးသွင်း‌ပေးပါမယ်။",
+            "id": 1764,
+            "language": "Burmese",
+            "phrase": {
+                "content": "We are going to give you an injection in your arm to measure your blood pressure",
+                "id": 95,
+                "summary": "Measure Blood Pressure"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/49abdb94609aa9b3b0335cf93cb8f052_tUdxTfG.mp3",
+            "content": "သင့်ကိုအိပ်ဆေး‌ပေးပါမယ်။",
+            "id": 1765,
+            "language": "Burmese",
+            "phrase": {
+                "content": "We will give you sleeping medications.",
+                "id": 96,
+                "summary": "Sleeping Meds"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8c3d09c632768c69627bbb2946422eb3_OyUIOpX.mp3",
+            "content": "သင့်ကို အကိုက်အခဲ ‌ပျောက်ဆေး‌ပေးပါမယ်။",
+            "id": 1766,
+            "language": "Burmese",
+            "phrase": {
+                "content": "We will give you painkillers.",
+                "id": 97,
+                "summary": "Painkillers"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/cdf3265a8e8dac0d8a554432900c543d_BZapi7r.mp3",
+            "content": "သွေးဖိအားတက်စေရန်ဆေးပေးပါမယ်။",
+            "id": 1767,
+            "language": "Burmese",
+            "phrase": {
+                "content": "We are giving you medication to keep your blood pressure up.",
+                "id": 98,
+                "summary": "Blood Pressure Medication"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4d578afad91af30f0cc537d5c9b1e632_G37K1VY.mp3",
+            "content": "အသက်ရှုပိုက်ကိုဖြုတ်ပေးပါမယ်။",
+            "id": 1768,
+            "language": "Burmese",
+            "phrase": {
+                "content": "We are going to remove the breathing tube.",
+                "id": 99,
+                "summary": "Remove Tube"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/594d28b79dd8ecf9272bfa164168e819_0hY3YXn.mp3",
+            "content": "သင်၏ချွဲကိုစုပ်ထုတ်ပေးပါမယ်။",
+            "id": 1769,
+            "language": "Burmese",
+            "phrase": {
+                "content": "We are going to suck out your phlegm",
+                "id": 100,
+                "summary": "Phlegm suck out"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b02f3f24c3a2c92fa89537054ebb98d3_TxmEaIC.mp3",
+            "content": "သင့်ကိုသန့်ရှင်းရေးလုပ်ပေးပါမယ်။",
+            "id": 1770,
+            "language": "Burmese",
+            "phrase": {
+                "content": "We are going to clean you with a sponge",
+                "id": 101,
+                "summary": "Clean with sponge"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/77352f0a428c8c019db18a8d47b15ebe.m4a",
+            "content": "ဘယ်ဘက်ကိုလှည့်ပါ။",
+            "id": 2360,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Turn left",
+                "id": 102,
+                "summary": "​Turn left"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c28e4381a99276fb9ab95e51422acb6d_ddqsp2R.mp3",
+            "content": "ညာဘက်ကိုလှည့်ပါ။",
+            "id": 1771,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Turn right",
+                "id": 103,
+                "summary": "Turn right"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b4efda54a2d1fa402b910b76807c3702_e2awJz5.mp3",
+            "content": "ဒိုက်ပါ လဲပေးပါမယ်။",
+            "id": 1772,
+            "language": "Burmese",
+            "phrase": {
+                "content": "We will change your diapers",
+                "id": 104,
+                "summary": "We will change your diapers"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/12a0437eef50329eec44beff7ea50464_Iv0oXrU.mp3",
+            "content": "သင်၏ခြေထောက်ကိုမြှောက်‌ပေးပါ။",
+            "id": 1751,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Lift up your leg",
+                "id": 105,
+                "summary": "Lift up your leg"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f74b3dcecbabad2a4afdecf40d2e3053_RhxczKc.mp3",
+            "content": "သင်ထိုင်လို့ရအောင် ထူပေးပါမယ်။",
+            "id": 1773,
+            "language": "Burmese",
+            "phrase": {
+                "content": "We are going to sit you up",
+                "id": 106,
+                "summary": "We are going to sit you up"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/235253010d402f110f5079f0d4bc66aa_1eDqIwC.mp3",
+            "content": "သင့်ကိုအပေါ်ကိုရွေ့ပေးပါမည်။",
+            "id": 1774,
+            "language": "Burmese",
+            "phrase": {
+                "content": "We are going to shift you up the bed",
+                "id": 107,
+                "summary": "Shift head"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/63af96a2c0c97db6e7c9fb742e39daf2_7WEVKcI.mp3",
+            "content": "သင်၏ပါးစပ်ကိုသန့်ရှင်းပေးပါမည်။",
+            "id": 1775,
+            "language": "Burmese",
+            "phrase": {
+                "content": "We are going to clean your mouth",
+                "id": 108,
+                "summary": "Clean mouth"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/bc67f50a8625391ccceb288a7644f3bc_lDypgPF.mp3",
+            "content": "ပလုတ်ကျင်းပီးလျှင်မြိုမချပါနှင့်။",
+            "id": 1776,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Do not swallow the gargle",
+                "id": 109,
+                "summary": "Dont swallow"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a5a576d637cf90684740404d4dedcfac_0NZMDq7.mp3",
+            "content": "နာကျင်မှုခံစားရပါသလား?",
+            "id": 1777,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Are you in pain?",
+                "id": 110,
+                "summary": "Are you in pain?"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4ff836feee3af4a964c51f7aa841db53_J7di4mn.mp3",
+            "content": "ဘယ်နေရာက နာကျင်ပါသလဲ?",
+            "id": 1778,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Where is the pain?",
+                "id": 111,
+                "summary": "Where is the pain?"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/dc402be7cd305dd02bf902d01b50df61_xRWfE1n.mp3",
+            "content": "နည်းနည်းပဲ နာကျင်ပါသလား/ နာကျင်တာ နည်းနည်းပြင်းထန်ပါသလား/ အရမ်းနာကျင်နေပါသလား?",
+            "id": 1779,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Is it mild, moderate or severe?",
+                "id": 112,
+                "summary": "Is it mild, moderate or severe?"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5722cc36eea93b8e37205fa56e7bad6e_UVBhXYQ.mp3",
+            "content": "နာကျင်တဲ့နေရာကို လက်နဲ့ထောက်ပြပေးပါ။",
+            "id": 1780,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Can you point to the pain?",
+                "id": 113,
+                "summary": "Can you point to the pain?"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d3c257dc4b80303ea4899212106ff387_rVsbSP8.mp3",
+            "content": "ခေါင်း",
+            "id": 1781,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Head",
+                "id": 114,
+                "summary": "Head"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/cf4f3a982a9f2672b5011de8a614f98c_p9BPKVc.mp3",
+            "content": "မျက်လုံး",
+            "id": 1782,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Eyes",
+                "id": 115,
+                "summary": "Eyes"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a91d3cfbaac9f4a64bd2dfceb607f3da_HsKJ2r2.mp3",
+            "content": "နား",
+            "id": 1783,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Ears",
+                "id": 116,
+                "summary": "Ears"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6c25d0578262cfa21c2415a142d885e5_3Xb3wRP.mp3",
+            "content": "နှာခေါင်း",
+            "id": 1784,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Nose",
+                "id": 117,
+                "summary": "Nose"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/993b28e57ce16cc8f3108461bc736d36_QbLR4Tl.mp3",
+            "content": "ပါးစပ်",
+            "id": 1785,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Mouth",
+                "id": 118,
+                "summary": "Mouth"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/141c0caa097098f798ad254f493f38f1_3DnZEht.mp3",
+            "content": "လည်ချောင်း",
+            "id": 1786,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Throat",
+                "id": 119,
+                "summary": "Throat"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/cedb028c195a7ca97f463c8724cb75e9_ULe4VSg.mp3",
+            "content": "ရင်ဘတ်",
+            "id": 1787,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Chest",
+                "id": 120,
+                "summary": "Chest"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b76651c61b280ae8b616779638272d18_8KyHm9S.mp3",
+            "content": "ဗိုက်",
+            "id": 1788,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Abdomen",
+                "id": 121,
+                "summary": "Abdomen"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0d092c421052cf6dc64d8150c2434544_EZAGYo7.mp3",
+            "content": "ကျော",
+            "id": 1789,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Back",
+                "id": 122,
+                "summary": "Back"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7ad11b8af254b6dfe15f9d0bd648b9f6.m4a",
+            "content": "လက် / လက်မောင်း",
+            "id": 2361,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Hand or Arm",
+                "id": 123,
+                "summary": "Arms"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/2c0a20c317e733777da99930ecdbfd48_sgzXsWo.mp3",
+            "content": "ခြေထောက်",
+            "id": 1790,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Legs",
+                "id": 124,
+                "summary": "Legs"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d223153868bfbd35f0e4bb5cb5e1297c_isPaWtR.mp3",
+            "content": "ခြေဖဝါး",
+            "id": 1791,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Feet",
+                "id": 125,
+                "summary": "Feet"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/68239a73757f8c5ebd9c0c75f1b90c47_VNznYEo.mp3",
+            "content": "တစ်",
+            "id": 1792,
+            "language": "Burmese",
+            "phrase": {
+                "content": "1",
+                "id": 126,
+                "summary": "1"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d794f5d57729600557ec522d1fda95f8_62Sqi2X.mp3",
+            "content": "နှစ်",
+            "id": 1793,
+            "language": "Burmese",
+            "phrase": {
+                "content": "2",
+                "id": 127,
+                "summary": "2"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/01cb85b8e270b81ee06de0eb309c13d1_8ajMVp5.mp3",
+            "content": "သုံး",
+            "id": 1794,
+            "language": "Burmese",
+            "phrase": {
+                "content": "3",
+                "id": 128,
+                "summary": "3"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5643e0bdb3936ea8d1128ad54b086fde_0W7Zloe.mp3",
+            "content": "လေး",
+            "id": 1795,
+            "language": "Burmese",
+            "phrase": {
+                "content": "4",
+                "id": 129,
+                "summary": "4"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4a496d3738102a7bbe37df020b283f79_dKgIYYh.mp3",
+            "content": "ငါး",
+            "id": 1796,
+            "language": "Burmese",
+            "phrase": {
+                "content": "5",
+                "id": 130,
+                "summary": "5"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/dd880fb64609fb13d85ca15c534a01df_xNngZy4.mp3",
+            "content": "ခြောက်",
+            "id": 1797,
+            "language": "Burmese",
+            "phrase": {
+                "content": "6",
+                "id": 131,
+                "summary": "6"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1d05a04569db32037c592fa81b1b5b14_0Fumnxb.mp3",
+            "content": "ခုနှစ်",
+            "id": 1798,
+            "language": "Burmese",
+            "phrase": {
+                "content": "7",
+                "id": 132,
+                "summary": "7"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/106159af69861c1197920fb2e7bae7c5_9WhfXcw.mp3",
+            "content": "ရှစ်",
+            "id": 1799,
+            "language": "Burmese",
+            "phrase": {
+                "content": "8",
+                "id": 133,
+                "summary": "8"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f9748f355bead837608b0f7383f62fcf_4GX5Nhr.mp3",
+            "content": "ကိုး",
+            "id": 1800,
+            "language": "Burmese",
+            "phrase": {
+                "content": "9",
+                "id": 134,
+                "summary": "9"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/85f7cd5880116607c599c9db19bc649b_z82KIFb.mp3",
+            "content": "တစ်ဆယ်",
+            "id": 1801,
+            "language": "Burmese",
+            "phrase": {
+                "content": "10",
+                "id": 135,
+                "summary": "10"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/681ff26f3197fa833a82d2bea8ff3466_38Q6kxq.mp3",
+            "content": "သုံည",
+            "id": 1802,
+            "language": "Burmese",
+            "phrase": {
+                "content": "0",
+                "id": 136,
+                "summary": "0"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/178eab9d872bdc797f44e3dd306a1cd9_LfDdYXB.mp3",
+            "content": "ဇန်နဝါရီလ",
+            "id": 1803,
+            "language": "Burmese",
+            "phrase": {
+                "content": "January",
+                "id": 137,
+                "summary": "January"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/668a107865140d8c46e8877a7ffa58c8_CH8X58M.mp3",
+            "content": "ဖေဖော်ဝါရီလ",
+            "id": 1804,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Feb",
+                "id": 138,
+                "summary": "Feb"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3765f2b4a566c507dc1d59a5dccc58d4_o6y7k6h.mp3",
+            "content": "မတ်လ",
+            "id": 1805,
+            "language": "Burmese",
+            "phrase": {
+                "content": "March",
+                "id": 139,
+                "summary": "March"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/55b228288e130cb787243ff3b3bc016d_ruelAZa.mp3",
+            "content": "ဧပြီလ",
+            "id": 1806,
+            "language": "Burmese",
+            "phrase": {
+                "content": "April",
+                "id": 140,
+                "summary": "April"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/35cb8a833b84691058bad2e1aaad70c1_G1XhkPB.mp3",
+            "content": "မေလ",
+            "id": 1807,
+            "language": "Burmese",
+            "phrase": {
+                "content": "May",
+                "id": 141,
+                "summary": "May"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f32a22cad66472a9be6d9285766c806e_uVivFif.mp3",
+            "content": "ဇွန်လ",
+            "id": 1808,
+            "language": "Burmese",
+            "phrase": {
+                "content": "June",
+                "id": 142,
+                "summary": "June"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7ba577bd6dc9bcd8eea6c82db99c8426_u4xsHbx.mp3",
+            "content": "ဇူလှိုင်လ",
+            "id": 1809,
+            "language": "Burmese",
+            "phrase": {
+                "content": "July",
+                "id": 143,
+                "summary": "July"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/008ac94a53a97714fbfab7c21aac9f62_UYKOopT.mp3",
+            "content": "သြဂုတ်လ",
+            "id": 1810,
+            "language": "Burmese",
+            "phrase": {
+                "content": "August",
+                "id": 144,
+                "summary": "August"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/53009039820e85477a8c9780d75d2c90_TGM4zns.mp3",
+            "content": "စက်တင်ဘာလ",
+            "id": 1811,
+            "language": "Burmese",
+            "phrase": {
+                "content": "September",
+                "id": 145,
+                "summary": "September"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/accc8514832a16c2c0bbb8f9fa20d511_KXkvBFt.mp3",
+            "content": "အောက်တိုဘာလ",
+            "id": 1812,
+            "language": "Burmese",
+            "phrase": {
+                "content": "October",
+                "id": 146,
+                "summary": "October"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/114a60d82004b052a486ce04879599a3_LOwUfn9.mp3",
+            "content": "နိုဝင်ဘာလ",
+            "id": 1813,
+            "language": "Burmese",
+            "phrase": {
+                "content": "November",
+                "id": 147,
+                "summary": "November"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ce66f76a1a75f7fd10bb0b8dafeb7ed4_WfPSzkf.mp3",
+            "content": "ဒီဇင်ဘာလ",
+            "id": 1814,
+            "language": "Burmese",
+            "phrase": {
+                "content": "December",
+                "id": 148,
+                "summary": "December"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/99ba3d7630fbb7ff14039fc5dacd61df.m4a",
+            "content": "ရေချိုးခန်း၊ အိမ်သာတွဲရက်ပါတဲ့ အိမ်ရဲ့ သီးသန့်ခန်းထဲမှာပဲနေပါ။ ဒီလိုမျိုးနေခြင်းက ကိုယ့်အိမ်သားတွေနဲ့ ထိတွေ့မှုကို လျော့ချနိုင်ပါတယ်။ တကယ်လို့ သင်ဟာ အိမ်သားတွေရဲ့ ရေချိုးခန်းအတူသုံးတာဆိုရင်တော့ ရေချိုးခန်းကို သင်အသုံးမပြုခင်နဲ့ အသုံးပြုပြီးအချိန်တွေမှာ သေချာသန့်ရှင်းရေးလုပ်ဖို့လိုပါတယ်။",
+            "id": 2362,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Stay in a separate room at home. It is best if the room has an attached bathroom. This is to reduce contact with the other members of the house. If you are using a shared bathroom, the bathroom needs to be cleaned before or after you use it.",
+                "id": 176,
+                "summary": "Separate"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/775bbf9c23021d91b19246aa0e0fa9d5.m4a",
+            "content": "အစားအစာတွေ၊ ရေ နဲ့ တစ်ခြားအသုံးလိုတဲ့ပစ္စည်းတွေကို အခန်းရဲ့အပြင်ဘက်မှာ ထားထားပါ။ ပစ္စည်းတွေကို အခန်းထဲကို သင်ကိုယ်တိုင်ယူပြီး အသုံးပြုပါ။",
+            "id": 2363,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Arrange for food, water, and other supplies to be placed outside your room. You yourself have to bring those items into your room.",
+                "id": 177,
+                "summary": "Arrange"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/69b2109b46ea65485b2156d3f7c229dc.m4a",
+            "content": "သင့်ရဲ့ တံတွေးကိုစစ်ဆေးထားတဲ့အဖြေကိုမသိရခင် သင့်မိသားစုနဲ့ထိတွေ့မှုကို အတတ်နိုင်ဆုံးလျော့ချသင့်ပါတယ်၊ အထူးသဖြင့် အသက်ကြီးတဲ့ လူကြီးတွေနဲ့ လုံးဝ မထိတွေ့တာ အကောင်းဆုံးပါပဲ။",
+            "id": 2364,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Until you know your swab test results, reduce your contact with family members. Especially, try not to get near older people.",
+                "id": 178,
+                "summary": "Elderly"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/2579f4c7075268dc731b8bca1f9d0a89.m4a",
+            "content": "ကျေးဇူးပြုပြီး တစ်ကိုယ်ရေသန့်ရှင်းရေးကို အထူးသတိထားပြီး ပြုလုပ်ပေးပါ။ လက်ကို ဆပ်ပြာနဲ့ရေ အသုံးပြုပြီး ခဏခဏဆေးပါ။ မျက်လုံး၊ နှာခေါင်းနဲ့ပါးစပ် ကို ထိတွေ့တာကို အတတ်နိုင်ဆုံးမလုပ်ပါနဲ့။ ချောင်းဆိုး၊ နှာချေတဲ့အချိန်တိုင်း နှာခေါင်းနဲ့ပါးစပ်ကို သေချာလုံအောင် အုပ်ထားပါ။",
+            "id": 2365,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Please maintain good personal hygiene. Wash your hands with soap and water frequently. Try not to touch your eyes, nose, and mouth. Always cover your mouth when coughing or sneezing.",
+                "id": 179,
+                "summary": "Hygine"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/733db9bebf78f430152018fd9ddcf861.m4a",
+            "content": "တစ်ခြားလူတွေ သင့်ရဲ့ ဇွန်း၊ ခရင်း၊ ပန်းကန်၊ ခွက် နဲ့ အစားအစာတွေကို အသုံးမပြုအောင် သေချာကာကွယ်ပါ။ မျက်နှာသုတ်ပဝါလိုမျိုး သင့်ရဲ့ တစ်ကိုယ်ရေသုံး ပစ္စည်းတွေကိုလည်း တစ်ခြားလူတွေနဲ့အတူတူ လုံးဝအသုံးမပြုပါနဲ့။",
+            "id": 2366,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Please prevent others from using your spoon, fork, plates, bowls, food. Also do not share personal hygiene items like your towel.",
+                "id": 180,
+                "summary": "Sharing"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/9d5110028cab57cbc48ca9e3e6201e27.m4a",
+            "content": "သင့်ကို သောက်ဖို့ပေးထားတဲ့ဆေးတွေနဲ့ လိုက်နာရမယ့်အရာတွေကို မပျက်ကွက်ပါနဲ့။",
+            "id": 2367,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Continue to take the medications prescribed for you (if any).",
+                "id": 181,
+                "summary": "Medication"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0a57a7a123d6a27a0022c90560326e5b.m4a",
+            "content": "ရေများများသောက်ပေးပါ။",
+            "id": 2368,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Please drink a lot of water.",
+                "id": 182,
+                "summary": "Drink"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c566450c9de6a94412c358f6036ae9e4.m4a",
+            "content": "အိမ်မှာနေတဲ့ချိန်မှာ သင့်ရဲ့ ကိုယ်ခန္ဓာအပူချိန်နဲ့ လက္ခဏာတွေကို အမြဲသတိထားပြီး စောင့်ကြည့်နေပါ။",
+            "id": 2369,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Keep monitoring your temperature and symptoms at home.",
+                "id": 183,
+                "summary": "Monitor"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/cdbfc9c69003e3fc4a6eda60eb88d4b1.m4a",
+            "content": "ကျေးဇူးပြုပြီး အများပြည်သူသုံးတဲ့ လိုင်းကားတွေစီးခြင်းကို ရှောင်ပေးပါ။",
+            "id": 2350,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Please avoid public transport.",
+                "id": 166,
+                "summary": "Transport"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/550fc43c463d3ab64750b757b6b1179b.m4a",
+            "content": "သင်တစ်ဦးတည်းစီးမယ့် တက်စီ ဒါမှမဟုတ် ကားတစ်စီးကို သပ်သပ်ငှားထားသင့်ပါတယ်။",
+            "id": 2351,
+            "language": "Burmese",
+            "phrase": {
+                "content": "You can take your own private transport, a taxi or a private hire car.",
+                "id": 167,
+                "summary": "Take Taxi"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/251eb01bd83952146050960fe37aa477.m4a",
+            "content": "သင့်အနေနဲ့ အရေးပေါ်အခြေအနေနဲ့ရင်ဆိုင်ရရင် ၉၉၅ ကိုဖုန်းခေါ်ပြီး လူနာတင်ယာဉ်အားခေါ်နိုင်ပါတယ်။ သင့်အနေနဲ့ ဖုန်းခေါ်တဲ့အခါ သင်ကိုရိုနာဗိုင်းရပ်စ် စစ်ဆေးထားတယ်ဆိုတာနဲ့ သင့်ရဲ့ခရီးသွားမှတ်တမ်းကို ပြောပြဖို့လိုပါတယ်။",
+            "id": 2370,
+            "language": "Burmese",
+            "phrase": {
+                "content": "In an emergency situation, call 995 for an ambulance. Inform the ambulance operator that you were recently tested for COVID-19 and also tell them your travel history.",
+                "id": 187,
+                "summary": "Ambulance"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/61212e63fbec4019f0ddb8fcce3f90fc.m4a",
+            "content": "၁ သွေးဖိအားတိုင်းတဲ့ ကိရိယာကို တပ်ဆင်ပါ။",
+            "id": 2371,
+            "language": "Burmese",
+            "phrase": {
+                "content": "1) Connect the blood pressure cuff to the reader machine.",
+                "id": 188,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d7ced37b60f39a8628fd2849f3e71b85.m4a",
+            "content": "၂ သွေးဖိအားတိုင်းတဲ့ကိရိယာပေါ်ရှိ “မြှား” သည် သင်၏လက်မောင်းအတွင်းပိုင် အောက်သို့ညွှန်ပြသင့်သည်။",
+            "id": 2372,
+            "language": "Burmese",
+            "phrase": {
+                "content": "2) The “arrow” on the the cuff should be pointing downwards on the inside of your arm.",
+                "id": 189,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/793cffa4ecdd31a995489660cd27d557.m4a",
+            "content": "သွေးဖိအားတိုင်းကိရိယာသည် သင့်ရဲ့တံတောင်ဆစ်အထက် ၁ မှ ၂ စင်တီမီတာအကွာတွင်ရှိသင့်သည်။",
+            "id": 2373,
+            "language": "Burmese",
+            "phrase": {
+                "content": "(!) The cuff should be positioned 1 to 2 cm above your elbow joint.",
+                "id": 190,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ee47b3baec7f8a7a986207fc47967cfe.m4a",
+            "content": "၃ သွေးဖိအားတိုင်းကိရိယာကို သင့်လက်မောင်းပေါ်တွင်မြဲမြံစွာတပ်ဆင်သင့်ပါသည်။ လျော့ရဲရဲမခံစားရသင့်ပါ။ ခနိ့မှန်းခြေ ဘယ်ဘက်လက်တစ်ချောင်း စာနေ\nရာအနည်းငယ်ချန်ထားပါ",
+            "id": 2374,
+            "language": "Burmese",
+            "phrase": {
+                "content": "3) The BP cuff should fit snugly onto your arm. It should not feel loose. Leave some space enough for 1 left finger to fit in (for good gauge)",
+                "id": 191,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a6bf8145af7c35a569164ddfcbe37c26.m4a",
+            "content": "၄ သွေးပေါင်ချိန်တိုင်းတာနေစဉ် ပြွန်(tube) ကိုမကွေးပါစေနှင့်",
+            "id": 2375,
+            "language": "Burmese",
+            "phrase": {
+                "content": "4) Do not bend the tube during blood pressure measurement.",
+                "id": 192,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a1f89ac6d432ccf0825037891d8be8fc.m4a",
+            "content": "၅ သွေးဖိအားတိုင်းနေတဲ့ချိန်မှာ သင့်ရဲ့လက်မောင်းကြွက်သားတွေကို လျော့ချပြီး ခုံပေါ်မှာတင်ထားပါ။",
+            "id": 2376,
+            "language": "Burmese",
+            "phrase": {
+                "content": "5) Relax & Rest your entire arm on a table while measuring your blood pressure.",
+                "id": 193,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

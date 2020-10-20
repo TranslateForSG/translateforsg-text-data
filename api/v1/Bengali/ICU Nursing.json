@@ -1,0 +1,111 @@
+{
+    "count": 8,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1_tsNuaBo.mp3",
+            "content": "বাম দিকে ঘুরুন",
+            "id": 228,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Turn left",
+                "id": 102,
+                "summary": "​Turn left"
+            },
+            "romanized": "Baam dike ghurun.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/2_L0na4D2.mp3",
+            "content": "ডান দিকে ঘুরুন",
+            "id": 229,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Turn right",
+                "id": 103,
+                "summary": "Turn right"
+            },
+            "romanized": "Daan dike ghurun.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3_CmOxNnf.mp3",
+            "content": "আমরা আপনার ডায়াপার পরিবর্তন করব",
+            "id": 230,
+            "language": "Bengali",
+            "phrase": {
+                "content": "We will change your diapers",
+                "id": 104,
+                "summary": "We will change your diapers"
+            },
+            "romanized": "Amra apnar diaper poriborton korbo.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4_n3sTPlX.mp3",
+            "content": "আপনার পা উপরে তুলুন",
+            "id": 231,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Lift up your leg",
+                "id": 105,
+                "summary": "Lift up your leg"
+            },
+            "romanized": "Apnar pa upore tulun.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5_tjOUYgZ.mp3",
+            "content": "আমরা আপনাকে বসতে যাচ্ছি",
+            "id": 232,
+            "language": "Bengali",
+            "phrase": {
+                "content": "We are going to sit you up",
+                "id": 106,
+                "summary": "We are going to sit you up"
+            },
+            "romanized": "Amra apnake boshate jacchi.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6_QbAZwBL.mp3",
+            "content": "আমরা আপনাকে বিছানার উপর দিকে সরাতে যাচ্ছি",
+            "id": 233,
+            "language": "Bengali",
+            "phrase": {
+                "content": "We are going to shift you up the bed",
+                "id": 107,
+                "summary": "Shift head"
+            },
+            "romanized": "Amra apnake bichhanar upor dike shorate jacchi.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7.mp3",
+            "content": "আমরা আপনার মুখ পরিষ্কার করতে যাচ্ছি",
+            "id": 234,
+            "language": "Bengali",
+            "phrase": {
+                "content": "We are going to clean your mouth",
+                "id": 108,
+                "summary": "Clean mouth"
+            },
+            "romanized": "Amra apnar mukh porishkar korte jacchi.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8.mp3",
+            "content": "গারগল গিলবেন না",
+            "id": 235,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Do not swallow the gargle",
+                "id": 109,
+                "summary": "Dont swallow"
+            },
+            "romanized": "Gargle gilben na.",
+            "special_note": ""
+        }
+    ]
+}

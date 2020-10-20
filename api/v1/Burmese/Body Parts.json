@@ -1,0 +1,163 @@
+{
+    "count": 12,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d3c257dc4b80303ea4899212106ff387_rVsbSP8.mp3",
+            "content": "ခေါင်း",
+            "id": 1781,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Head",
+                "id": 114,
+                "summary": "Head"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/cf4f3a982a9f2672b5011de8a614f98c_p9BPKVc.mp3",
+            "content": "မျက်လုံး",
+            "id": 1782,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Eyes",
+                "id": 115,
+                "summary": "Eyes"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a91d3cfbaac9f4a64bd2dfceb607f3da_HsKJ2r2.mp3",
+            "content": "နား",
+            "id": 1783,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Ears",
+                "id": 116,
+                "summary": "Ears"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6c25d0578262cfa21c2415a142d885e5_3Xb3wRP.mp3",
+            "content": "နှာခေါင်း",
+            "id": 1784,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Nose",
+                "id": 117,
+                "summary": "Nose"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/993b28e57ce16cc8f3108461bc736d36_QbLR4Tl.mp3",
+            "content": "ပါးစပ်",
+            "id": 1785,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Mouth",
+                "id": 118,
+                "summary": "Mouth"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/141c0caa097098f798ad254f493f38f1_3DnZEht.mp3",
+            "content": "လည်ချောင်း",
+            "id": 1786,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Throat",
+                "id": 119,
+                "summary": "Throat"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/cedb028c195a7ca97f463c8724cb75e9_ULe4VSg.mp3",
+            "content": "ရင်ဘတ်",
+            "id": 1787,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Chest",
+                "id": 120,
+                "summary": "Chest"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b76651c61b280ae8b616779638272d18_8KyHm9S.mp3",
+            "content": "ဗိုက်",
+            "id": 1788,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Abdomen",
+                "id": 121,
+                "summary": "Abdomen"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0d092c421052cf6dc64d8150c2434544_EZAGYo7.mp3",
+            "content": "ကျော",
+            "id": 1789,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Back",
+                "id": 122,
+                "summary": "Back"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7ad11b8af254b6dfe15f9d0bd648b9f6.m4a",
+            "content": "လက် / လက်မောင်း",
+            "id": 2361,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Hand or Arm",
+                "id": 123,
+                "summary": "Arms"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/2c0a20c317e733777da99930ecdbfd48_sgzXsWo.mp3",
+            "content": "ခြေထောက်",
+            "id": 1790,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Legs",
+                "id": 124,
+                "summary": "Legs"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d223153868bfbd35f0e4bb5cb5e1297c_isPaWtR.mp3",
+            "content": "ခြေဖဝါး",
+            "id": 1791,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Feet",
+                "id": 125,
+                "summary": "Feet"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

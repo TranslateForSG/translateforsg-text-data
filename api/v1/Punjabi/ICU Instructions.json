@@ -1,0 +1,150 @@
+{
+    "count": 11,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": null,
+            "content": "ਲੰਬਾ ਸਾਹ ਲਵੋ.",
+            "id": 3200,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Take a deep breath",
+                "id": 77,
+                "summary": "Deep breath"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਜ਼ੋਰ ਨਾਲ ਖੰਘੋ.",
+            "id": 3201,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Give me a big cough",
+                "id": 78,
+                "summary": "Big cough"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਜ਼ੋਰ ਨਾਂ ਲਾਓ.",
+            "id": 3202,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Don’t struggle",
+                "id": 79,
+                "summary": "Don’t struggle"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਹਿਲੋ ਨਾ",
+            "id": 3203,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Don’t move",
+                "id": 80,
+                "summary": "Don’t move"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਆਪਣੀ ਬਾਂਹ ਉੱਪਰ ਚੁੱਕੋ.",
+            "id": 3204,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Lift up your arm",
+                "id": 81,
+                "summary": "Lift up your arm"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਆਪਣੀ ਲੱਤ ਉੱਪਰ ਚੁੱਕੋ.",
+            "id": 3205,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Lift up your leg",
+                "id": 82,
+                "summary": "Lift up your leg"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਮੇਰਾ ਹੱਥ ਦਬਾਓ.",
+            "id": 3206,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Squeeze my hand",
+                "id": 83,
+                "summary": "Squeeze my hand"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਮੈਨੂੰ ਦੋ ਉਂਗਲੀਆਂ ਦਿਖਾਓ.",
+            "id": 3207,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Show me two fingers",
+                "id": 84,
+                "summary": "Show two fingers"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਆਪਣਾ ਮੂੰਹ ਖੋਲ੍ਹੋ.",
+            "id": 3208,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Open your mouth",
+                "id": 85,
+                "summary": "Open mouth"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਆਪਣੀ ਜੀਭ ਬਾਹਰ ਕੱਢੋ.",
+            "id": 3209,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Stick out your tongue",
+                "id": 86,
+                "summary": "Stick out tongue"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਆਪਣੀਆਂ ਅੱਖਾਂ ਖੋਲੋ.",
+            "id": 3210,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Open your eyes",
+                "id": 87,
+                "summary": "Open eyes"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

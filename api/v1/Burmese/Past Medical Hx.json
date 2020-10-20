@@ -1,0 +1,202 @@
+{
+    "count": 15,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/08cc3592e28b8dad1b29930f9bb00262_ELFJTD0.mp3",
+            "content": "သင့်တွင် ယခင်က အခြား‌သော‌ရောဂါများ ရှိခဲ့ပါသလား။",
+            "id": 1693,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Do you have any past medical history?",
+                "id": 28,
+                "summary": "Medical History"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7162b8796e20e18fdff0fb3541ee565d_a9hThPY.mp3",
+            "content": "အခြားရောဂါများရှိခဲ့ပါက အောက်တွင်ဖော်ပြ ထား‌သော ‌ရောဂါများအနက်မှ ‌ရွေးချယ်ပေးပါ။",
+            "id": 1694,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Point to which ones.",
+                "id": 29,
+                "summary": "Symptoms"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/89af65b8972a6ebd097d7c3ecc57061a_3h28G6l.mp3",
+            "content": "ရင်ကြပ် ‌ရောဂါ",
+            "id": 1695,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Asthma",
+                "id": 30,
+                "summary": "Asthma"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5f28a10b7e147304de5e96d5e41a859b_VzZ2hR7.mp3",
+            "content": "အဆုတ်အအေးမိခြင်း",
+            "id": 1696,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Pneumonia",
+                "id": 31,
+                "summary": "Pneumonia"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/73799096d968ff982ef60a5749653835_f3hkNry.mp3",
+            "content": "သွေးတိုး‌ရောဂါ",
+            "id": 1697,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Hypertension",
+                "id": 32,
+                "summary": "Hypertension"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b42e246eb661752fa2f9905632075d9b_4sKbfke.mp3",
+            "content": "ကိုလက်စထရော များခြင်း",
+            "id": 1698,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Hyperlipidemia / Cholesterol",
+                "id": 33,
+                "summary": "Hyperlipidemia"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f5c7ced97860b61f3016a8580282ad95_5AZyNYz.mp3",
+            "content": "ဆီးချိုရောဂါ",
+            "id": 1699,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Diabetes",
+                "id": 34,
+                "summary": "Diabetes"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ecef8ccd5e5be511c92d026df8db67c0_3p2ORji.mp3",
+            "content": "နှလုံးအားနည်းခြင်း နှလုံး‌ရောဂါ",
+            "id": 1700,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Heart problems",
+                "id": 35,
+                "summary": "Heart problems"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/bf82b3179470412bde7aa1044e81d575_yz4c4lZ.mp3",
+            "content": "ကျောက်ကပ်‌ရောဂါ",
+            "id": 1701,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Kidney problems",
+                "id": 36,
+                "summary": "Kidney problems"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ef4f11de067ad87597e69136cac79318_z4cRIHM.mp3",
+            "content": "မတည့်သည့်ဆေးအမျိုးအစားရှိပါသလား။ ‌ဖော်ပြပေးပါ။",
+            "id": 1702,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Do you have a drug allergy?",
+                "id": 37,
+                "summary": "Drug allergy"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0a843753de9e6a5595cbbc475b16ac4a_WgQES9i.mp3",
+            "content": "ဆေးလိပ်သောက်ပါသလား။ သောက်လျှင်တနေ့‌လျှင်ဘယ်နှစ်လိပ်သောက်ပါသလဲ။",
+            "id": 1703,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Do you smoke? If yes, how many cigarettes a day?",
+                "id": 38,
+                "summary": "Smoke"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/51b3d532576088f619d73f29cc8ae32d_Om39yqf.mp3",
+            "content": "အရက်ဘီယာ ‌သောက်ပါသလား။ သောက်လျှင်(တပါတ်အတွင်း‌သောက်သုံး‌သော ပုလင်းအရေအတွက်နှင့်အမျိုးအစားကို‌ ဖော်ပြပါ။",
+            "id": 1704,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Do you drink? If yes, how much (number of bottles a week, type of alcohol)?",
+                "id": 39,
+                "summary": "Drink Alcohol"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6c1703065fbf86ab134dd71209739b76_IhkdTAL.mp3",
+            "content": "သင်ရဲ့ စိတ်ခံစားချက်ဘယ်လိုရှိပါသလဲ?",
+            "id": 1705,
+            "language": "Burmese",
+            "phrase": {
+                "content": "How do you feel emotionally?",
+                "id": 40,
+                "summary": "Emotion Feeling"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/01c2ec7fc54281e403611d5312c4b881_9JiZR6D.mp3",
+            "content": "သတ်သေချင်တဲ့အတွေးတွေ တွေးမိပါသလား?",
+            "id": 1706,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Do you have suicidal thoughts?",
+                "id": 41,
+                "summary": "Suicidal thoughts"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/dea5826de58cc6d637551803184213ac_oEl25bZ.mp3",
+            "content": "အခြားပြသနာတွေရှိရင်လည်း ပြောပြပါ။ အင်္ဂလိပ်လို ပြောနိုင်ပါတယ်။",
+            "id": 1707,
+            "language": "Burmese",
+            "phrase": {
+                "content": "If you have any other problems, you can tell me in English.",
+                "id": 42,
+                "summary": "Other Problems"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

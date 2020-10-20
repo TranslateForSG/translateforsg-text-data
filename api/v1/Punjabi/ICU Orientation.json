@@ -1,0 +1,215 @@
+{
+    "count": 16,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": null,
+            "content": "ਸਤਿ ਸ਼੍ਰੀ ਅਕਾਲ",
+            "id": 3184,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Good morning",
+                "id": 64,
+                "summary": "Morning"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਸਤਿ ਸ਼੍ਰੀ ਅਕਾਲ",
+            "id": 3185,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Good Evening",
+                "id": 173,
+                "summary": "Evening"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਸਤਿ ਸ਼੍ਰੀ ਅਕਾਲ",
+            "id": 3186,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Good Afternoon",
+                "id": 174,
+                "summary": "Afternoon"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਮੈਂ ਨਰਸ ਹਾਂ",
+            "id": 3187,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "I am the nurse",
+                "id": 65,
+                "summary": "Nurse"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਮੈਂ ਡਾਕਟਰ ਹਾਂ",
+            "id": 3188,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "I am the doctor",
+                "id": 66,
+                "summary": "Doctor"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਤੁਸੀਂ ICU ਵਿੱਚ ਹੋ.",
+            "id": 3189,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "You are in the intensive care unit.",
+                "id": 67,
+                "summary": "In ICU"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਅੱਜ ਸੋਮਵਾਰ ਹੈ",
+            "id": 3190,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Today is Monday",
+                "id": 68,
+                "summary": "Monday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਅੱਜ ਮੰਗਲਵਾਰ ਹੈ",
+            "id": 3191,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Today is Tuesday",
+                "id": 69,
+                "summary": "Tuesday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਅੱਜ ਬੁੱਧਵਾਰ ਹੈ",
+            "id": 3192,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Today is Wednesday",
+                "id": 70,
+                "summary": "Wednesday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਅੱਜ ਵੀਰਵਾਰ ਹੈ",
+            "id": 3193,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Today is Thursday",
+                "id": 71,
+                "summary": "Thursday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਅੱਜ ਸ਼ੁੱਕਰਵਾਰ ਹੈ",
+            "id": 3194,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Today is Friday",
+                "id": 72,
+                "summary": "Friday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਅੱਜ ਸ਼ਨੀਵਾਰ ਹੈ",
+            "id": 3195,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Today is Saturday",
+                "id": 73,
+                "summary": "Saturday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਅੱਜ ਐਤਵਾਰ ਹੈ",
+            "id": 3196,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Today is Sunday",
+                "id": 74,
+                "summary": "Sunday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਤੁਸੀਂ ਠੀਕ ਹੋ ਰਹੇ ਹੋ.",
+            "id": 3197,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "You are getting better",
+                "id": 153,
+                "summary": "Getting Better"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਜਦੋਂ ਤੁਸੀਂ ਠੀਕ ਹੋ ਜਾਓਗੇ ਤਾਂ ਅਸੀਂ ਸਾਹ ਲੈਣ ਵਾਲੀ ਨਾਲੀ ਨੂੰ ਹਟਾ ਦੇਵਾਂਗੇ.",
+            "id": 3198,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "We will remove the breathing tube when you are better",
+                "id": 75,
+                "summary": "Remove Tube Later"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਸਾਡੇ ਦੁਆਰਾ ਸਾਹ ਲੈਣ ਵਾਲੀ ਨਾਲੀ ਨੂੰ ਹਟਾਉਣ ਤੋਂ ਬਾਅਦ ਤੁਸੀਂ ਗੱਲ ਕਰ ਸਕਦੇ ਹੋ.",
+            "id": 3199,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "You can talk after we remove the breathing tube",
+                "id": 76,
+                "summary": "Can Talk as Remove"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

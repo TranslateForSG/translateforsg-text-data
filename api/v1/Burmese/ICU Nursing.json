@@ -1,0 +1,111 @@
+{
+    "count": 8,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/77352f0a428c8c019db18a8d47b15ebe.m4a",
+            "content": "ဘယ်ဘက်ကိုလှည့်ပါ။",
+            "id": 2360,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Turn left",
+                "id": 102,
+                "summary": "​Turn left"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c28e4381a99276fb9ab95e51422acb6d_ddqsp2R.mp3",
+            "content": "ညာဘက်ကိုလှည့်ပါ။",
+            "id": 1771,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Turn right",
+                "id": 103,
+                "summary": "Turn right"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b4efda54a2d1fa402b910b76807c3702_e2awJz5.mp3",
+            "content": "ဒိုက်ပါ လဲပေးပါမယ်။",
+            "id": 1772,
+            "language": "Burmese",
+            "phrase": {
+                "content": "We will change your diapers",
+                "id": 104,
+                "summary": "We will change your diapers"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/12a0437eef50329eec44beff7ea50464_Iv0oXrU.mp3",
+            "content": "သင်၏ခြေထောက်ကိုမြှောက်‌ပေးပါ။",
+            "id": 1751,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Lift up your leg",
+                "id": 105,
+                "summary": "Lift up your leg"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f74b3dcecbabad2a4afdecf40d2e3053_RhxczKc.mp3",
+            "content": "သင်ထိုင်လို့ရအောင် ထူပေးပါမယ်။",
+            "id": 1773,
+            "language": "Burmese",
+            "phrase": {
+                "content": "We are going to sit you up",
+                "id": 106,
+                "summary": "We are going to sit you up"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/235253010d402f110f5079f0d4bc66aa_1eDqIwC.mp3",
+            "content": "သင့်ကိုအပေါ်ကိုရွေ့ပေးပါမည်။",
+            "id": 1774,
+            "language": "Burmese",
+            "phrase": {
+                "content": "We are going to shift you up the bed",
+                "id": 107,
+                "summary": "Shift head"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/63af96a2c0c97db6e7c9fb742e39daf2_7WEVKcI.mp3",
+            "content": "သင်၏ပါးစပ်ကိုသန့်ရှင်းပေးပါမည်။",
+            "id": 1775,
+            "language": "Burmese",
+            "phrase": {
+                "content": "We are going to clean your mouth",
+                "id": 108,
+                "summary": "Clean mouth"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/bc67f50a8625391ccceb288a7644f3bc_lDypgPF.mp3",
+            "content": "ပလုတ်ကျင်းပီးလျှင်မြိုမချပါနှင့်။",
+            "id": 1776,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Do not swallow the gargle",
+                "id": 109,
+                "summary": "Dont swallow"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

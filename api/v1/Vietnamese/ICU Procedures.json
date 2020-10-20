@@ -1,0 +1,189 @@
+{
+    "count": 14,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/507ba84dd55a5cff66edafcde5c1a485.mp3",
+            "content": "Tôi sẽ chiếu ánh sáng vào mắt bạn. Nó sẽ sáng",
+            "id": 1395,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "I’m going to shine a light into your eyes. It will be bright.",
+                "id": 88,
+                "summary": "Shine a light into your eyes"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/10ed1579ab9f0ac84e3c7098d679bb00.mp3",
+            "content": "Phổi của bạn yếu. Chúng tôi sẽ chèn một ống thở để giúp bạn thở",
+            "id": 1396,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Your lungs are weak. We are going to insert a breathing tube to help you breathe",
+                "id": 89,
+                "summary": "Insert a breathing tube"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/07d0bb2ef16dbbc5cc75ee1aaea0070f.mp3",
+            "content": "Bạn sẽ đi ngủ bây giờ",
+            "id": 1397,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "You are going to sleep now",
+                "id": 90,
+                "summary": "Sleep"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/9dadff38ff577cf426c3a73d917747a4.mp3",
+            "content": "Chúng tôi đang đặt bạn lên bụng của bạn để giúp phổi của bạn mở rộng",
+            "id": 1398,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "We are turning you onto your belly to help your lungs expand",
+                "id": 91,
+                "summary": "Turn onto belly"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6ccf0bc97bb98dc5a9445e55b1a222fe.mp3",
+            "content": "Chúng tôi đang chèn một ống để giúp bạn thông tiểu",
+            "id": 1399,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "We are inserting a tube to help you pass urine",
+                "id": 92,
+                "summary": "Insert tube urine"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b1a88e6e2e6c98d11b9dab5714f1577b.mp3",
+            "content": "Chúng tôi đang chèn một ống qua mũi của bạn",
+            "id": 1400,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "We are inserting a tube through your nose",
+                "id": 93,
+                "summary": "Insert tube nose"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5de10ea12225d33be702805d42676f96.mp3",
+            "content": "Chúng tôi sẽ tiêm thuốc vào cổ bạn để cho bạn uống thuốc",
+            "id": 1401,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "We are going to give you an injection in your neck to give you medications",
+                "id": 94,
+                "summary": "Injection in Neck"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0f68d4dfd805f166e195c8612d5e4ded.mp3",
+            "content": "Chúng tôi sẽ tiêm cho bạn cánh tay để đo huyết áp",
+            "id": 1402,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "We are going to give you an injection in your arm to measure your blood pressure",
+                "id": 95,
+                "summary": "Measure Blood Pressure"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/70193bc927d3295f43c4118ba7514a3e.mp3",
+            "content": "Chúng tôi sẽ cung cấp cho bạn thuốc ngủ.",
+            "id": 1403,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "We will give you sleeping medications.",
+                "id": 96,
+                "summary": "Sleeping Meds"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/68e81371041b70f4c8fa6e240023e1d2.mp3",
+            "content": "Chúng tôi sẽ cung cấp cho bạn thuốc giảm đau.",
+            "id": 1404,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "We will give you painkillers.",
+                "id": 97,
+                "summary": "Painkillers"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/524a35b395fa6d54417235cbc00387b5.mp3",
+            "content": "Chúng tôi đang cho bạn thuốc để giữ cho huyết áp của bạn tăng lên.",
+            "id": 1405,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "We are giving you medication to keep your blood pressure up.",
+                "id": 98,
+                "summary": "Blood Pressure Medication"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ffa00fded568e9a6717026efe9a29831.mp3",
+            "content": "Chúng tôi sẽ loại bỏ các ống thở.",
+            "id": 1406,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "We are going to remove the breathing tube.",
+                "id": 99,
+                "summary": "Remove Tube"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a8bf0f8e3be0e3f1f3c33663e1d2d64a.mp3",
+            "content": "Chúng tôi sẽ hút đờm của bạn",
+            "id": 1407,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "We are going to suck out your phlegm",
+                "id": 100,
+                "summary": "Phlegm suck out"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4b868ecea8a66ee2ee5c341897343d2f.mp3",
+            "content": "Chúng tôi sẽ làm sạch bạn với một miếng bọt biển",
+            "id": 1408,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "We are going to clean you with a sponge",
+                "id": 101,
+                "summary": "Clean with sponge"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

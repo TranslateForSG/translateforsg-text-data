@@ -1,0 +1,46 @@
+{
+    "count": 3,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/480842f471ff0c0b173b94e1101a0620.mp3",
+            "content": "आपने कोरोनावायरस के लिए सकारात्मक परीक्षण किया है।",
+            "id": 183,
+            "language": "Hindi",
+            "phrase": {
+                "content": "You have tested positive for coronavirus.",
+                "id": 60,
+                "summary": "Tested Positive"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0a3fc4b36ebe253807137579a8e48cbc.mp3",
+            "content": "हम आपको अस्पताल ले जाएंगे।",
+            "id": 184,
+            "language": "Hindi",
+            "phrase": {
+                "content": "We will take you to the hospital.",
+                "id": 61,
+                "summary": "Hospital Admission"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c8575df520dc44736434c03faec0a6d5.mp3",
+            "content": "हम आपको एक अलगाव सुविधा प्रदान करेंगे।",
+            "id": 185,
+            "language": "Hindi",
+            "phrase": {
+                "content": "We will transfer you to an isolation facility.",
+                "id": 62,
+                "summary": "Isolation Facility"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

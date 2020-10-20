@@ -1,0 +1,163 @@
+{
+    "count": 12,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/78e37e3799abdd8780bfa8116b1d3cd2.mp3",
+            "content": "सिर",
+            "id": 411,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Head",
+                "id": 114,
+                "summary": "Head"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/935ce68ced3b0fe2a4f53eb2d6e77fb7.mp3",
+            "content": "आंखें",
+            "id": 412,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Eyes",
+                "id": 115,
+                "summary": "Eyes"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/36baea8fbfbf8843bb7bf4b92ff2ef8a.mp3",
+            "content": "कान",
+            "id": 413,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Ears",
+                "id": 116,
+                "summary": "Ears"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/224509fef2fff362f7a591c68088e139.mp3",
+            "content": "नाक",
+            "id": 414,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Nose",
+                "id": 117,
+                "summary": "Nose"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/511f834af8efe4305579b0d464be4aa6.mp3",
+            "content": "मुंह",
+            "id": 415,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Mouth",
+                "id": 118,
+                "summary": "Mouth"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/2194b3e9ee883837d80bccc965ef5304.mp3",
+            "content": "गला",
+            "id": 416,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Throat",
+                "id": 119,
+                "summary": "Throat"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1a77ee244935de518d995561d3f0b43e.mp3",
+            "content": "छाती",
+            "id": 417,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Chest",
+                "id": 120,
+                "summary": "Chest"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8e1a8f4b9b317bb6ceb373cd35725c4f.mp3",
+            "content": "पेट",
+            "id": 418,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Abdomen",
+                "id": 121,
+                "summary": "Abdomen"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/69c2ec52e7e279bea77abc66e8e3946b.mp3",
+            "content": "वापस",
+            "id": 419,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Back",
+                "id": 122,
+                "summary": "Back"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7b55a9a107993f78d08eb9f4899c1623.mp3",
+            "content": "हाथ या बांह",
+            "id": 420,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Hand or Arm",
+                "id": 123,
+                "summary": "Arms"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/cbb0e43b5c552e1e1496ec54aeaad3c5.mp3",
+            "content": "पैर",
+            "id": 421,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Legs",
+                "id": 124,
+                "summary": "Legs"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/222f6dac3f01b20d514e0e0955548a51.mp3",
+            "content": "पैर का पंजा",
+            "id": 422,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Feet",
+                "id": 125,
+                "summary": "Feet"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

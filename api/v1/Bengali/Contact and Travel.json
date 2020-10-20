@@ -1,0 +1,150 @@
+{
+    "count": 11,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_3.m4a",
+            "content": "গত ১৪ দিনে, আপনি কি কারোর সাথে দেখা করেছেন যার কারোনাভাইরাস আছে?",
+            "id": 9,
+            "language": "Bengali",
+            "phrase": {
+                "content": "In the last 14 days, did you meet anyone who has coronavirus?",
+                "id": 9,
+                "summary": "People"
+            },
+            "romanized": "Goto choddo (14) dine, apni ki karor shathe dekha korechen jaar coronavirus aache?",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_4.mp3",
+            "content": "আপনারা কতজন মিলে এক রুমে থাকেন?",
+            "id": 8,
+            "language": "Bengali",
+            "phrase": {
+                "content": "How many people are staying in the same room as you?",
+                "id": 8,
+                "summary": "Room"
+            },
+            "romanized": "Apnara kotojon mile ek room-e thaken?",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_p64QJkw.m4a",
+            "content": "কে? আপনাদের কি সম্পর্ক?",
+            "id": 10,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Who? What is your relationship with them?",
+                "id": 10,
+                "summary": "People Meet"
+            },
+            "romanized": "Ke? Apnader ki shomporko?",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_awc1QkK.m4a",
+            "content": "কত দিন আগে দেখা হয়েছে?",
+            "id": 11,
+            "language": "Bengali",
+            "phrase": {
+                "content": "How many days ago did you meet them?",
+                "id": 11,
+                "summary": "People Meet"
+            },
+            "romanized": "Koto din age dekha hoyeche?",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_1_pg8WTqN.m4a",
+            "content": "আপনাদের দেখাসাক্ষাত কতক্ষন ধরে ছিল?",
+            "id": 12,
+            "language": "Bengali",
+            "phrase": {
+                "content": "How long were you with him/her?",
+                "id": 12,
+                "summary": "People Meet"
+            },
+            "romanized": "Apnader dekha-shakkhat kotokkhon dhore chilo?",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_2_jf22qAO.m4a",
+            "content": "গত ১৪ দিনে, আপনি কি সিঙ্গাপুরের বাইরে ভ্রমণ করেছেন? হয়ে থাকলে আমাকে ইংরেজীতে দেশগুলি বলেন।",
+            "id": 13,
+            "language": "Bengali",
+            "phrase": {
+                "content": "In the last 14 days, did you travel out of Singapore? If yes, tell us the countries in English.",
+                "id": 13,
+                "summary": "14 Days Travel"
+            },
+            "romanized": "Goto choddo (14) dine, apni ki Singapore-r baere bhromon korechen? Hoye thakle amake Ingrejite (English) deshguli bolen.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6fd68378db5414e82480809f063b0c08.mp3",
+            "content": "লক্ষণগুলি শুরুর আগে গত ৭ দিনে আপনি কি কি করেছেন?",
+            "id": 2379,
+            "language": "Bengali",
+            "phrase": {
+                "content": "What were your activities for last 7 days before onset of symptoms?",
+                "id": 196,
+                "summary": "Activities 7 Days"
+            },
+            "romanized": "Lokkhonguli shurur aage goto shaat (7) dine apni ki ki korechen?",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/edf86e25ab050a3029e1087522a7c26a_bpS0poJ.mp3",
+            "content": "ভর্তি হওয়ার আগে আপনি কি কি কাজ করেছেন , কোথায় বেড়িয়েছেন বা কাদের সাথে দেখা করেছেন  ?",
+            "id": 2380,
+            "language": "Bengali",
+            "phrase": {
+                "content": "What were your activities until admission?",
+                "id": 197,
+                "summary": "Activities Admit"
+            },
+            "romanized": "Bhorti howar age apni ki ki kaj korechen, kothae beriyechen ba kader shathe dekha korechen?",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/206f6470c9f9b021e1caefe32505a386_JVM0DMI.mp3",
+            "content": "আপনার কাছাকাছি থাকা লোকদের নাম ও ফোন নম্বর আমাদের প্রয়োজন।",
+            "id": 2381,
+            "language": "Bengali",
+            "phrase": {
+                "content": "We need the contacts of people who they were close to.",
+                "id": 198,
+                "summary": "Need Contacts"
+            },
+            "romanized": "Apnar kacha kachi thaka lokeder naam o phone number amader proyojon.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1568092d289800755beacfccb93f1276_ErUtRww.mp3",
+            "content": "আপনি কোথায় গিয়েছিলেন? (বা সম্ভবত সার্কিট ব্রেকারের পরে আর কোথাও না )",
+            "id": 2382,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Where have you visited recently? (or maybe nowhere after circuit breaker)",
+                "id": 199,
+                "summary": "Recent Visit"
+            },
+            "romanized": "Apni kothae giyechilen? (Ba shombhoboto circuit breaker-er pore aar kothao na.)",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0f41913407e1018bc6666e0968e82f68.mp3",
+            "content": "আপনি কোথায় খাবার কিনেন?",
+            "id": 2383,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Where do you buy food?",
+                "id": 200,
+                "summary": "Buy Food"
+            },
+            "romanized": "Apni kothae khabar kinen?",
+            "special_note": ""
+        }
+    ]
+}

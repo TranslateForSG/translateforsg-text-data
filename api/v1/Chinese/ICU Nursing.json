@@ -1,0 +1,111 @@
+{
+    "count": 8,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8cf929d1308d8cee87f2bd0794e0c573.mp3",
+            "content": "向左转",
+            "id": 2087,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Turn left",
+                "id": 102,
+                "summary": "​Turn left"
+            },
+            "romanized": "xiàng zuǒ zhuǎn",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/995337ebda9089aabdb6a0ab583a782f.mp3",
+            "content": "向右转",
+            "id": 2088,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Turn right",
+                "id": 103,
+                "summary": "Turn right"
+            },
+            "romanized": "xiàng yòu zhuǎn",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/832db1ac060d44dae868b4eeed92a2c4.mp3",
+            "content": "我们来帮你换尿布",
+            "id": 2089,
+            "language": "Chinese",
+            "phrase": {
+                "content": "We will change your diapers",
+                "id": 104,
+                "summary": "We will change your diapers"
+            },
+            "romanized": "wǒ men lái bāng nǐ huàn niào bù",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/bb5b8a0baf7f7c7a8402fc01fe9f8edf_c1wZMve.mp3",
+            "content": "抬起脚",
+            "id": 2067,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Lift up your leg",
+                "id": 105,
+                "summary": "Lift up your leg"
+            },
+            "romanized": "tái qǐ jiǎo",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/17349b68067db03bbd631f98a8430fd3.mp3",
+            "content": "我们会扶你坐起来",
+            "id": 2090,
+            "language": "Chinese",
+            "phrase": {
+                "content": "We are going to sit you up",
+                "id": 106,
+                "summary": "We are going to sit you up"
+            },
+            "romanized": "wǒ men hùi fú nǐ zuò qǐ lái",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d62e8ce5d834f5e16f2fd88f298082cc_MnSvgL2.mp3",
+            "content": "我们要把你移到床上",
+            "id": 2091,
+            "language": "Chinese",
+            "phrase": {
+                "content": "We are going to shift you up the bed",
+                "id": 107,
+                "summary": "Shift head"
+            },
+            "romanized": "wǒ men yào bǎ nǐ yí dào chuáng shàng",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/50001138fa931e79611898ff1ba0a326.mp3",
+            "content": "我们会擦你的嘴巴",
+            "id": 2092,
+            "language": "Chinese",
+            "phrase": {
+                "content": "We are going to clean your mouth",
+                "id": 108,
+                "summary": "Clean mouth"
+            },
+            "romanized": "wǒ men hùi cā nǐ de zǔi bā",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0cd3ceb17c92f2290d357e274124fca4_Wcd2uJc.mp3",
+            "content": "不要吞下漱口液",
+            "id": 2093,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Do not swallow the gargle",
+                "id": 109,
+                "summary": "Dont swallow"
+            },
+            "romanized": "bù yào tūn xià shù kǒu yè",
+            "special_note": ""
+        }
+    ]
+}

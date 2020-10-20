@@ -1,0 +1,46 @@
+{
+    "count": 3,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": null,
+            "content": "ਘਰ ਵਿਚ ਇੱਕ ਵੱਖਰੇ ਕਮਰੇ ਵਿਚ ਰਹੋ. ਬੇਹਤਰ ਹੋਵੇਗਾ ਜੇ ਕਮਰੇ ਦੇ ਵਿਚ ਹੀ ਬਾਥਰੂਮ ਹੋਵੇ. ਇਹ ਪਰਿਵਾਰ ਦੇ ਦੂਜੇ ਮੈਂਬਰਾਂ ਨਾਲ ਸੰਪਰਕ ਘਟਾਉਣ ਲਈ ਹੈ. ਜੇ ਤੁਸੀਂ ਸਾਂਝੇ ਬਾਥਰੂਮ ਦੀ ਵਰਤੋਂ ਕਰ ਰਹੇ ਹੋ, ਤਾਂ ਇਸ ਦੀ ਵਰਤੋਂ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਤੇ ਬਾਅਦ ਵਿਚ ਬਾਥਰੂਮ ਨੂੰ ਸਾਫ ਕਰਨਾ ਬਹੁਤ ਜ਼ਰੂਰੀ ਹੈ.",
+            "id": 3272,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Stay in a separate room at home. It is best if the room has an attached bathroom. This is to reduce contact with the other members of the house. If you are using a shared bathroom, the bathroom needs to be cleaned before or after you use it.",
+                "id": 176,
+                "summary": "Separate"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਆਪਣੇ ਭੋਜਨ, ਪਾਣੀ ਤੇ ਲੋੜ ਦੀਆਂ ਹੋਰ ਚੀਜਾਂ ਦੀ ਵਿਵਸਥਾ ਇੰਜ ਕਰੋ ਕਿ ਇਹ ਤੁਹਾਡੇ ਕਮਰੇ ਦੇ ਬਾਹਰ ਹੀ ਰੱਖ ਦਿਤੀਆਂ ਜਾਣ ਤੇ ਤੁਸੀ ਖੁਦ ਇਹਨਾਂ ਚੀਜ਼ਾਂ ਨੂੰ ਆਪਣੇ ਕਮਰੇ ਦੇ ਅੰਦਰ ਲੈ ਕੇ ਆਓ.",
+            "id": 3273,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Arrange for food, water, and other supplies to be placed outside your room. You yourself have to bring those items into your room.",
+                "id": 177,
+                "summary": "Arrange"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਜਦੋਂ ਤੱਕ ਤੁਹਾਡੇ ਸਵੈਬ ਟੈਸਟ ਦੇ ਨਤੀਜੇ ਨਾ ਆ ਜਾਣ, ਓਦੋਂ ਤੱਕ ਆਪਣੇ ਪਰਿਵਾਰ ਦੇ ਮੈਂਬਰਾਂ ਨਾਲ ਸੰਪਰਕ ਘਟਾ ਦਿਓ. ਖਾਸ ਕਰਕੇ ਬੁਜ਼ੁਰਗਾਂ ਦੇ ਨੇੜੇ ਨਾ ਜਾਓ.",
+            "id": 3274,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Until you know your swab test results, reduce your contact with family members. Especially, try not to get near older people.",
+                "id": 178,
+                "summary": "Elderly"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

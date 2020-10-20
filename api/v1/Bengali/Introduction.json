@@ -1,0 +1,98 @@
+{
+    "count": 7,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/978c1affeb6db487d7213614f5d0d85c_RyJKj5W.mp3",
+            "content": "আমি ডাক্তার। আমি বাংলা বলতে পারি না। আমি আপনার সাথে এই ওয়েবসাইটের মাধ্যমে কথা বলব। যত সম্ভব তত আমাকে ইংরেজীতে উত্তর দেন।",
+            "id": 1,
+            "language": "Bengali",
+            "phrase": {
+                "content": "I am a doctor. I do not speak your language. I will communicate with you using this website. Answer me in English as much as possible. Thank you.",
+                "id": 1,
+                "summary": "Intro"
+            },
+            "romanized": "Aami Daktar. Ami Bangla Bolteh Paree Naa. Aami Apnar Sha-the Ei Website er maddho-me kotha bolbo.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_1.m4a",
+            "content": "আপনার নাম কি?",
+            "id": 2,
+            "language": "Bengali",
+            "phrase": {
+                "content": "What's your name?",
+                "id": 2,
+                "summary": "Name"
+            },
+            "romanized": "Apnar Naam Ki?",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1def234e9bf5cee88ea00a1192aff4e4.mp3",
+            "content": "আমাকে আপনার পরিচয়পত্র কিংবা ওয়ার্ক পারমিট দেন।",
+            "id": 3,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Please give me your Identity Card or Work Permit",
+                "id": 3,
+                "summary": "IC"
+            },
+            "romanized": "Amake apnar porichoy-potro kinba work permit den.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali.mp3",
+            "content": "আপনি কোন কোম্পানিতে কাজ করেন?",
+            "id": 4,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Which company are you employed under / work for?",
+                "id": 4,
+                "summary": "Company"
+            },
+            "romanized": "Apni kon company-te kaaj koren?",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_1.mp3",
+            "content": "আপনার সুপারভাইজারের নাম এবং ফোন নাম্বার কি?",
+            "id": 5,
+            "language": "Bengali",
+            "phrase": {
+                "content": "What is your supervisor’s name and contact number?",
+                "id": 5,
+                "summary": "Supervisor"
+            },
+            "romanized": "Apnar supervisor-er naam ebong phone number ki?",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_2.mp3",
+            "content": "আপনি সিঙ্গাপুরে যে জায়গাতে থাকেন তার নাম কি?",
+            "id": 6,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Where do you live in Singapore?",
+                "id": 6,
+                "summary": "Residence"
+            },
+            "romanized": "Apni Singapore-e jei jaegaate thaken taar naam ki?",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_3.mp3",
+            "content": "আপনার কি কোনো বন্ধু ওখানে থাকেন যার কোভিড সংক্রমণ হয়েছে?",
+            "id": 7,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Do you know if any infected patients are from your area?",
+                "id": 7,
+                "summary": "Cluster"
+            },
+            "romanized": "Apnar ki kono bondhu okhane thaken jaar COVID shong-kromon hoyeche?",
+            "special_note": ""
+        }
+    ]
+}

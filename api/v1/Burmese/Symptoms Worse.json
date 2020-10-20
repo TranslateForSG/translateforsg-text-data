@@ -1,0 +1,46 @@
+{
+    "count": 3,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/cdbfc9c69003e3fc4a6eda60eb88d4b1.m4a",
+            "content": "ကျေးဇူးပြုပြီး အများပြည်သူသုံးတဲ့ လိုင်းကားတွေစီးခြင်းကို ရှောင်ပေးပါ။",
+            "id": 2350,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Please avoid public transport.",
+                "id": 166,
+                "summary": "Transport"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/550fc43c463d3ab64750b757b6b1179b.m4a",
+            "content": "သင်တစ်ဦးတည်းစီးမယ့် တက်စီ ဒါမှမဟုတ် ကားတစ်စီးကို သပ်သပ်ငှားထားသင့်ပါတယ်။",
+            "id": 2351,
+            "language": "Burmese",
+            "phrase": {
+                "content": "You can take your own private transport, a taxi or a private hire car.",
+                "id": 167,
+                "summary": "Take Taxi"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/251eb01bd83952146050960fe37aa477.m4a",
+            "content": "သင့်အနေနဲ့ အရေးပေါ်အခြေအနေနဲ့ရင်ဆိုင်ရရင် ၉၉၅ ကိုဖုန်းခေါ်ပြီး လူနာတင်ယာဉ်အားခေါ်နိုင်ပါတယ်။ သင့်အနေနဲ့ ဖုန်းခေါ်တဲ့အခါ သင်ကိုရိုနာဗိုင်းရပ်စ် စစ်ဆေးထားတယ်ဆိုတာနဲ့ သင့်ရဲ့ခရီးသွားမှတ်တမ်းကို ပြောပြဖို့လိုပါတယ်။",
+            "id": 2370,
+            "language": "Burmese",
+            "phrase": {
+                "content": "In an emergency situation, call 995 for an ambulance. Inform the ambulance operator that you were recently tested for COVID-19 and also tell them your travel history.",
+                "id": 187,
+                "summary": "Ambulance"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

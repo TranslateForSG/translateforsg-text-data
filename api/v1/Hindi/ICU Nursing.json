@@ -1,0 +1,111 @@
+{
+    "count": 8,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/402235cff67b015e3d5ddc898b612e6f.mp3",
+            "content": "बाएँ मुड़ें",
+            "id": 399,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Turn left",
+                "id": 102,
+                "summary": "​Turn left"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/bd429868ef7d4261fab611492ff544db.mp3",
+            "content": "दायें मुड़ो",
+            "id": 400,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Turn right",
+                "id": 103,
+                "summary": "Turn right"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c36165bd369a44f7761d21c6b7403009.mp3",
+            "content": "हम आपके डायपर बदल देंगे",
+            "id": 401,
+            "language": "Hindi",
+            "phrase": {
+                "content": "We will change your diapers",
+                "id": 104,
+                "summary": "We will change your diapers"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/51b09832b984998c211027885a3480dd_T3ktvEn.mp3",
+            "content": "अपने पैर को ऊपर उठाएं",
+            "id": 402,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Lift up your leg",
+                "id": 105,
+                "summary": "Lift up your leg"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ea1bfa3a623f9fc2dbe435fc20777d8a.mp3",
+            "content": "हम आपको बैठने जा रहे हैं",
+            "id": 403,
+            "language": "Hindi",
+            "phrase": {
+                "content": "We are going to sit you up",
+                "id": 106,
+                "summary": "We are going to sit you up"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3cbe1a5eefc703f96230ad6f69dc4197.mp3",
+            "content": "हम आपको बिस्तर पर स्थानांतरित करने जा रहे हैं",
+            "id": 404,
+            "language": "Hindi",
+            "phrase": {
+                "content": "We are going to shift you up the bed",
+                "id": 107,
+                "summary": "Shift head"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a9e99024013db4f2a5baf3ae1bb1a408.mp3",
+            "content": "हम आपका मुंह साफ करने जा रहे हैं",
+            "id": 405,
+            "language": "Hindi",
+            "phrase": {
+                "content": "We are going to clean your mouth",
+                "id": 108,
+                "summary": "Clean mouth"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4d0748c444c568f28204e2bbabb30427.mp3",
+            "content": "गदल को मत निगलो",
+            "id": 406,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Do not swallow the gargle",
+                "id": 109,
+                "summary": "Dont swallow"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

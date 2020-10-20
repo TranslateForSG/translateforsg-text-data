@@ -1,0 +1,46 @@
+{
+    "count": 3,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/79298400799e6c8e2521e6ca244b3232.mp3",
+            "content": "Manatili sa isang hiwalay na silid sa bahay. Pinakamabuti kung ang silid ay may nakalakip na banyo. Ito ay upang mabawasan ang pakikipag-ugnay sa ibang mga miyembro ng bahay. Kung gumagamit ka ng isang ibinahaging banyo, kailangang malinis ang banyo bago o pagkatapos mong gamitin.",
+            "id": 1894,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Stay in a separate room at home. It is best if the room has an attached bathroom. This is to reduce contact with the other members of the house. If you are using a shared bathroom, the bathroom needs to be cleaned before or after you use it.",
+                "id": 176,
+                "summary": "Separate"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ac5dc66fe81f316ed694343fd22679b3.mp3",
+            "content": "Mag-ayos para sa pagkain, tubig, at iba pang mga supply upang mailagay sa labas ng iyong silid. Kailangan mong dalhin ang iyong mga item sa iyong silid.",
+            "id": 1895,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Arrange for food, water, and other supplies to be placed outside your room. You yourself have to bring those items into your room.",
+                "id": 177,
+                "summary": "Arrange"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/cf46c552d22285f840b4d3616eb887e8.mp3",
+            "content": "Hanggang sa malaman mo ang iyong mga resulta ng pagsubok sa pamunas, bawasan ang iyong pakikipag-ugnay sa mga miyembro ng pamilya. Lalo na, subukang huwag lumapit sa mga matatandang tao.",
+            "id": 1896,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Until you know your swab test results, reduce your contact with family members. Especially, try not to get near older people.",
+                "id": 178,
+                "summary": "Elderly"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

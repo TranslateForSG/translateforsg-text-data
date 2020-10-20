@@ -1,0 +1,85 @@
+{
+    "count": 6,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5424f4bd8a7ebe619859c5fae0bc3e0d.mp3",
+            "content": "Trong 14 ngày qua, bạn có gặp ai bị coronavirus không?",
+            "id": 1311,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "In the last 14 days, did you meet anyone who has coronavirus?",
+                "id": 9,
+                "summary": "People"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/dbdcbd4127d8685354d993afe5ef1615.mp3",
+            "content": "Có bao nhiêu người đang ở trong cùng một phòng với bạn?",
+            "id": 1312,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "How many people are staying in the same room as you?",
+                "id": 8,
+                "summary": "Room"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/2f5080986076d8231b2f5da179524885.mp3",
+            "content": "WHO? Mối quan hệ của bạn với họ là gì?",
+            "id": 1313,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Who? What is your relationship with them?",
+                "id": 10,
+                "summary": "People Meet"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0e2dac3804dda3cd1c4cad9985890aab.mp3",
+            "content": "Bạn đã gặp họ bao nhiêu ngày trước?",
+            "id": 1314,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "How many days ago did you meet them?",
+                "id": 11,
+                "summary": "People Meet"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/28727cbd1145c6367adac7c6eafa1ccb.mp3",
+            "content": "Bạn ở với anh ấy / cô ấy bao lâu?",
+            "id": 1315,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "How long were you with him/her?",
+                "id": 12,
+                "summary": "People Meet"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ed49d982eb2a150c15ef855867ee82e3.mp3",
+            "content": "Trong 14 ngày qua, bạn có đi du lịch Singapore không? Nếu có, cho chúng tôi biết các nước bằng tiếng Anh.",
+            "id": 1316,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "In the last 14 days, did you travel out of Singapore? If yes, tell us the countries in English.",
+                "id": 13,
+                "summary": "14 Days Travel"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

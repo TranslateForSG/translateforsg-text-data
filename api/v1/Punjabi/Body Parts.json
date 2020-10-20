@@ -1,0 +1,163 @@
+{
+    "count": 12,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": null,
+            "content": "ਸਿਰ",
+            "id": 3237,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Head",
+                "id": 114,
+                "summary": "Head"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਅੱਖਾਂ",
+            "id": 3238,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Eyes",
+                "id": 115,
+                "summary": "Eyes"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਕੰਨ",
+            "id": 3239,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Ears",
+                "id": 116,
+                "summary": "Ears"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਨੱਕ",
+            "id": 3240,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Nose",
+                "id": 117,
+                "summary": "Nose"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਮੂੰਹ",
+            "id": 3241,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Mouth",
+                "id": 118,
+                "summary": "Mouth"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਗਲਾ",
+            "id": 3242,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Throat",
+                "id": 119,
+                "summary": "Throat"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਛਾਤੀ",
+            "id": 3243,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Chest",
+                "id": 120,
+                "summary": "Chest"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਪੇਟ",
+            "id": 3244,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Abdomen",
+                "id": 121,
+                "summary": "Abdomen"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਪਿੱਠ",
+            "id": 3245,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Back",
+                "id": 122,
+                "summary": "Back"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਹੱਥ ਜਾਂ ਬਾਂਹ",
+            "id": 3246,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Hand or Arm",
+                "id": 123,
+                "summary": "Arms"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਲੱਤਾਂ",
+            "id": 3247,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Legs",
+                "id": 124,
+                "summary": "Legs"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਪੈਰ",
+            "id": 3248,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Feet",
+                "id": 125,
+                "summary": "Feet"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

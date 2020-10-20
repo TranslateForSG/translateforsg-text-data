@@ -1,0 +1,176 @@
+{
+    "count": 13,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/65b0c46521d127b470a93e6dd8c1a15f.mp3",
+            "content": "Ada sakit kronik tak? Apa penyakit tersebut?",
+            "id": 969,
+            "language": "Malay",
+            "phrase": {
+                "content": "Do you have any past medical history?",
+                "id": 28,
+                "summary": "Medical History"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/537b0d6552a1d3ee6c457b6cc27c08f0.mp3",
+            "content": "Tunjukkan yang mana",
+            "id": 970,
+            "language": "Malay",
+            "phrase": {
+                "content": "Point to which ones.",
+                "id": 29,
+                "summary": "Symptoms"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7b91a1d642f5edefe071cfbcb22a87c7.mp3",
+            "content": "Semput",
+            "id": 971,
+            "language": "Malay",
+            "phrase": {
+                "content": "Asthma",
+                "id": 30,
+                "summary": "Asthma"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/efe5dd74bb01be6119145af81e899111.mp3",
+            "content": "Radang paru-paru",
+            "id": 972,
+            "language": "Malay",
+            "phrase": {
+                "content": "Pneumonia",
+                "id": 31,
+                "summary": "Pneumonia"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0f5304dcd3eccaef7f8f00eb74b140ce.mp3",
+            "content": "Tekanan darah tinggi",
+            "id": 973,
+            "language": "Malay",
+            "phrase": {
+                "content": "Hypertension",
+                "id": 32,
+                "summary": "Hypertension"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/908f3a72ce72834ad94c2b7a8e4f32bd.mp3",
+            "content": "Kolesterol tinggi",
+            "id": 974,
+            "language": "Malay",
+            "phrase": {
+                "content": "Hyperlipidemia / Cholesterol",
+                "id": 33,
+                "summary": "Hyperlipidemia"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/34154e99ee93558e174272e669704856.mp3",
+            "content": "Kencing manis",
+            "id": 975,
+            "language": "Malay",
+            "phrase": {
+                "content": "Diabetes",
+                "id": 34,
+                "summary": "Diabetes"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c73e508aaa147394fa6218c72d464f9c.mp3",
+            "content": "Masalah jantung",
+            "id": 976,
+            "language": "Malay",
+            "phrase": {
+                "content": "Heart problems",
+                "id": 35,
+                "summary": "Heart problems"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/540b3166a588d7ad26e5ee0ba03dd42e.mp3",
+            "content": "Masalah buah pinggang / ginjal",
+            "id": 977,
+            "language": "Malay",
+            "phrase": {
+                "content": "Kidney problems",
+                "id": 36,
+                "summary": "Kidney problems"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/700cda887d377bf97a277d4c5dd5a4ba.mp3",
+            "content": "Ada alahan ubat (atau ubat yang tidak boleh dimakan)?",
+            "id": 978,
+            "language": "Malay",
+            "phrase": {
+                "content": "Do you have a drug allergy?",
+                "id": 37,
+                "summary": "Drug allergy"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/322360724fc85eb02c5b1470100cc404.mp3",
+            "content": "Ada hisap rokok tak? Kalau ya, berapa batang sehari?",
+            "id": 979,
+            "language": "Malay",
+            "phrase": {
+                "content": "Do you smoke? If yes, how many cigarettes a day?",
+                "id": 38,
+                "summary": "Smoke"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c599c179fdf7eb8e83643e34cd3aba9a.mp3",
+            "content": "Ada ambil minuman keras? Kalau ya, berapa banyak? (jumlah botol seminggu, jenis minuman alkohol apa)",
+            "id": 980,
+            "language": "Malay",
+            "phrase": {
+                "content": "Do you drink? If yes, how much (number of bottles a week, type of alcohol)?",
+                "id": 39,
+                "summary": "Drink Alcohol"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/cea8815bc1a00e159ae308fcc4005b46.mp3",
+            "content": "Kalau ada masalah lain, anda boleh beritahu kami dalam Bahasa Inggeris.",
+            "id": 981,
+            "language": "Malay",
+            "phrase": {
+                "content": "If you have any other problems, you can tell me in English.",
+                "id": 42,
+                "summary": "Other Problems"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "count": 5,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3b6f13b5599f5fae4c9c37249da80c8d_OOw1tZT.mp3",
+            "content": "Eksaminin lang kita",
+            "id": 677,
+            "language": "Filipino",
+            "phrase": {
+                "content": "I’m going to examine you.",
+                "id": 43,
+                "summary": "Physical Exam Starts"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6a09ef28fd53b2567f93db3a09170f8c_nBIB6J4.mp3",
+            "content": "Sabihin mo kung may masakit",
+            "id": 678,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Tell me if you feel more pain.",
+                "id": 149,
+                "summary": "Tell if Pain"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a652f80a3192f1c0ed1e0e5e76a2fb15_3eHcsak.mp3",
+            "content": "Paki-tanggal ang iyong damit",
+            "id": 679,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Please remove your shirt.",
+                "id": 150,
+                "summary": "Remove Clothing"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/e87c62358d22723b2a9f0362133afe9c_k1mIjSq.mp3",
+            "content": "Huminga nang malalim gamit ang iyong bibig",
+            "id": 680,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Keep taking deep breaths through your mouth.",
+                "id": 44,
+                "summary": "Deep Breath"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/45fd180c13b3cf85b365276b9080155d_Hs3G9LS.mp3",
+            "content": "Sabihin ang \"99\" habang nakikinig ako gamit ang stethoscope ",
+            "id": 681,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Say \"99\" when I listen with my stethoscope.",
+                "id": 45,
+                "summary": "99"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

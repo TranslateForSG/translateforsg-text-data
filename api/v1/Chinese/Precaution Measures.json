@@ -1,0 +1,98 @@
+{
+    "count": 7,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/fd67731ba2eadb3bbfe48520ff28e43a.mp3",
+            "content": "请避免乘坐公共交通工具",
+            "id": 2018,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Please avoid public transport.",
+                "id": 166,
+                "summary": "Transport"
+            },
+            "romanized": "Qǐng bì miǎn chéng zuò gōng gòng jiāo tōng gōng jù",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d27dbdc221359c2037605a73b5255939.mp3",
+            "content": "你可以乘坐私人交通工具、德士或私召车",
+            "id": 2019,
+            "language": "Chinese",
+            "phrase": {
+                "content": "You can take your own private transport, a taxi or a private hire car.",
+                "id": 167,
+                "summary": "Take Taxi"
+            },
+            "romanized": "nǐ kě yǐ chéng zuò sī rén jiāo tōng gōng jù、\ndé shì huò sī zhào chē",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/2b139a3ad7efca0d3a374c985822750c.mp3",
+            "content": "请戴上口罩，独自坐在汽车后座。",
+            "id": 2020,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Wear a mask and sit alone in the back seat in the car.",
+                "id": 168,
+                "summary": "In Car"
+            },
+            "romanized": "Qǐng dài shàng kǒu zhào, dú zì zuò zài qì chē hòu zuò.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/9b8185724dcce553753aaf529168508b.mp3",
+            "content": "打开车窗，关闭冷气",
+            "id": 2021,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Open car windows and turn off air-conditioning.",
+                "id": 169,
+                "summary": "No AC"
+            },
+            "romanized": "Dǎ kāi chē chuāng, guān bì lěng qì",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a4ee46687f915a311ffef8871daa0d5f.mp3",
+            "content": "请向你的德士或私召车司机要求收据。如果您的冠状病毒检测报告为阳性，我们必须追踪所有和您接触过的人。收据会对我们很有帮助。",
+            "id": 2022,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Please safely keep the receipt from the taxi or private hire car. If your test results indicate you are infected, this will be needed.",
+                "id": 170,
+                "summary": "Receipt"
+            },
+            "romanized": "Qǐng xiàng nǐ de dé shì huò sī zhào chē sī jī yāo qiú shōu jù. Rú guǒ nín de guàn zhuàng bìng dú jiǎn cè bào gào wei yáng xìng, wǒ men bì xū zhuī zōng suǒ yǒu hé nín jiē chù guò de rén. Shōu jù huì duì wǒ men hěn yǒu bāng zhù.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/789b701a2b3213bbe27c2572f85fe1b1.mp3",
+            "content": "你自己要实行居家隔离。法律规定：除非是要处理与医疗相关的事, 这整个病假期间你不能离开家。",
+            "id": 2023,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Stay away from others. You must stay home and can not go outside while being on medical leave. You may only go out for health or medical reasons.",
+                "id": 171,
+                "summary": "Isolation"
+            },
+            "romanized": "nǐ zì jǐ yào shí xíng jū jiā gé lí. Fǎ lǜ guī dìng: Chú fēi shì yào chǔ lǐ yǔ yī liáo xiāng guān de shì, zhè zhěng gè bìng jià qí jiān nǐ bù néng lí kāi jiā.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/550a62371561b55aa136ece4a8bcfd77.mp3",
+            "content": "在还没获得您的冠状病毒测试结果之前，如果您需要去看医生或复诊，请通知医护人员您近期验过冠状病毒，而且有什么症状。在预约日期前，您也应该拨打6344 8222 通知人民协会。",
+            "id": 2024,
+            "language": "Chinese",
+            "phrase": {
+                "content": "If you need to go for any medical appointment before you get your test result, be careful. Tell the doctor, nurse, or other staff that you were recently tested for COVID-19. Also, tell them about your symptoms. Before the day, you should call 6344 8222 to inform them.",
+                "id": 172,
+                "summary": "Medical Appointment"
+            },
+            "romanized": "Zài hái méi huò dé nín de guàn zhuàng bìng dú cè shì jié guǒ zhī qián, rú guǒ nín xū yào qù kàn yī shēng huò fù zhěn, qǐng tōng zhī yī hù rén yuán nín jìn qí yàn guò guàn zhuàng bìng dú, ér qiě yǒu shé me zhèng zhuàng. Zài yù yuē rì qí qián, nín yě yīng gāi bō dǎ 6344 8222 tōng zhī rén mín xié huì.",
+            "special_note": ""
+        }
+    ]
+}

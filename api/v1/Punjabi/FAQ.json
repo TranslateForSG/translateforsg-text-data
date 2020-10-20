@@ -1,0 +1,150 @@
+{
+    "count": 11,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": null,
+            "content": "“ਕੋਵਿਡ -19 ਕੀ ਹੈ? \n\nਕੋਵਿਡ -19 (ਕੋਰੋਨਵਾਇਰਸ) ਇੱਕ ਬਿਮਾਰੀ ਹੈ ਜੋ ਚੀਨ ਦੇ ਵੁਹਾਨ ਸ਼ਹਿਰ ਤੋਂ ਸ਼ੁਰੂ ਹੋਈ, ਇਹ ਸਾਹ ਦੀ ਬਿਮਾਰੀ ਹੈ. \"",
+            "id": 3291,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "What is COVID-19?\r\n\r\nCOVID-19 (more specifically, a coronavirus) is an illness that started from the Wuhan City in China, it is a respiratory illness.",
+                "id": 155,
+                "summary": "What COVID"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਕੋਵਿਡ -19 ਦੇ ਲੱਛਣ ਕੀ ਹਨ? \n\n ਬੁਖਾਰ, ਥਕਾਵਟ ਅਤੇ ਖੁਸ਼ਕ ਖੰਘ ਸਭ ਤੋਂ ਆਮ ਲੱਛਣ ਹਨ. \n\nਕੁਝ ਮਰੀਜ਼ਾਂ ਵਿਚ ਨੱਕ ਵਗਣਾ, ਗਲੇ ਦੀ ਖਰਾਸ਼ ਜਾਂ ਦਸਤ ਦੇ ਲੱਛਣ ਵੀ ਹੁੰਦੇ ਹਨ. ਇਹ ਲੱਛਣ ਆਮ ਤੌਰ 'ਤੇ ਹਲਕੇ ਹੁੰਦੇ ਹਨ. ਕੁਝ ਲੋਕ ਸੰਕਰਮਿਤ ਹੋ ਜਾਂਦੇ ਹਨ ਪਰ ਉਨ੍ਹਾਂ ਵਿਚ ਕੋਈ ਲੱਛਣ ਨਹੀਂ ਹੁੰਦੇ. ਇਹ ਫੇਫੜੇ ਵਿੱਚ ਰੇਸ਼ਾ ਜੰਮਣ ਨਾਲ ਜਾਂ ਨਮੂਨੀਆ ਕਾਰਨ ਵੀ ਹੋ ਸਕਦਾ ਹੈ.",
+            "id": 3292,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "What are the symptoms of COVID-19?\r\n\r\nThe most common symptoms are fever, tiredness and dry cough. Some patients also have a runny nose, sore throat or diarrhea. These symptoms are usually mild.\r\n\r\nSome people become infected but do not have any symptoms.\r\n\r\nHowever, it also can be caused by a lung infection or pneumonia.",
+                "id": 156,
+                "summary": "What are the symptoms of COVID-19?"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "“ਕੌਵੀਡ -19 ਕਿਸ ਤਰ੍ਹਾਂ ਫੈਲਦੀ ਹੈ?\n\n ਪਹਿਲਾਂ ਤੋਂ ਹੀ COVID-19 ਤੋਂ ਸੰਕਰਮਿਤ ਵਿਅਕਤੀ ਦੁਆਰਾ ਦੂਜੇ ਲੋਕ ਸੰਕਰਮਿਤ ਹੋ ਸਕਦੇ ਹਨ. ਇਹ ਵਾਇਰਸ ਖੰਘ ਅਤੇ ਛਿੱਕ ਰਾਹੀਂ ਫੈਲਦਾ ਹੈ. ਵਾਇਰਸ ਮੂੰਹ ਤੋਂ ਥੁੱਕ, ਜੂਠੀਆਂ ਪਲੇਟਾਂ, ਚੱਮਚ ਅਤੇ ਕਾਂਟੇ ਨਾਲ ਵੀ ਫੈਲ ਸਕਦਾ ਹੈ। ”",
+            "id": 3293,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "How does COVID-19 spread?\r\n\r\nPeople can be infected by other persons already infected with COVID-19. The virus spreads through cough and sneezing. The virus can also spread with saliva from the mouth, used plates, spoons, and forks.",
+                "id": 157,
+                "summary": "COVID Spread"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "“ਕੋਵਿਡ -19 ਦਾ ਟੈਸਟ ਕੀ ਹੈ?\n\n ਇਹ ਇੱਕ ਸਵੈਬ ਟੈਸਟ ਹੈ. ਤੁਹਾਡੇ ਨੱਕ ਵਿਚ ਜਾਂ ਤੁਹਾਡੇ ਗਲ਼ੇ ਦੇ ਪਿਛਲੇ ਹਿੱਸੇ ਵਿਚ ਇੱਕ ਰੂੰ ਦਾ ਤੂੰਬਾ ਪਾਇਆ ਜਾਵੇਗਾ. ਇਸ ਨੂੰ ਲਗਭਗ 10 ਸਕਿੰਟ ਲੱਗਣਗੇ. ਥੋੜ੍ਹੀ ਜਿਹੀ ਬੇਅਰਾਮੀ ਹੋ ਸਕਦੀ ਹੈ, ਪਰ ਇਹ ਬਹੁਤਾ ਕਸ਼ਟਦਾਇਕ ਨਹੀਂ ਹੁੰਦਾ I\"",
+            "id": 3294,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "What is the test for COVID-19?\r\n\r\nIt is a swab test. A swab will be inserted in your nostrils or at the back of your throat. It will last about 10 seconds. There might be a slight discomfort, however, it is not too painful.",
+                "id": 158,
+                "summary": "COVID-19 Test"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਜੇ ਮੈਨੂੰ COVID-19 ਹੋ ਜਾਂਦਾ ਹੈ ਫੇਰ ਕੀ ਹੋਵੇਗਾ? \n\nਅਧਿਕਾਰੀਆਂ ਦੁਆਰਾ ਤੁਹਾਡੇ ਰਹਿਣ ਦਾ ਵੱਖਰਾ ਪ੍ਰਬੰਧ ਕੀਤਾ ਜਾਵੇਗਾ ਜਾਂ ਤੁਹਾਨੂੰ ਹਸਪਤਾਲ ਵਿੱਚ ਦਾਖ਼ਲ ਕੀਤਾ ਜਾਵੇਗਾ. ਉਹ ਤੁਹਾਡੀ ਨਿਗਰਾਨੀ ਕਰਨਗੇ ਕੀ ਤੁਹਾਡੀ ਸਿਹਤ ਵਿੱਚ ਸੁਧਾਰ ਹੋ ਰਿਹਾ ਹੈ ਕੇ ਨਹੀਂ.  \n\nਐਕਸ-ਰੇ ਜਾਂ ਖੂਨ ਦੀ ਜਾਂਚ ਕਰਨ ਦੀ ਜ਼ਰੂਰਤ ਵੀ ਹੋ ਸਕਦੀ ਹੈ. ਆਮ ਤੌਰ 'ਤੇ, ਹਰ 24 ਘੰਟਿਆਂ ਵਿੱਚ ਤੁਹਾਡਾ ਸਵਾਬ ਟੈਸਟ ਕੀਤਾ ਜਾਵੇਗਾ. ਜੇ ਤੁਹਾਡਾ ਟੈਸਟ ਦਾ ਨਤੀਜਾ ਲਗਾਤਾਰ ਦੋ ਵਾਰ ਨਕਾਰਾਤਮਕ ਹੁੰਦਾ ਹੈ, ਤਾਂ ਤੁਹਾਨੂੰ ਘਰ ਭੇਜ ਦਿੱਤਾ ਜਾਵੇਗਾ. ਪਰ ਘਰ ਜਾਣ ਤੋਂ ਬਾਅਦ, ਤੁਹਾਨੂੰ 2 ਹਫਤਿਆਂ ਲਈ ਹਰੇਕ ਤੋਂ ਅਲੱਗ ਰਹਿਣਾ ਪਏਗਾ. \"",
+            "id": 3295,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "What if I have COVID-19?\r\n\r\nAuthority will make separate living arrangements for you or admit you to a hospital. They will monitor your health, whether it is improving or not. X-ray or blood test may also be needed. Usually, they will test your swab every 24 hours. If your test is negative twice in a row, you will be released. But after going home, you have to stay separate from everyone for 2 weeks.",
+                "id": 159,
+                "summary": "COVID-19 Positive"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਜੇ ਮੈਨੂੰ ਹੈ ਤਾਂ ਕੀ ਮੈਂ ਮੱਰ ਜਾਵਾਂਗਾ? \n\nਕੋਵਿਡ -19 ਤੁਹਾਨੂੰ ਤੇ ਤੁਹਾਡੇ ਪਰਿਵਾਰ ਨੂੰ ਚਿੰਤਤ ਕਰ ਸਕਦਾ ਹੈ. ਪਰ 80% ਸਮਾਂ ਇਹ ਸੰਕ੍ਰਮਣ ਬਹੁਤ ਹਲਕੇ ਹੁੰਦੇ ਹਨ ਤੇ ਇਹਨਾਂ ਨੂੰ ਕਿਸੇ ਇਲਾਜ ਦੀ ਲੋੜ ਨਹੀਂ ਪੈਂਦੀ. ਉਹ ਜੋ ਬੁਜ਼ੁਰਗ ਹਨ ਤੇ ਜਿੰਨਾ ਨੂੰ ਪਹਿਲਾਂ ਤੋਂ ਹੀ ਕੋਈ ਬਿਮਾਰੀ ਹੈ ਓਹਨਾ ਨੂੰ ਨੁਕਸਾਨ ਹੋਣ ਦਾ ਥੋੜਾ ਜਿਹਾ ਖ਼ਤਰਾ ਹੈ. ਤੇ ਸਿਰਫ 5% ਮਰੀਜ਼ਾਂ ਨੂੰ ਸਾਹ ਲੈਣ ਵਿੱਚ ਸਹਾਇਤਾ ਲਈ ICU ਦੀ ਜ਼ਰੂਰਤ ਪੈਂਦੀ ਹੈ. \"",
+            "id": 3296,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Will I die if I have COVID-19?\r\n\r\nCOVID-19 may make you and your family worried. However, 80% of the time, COVID-19 infections are mild. They do not even need any treatment. There is a slight risk of damage to those who are old or have other health problems. Only 5% of patients need ICU for helping them breathe.",
+                "id": 160,
+                "summary": "Die COVID-19"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਕੀ ਕੋਵਿਡ -19 ਦਾ ਕੋਈ ਇਲਾਜ਼ ਹੈ? \n\nਕੋਵੀਡ -19 ਦੇ ਜ਼ਿਆਦਾਤਰ ਮਰੀਜ਼ਾਂ ਨੂੰ ਕਿਸੇ ਇਲਾਜ ਦੀ ਜ਼ਰੂਰਤ ਨਹੀਂ ਹੁੰਦੀ. ਉਨ੍ਹਾਂ ਨੂੰ ਸਿਰਫ ਖਾਂਸੀ, ਬੁਖਾਰ ਅਤੇ ਹੋਰ ਲੱਛਣਾਂ ਲਈ ਦਵਾਈ ਦੀ ਜ਼ਰੂਰਤ ਹੁੰਦੀ ਹੈ. ਹਾਲਾਂਕਿ, 5% ਮਰੀਜ਼ ਜੋ ਬਹੁਤ ਬਿਮਾਰ ਹੋ ਜਾਂਦੇ ਹਨ, ਉਹਨਾਂ ਲਈ ਅਜੇ ਕੋਈ ਪੱਕਾ ਇਲਾਜ ਨਹੀਂ ਹੈ. ਹਾਲਾਂਕਿ, ਅਸੀਂ ਇਲਾਜ ਦੀ ਖੋਜ ਦੇ ਬਹੁਤ ਨੇੜੇ ਹਾਂ. ਡਰੋ ਨਾਂ. ਜੇ ਤੁਹਾਨੂੰ ਸਾਹ ਲੈਣ ਵਿਚ ਮੁਸ਼ਕਲ ਆਉਂਦੀ ਹੈ ਤਾਂ ਅਸੀਂ ਸਾਹ ਲੈਣ ਵਿਚ ਤੁਹਾਡੀ ਮਦਦ ਕਰਨ ਲਈ ਇਕ ਮਸ਼ੀਨ ਦੀ ਵਰਤੋਂ ਕਰਾਂਗੇ. ਅਸੀਂ ਤੁਹਾਨੂੰ ਬਲੱਡ ਪ੍ਰੈਸ਼ਰ ਲਈ ਦਵਾਈ ਦੇਵਾਂਗੇ.",
+            "id": 3297,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Is there a treatment for COVID-19?\r\n\r\nMost patients of COVID-19 do not need any treatment. They only need medicine for cough, fever and other symptoms. However, for 5% of the patients who are very ill, there are no proven treatments. However, we are very near to discovering treatment. Do not be afraid. If you have problems breathing we will use a machine to help you breathe. We will give you medicine for blood pressure.",
+                "id": 161,
+                "summary": "COVID-19 Treatment"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਇਲਾਜ ਲਈ ਮੈਨੂੰ ਕਿੰਨਾ ਭੁਗਤਾਨ ਕਰਨਾ ਪਏਗਾ?\n\nਸਿੰਘਾਪੁਰ ਸਰਕਾਰ ਦੀ ਘੋਸ਼ਣਾ ਦੇ ਅਨੁਸਾਰ, ਜੇ ਤੁਸੀਂ ਸਿੰਘਾਪੁਰ ਦੇ ਸਿਟੀਜ਼ਨ ਹੋ, ਜਾਂ ਪੀ ਆਰ ਹੋ, ਜਾਂ ਲੰਬੇ ਸਮੇਂ ਲਈ ਪਾਸ ਧਾਰਕ ਹੋ, ਤਾਂ ਸਰਕਾਰ ਬਿੱਲਾਂ ਦਾ ਭੁਗਤਾਨ ਕਰੇਗੀ. ਜੇ ਤੁਹਾਡੇ ਕੋਲ ਵਰਕ ਪਰਮਿਟ ਹੈ, ਤਾਂ ਵੀ ਸਰਕਾਰ ਭੁਗਤਾਨ ਕਰੇਗੀ. ਪਰ, ਜੇ ਤੁਸੀਂ 27 ਮਾਰਚ 2020 ਤੋਂ ਬਾਅਦ ਸਿੰਗਾਪੁਰ ਤੋਂ ਬਾਹਰ ਚਲੇ ਗਏ ਹੋ ਅਤੇ ਵਾਪਸ ਆਉਣ ਦੇ 14 ਦਿਨਾਂ ਦੇ ਅੰਦਰ ਅੰਦਰ ਦਾਖਲ ਹੋ ਜਾਂਦੇ ਹੋ, ਤਾਂ ਸਰਕਾਰ ਤੁਹਾਡੇ ਬਿੱਲਾਂ ਦਾ ਭੁਗਤਾਨ ਨਹੀਂ ਕਰੇਗੀ.",
+            "id": 3298,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "How much will I have to pay for Treatment?\r\n\r\nAccording to the announcement of the Singapore Government, if you are a citizen of Singapore, or a permanent resident, or a long term pass holder, the government will pay. So even if you have a work permit, the government will pay. But, if you went out of Singapore after 27 March 2020 and get admitted within 14 days of returning, the government will not pay your bills.",
+                "id": 162,
+                "summary": "Treatment Cost"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਮੈਂ ਕੰਮ ਨਾ ਕਰਨ ਬਾਰੇ ਚਿੰਤਤ ਹਾਂ. ਕੀ ਮੈਂ ਆਪਣੀ ਨੌਕਰੀ ਗੁਆ ਦੇਵਾਂਗਾ? \n\nਤੁਹਾਡੇ ਮਾਲਕ ਦੁਆਰਾ ਕਾੰਨੂਨੀ ਤੌਰ ਤੇ ਤੁਹਾਡੇ ਇਲਾਜ ਦੀ ਇਜਾਜ਼ਤ ਦੇਣੀ ਪੈਂਦੀ ਹੈ. ਮਾਲਕ ਨੂੰ ਤੁਹਾਡੀ ਤਨਖਾਹ ਅਦਾ ਕਰਨੀ ਪੈਂਦੀ ਹੈ ਭਾਵੇਂ ਤੁਸੀਂ ਇਸ ਵੇਲੇ ਕੰਮ ਨਹੀਂ ਕਰ ਰਹੇ. ਜੇ ਤੁਹਾਡੀ ਤਨਖਾਹ ਸਮੇਂ ਸਿਰ ਅਦਾ ਨਹੀਂ ਕੀਤੀ ਜਾਂਦੀ, ਤਾਂ ਸਿੰਗਾਪੁਰ ਸਰਕਾਰ ਤੁਹਾਡੇ ਮਾਲਕ ਵਿਰੁੱਧ ਕਾਨੂੰਨੀ ਕਾਰਵਾਈ ਕਰ ਸਕਦੀ ਹੈ.",
+            "id": 3299,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "I am worried about not working. Will I lose my job?\r\n\r\nYour employer has to allow your treatment by the law. The employer has to pay your salary even if you cannot work now.  If your salary is not paid timely, the Singapore Government can take action against the employer.",
+                "id": 163,
+                "summary": "Job Loss"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਮੈਂ ਡਰਿਆ ਹੋਇਆ ਹਾਂ ਅਤੇ ਮੈਂ ਘਰ ਜਾਣਾ ਚਾਹੁੰਦਾ ਹਾਂ.\n\n ਇਸ ਸਮੇਂ ਦੌਰਾਨ ਡਰਨਾ ਅਤੇ ਚਿੰਤਤ ਹੋਣਾ ਸੁਭਾਵਕ ਹੈ.\n\n ਤੁਹਾਨੂੰ ਆਪਣੇ ਪਰਿਵਾਰ ਦੀ ਸੁਰੱਖਿਆ ਲਈ ਡਾਕਟਰਾਂ ਅਤੇ ਸਰਕਾਰ ਦੀਆਂ ਹਦਾਇਤਾਂ ਦੀ ਪਾਲਣਾ ਕਰਨੀ ਚਾਹੀਦੀ ਹੈ. ਸਿੰਗਾਪੁਰ ਸਰਕਾਰ ਵਲੋਂ ਅਜਿਹੇ ਪ੍ਰਬੰਧ ਕੀਤੇ ਗਏ ਹਨ, ਤਾਂਕਿ ਅਸੀਂ ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਤੁਹਾਡਾ ਇਲਾਜ ਕਰ ਸਕੀਏ. ਇਥੇ ਸਿੰਗਾਪੁਰ ਵਿੱਚ ਚੰਗੇ ਹਸਪਤਾਲ ਅਤੇ ਇਲਾਜ ਹਨ. ਅਸੀਂ ਤੁਹਾਨੂੰ ਸਭ ਤੋਂ ਵਧੀਆ ਇਲਾਜ ਦੇਣ ਦੀ ਪੂਰੀ ਕੋਸ਼ਿਸ਼ ਕਰਾਂਗੇ.",
+            "id": 3300,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "I am scared and I want to go home.\r\n\r\nIt is natural to be scared and anxious during this period.\r\n\r\nYou must follow the instructions of doctors and the Government for the safety of your family. The Singapore Government has made arrangements, so we can safely give you treatment. Singapore has good hospitals and treatment here. We will do our best to give you the best treatment possible.",
+                "id": 164,
+                "summary": "Scared"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਮੈਂ ਕੋਵਿਡ -19 ਦੇ ਸੰਕ੍ਰਮਣ ਨੂੰ ਕਿਵੇਂ ਰੋਕ ਸਕਦਾ ਹਾਂ?\n\nਸੰਕ੍ਰਮਣ ਦੇ ਜੋਖਮ ਨੂੰ ਘਟਾਉਣ ਲਈ ਤੁਸੀਂ ਜਿੰਨਾ ਗੱਲਾਂ ਦਾ ਧਿਆਨ ਰੱਖ ਸਕਦੇ ਹੋ ਉਹ ਇੰਜ ਹਨ : \n\n1. ਆਪਣੇ ਹੱਥ ਸਾਬਣ ਅਤੇ ਪਾਣੀ ਨਾਲ ਘੱਟੋ ਘੱਟ 20 ਸਕਿੰਟਾਂ ਲਈ ਚੰਗੀ ਤਰ੍ਹਾਂ ਧੋਵੋ.\n\n 2. ਅੱਖਾਂ, ਨੱਕ ਅਤੇ ਮੂੰਹ ਨੂੰ ਹੱਥ ਨਾ ਲਗਾਓ.\n\n 3. ਜਦੋਂ ਤੁਸੀਂ ਛਿੱਕ ਜਾਂ ਖਾਂਸੀ ਕਰਦੇ ਹੋ ਤਾਂ ਆਪਣੇ ਮੂੰਹ ਅਤੇ ਨੱਕ ਨੂੰ ਆਪਣੀ ਕੂਹਣੀ ਜਾਂ ਟਿਸ਼ੂ-ਪੇਪਰ ਨਾਲ ਢੱਕੋ.\n\n 4. ਆਪਣੇ ਅਤੇ ਕਿਸੇ ਦੂਜੇ ਵਿਅਕਤੀ ਵਿਚਕਾਰ ਘੱਟੋ ਘੱਟ 1 ਮੀਟਰ ਦੀ ਦੂਰੀ ਬਣਾਈ ਰੱਖਣਾ.\n\n 5. ਜੇ ਤੁਸੀ ਬਿਮਾਰ ਹੋ ਤਾਂ ਦੂਜਿਆਂ ਤੋਂ ਦੂਰ ਰਹੋ ਤੇ ਆਪਣੇ ਘਰ ਵਿੱਚ ਹੀ ਰਹੋ.",
+            "id": 3301,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "How can I prevent COVID-19 Infection?\r\n\r\nFortunately, there are some actions you can take to minimize the risk of infection. They are:\r\n\r\n1. Thoroughly washing your hands with soap and water for at least 20 seconds.\r\n2. Do not touch eyes, nose, and mouth.\r\n3. Covering your mouth and nose with your elbow or tissue when you cough or sneeze.\r\n4. Maintaining at least 1 meter distance between yourself and anyone else.\r\n5. Staying home if you feel unwell and keep away from others. If you have a fever, cough or breathing problem, please seek medical attention early.",
+                "id": 165,
+                "summary": "Prevention"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

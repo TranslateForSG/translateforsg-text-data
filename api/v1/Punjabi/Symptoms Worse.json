@@ -1,0 +1,72 @@
+{
+    "count": 5,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": null,
+            "content": "ਕਿਰਪਾ ਕਰਕੇ ਜਨਤਕ ਆਵਾਜਾਈ ਦੀ ਵਰਤੋਂ ਨਾ ਕਰੋ.",
+            "id": 3174,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Please avoid public transport.",
+                "id": 166,
+                "summary": "Transport"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਤੁਸੀਂ ਆਪਣੀ ਨਿੱਜੀ ਟ੍ਰਾਂਸਪੋਰਟ, ਟੈਕਸੀ ਜਾਂ ਨਿੱਜੀ ਕਿਰਾਏ ਦੀ ਕਾਰ ਲੈ ਸਕਦੇ ਹੋ.",
+            "id": 3175,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "You can take your own private transport, a taxi or a private hire car.",
+                "id": 167,
+                "summary": "Take Taxi"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਜੇ ਤੁਹਾਡੀ ਖਾਂਸੀ ਵੱਧ ਰਹੀ ਹੈ ਤੇ ਤੁਹਾਨੂੰ ਸਾਹ ਲੈਣ ਵਿਚ ਤਕਲੀਫ ਹੋ ਰਹੀ ਹੈ ਜਾਂ ਤੁਹਾਡਾ ਬੁਖਾਰ ਲਗਾਤਾਰ 38 ਡਿਗਰੀ ਤੋਂ ਉੱਪਰ ਹੈ",
+            "id": 3280,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "If your cough is getting worse and you feel breathless, or your fever is persistently above 38 degrees Celsius",
+                "id": 184,
+                "summary": "38C"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਫੇਰ ਤੁਸੀ ਇੱਕ ਸਰਜੀਕਲ ਮਾਸਕ ਪਹਿਨ ਕੇ ਸਾਡੇ ਐਮਰਜੈਂਸੀ ਵਿਭਾਗ ਵਿੱਚ ਆਓ.",
+            "id": 3281,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Wear a surgical mask and come to our Emergency Department.",
+                "id": 185,
+                "summary": "Mask"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਐਮਰਜੈਂਸੀ ਦੀ ਸਥਿਤੀ ਵਿੱਚ, 995 ਤੇ ਕਾਲ ਕਰਕੇ ਐਂਬੂਲੈਂਸ ਬੁਲਾਓ . ਐਂਬੂਲੈਂਸ ਚਲਾਕ ਨੂੰ ਸੂਚਿਤ ਕਰੋ ਕਿ ਤੁਹਾਡਾ ਹਾਲ ਹੀ ਵਿੱਚ COVID-19 ਲਈ ਟੈਸਟ ਕੀਤਾ ਗਿਆ ਸੀ ਅਤੇ ਉਨ੍ਹਾਂ ਨੂੰ ਹਾਲ ਹੀ ਵਿਚ ਕੀਤੀ ਆਪਣੀ ਹਰ ਯਾਤਰਾ ਬਾਰੇ ਸੂਚਿਤ ਕਰੋ.",
+            "id": 3282,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "In an emergency situation, call 995 for an ambulance. Inform the ambulance operator that you were recently tested for COVID-19 and also tell them your travel history.",
+                "id": 187,
+                "summary": "Ambulance"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

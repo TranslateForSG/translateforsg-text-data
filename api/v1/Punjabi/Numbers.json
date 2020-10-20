@@ -1,0 +1,150 @@
+{
+    "count": 11,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": null,
+            "content": "ਇੱਕ",
+            "id": 3249,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "1",
+                "id": 126,
+                "summary": "1"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਦੋ",
+            "id": 3250,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "2",
+                "id": 127,
+                "summary": "2"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਤਿੰਨ",
+            "id": 3251,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "3",
+                "id": 128,
+                "summary": "3"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਚਾਰ",
+            "id": 3252,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "4",
+                "id": 129,
+                "summary": "4"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਪੰਜ",
+            "id": 3253,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "5",
+                "id": 130,
+                "summary": "5"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਛੇ",
+            "id": 3254,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "6",
+                "id": 131,
+                "summary": "6"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਸੱਤ",
+            "id": 3255,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "7",
+                "id": 132,
+                "summary": "7"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਅੱਠ",
+            "id": 3256,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "8",
+                "id": 133,
+                "summary": "8"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਨੌਂ",
+            "id": 3257,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "9",
+                "id": 134,
+                "summary": "9"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਦੱਸ",
+            "id": 3258,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "10",
+                "id": 135,
+                "summary": "10"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਸਿਫ਼ਰ",
+            "id": 3259,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "0",
+                "id": 136,
+                "summary": "0"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

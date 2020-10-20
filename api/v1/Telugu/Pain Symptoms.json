@@ -1,0 +1,59 @@
+{
+    "count": 4,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5c9f9475b3ed823462f63076c34af691_LVTnX6e.mp3",
+            "content": "మీకు ఎక్కడైనా నొప్పి ఉందా?",
+            "id": 3017,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Are you in pain?",
+                "id": 110,
+                "summary": "Are you in pain?"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/2ca3202626cd8745d72af9c9b53d45aa_FHbuzwx.mp3",
+            "content": "నొప్పి ఎక్కడ ఉంది?",
+            "id": 3018,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Where is the pain?",
+                "id": 111,
+                "summary": "Where is the pain?"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/08540fdf56ad8b831b57ea96dc80a211_0uH89Sn.mp3",
+            "content": "కొOచెమా, మధ్యస్తమా, చాలా ఎక్కువగా వుOదా?",
+            "id": 3019,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Is it mild, moderate or severe?",
+                "id": 112,
+                "summary": "Is it mild, moderate or severe?"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/fa1a2d16116b5bb4ff10bc0dfc77dbdf_Nef4t70.mp3",
+            "content": "నొప్పి ఎక్కడ ఉందో చూపించండి",
+            "id": 3020,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Can you point to the pain?",
+                "id": 113,
+                "summary": "Can you point to the pain?"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

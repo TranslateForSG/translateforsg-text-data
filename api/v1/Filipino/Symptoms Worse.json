@@ -1,0 +1,72 @@
+{
+    "count": 5,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/043978eb3625f1030b795f08e4517ee3.mp3",
+            "content": "Mangyaring iwasan ang pampublikong transportasyon.",
+            "id": 1887,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Please avoid public transport.",
+                "id": 166,
+                "summary": "Transport"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/55705ee484cef95dc0e7bea6faef3f67.mp3",
+            "content": "Maaari kang kumuha ng iyong sariling pribadong transportasyon, isang taxi o isang pribadong upa ng kotse.",
+            "id": 1888,
+            "language": "Filipino",
+            "phrase": {
+                "content": "You can take your own private transport, a taxi or a private hire car.",
+                "id": 167,
+                "summary": "Take Taxi"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/270ffa66872ffe07705f9be5e67118ab.mp3",
+            "content": "Kung ang iyong ubo ay lumala at nakakaramdam ka ng paghinga, o ang iyong lagnat ay patuloy na higit sa 38 degree Celsius",
+            "id": 1902,
+            "language": "Filipino",
+            "phrase": {
+                "content": "If your cough is getting worse and you feel breathless, or your fever is persistently above 38 degrees Celsius",
+                "id": 184,
+                "summary": "38C"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/357925a025a24a4c03adacdb5ae5e6a2.mp3",
+            "content": "Magsuot ng isang kirurhiko mask at lumapit sa aming Kagawaran ng Pang-emergency.",
+            "id": 1903,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Wear a surgical mask and come to our Emergency Department.",
+                "id": 185,
+                "summary": "Mask"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a0d48bf3786f46d1e49073c4292bd0bb.mp3",
+            "content": "Sa isang emergency na sitwasyon, tumawag sa 995 para sa isang ambulansya. Ipagbigay-alam sa operator ng ambulansya na ikaw ay kamakailan nasubok para sa COVID-19 at sabihin din sa kanila ang iyong kasaysayan ng paglalakbay.",
+            "id": 1904,
+            "language": "Filipino",
+            "phrase": {
+                "content": "In an emergency situation, call 995 for an ambulance. Inform the ambulance operator that you were recently tested for COVID-19 and also tell them your travel history.",
+                "id": 187,
+                "summary": "Ambulance"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

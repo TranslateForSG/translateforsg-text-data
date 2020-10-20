@@ -1,0 +1,215 @@
+{
+    "count": 16,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f2b2c8e00ee9f74057ba3aa633e04ce4.mp3",
+            "content": "शुभ प्रभात",
+            "id": 361,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Good morning",
+                "id": 64,
+                "summary": "Morning"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6cb699c78cb10474a41959b690580d4b.mp3",
+            "content": "सुसंध्या",
+            "id": 1476,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Good Evening",
+                "id": 173,
+                "summary": "Evening"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7bf47dcd8703244771a9edd160910aed.mp3",
+            "content": "नमस्कार",
+            "id": 1483,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Good Afternoon",
+                "id": 174,
+                "summary": "Afternoon"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ca9275888fb5ee311a95411fefc626b9.mp3",
+            "content": "मैं नर्स हूं",
+            "id": 362,
+            "language": "Hindi",
+            "phrase": {
+                "content": "I am the nurse",
+                "id": 65,
+                "summary": "Nurse"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/03986f22b0e9a5025e6d8d74bd41a571.mp3",
+            "content": "मैं एक डॉक्टर हूं",
+            "id": 363,
+            "language": "Hindi",
+            "phrase": {
+                "content": "I am the doctor",
+                "id": 66,
+                "summary": "Doctor"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c69964932c1fccb8ba6302db5012b829.mp3",
+            "content": "आप गहन चिकित्सा इकाई में हैं।",
+            "id": 364,
+            "language": "Hindi",
+            "phrase": {
+                "content": "You are in the intensive care unit.",
+                "id": 67,
+                "summary": "In ICU"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/83bce3934d07df1ef3de57db9c36a0bd.mp3",
+            "content": "आज सोमवार है",
+            "id": 365,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Today is Monday",
+                "id": 68,
+                "summary": "Monday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b77c7f9d0115074c13b441c9426c8cb6.mp3",
+            "content": "आज मंगलवार है",
+            "id": 366,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Today is Tuesday",
+                "id": 69,
+                "summary": "Tuesday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/fde1af42daef9d9aed9f3251e18b0e13.mp3",
+            "content": "आज बुधवार है",
+            "id": 367,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Today is Wednesday",
+                "id": 70,
+                "summary": "Wednesday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5be8a1d19ac6544439586398f1e405a8.mp3",
+            "content": "आज गुरूवार है",
+            "id": 368,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Today is Thursday",
+                "id": 71,
+                "summary": "Thursday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/72ae68963f684c791cb78151747b868a.mp3",
+            "content": "आज शुक्रवार है",
+            "id": 369,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Today is Friday",
+                "id": 72,
+                "summary": "Friday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3ce84e95833df06a05d66bd1829a25b3.mp3",
+            "content": "आज शनिवार है",
+            "id": 370,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Today is Saturday",
+                "id": 73,
+                "summary": "Saturday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/119cf2efb476304705828ce8fb2c6e5e.mp3",
+            "content": "आज रविवार है",
+            "id": 371,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Today is Sunday",
+                "id": 74,
+                "summary": "Sunday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3ef1bee52e7bf5ad52298a73df39dffc.mp3",
+            "content": "तुम ठीक हो रहे हो",
+            "id": 611,
+            "language": "Hindi",
+            "phrase": {
+                "content": "You are getting better",
+                "id": 153,
+                "summary": "Getting Better"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4bccb56128017e4f0beb63c18e193bf4.mp3",
+            "content": "जब आप बेहतर होंगे तो हम श्वास नली को निकाल देंगे",
+            "id": 372,
+            "language": "Hindi",
+            "phrase": {
+                "content": "We will remove the breathing tube when you are better",
+                "id": 75,
+                "summary": "Remove Tube Later"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ee3d7e07c4b4987c24992d47da388b4c.mp3",
+            "content": "श्वास नली को हटाने के बाद आप बात कर सकते हैं",
+            "id": 373,
+            "language": "Hindi",
+            "phrase": {
+                "content": "You can talk after we remove the breathing tube",
+                "id": 76,
+                "summary": "Can Talk as Remove"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

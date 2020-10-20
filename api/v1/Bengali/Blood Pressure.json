@@ -1,0 +1,111 @@
+{
+    "count": 8,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/997fb1123d2b0a0dc9819fd3b18e63b9_kLvlBCo.mp3",
+            "content": "1) রক্তচাপ কাফটি রিডার মেশিনের সাথে সংযুক্ত করুন।",
+            "id": 1827,
+            "language": "Bengali",
+            "phrase": {
+                "content": "1) Connect the blood pressure cuff to the reader machine.",
+                "id": 188,
+                "summary": ""
+            },
+            "romanized": "1) Roktochap cuff-ti reader machine-er shathe shongjukto korun",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4b11ef34576b5d96d35c9377a7bee39f_pdHltcF.mp3",
+            "content": "২) কাফের \"তীর\"টি আপনার বাহুর ভিতরের অংশে নীচের দিকে ইশারা করা উচিত।",
+            "id": 1828,
+            "language": "Bengali",
+            "phrase": {
+                "content": "2) The “arrow” on the the cuff should be pointing downwards on the inside of your arm.",
+                "id": 189,
+                "summary": ""
+            },
+            "romanized": "2) Cuff-er teer-ti apnar bahur bhitorer ongshe nicher dike ishara kora uchit.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d08f056570d07b15f0271ecbd8a254e8_BdnSxIY.mp3",
+            "content": "(!) কাফটি আপনার কনুইয়ের 1 থেকে 2 সেমি উপরে বসানো উচিত।",
+            "id": 1829,
+            "language": "Bengali",
+            "phrase": {
+                "content": "(!) The cuff should be positioned 1 to 2 cm above your elbow joint.",
+                "id": 190,
+                "summary": ""
+            },
+            "romanized": "(!) Cuff-ti apnar konuyer ek theke dui centimetre upore boshano uchit.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/9e5a33367dc573cc09705f46c19ef857_2gjt7Id.mp3",
+            "content": "3) বিপি কাফটি আপনার বাহুতে খুব সহজেই ফিট করা উচিত। এটি ঢিলা হওয়া উচিত নয়। ফিট করার জন্য বাম হাতের ১-টি আঙুলের জন্য যথেষ্ট জায়গা রেখে দিন (ভাল গেজের জন্য) ।",
+            "id": 1830,
+            "language": "Bengali",
+            "phrase": {
+                "content": "3) The BP cuff should fit snugly onto your arm. It should not feel loose. Leave some space enough for 1 left finger to fit in (for good gauge)",
+                "id": 191,
+                "summary": ""
+            },
+            "romanized": "3) B.P cuff-ti apnar bahute khub shohojei fit kora uchit. Eti dheela howa uchit noe. Fit korar jonno baam hater ek-ti anguler jonno jothesto jaega rekhe din (bhalo gajer jonno).",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1e680214b2da91918e257d3d8607a89f_zff1Qfk.mp3",
+            "content": "4) রক্তচাপ পরিমাপের সময় টিউবটি বাঁকা করবেন না।",
+            "id": 1831,
+            "language": "Bengali",
+            "phrase": {
+                "content": "4) Do not bend the tube during blood pressure measurement.",
+                "id": 192,
+                "summary": ""
+            },
+            "romanized": "4) Roktochaap porimaper shomoe tube-ti baka korben na.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/83840515c543a5929190944da8a52801.mp3",
+            "content": "5) আপনার রক্তচাপ পরিমাপ করার সময় একটি টেবিলের উপরে আপনার পুরো বাহুটি রিলাক্স এবং রেস্ট করুন।",
+            "id": 1832,
+            "language": "Bengali",
+            "phrase": {
+                "content": "5) Relax & Rest your entire arm on a table while measuring your blood pressure.",
+                "id": 193,
+                "summary": ""
+            },
+            "romanized": "5) Apnar roktochaap porimaap korar shomoe ekti tabiler upore apnar puro bahuti relax ebong rest korun.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/fb3769091a3eadaea0daef774c0a28ed_kgmiC93.mp3",
+            "content": "6) আপনার বিপি পরিমাপ শুরু করতে  \"স্টার্ট / স্টপ\"; বোতাম টিপুন। 3 নম্বর প্রদর্শিত না হওয়া পর্যন্ত 1 মিনিটের জন্য অপেক্ষা করুন।",
+            "id": 1833,
+            "language": "Bengali",
+            "phrase": {
+                "content": "6) Press the “Start/Stop” button to start measuring your BP. Wait for 1 minute until 3 numbers appear.",
+                "id": 194,
+                "summary": ""
+            },
+            "romanized": "6) Apnar B.P porimaap shuru korte \"Start/Stop\" botam tipun. Tin number prodorshito na howa porjonto ek minute-r jonno opekkha korun.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4c2fedf63eaff0ad0ca4da388bff8c94_iPJcmDu.mp3",
+            "content": "7) শীর্ষ নম্বরটি আপনার সিস্টোলিক রক্তচাপ। মাঝের সংখ্যাটি হল আপনার ডায়াস্টোলিক রক্তচাপ। নীচের সংখ্যাটি আপনার পালসের হার।",
+            "id": 1834,
+            "language": "Bengali",
+            "phrase": {
+                "content": "7) The top number is your Systolic blood pressure. The middle number is your Diastolic blood pressure. The bottom number is your Pulse rate.",
+                "id": 195,
+                "summary": ""
+            },
+            "romanized": "7) Shirsho number-ti apnar systolic roktochaap. Majher shongkhati holo apnar diastolic roktochaap. Nicher shongkhati apnar pulse-r haar.",
+            "special_note": ""
+        }
+    ]
+}

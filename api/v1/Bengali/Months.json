@@ -1,0 +1,163 @@
+{
+    "count": 12,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/704e0ea10fe4d6e06f550a77da90425a.mp3",
+            "content": "জানুয়ারী",
+            "id": 263,
+            "language": "Bengali",
+            "phrase": {
+                "content": "January",
+                "id": 137,
+                "summary": "January"
+            },
+            "romanized": "January",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/257fa9274779943102e93a10bb927cbc.mp3",
+            "content": "ফেব্রুয়ারী",
+            "id": 264,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Feb",
+                "id": 138,
+                "summary": "Feb"
+            },
+            "romanized": "February",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/55d56007563c82f265f084678e31229c.mp3",
+            "content": "মার্চ",
+            "id": 265,
+            "language": "Bengali",
+            "phrase": {
+                "content": "March",
+                "id": 139,
+                "summary": "March"
+            },
+            "romanized": "March",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/bc2498d80f62221843653dea6595e35d.mp3",
+            "content": "এপ্রিল",
+            "id": 266,
+            "language": "Bengali",
+            "phrase": {
+                "content": "April",
+                "id": 140,
+                "summary": "April"
+            },
+            "romanized": "April",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/87ec7fbfec8ad5dda6e8fa79cc47dfb0.mp3",
+            "content": "মে",
+            "id": 267,
+            "language": "Bengali",
+            "phrase": {
+                "content": "May",
+                "id": 141,
+                "summary": "May"
+            },
+            "romanized": "May",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c001a5307ffab77fdb3b2477dcd801bb.mp3",
+            "content": "জুন",
+            "id": 268,
+            "language": "Bengali",
+            "phrase": {
+                "content": "June",
+                "id": 142,
+                "summary": "June"
+            },
+            "romanized": "June",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c1045f20c35c6d15bcb1a10f4cdd9916.mp3",
+            "content": "জুলাই",
+            "id": 269,
+            "language": "Bengali",
+            "phrase": {
+                "content": "July",
+                "id": 143,
+                "summary": "July"
+            },
+            "romanized": "July",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c282543256c007e00373bc94035227ca.mp3",
+            "content": "অগাস্ট",
+            "id": 270,
+            "language": "Bengali",
+            "phrase": {
+                "content": "August",
+                "id": 144,
+                "summary": "August"
+            },
+            "romanized": "August",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/e63c1c23cb5d139c9844e85b554df50a.mp3",
+            "content": "সেপ্টেম্বর",
+            "id": 271,
+            "language": "Bengali",
+            "phrase": {
+                "content": "September",
+                "id": 145,
+                "summary": "September"
+            },
+            "romanized": "September",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/e68f1969ae97d2d07cc49f98f7d9e338.mp3",
+            "content": "অক্টোবর",
+            "id": 272,
+            "language": "Bengali",
+            "phrase": {
+                "content": "October",
+                "id": 146,
+                "summary": "October"
+            },
+            "romanized": "October",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/74256490b001515c12a8edd9fc9c244c.mp3",
+            "content": "নভেম্বর",
+            "id": 273,
+            "language": "Bengali",
+            "phrase": {
+                "content": "November",
+                "id": 147,
+                "summary": "November"
+            },
+            "romanized": "November",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c41aa9b8d66fb8804ba6d501bf746bb2.mp3",
+            "content": "ডিসেম্বর",
+            "id": 274,
+            "language": "Bengali",
+            "phrase": {
+                "content": "December",
+                "id": 148,
+                "summary": "December"
+            },
+            "romanized": "December",
+            "special_note": ""
+        }
+    ]
+}

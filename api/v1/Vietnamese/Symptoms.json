@@ -1,0 +1,189 @@
+{
+    "count": 14,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/60a8a2903e8183108bda0dd7136569d8.mp3",
+            "content": "Bạn có bị sốt không?",
+            "id": 1317,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Do you have a fever?",
+                "id": 14,
+                "summary": "Fever"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/21eb914e2370a51de4a2f69cf23ba756.mp3",
+            "content": "Bao nhiêu ngày?",
+            "id": 1318,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "How many days?",
+                "id": 15,
+                "summary": "Length"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/bc1837e34c0d40606c595367da096341.mp3",
+            "content": "Bạn đã đo nó bằng nhiệt kế? Nếu bạn đã làm, đọc cao nhất là gì?",
+            "id": 1319,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Did you measure it with a thermometer? If you did, what was the highest reading?",
+                "id": 16,
+                "summary": "Reading"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0e0028c6988cfb74927abbb0f7958b71.mp3",
+            "content": "Sổ mũi?",
+            "id": 1320,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Runny nose?",
+                "id": 17,
+                "summary": "Runny nose"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/44e446bb25c88631c94b04ff7b748360.mp3",
+            "content": "Ho?",
+            "id": 1321,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Cough?",
+                "id": 18,
+                "summary": "Cough"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/63970c82f8c226f89b2601bd65bfa765.mp3",
+            "content": "Đau họng?",
+            "id": 1322,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Sore throat?",
+                "id": 19,
+                "summary": "Sore throat"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/232f27d87af430f7cf1359bef1a7cbe7.mp3",
+            "content": "Khó thở?",
+            "id": 1323,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Difficulty breathing?",
+                "id": 20,
+                "summary": "Breathing"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f7a6103ccc400b2bc250ae079e398ccf.mp3",
+            "content": "Không thể ngửi đúng cách?",
+            "id": 1324,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Cannot smell properly?",
+                "id": 21,
+                "summary": "Anosmia"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/2af4000d1d5ad14c335ad36aa7434a03.mp3",
+            "content": "Bạn có cảm thấy ít hương vị trong miệng?",
+            "id": 1325,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Do you feel less taste in the mouth?",
+                "id": 22,
+                "summary": "Ageusia"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/30f989bd354d44d88336f54869f83f6e.mp3",
+            "content": "Bạn có bị tiêu chảy / tiêu chảy? Bao nhiêu lần một ngày?",
+            "id": 1326,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Do you have diarrhoea / diarrhea? How many times a day?",
+                "id": 23,
+                "summary": "diarrhoea"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d2f526fd712dc751341cf6f9c4cb0873.mp3",
+            "content": "Phát ban da hay ngứa?",
+            "id": 1327,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Skin Rash or Itching?",
+                "id": 24,
+                "summary": "Rash"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6fd128f2e1979b3c8f9640a406e9b873.mp3",
+            "content": "Bạn có bất kỳ đau đớn trên cơ thể của bạn?",
+            "id": 1328,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Do you have any pain on your body?",
+                "id": 25,
+                "summary": "Pain"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/aa8a4f8d01ff7c0a2566ebf7315488ae.mp3",
+            "content": "Cụ thể, có đau ngực không?",
+            "id": 1329,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Specifically, any chest pain?",
+                "id": 26,
+                "summary": "Chest Pain"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/51c4f013868c41bbca972076fa7392b7.mp3",
+            "content": "Chỉ vào nơi.",
+            "id": 1330,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Point to the place.",
+                "id": 27,
+                "summary": "Point Out"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

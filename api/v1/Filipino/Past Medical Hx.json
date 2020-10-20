@@ -1,0 +1,202 @@
+{
+    "count": 15,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ea3866da97d0233bfd11c7fcd847554a_HNMfgiS.mp3",
+            "content": "Mayroon ka bang mga naging karamdaman, sakit, operasyon, mga iniinom na gamot pang maintenance na dapat namin malaman? ",
+            "id": 664,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Do you have any past medical history?",
+                "id": 28,
+                "summary": "Medical History"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/2f8d1f2212ce3a867d06d33e34dfda0c_2gqpYCq.mp3",
+            "content": "Ituro kung alin sa mga ito",
+            "id": 665,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Point to which ones.",
+                "id": 29,
+                "summary": "Symptoms"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/477b8a477dcadb95a077f6747512277a_LrRPMcF.mp3",
+            "content": "Hika",
+            "id": 666,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Asthma",
+                "id": 30,
+                "summary": "Asthma"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ef605722bd064e1dcb7f9aff4021c73e_VwbSbQb.mp3",
+            "content": "Pulmonya",
+            "id": 667,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Pneumonia",
+                "id": 31,
+                "summary": "Pneumonia"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/54221f73dd8e9d49cb5083479210063e_9zguZws.mp3",
+            "content": "Altapresyon o High blood",
+            "id": 668,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Hypertension",
+                "id": 32,
+                "summary": "Hypertension"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a051a801fb9f3de259e781167f2b4375_L5d62cT.mp3",
+            "content": "Mataas na cholesterol",
+            "id": 669,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Hyperlipidemia / Cholesterol",
+                "id": 33,
+                "summary": "Hyperlipidemia"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/52d261e9ebc332373e9c8a0abb6bd605_PsEK8pW.mp3",
+            "content": "Diabetes",
+            "id": 670,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Diabetes",
+                "id": 34,
+                "summary": "Diabetes"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ca3322c5157600fa1402d0c145d217aa_9P59hF5.mp3",
+            "content": "Sakit sa puso",
+            "id": 671,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Heart problems",
+                "id": 35,
+                "summary": "Heart problems"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/08d898bc2ea5bb7bfda09326b0517ca9_oW0BhBs.mp3",
+            "content": "Sakit sa bato",
+            "id": 672,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Kidney problems",
+                "id": 36,
+                "summary": "Kidney problems"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4afe23e83eaa8ff0de95187c4738ed15_Gk5OuSJ.mp3",
+            "content": "Mayroon ka bang allergy sa mga gamot?",
+            "id": 673,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Do you have a drug allergy?",
+                "id": 37,
+                "summary": "Drug allergy"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7d6b2e12cffb9cde4c4c3cf99de95c68_z3uLAfj.mp3",
+            "content": "Ikaw ba ay naninigarilyo? Kung oo, ilang sigarilyo sa isang araw?",
+            "id": 674,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Do you smoke? If yes, how many cigarettes a day?",
+                "id": 38,
+                "summary": "Smoke"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0137d054259cb2e18fc4b6dac5e24fff_fpEz0sC.mp3",
+            "content": "Umiinom ka ba ng alkohol o alak? Kung oo, gaano karami at kadalas? (ilang bote ang naiinom sa isang linggo at ano ang klase ng alkohol o alak) ",
+            "id": 675,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Do you drink? If yes, how much (number of bottles a week, type of alcohol)?",
+                "id": 39,
+                "summary": "Drink Alcohol"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/eef99e3ac2e02ac6b02990b8fd28387b_JDPITtA.mp3",
+            "content": "Ano ang pakiramdam mo sa emosyon?",
+            "id": 782,
+            "language": "Filipino",
+            "phrase": {
+                "content": "How do you feel emotionally?",
+                "id": 40,
+                "summary": "Emotion Feeling"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4740f2715748e734342e56450759b86b_okOyHNE.mp3",
+            "content": "Mayroon ka bang pag-iisip ng pagpapakamatay?",
+            "id": 783,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Do you have suicidal thoughts?",
+                "id": 41,
+                "summary": "Suicidal thoughts"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0752282bad86cf03e11d89d3cddab607_i6FHGzh.mp3",
+            "content": "Kung may iba ka pang problema sa iyong kalusugan, paki-sabi sa wikang Ingles",
+            "id": 676,
+            "language": "Filipino",
+            "phrase": {
+                "content": "If you have any other problems, you can tell me in English.",
+                "id": 42,
+                "summary": "Other Problems"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

@@ -1,0 +1,202 @@
+{
+    "count": 15,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/84fa798a34d8c9d959da73b48e5bce52.mp3",
+            "content": "क्या आपका कोई पिछला चिकित्सा इतिहास है?",
+            "id": 156,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Do you have any past medical history?",
+                "id": 28,
+                "summary": "Medical History"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/353c4b5a5e490e308d32e4a573a21ab3.mp3",
+            "content": "किस ओर इशारा करें।",
+            "id": 157,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Point to which ones.",
+                "id": 29,
+                "summary": "Symptoms"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c92e54edb0c4473eae74b3d5f5f72f5f.mp3",
+            "content": "दमा",
+            "id": 151,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Asthma",
+                "id": 30,
+                "summary": "Asthma"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/fd3dbe6bce8b7fe96a0a0fa63dde349e.mp3",
+            "content": "न्यूमोनिया",
+            "id": 152,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Pneumonia",
+                "id": 31,
+                "summary": "Pneumonia"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/58b8b0ef706cd7387c3bdf7ce0f07c7d.mp3",
+            "content": "उच्च रक्तचाप",
+            "id": 153,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Hypertension",
+                "id": 32,
+                "summary": "Hypertension"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b135289e52351e5d6a886977dcce4e5a.mp3",
+            "content": "हाइपरलिपिडिमिया / कोलेस्ट्रॉल",
+            "id": 154,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Hyperlipidemia / Cholesterol",
+                "id": 33,
+                "summary": "Hyperlipidemia"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d0a33a12ebd26d466658125e472fbace.mp3",
+            "content": "मधुमेह",
+            "id": 155,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Diabetes",
+                "id": 34,
+                "summary": "Diabetes"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d7e2e6f3b64c70a88a426509c1bf59e8.mp3",
+            "content": "हृदय की समस्याएं",
+            "id": 158,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Heart problems",
+                "id": 35,
+                "summary": "Heart problems"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/87bcef9dcb74aae5f503af2b3b6d8c02.mp3",
+            "content": "गुर्दे से संबंधित समस्याएं",
+            "id": 159,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Kidney problems",
+                "id": 36,
+                "summary": "Kidney problems"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/69756531d99badc87cf9000ea8a8ed35.mp3",
+            "content": "क्या आपके पास ड्रग एलर्जी है?",
+            "id": 160,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Do you have a drug allergy?",
+                "id": 37,
+                "summary": "Drug allergy"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/205f3d90246e6795d199c125fff41f45.mp3",
+            "content": "क्या आप धूम्रपान करते हैं? यदि हाँ, तो एक दिन में कितनी सिगरेट?",
+            "id": 161,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Do you smoke? If yes, how many cigarettes a day?",
+                "id": 38,
+                "summary": "Smoke"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8072eff3fa898bb7048db0e1ff55c9fb.mp3",
+            "content": "क्या आप पीते हैं? यदि हाँ, तो सप्ताह में कितनी (बोतलों की संख्या, शराब का प्रकार)?",
+            "id": 162,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Do you drink? If yes, how much (number of bottles a week, type of alcohol)?",
+                "id": 39,
+                "summary": "Drink Alcohol"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/072d536885d0693643c25455c5ec9415.mp3",
+            "content": "आप भावनात्मक रूप से कैसा महसूस करते हैं?",
+            "id": 163,
+            "language": "Hindi",
+            "phrase": {
+                "content": "How do you feel emotionally?",
+                "id": 40,
+                "summary": "Emotion Feeling"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1338a40cbe8fcc3e3e4acb2f6480157c.mp3",
+            "content": "क्या आपके पास आत्महत्या के विचार हैं?",
+            "id": 164,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Do you have suicidal thoughts?",
+                "id": 41,
+                "summary": "Suicidal thoughts"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b679fb7b661ecc9550af8722591c8eeb.mp3",
+            "content": "यदि आपको कोई अन्य समस्या है, तो आप मुझे अंग्रेजी में बता सकते हैं।",
+            "id": 165,
+            "language": "Hindi",
+            "phrase": {
+                "content": "If you have any other problems, you can tell me in English.",
+                "id": 42,
+                "summary": "Other Problems"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

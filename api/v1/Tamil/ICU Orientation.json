@@ -1,0 +1,215 @@
+{
+    "count": 16,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm230.m4a",
+            "content": "காலை வணக்கம்",
+            "id": 2237,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Good morning",
+                "id": 64,
+                "summary": "Morning"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm231.m4a",
+            "content": "மாலை வணக்கம்",
+            "id": 2238,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Good Evening",
+                "id": 173,
+                "summary": "Evening"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm232.m4a",
+            "content": "மதிய வணக்கம்",
+            "id": 2239,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Good Afternoon",
+                "id": 174,
+                "summary": "Afternoon"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm233.m4a",
+            "content": "நான் ஒரு தாதி.",
+            "id": 2240,
+            "language": "Tamil",
+            "phrase": {
+                "content": "I am the nurse",
+                "id": 65,
+                "summary": "Nurse"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm234.m4a",
+            "content": "நான் ஒரு மருத்துவர்",
+            "id": 2241,
+            "language": "Tamil",
+            "phrase": {
+                "content": "I am the doctor",
+                "id": 66,
+                "summary": "Doctor"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm60.m4a",
+            "content": "நீங்கள் தீவிர சிகிச்சை பிரிவில் இருக்கிறீர்கள்",
+            "id": 2242,
+            "language": "Tamil",
+            "phrase": {
+                "content": "You are in the intensive care unit.",
+                "id": 67,
+                "summary": "In ICU"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm61.m4a",
+            "content": "இன்று திங்கட்கிழமை",
+            "id": 2243,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Today is Monday",
+                "id": 68,
+                "summary": "Monday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm62.m4a",
+            "content": "இன்று செவ்வாய்க்கிழமை",
+            "id": 2244,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Today is Tuesday",
+                "id": 69,
+                "summary": "Tuesday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm63.m4a",
+            "content": "இன்று புதன்கிழமை",
+            "id": 2245,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Today is Wednesday",
+                "id": 70,
+                "summary": "Wednesday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm64.m4a",
+            "content": "\nஇன்று வியாழக்கிழமை",
+            "id": 2246,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Today is Thursday",
+                "id": 71,
+                "summary": "Thursday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm65.m4a",
+            "content": "\nஇன்று வெள்ளிக்கிழமை",
+            "id": 2247,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Today is Friday",
+                "id": 72,
+                "summary": "Friday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm66.m4a",
+            "content": "\nஇன்று சனிக்கிழமை",
+            "id": 2248,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Today is Saturday",
+                "id": 73,
+                "summary": "Saturday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm67.m4a",
+            "content": "\nஇன்று ஞாயிற்று கிழமை",
+            "id": 2249,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Today is Sunday",
+                "id": 74,
+                "summary": "Sunday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm68.m4a",
+            "content": "நீங்கள் குணமடைந்து வருகிறீர்கள்",
+            "id": 2250,
+            "language": "Tamil",
+            "phrase": {
+                "content": "You are getting better",
+                "id": 153,
+                "summary": "Getting Better"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm69.m4a",
+            "content": "நீங்கள் குணம் அடைந்தப்பின் சுவாசக் குழாயை அகற்றுவோம்",
+            "id": 2251,
+            "language": "Tamil",
+            "phrase": {
+                "content": "We will remove the breathing tube when you are better",
+                "id": 75,
+                "summary": "Remove Tube Later"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm70.m4a",
+            "content": "சுவாசக் குழாயை அகற்றியப்பின் நீங்கள் பேசலாம்",
+            "id": 2252,
+            "language": "Tamil",
+            "phrase": {
+                "content": "You can talk after we remove the breathing tube",
+                "id": 76,
+                "summary": "Can Talk as Remove"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

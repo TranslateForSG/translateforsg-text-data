@@ -1,0 +1,124 @@
+{
+    "count": 9,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6c02ba340ce3eafb3975f09408d3e2ac.mp3",
+            "content": "Sekejap lagi boleh balik.",
+            "id": 994,
+            "language": "Malay",
+            "phrase": {
+                "content": "You can go back soon.",
+                "id": 52,
+                "summary": "Can go back"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/14a80aa3543d20f43fbe68e2976fcf8f.mp3",
+            "content": "Tunggu sini. Jangan pergi kemana-mana.",
+            "id": 995,
+            "language": "Malay",
+            "phrase": {
+                "content": "Wait here, do not leave this area",
+                "id": 53,
+                "summary": "Wait Patient"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8ca288fe17b6382abed740c20acda72d.mp3",
+            "content": "Anda perlu dimasukkan ke hospital selama beberapa hari.",
+            "id": 996,
+            "language": "Malay",
+            "phrase": {
+                "content": "You have to stay in the hospital for a few days",
+                "id": 54,
+                "summary": "Hospital Stay"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8c7a59b0aa52d08215558949cc817675_epu6xAu.mp3",
+            "content": "Saya akan beri anda ubat supaya anda rasa lebih lega.",
+            "id": 997,
+            "language": "Malay",
+            "phrase": {
+                "content": "I'll give you medicine to make you feel better",
+                "id": 55,
+                "summary": "Medicine"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/bef279e7115deba8d6c6ecdf9d6d968b.mp3",
+            "content": "Anda tidak boleh kerja selama 5 hari.",
+            "id": 999,
+            "language": "Malay",
+            "phrase": {
+                "content": "You must not work for the next 5 days.",
+                "id": 56,
+                "summary": "No work 5 days"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6dd702fe4af8836842588d1e43f8c79e_Hv5CcES.mp3",
+            "content": "Kalau ada sesak nafas, mesti datang balik ke hospital.",
+            "id": 998,
+            "language": "Malay",
+            "phrase": {
+                "content": "You must come back if you have problems with breathing.",
+                "id": 57,
+                "summary": "Problem after 5 days"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/72920247631c338e91ad6d931bd26a63.mp3",
+            "content": "Kalau tidak sembuh sepenuhnya selepas 5 hari, anda mesti kembali ke hospital.",
+            "id": 1000,
+            "language": "Malay",
+            "phrase": {
+                "content": "You must come back if you do not recover completely after 5 days.",
+                "id": 151,
+                "summary": "Come back 5 days"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f73bb994d54e8fd9b57b30b17b494e9c.mp3",
+            "content": "Baca buku panduan ini dengan teliti",
+            "id": 1001,
+            "language": "Malay",
+            "phrase": {
+                "content": "Read the handout carefully",
+                "id": 58,
+                "summary": "Handout"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3393e5df6ec566a7e2c2a6dcf3cb81a5.mp3",
+            "content": "Terima kasih",
+            "id": 1002,
+            "language": "Malay",
+            "phrase": {
+                "content": "Thank you",
+                "id": 59,
+                "summary": "Thank you"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

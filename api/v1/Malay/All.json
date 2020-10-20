@@ -1,0 +1,1983 @@
+{
+    "count": 152,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/9971c8180d01ace282a8e78f9d4d0d3f.mp3",
+            "content": "Saya doktor.\nSaya tak boleh cakap Melayu.\nSaya akan cakap menerusi laman web ini.\nTolong jawab dalam Inggeris sebanyak mungkin.\nTerima kasih.",
+            "id": 949,
+            "language": "Malay",
+            "phrase": {
+                "content": "I am a doctor. I do not speak your language. I will communicate with you using this website. Answer me in English as much as possible. Thank you.",
+                "id": 1,
+                "summary": "Intro"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b6fe87d035d27ec0a42fdebcb331ad81.mp3",
+            "content": "Nama siapa?\r",
+            "id": 950,
+            "language": "Malay",
+            "phrase": {
+                "content": "What's your name?",
+                "id": 2,
+                "summary": "Name"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/18f81e20a00e3c0e3148b4c6329a907e.mp3",
+            "content": "Tolong beri saya Kad Pengenalan / Permit Kerja anda.",
+            "id": 951,
+            "language": "Malay",
+            "phrase": {
+                "content": "Please give me your Identity Card or Work Permit",
+                "id": 3,
+                "summary": "IC"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/cdcb0c38dc32a65d6a24f48b71ae5851.mp3",
+            "content": "Sepanjang 2 minggu lepas, anda ada bertemu dengan sesiapa yang dijangkiti koronavirus?",
+            "id": 952,
+            "language": "Malay",
+            "phrase": {
+                "content": "In the last 14 days, did you meet anyone who has coronavirus?",
+                "id": 9,
+                "summary": "People"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/e8e335516e9aceca9fa154d67c49b6f2.mp3",
+            "content": "Siapa? Apakah hubungan anda dengan dia /  mereka?",
+            "id": 953,
+            "language": "Malay",
+            "phrase": {
+                "content": "Who? What is your relationship with them?",
+                "id": 10,
+                "summary": "People Meet"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/16db0018cc030810796141dbc05a66b7.mp3",
+            "content": "Berapa hari lepas jumpa dia / mereka?",
+            "id": 954,
+            "language": "Malay",
+            "phrase": {
+                "content": "How many days ago did you meet them?",
+                "id": 11,
+                "summary": "People Meet"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/dd6f9cbdd476a79857de5d2bd65fb7fe.mp3",
+            "content": "Berapa lama dengan dia / mereka? ",
+            "id": 955,
+            "language": "Malay",
+            "phrase": {
+                "content": "How long were you with him/her?",
+                "id": 12,
+                "summary": "People Meet"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/bfb5c38d7d5845b209778ace1e7b960c.mp3",
+            "content": "Sepanjang 2 minggu lepas, anda ada pergi luar negara atau tak? Sekiranya ya, beritahu kami nama-nama negara tersebut dalam Inggeris.",
+            "id": 956,
+            "language": "Malay",
+            "phrase": {
+                "content": "In the last 14 days, did you travel out of Singapore? If yes, tell us the countries in English.",
+                "id": 13,
+                "summary": "14 Days Travel"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/19428eaa387f708b34c0c02804a4ad8f.mp3",
+            "content": "Ada demam tak?",
+            "id": 957,
+            "language": "Malay",
+            "phrase": {
+                "content": "Do you have a fever?",
+                "id": 14,
+                "summary": "Fever"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/56730c078d6d9499589e6a5b321dcf25.mp3",
+            "content": "Sudah berapa hari?",
+            "id": 958,
+            "language": "Malay",
+            "phrase": {
+                "content": "How many days?",
+                "id": 15,
+                "summary": "Length"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d49f3dc17000f2edde01fd93018f6aba.mp3",
+            "content": "Ada gunakan termometer atau tak? Jika ya, apakah suhu badan tertinggi?",
+            "id": 959,
+            "language": "Malay",
+            "phrase": {
+                "content": "Did you measure it with a thermometer? If you did, what was the highest reading?",
+                "id": 16,
+                "summary": "Reading"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a2865e146d2da9f003684b77dd87776d.mp3",
+            "content": "Selsema?",
+            "id": 960,
+            "language": "Malay",
+            "phrase": {
+                "content": "Runny nose?",
+                "id": 17,
+                "summary": "Runny nose"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a35d309f4e22cffe1469cfcf50809f19.mp3",
+            "content": "Batuk?",
+            "id": 961,
+            "language": "Malay",
+            "phrase": {
+                "content": "Cough?",
+                "id": 18,
+                "summary": "Cough"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0cd4f86d6d59f31352acd8c951c9da6e.mp3",
+            "content": "Sakit tekak?",
+            "id": 962,
+            "language": "Malay",
+            "phrase": {
+                "content": "Sore throat?",
+                "id": 19,
+                "summary": "Sore throat"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4ac239ec847a3c17f2fce4c16cf6f910.mp3",
+            "content": "Sesak nafas?",
+            "id": 963,
+            "language": "Malay",
+            "phrase": {
+                "content": "Difficulty breathing?",
+                "id": 20,
+                "summary": "Breathing"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/df833e223fa86ba8d53343345763fa25_hzJafU6.mp3",
+            "content": "Hilang deria bau",
+            "id": 964,
+            "language": "Malay",
+            "phrase": {
+                "content": "Cannot smell properly?",
+                "id": 21,
+                "summary": "Anosmia"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/817cdd22c82e192863078d87353f4e01.mp3",
+            "content": "Hilang deria rasa",
+            "id": 965,
+            "language": "Malay",
+            "phrase": {
+                "content": "Do you feel less taste in the mouth?",
+                "id": 22,
+                "summary": "Ageusia"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/fe3dc33d52ac661479f51f16e373884b_241jYxJ.mp3",
+            "content": "Ada cirit-birit tak? Buang air besar berapa kali sehari?",
+            "id": 1488,
+            "language": "Malay",
+            "phrase": {
+                "content": "Do you have diarrhoea / diarrhea? How many times a day?",
+                "id": 23,
+                "summary": "diarrhoea"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b96f616f4de59c342807adecd3171910.mp3",
+            "content": "Ruam Kulit atau Gatal?",
+            "id": 966,
+            "language": "Malay",
+            "phrase": {
+                "content": "Skin Rash or Itching?",
+                "id": 24,
+                "summary": "Rash"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8961b3ee8e37b82e10a35f697ed0a6bb.mp3",
+            "content": "Ada rasa sakit? Khususnya, ada sakit dada atau pun tidak?",
+            "id": 967,
+            "language": "Malay",
+            "phrase": {
+                "content": "Specifically, any chest pain?",
+                "id": 26,
+                "summary": "Chest Pain"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/503259c79ec83470738c67c1936cb685.mp3",
+            "content": "Guna satu jari, tunjuk saya mana sakit?",
+            "id": 968,
+            "language": "Malay",
+            "phrase": {
+                "content": "Point to the place.",
+                "id": 27,
+                "summary": "Point Out"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/65b0c46521d127b470a93e6dd8c1a15f.mp3",
+            "content": "Ada sakit kronik tak? Apa penyakit tersebut?",
+            "id": 969,
+            "language": "Malay",
+            "phrase": {
+                "content": "Do you have any past medical history?",
+                "id": 28,
+                "summary": "Medical History"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/537b0d6552a1d3ee6c457b6cc27c08f0.mp3",
+            "content": "Tunjukkan yang mana",
+            "id": 970,
+            "language": "Malay",
+            "phrase": {
+                "content": "Point to which ones.",
+                "id": 29,
+                "summary": "Symptoms"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7b91a1d642f5edefe071cfbcb22a87c7.mp3",
+            "content": "Semput",
+            "id": 971,
+            "language": "Malay",
+            "phrase": {
+                "content": "Asthma",
+                "id": 30,
+                "summary": "Asthma"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/efe5dd74bb01be6119145af81e899111.mp3",
+            "content": "Radang paru-paru",
+            "id": 972,
+            "language": "Malay",
+            "phrase": {
+                "content": "Pneumonia",
+                "id": 31,
+                "summary": "Pneumonia"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0f5304dcd3eccaef7f8f00eb74b140ce.mp3",
+            "content": "Tekanan darah tinggi",
+            "id": 973,
+            "language": "Malay",
+            "phrase": {
+                "content": "Hypertension",
+                "id": 32,
+                "summary": "Hypertension"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/908f3a72ce72834ad94c2b7a8e4f32bd.mp3",
+            "content": "Kolesterol tinggi",
+            "id": 974,
+            "language": "Malay",
+            "phrase": {
+                "content": "Hyperlipidemia / Cholesterol",
+                "id": 33,
+                "summary": "Hyperlipidemia"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/34154e99ee93558e174272e669704856.mp3",
+            "content": "Kencing manis",
+            "id": 975,
+            "language": "Malay",
+            "phrase": {
+                "content": "Diabetes",
+                "id": 34,
+                "summary": "Diabetes"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c73e508aaa147394fa6218c72d464f9c.mp3",
+            "content": "Masalah jantung",
+            "id": 976,
+            "language": "Malay",
+            "phrase": {
+                "content": "Heart problems",
+                "id": 35,
+                "summary": "Heart problems"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/540b3166a588d7ad26e5ee0ba03dd42e.mp3",
+            "content": "Masalah buah pinggang / ginjal",
+            "id": 977,
+            "language": "Malay",
+            "phrase": {
+                "content": "Kidney problems",
+                "id": 36,
+                "summary": "Kidney problems"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/700cda887d377bf97a277d4c5dd5a4ba.mp3",
+            "content": "Ada alahan ubat (atau ubat yang tidak boleh dimakan)?",
+            "id": 978,
+            "language": "Malay",
+            "phrase": {
+                "content": "Do you have a drug allergy?",
+                "id": 37,
+                "summary": "Drug allergy"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/322360724fc85eb02c5b1470100cc404.mp3",
+            "content": "Ada hisap rokok tak? Kalau ya, berapa batang sehari?",
+            "id": 979,
+            "language": "Malay",
+            "phrase": {
+                "content": "Do you smoke? If yes, how many cigarettes a day?",
+                "id": 38,
+                "summary": "Smoke"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c599c179fdf7eb8e83643e34cd3aba9a.mp3",
+            "content": "Ada ambil minuman keras? Kalau ya, berapa banyak? (jumlah botol seminggu, jenis minuman alkohol apa)",
+            "id": 980,
+            "language": "Malay",
+            "phrase": {
+                "content": "Do you drink? If yes, how much (number of bottles a week, type of alcohol)?",
+                "id": 39,
+                "summary": "Drink Alcohol"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/cea8815bc1a00e159ae308fcc4005b46.mp3",
+            "content": "Kalau ada masalah lain, anda boleh beritahu kami dalam Bahasa Inggeris.",
+            "id": 981,
+            "language": "Malay",
+            "phrase": {
+                "content": "If you have any other problems, you can tell me in English.",
+                "id": 42,
+                "summary": "Other Problems"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3a7b8fe9b52ad4f269792421531defe6.mp3",
+            "content": "Saya akan periksa anda sekarang.",
+            "id": 982,
+            "language": "Malay",
+            "phrase": {
+                "content": "I’m going to examine you.",
+                "id": 43,
+                "summary": "Physical Exam Starts"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/fae738cca516d74483cd27464108bc7a.mp3",
+            "content": "Kalau sakit, bilang saya. ",
+            "id": 983,
+            "language": "Malay",
+            "phrase": {
+                "content": "Tell me if you feel more pain.",
+                "id": 149,
+                "summary": "Tell if Pain"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/af19b48b80b09b594f48e8639b874dc2.mp3",
+            "content": "Tolong buka baju.",
+            "id": 984,
+            "language": "Malay",
+            "phrase": {
+                "content": "Please remove your shirt.",
+                "id": 150,
+                "summary": "Remove Clothing"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d90b16bb90d729242f2171edb799abd2.mp3",
+            "content": "Tarik nafas dan hembus berulang kali.",
+            "id": 985,
+            "language": "Malay",
+            "phrase": {
+                "content": "Keep taking deep breaths through your mouth.",
+                "id": 44,
+                "summary": "Deep Breath"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8ed046e0fe6e7e1c63028a86e4368411.mp3",
+            "content": "Cakap “99” bila saya dengar dengan stetoskop.",
+            "id": 986,
+            "language": "Malay",
+            "phrase": {
+                "content": "Say \"99\" when I listen with my stethoscope.",
+                "id": 45,
+                "summary": "99"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a1f739f1fbbe1f187fe3b2a36581f982.mp3",
+            "content": "Saya akan masukkan putik kapas ini ke dalam hidung anda.. Rasa kurang selesa sikit tapi tak sakit.",
+            "id": 987,
+            "language": "Malay",
+            "phrase": {
+                "content": "I'm going to put this cotton bud into your nostrils. You will feel strange but it is not painful.",
+                "id": 46,
+                "summary": "Swabbing"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c23d58cdfeefd4154b4012fdae262b7f.mp3",
+            "content": "Ujian ini untuk mengesan koronavirus.",
+            "id": 989,
+            "language": "Malay",
+            "phrase": {
+                "content": "This is to test for coronavirus",
+                "id": 47,
+                "summary": "Covid"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b7700e8e6617735ff7271fbcb006c157.mp3",
+            "content": "Jika keputusan ujian coronavirus anda positif, kami akan menelefon anda pada esok hari.",
+            "id": 988,
+            "language": "Malay",
+            "phrase": {
+                "content": "If coronavirus positive, we call your phone by tomorrow.",
+                "id": 49,
+                "summary": "Result Collection"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f038773e2bba2cbf07a6ee87fe9fe814.mp3",
+            "content": "Jika keputusannya negatif, kami akan menghantar SMS kepada anda selepas 3 hari.",
+            "id": 990,
+            "language": "Malay",
+            "phrase": {
+                "content": "If coronavirus negative, we send you an SMS after 3 days.",
+                "id": 152,
+                "summary": "COVID Negative"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b4b64fa7599a42189c87023170423cba.mp3",
+            "content": "Tengok atas.",
+            "id": 991,
+            "language": "Malay",
+            "phrase": {
+                "content": "Tilt your head back",
+                "id": 48,
+                "summary": "Tilt Head"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b9770470f5a526a8eb4c6f75a9c06ea7.mp3",
+            "content": "Nanti, anda akan menjalani pemeriksaan X-ray.",
+            "id": 992,
+            "language": "Malay",
+            "phrase": {
+                "content": "Later, you will do an X-ray",
+                "id": 50,
+                "summary": "X-ray"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0d7f88e9dc3cb03653dbb585afb32e6e.mp3",
+            "content": "X-ray anda tiada tanda jangkitan.",
+            "id": 993,
+            "language": "Malay",
+            "phrase": {
+                "content": "There is no sign of infection on your X-ray",
+                "id": 51,
+                "summary": "X-ray OK"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6c02ba340ce3eafb3975f09408d3e2ac.mp3",
+            "content": "Sekejap lagi boleh balik.",
+            "id": 994,
+            "language": "Malay",
+            "phrase": {
+                "content": "You can go back soon.",
+                "id": 52,
+                "summary": "Can go back"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/14a80aa3543d20f43fbe68e2976fcf8f.mp3",
+            "content": "Tunggu sini. Jangan pergi kemana-mana.",
+            "id": 995,
+            "language": "Malay",
+            "phrase": {
+                "content": "Wait here, do not leave this area",
+                "id": 53,
+                "summary": "Wait Patient"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8ca288fe17b6382abed740c20acda72d.mp3",
+            "content": "Anda perlu dimasukkan ke hospital selama beberapa hari.",
+            "id": 996,
+            "language": "Malay",
+            "phrase": {
+                "content": "You have to stay in the hospital for a few days",
+                "id": 54,
+                "summary": "Hospital Stay"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8c7a59b0aa52d08215558949cc817675_epu6xAu.mp3",
+            "content": "Saya akan beri anda ubat supaya anda rasa lebih lega.",
+            "id": 997,
+            "language": "Malay",
+            "phrase": {
+                "content": "I'll give you medicine to make you feel better",
+                "id": 55,
+                "summary": "Medicine"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/bef279e7115deba8d6c6ecdf9d6d968b.mp3",
+            "content": "Anda tidak boleh kerja selama 5 hari.",
+            "id": 999,
+            "language": "Malay",
+            "phrase": {
+                "content": "You must not work for the next 5 days.",
+                "id": 56,
+                "summary": "No work 5 days"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6dd702fe4af8836842588d1e43f8c79e_Hv5CcES.mp3",
+            "content": "Kalau ada sesak nafas, mesti datang balik ke hospital.",
+            "id": 998,
+            "language": "Malay",
+            "phrase": {
+                "content": "You must come back if you have problems with breathing.",
+                "id": 57,
+                "summary": "Problem after 5 days"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/72920247631c338e91ad6d931bd26a63.mp3",
+            "content": "Kalau tidak sembuh sepenuhnya selepas 5 hari, anda mesti kembali ke hospital.",
+            "id": 1000,
+            "language": "Malay",
+            "phrase": {
+                "content": "You must come back if you do not recover completely after 5 days.",
+                "id": 151,
+                "summary": "Come back 5 days"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f73bb994d54e8fd9b57b30b17b494e9c.mp3",
+            "content": "Baca buku panduan ini dengan teliti",
+            "id": 1001,
+            "language": "Malay",
+            "phrase": {
+                "content": "Read the handout carefully",
+                "id": 58,
+                "summary": "Handout"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3393e5df6ec566a7e2c2a6dcf3cb81a5.mp3",
+            "content": "Terima kasih",
+            "id": 1002,
+            "language": "Malay",
+            "phrase": {
+                "content": "Thank you",
+                "id": 59,
+                "summary": "Thank you"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8f0b180dd3507d0130a23019148636b5.mp3",
+            "content": "Selamat Pagi",
+            "id": 1003,
+            "language": "Malay",
+            "phrase": {
+                "content": "Good morning",
+                "id": 64,
+                "summary": "Morning"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/fb382a802d522fb6a0607a8c1a96a8ae.mp3",
+            "content": "Selamat petang",
+            "id": 1479,
+            "language": "Malay",
+            "phrase": {
+                "content": "Good Evening",
+                "id": 173,
+                "summary": "Evening"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/fb382a802d522fb6a0607a8c1a96a8ae_NxAOLa0.mp3",
+            "content": "Selamat petang",
+            "id": 1486,
+            "language": "Malay",
+            "phrase": {
+                "content": "Good Afternoon",
+                "id": 174,
+                "summary": "Afternoon"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1d0665d49bb3b3833d322c859de6c2a0.mp3",
+            "content": "Saya jururawat",
+            "id": 1004,
+            "language": "Malay",
+            "phrase": {
+                "content": "I am the nurse",
+                "id": 65,
+                "summary": "Nurse"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/36d6c9c31a26a6c7e9ee4cd6d24b5b3d.mp3",
+            "content": "Saya doktor",
+            "id": 1005,
+            "language": "Malay",
+            "phrase": {
+                "content": "I am the doctor",
+                "id": 66,
+                "summary": "Doctor"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b44eb86a810c44be83a98cf36137ec02.mp3",
+            "content": "Anda berada di Unit Jagaan Rapi (ICU)",
+            "id": 1006,
+            "language": "Malay",
+            "phrase": {
+                "content": "You are in the intensive care unit.",
+                "id": 67,
+                "summary": "In ICU"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/fa29c439a1e066210804241afbc57646.mp3",
+            "content": "Hari ini hari Isnin.",
+            "id": 1007,
+            "language": "Malay",
+            "phrase": {
+                "content": "Today is Monday",
+                "id": 68,
+                "summary": "Monday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/45f4085ff16b0d5f7da6536f4088549b.mp3",
+            "content": "Hari ini hari Selasa.",
+            "id": 1008,
+            "language": "Malay",
+            "phrase": {
+                "content": "Today is Tuesday",
+                "id": 69,
+                "summary": "Tuesday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/38345d4c207e8358b79465ef0c47817f.mp3",
+            "content": "Hari ini hari Rabu.",
+            "id": 1009,
+            "language": "Malay",
+            "phrase": {
+                "content": "Today is Wednesday",
+                "id": 70,
+                "summary": "Wednesday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1907a06c70f889ffc58a6beb4ede2ed3.mp3",
+            "content": "Hari ini hari Khamis.",
+            "id": 1010,
+            "language": "Malay",
+            "phrase": {
+                "content": "Today is Thursday",
+                "id": 71,
+                "summary": "Thursday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ec55f4fbb35fc83e16ec73e11a50a038.mp3",
+            "content": "Hari ini hari Jumaat.",
+            "id": 1011,
+            "language": "Malay",
+            "phrase": {
+                "content": "Today is Friday",
+                "id": 72,
+                "summary": "Friday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5f876baf1b600da524645f4d48a7bcfb.mp3",
+            "content": "Hari ini hari Sabtu.",
+            "id": 1012,
+            "language": "Malay",
+            "phrase": {
+                "content": "Today is Saturday",
+                "id": 73,
+                "summary": "Saturday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b723174f6e7fdf5a5255f0b8800bc32b.mp3",
+            "content": "Hari ini hari Ahad.",
+            "id": 1013,
+            "language": "Malay",
+            "phrase": {
+                "content": "Today is Sunday",
+                "id": 74,
+                "summary": "Sunday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d37c593594bed4ff6a16bf35a7155cb5.mp3",
+            "content": "Anda semakin pulih",
+            "id": 1014,
+            "language": "Malay",
+            "phrase": {
+                "content": "You are getting better",
+                "id": 153,
+                "summary": "Getting Better"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3c675f38586e4332ccbb988fb6675ce3.mp3",
+            "content": "Kami akan mengeluarkan tiub pernafasan apabila keadaan anda lebih baik",
+            "id": 1015,
+            "language": "Malay",
+            "phrase": {
+                "content": "We will remove the breathing tube when you are better",
+                "id": 75,
+                "summary": "Remove Tube Later"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d86244770ccd213df11e151b20dbbce0.mp3",
+            "content": "Anda boleh bercakap selepas kami keluarkan tiub pernafasan.",
+            "id": 1017,
+            "language": "Malay",
+            "phrase": {
+                "content": "You can talk after we remove the breathing tube",
+                "id": 76,
+                "summary": "Can Talk as Remove"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/616b00a1fb9ebebac6430f2c7c838fc3.mp3",
+            "content": "Tarik nafas sedalamnya.",
+            "id": 1016,
+            "language": "Malay",
+            "phrase": {
+                "content": "Take a deep breath",
+                "id": 77,
+                "summary": "Deep breath"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/73cfc16ffbc081bff286b6eafe079e55.mp3",
+            "content": "Tolong batuk sekuatnya",
+            "id": 1018,
+            "language": "Malay",
+            "phrase": {
+                "content": "Give me a big cough",
+                "id": 78,
+                "summary": "Big cough"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/814550cc3fcf91f370cc7194f6991b78.mp3",
+            "content": "Jangan lawan",
+            "id": 1019,
+            "language": "Malay",
+            "phrase": {
+                "content": "Don’t struggle",
+                "id": 79,
+                "summary": "Don’t struggle"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/96590443ff91ee4f95d42be98a41010a.mp3",
+            "content": "Jangan bergerak",
+            "id": 1020,
+            "language": "Malay",
+            "phrase": {
+                "content": "Don’t move",
+                "id": 80,
+                "summary": "Don’t move"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ece7152bcd9d3a43df8e8e7dc39337cf.mp3",
+            "content": "Naikkan tangan anda",
+            "id": 1021,
+            "language": "Malay",
+            "phrase": {
+                "content": "Lift up your arm",
+                "id": 81,
+                "summary": "Lift up your arm"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/73f82a092f1863c40841fbfa01421dd5.mp3",
+            "content": "Naikkan kaki anda",
+            "id": 1022,
+            "language": "Malay",
+            "phrase": {
+                "content": "Lift up your leg",
+                "id": 82,
+                "summary": "Lift up your leg"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8173fd2954e7088e4a87579720e0fd02.mp3",
+            "content": "Pegang dan genggam tangan saya",
+            "id": 1024,
+            "language": "Malay",
+            "phrase": {
+                "content": "Squeeze my hand",
+                "id": 83,
+                "summary": "Squeeze my hand"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7e49fbac8110d0f8ba9c6e9120aed50a.mp3",
+            "content": "Tunjukkan saya dua jari",
+            "id": 1025,
+            "language": "Malay",
+            "phrase": {
+                "content": "Show me two fingers",
+                "id": 84,
+                "summary": "Show two fingers"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/01c0901004be834f18303260267883bc.mp3",
+            "content": "Buka mulut anda",
+            "id": 1026,
+            "language": "Malay",
+            "phrase": {
+                "content": "Open your mouth",
+                "id": 85,
+                "summary": "Open mouth"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8a568d5c3fa16e4d348aeba5442ef58e.mp3",
+            "content": "Keluarkan lidah anda",
+            "id": 1027,
+            "language": "Malay",
+            "phrase": {
+                "content": "Stick out your tongue",
+                "id": 86,
+                "summary": "Stick out tongue"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/64e640eabe0269017727e8cc5f0900c4.mp3",
+            "content": "Buka mata anda",
+            "id": 1028,
+            "language": "Malay",
+            "phrase": {
+                "content": "Open your eyes",
+                "id": 87,
+                "summary": "Open eyes"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5c9a643f34528b71c5aa375a48397384.mp3",
+            "content": "Saya akan sinarkan cahaya ini ke mata anda. Ia akan menyilaukan.",
+            "id": 1029,
+            "language": "Malay",
+            "phrase": {
+                "content": "I’m going to shine a light into your eyes. It will be bright.",
+                "id": 88,
+                "summary": "Shine a light into your eyes"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8f39b654030eee7facf42f498b61b88c.mp3",
+            "content": "Paru-paru anda lemah. Kami akan memasukkan tiub pernafasan untuk membantu anda bernafas",
+            "id": 1030,
+            "language": "Malay",
+            "phrase": {
+                "content": "Your lungs are weak. We are going to insert a breathing tube to help you breathe",
+                "id": 89,
+                "summary": "Insert a breathing tube"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/fb3e3db2ad80c92da712b7db4ff88ee9.mp3",
+            "content": "Anda akan tidur sekarang",
+            "id": 1031,
+            "language": "Malay",
+            "phrase": {
+                "content": "You are going to sleep now",
+                "id": 90,
+                "summary": "Sleep"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/82f51c642a00f9ee9a93e600c6fa8dda.mp3",
+            "content": "Kami akan pusingkan anda agar anda baring meniarap untuk membantu paru-paru anda mengembang dengan lebih baik",
+            "id": 1032,
+            "language": "Malay",
+            "phrase": {
+                "content": "We are turning you onto your belly to help your lungs expand",
+                "id": 91,
+                "summary": "Turn onto belly"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/dd7128b53fb2ad75154381d120ac676b.mp3",
+            "content": "Kami akan memasukkan tiub untuk membantu anda buang air kecil",
+            "id": 1033,
+            "language": "Malay",
+            "phrase": {
+                "content": "We are inserting a tube to help you pass urine",
+                "id": 92,
+                "summary": "Insert tube urine"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/9909614d8c03fa4ce7a85f872a907184.mp3",
+            "content": "Kami akan memasukkan tiub melalui hidung anda",
+            "id": 1034,
+            "language": "Malay",
+            "phrase": {
+                "content": "We are inserting a tube through your nose",
+                "id": 93,
+                "summary": "Insert tube nose"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d44586adac6e4ffb9e184828fe132a56.mp3",
+            "content": "Kami akan berikan suntikan di leher untuk memberi ubat ",
+            "id": 1035,
+            "language": "Malay",
+            "phrase": {
+                "content": "We are going to give you an injection in your neck to give you medications",
+                "id": 94,
+                "summary": "Injection in Neck"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/633f2e4535f648cdfcf4cdb1c46ed0be.mp3",
+            "content": "Kami akan berikan suntikan di lengan anda untuk mengukur tekanan darah anda",
+            "id": 1036,
+            "language": "Malay",
+            "phrase": {
+                "content": "We are going to give you an injection in your arm to measure your blood pressure",
+                "id": 95,
+                "summary": "Measure Blood Pressure"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/41a25e3b3eb02060e149e6e5763fde0f.mp3",
+            "content": "Kami akan berikan ubat tidur",
+            "id": 1037,
+            "language": "Malay",
+            "phrase": {
+                "content": "We will give you sleeping medications.",
+                "id": 96,
+                "summary": "Sleeping Meds"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/bf5cd3f230ac509c0f1e5f1d69420cb1.mp3",
+            "content": "Kami akan berikan ubat penahan sakit",
+            "id": 1038,
+            "language": "Malay",
+            "phrase": {
+                "content": "We will give you painkillers.",
+                "id": 97,
+                "summary": "Painkillers"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f6626996e6ea429287b733e55d95edbd.mp3",
+            "content": "Kami akan berikan ubat untuk menaikkan tekanan darah anda",
+            "id": 1039,
+            "language": "Malay",
+            "phrase": {
+                "content": "We are giving you medication to keep your blood pressure up.",
+                "id": 98,
+                "summary": "Blood Pressure Medication"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ae34ee4cd65a78e8ca45c78254e0a484.mp3",
+            "content": "Kami akan mengeluarkan tiub pernafasan.",
+            "id": 1040,
+            "language": "Malay",
+            "phrase": {
+                "content": "We are going to remove the breathing tube.",
+                "id": 99,
+                "summary": "Remove Tube"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a020153b14904656be1e1d384b0f59dc.mp3",
+            "content": "Kami akan sedut keluar kahak anda",
+            "id": 1041,
+            "language": "Malay",
+            "phrase": {
+                "content": "We are going to suck out your phlegm",
+                "id": 100,
+                "summary": "Phlegm suck out"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/58a1edf69285177cc25473479df6ca77.mp3",
+            "content": "Kami akan membersihkan anda dengan span",
+            "id": 1042,
+            "language": "Malay",
+            "phrase": {
+                "content": "We are going to clean you with a sponge",
+                "id": 101,
+                "summary": "Clean with sponge"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f89a5b822ff48aaeb24fe24a8933b1e3.mp3",
+            "content": "Pusing kiri",
+            "id": 1043,
+            "language": "Malay",
+            "phrase": {
+                "content": "Turn left",
+                "id": 102,
+                "summary": "​Turn left"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/164314373a98c9811c454ab04afb7a87.mp3",
+            "content": "Pusing kanan",
+            "id": 1044,
+            "language": "Malay",
+            "phrase": {
+                "content": "Turn right",
+                "id": 103,
+                "summary": "Turn right"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8045fc46cc78d7258fad96806c9ef70d.mp3",
+            "content": "Kami akan tukarkan lampin anda",
+            "id": 1045,
+            "language": "Malay",
+            "phrase": {
+                "content": "We will change your diapers",
+                "id": 104,
+                "summary": "We will change your diapers"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/73f82a092f1863c40841fbfa01421dd5_8H1LwPD.mp3",
+            "content": "Naikkan kaki anda",
+            "id": 1023,
+            "language": "Malay",
+            "phrase": {
+                "content": "Lift up your leg",
+                "id": 105,
+                "summary": "Lift up your leg"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/2deeca74c0c66634dcb31984b258daa3.mp3",
+            "content": "Kami akan dudukkan anda",
+            "id": 1046,
+            "language": "Malay",
+            "phrase": {
+                "content": "We are going to sit you up",
+                "id": 106,
+                "summary": "We are going to sit you up"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/e9d745e926180642c53db9f85b5b0e4e.mp3",
+            "content": "Kami akan bantu mengangkat anda ke bahagian atas katil.",
+            "id": 1047,
+            "language": "Malay",
+            "phrase": {
+                "content": "We are going to shift you up the bed",
+                "id": 107,
+                "summary": "Shift head"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6ddd9ddfb7b526211c10cc7a7b925752.mp3",
+            "content": "Kami akan bersihkan mulut anda",
+            "id": 1048,
+            "language": "Malay",
+            "phrase": {
+                "content": "We are going to clean your mouth",
+                "id": 108,
+                "summary": "Clean mouth"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3f0b6badbd05dc0e939f6240f4c54b13.mp3",
+            "content": "Jangan telan air kumur",
+            "id": 1049,
+            "language": "Malay",
+            "phrase": {
+                "content": "Do not swallow the gargle",
+                "id": 109,
+                "summary": "Dont swallow"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/95a1418b774e4f5cf5aed9f15951c4c6.mp3",
+            "content": "Ada sakit sekarang?",
+            "id": 1050,
+            "language": "Malay",
+            "phrase": {
+                "content": "Are you in pain?",
+                "id": 110,
+                "summary": "Are you in pain?"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6feed714c035f5135d9860dbe4cb2421.mp3",
+            "content": "Di mana sakit?",
+            "id": 1051,
+            "language": "Malay",
+            "phrase": {
+                "content": "Where is the pain?",
+                "id": 111,
+                "summary": "Where is the pain?"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/95e41f236b7c2438f3e2e9c0f04d5a55.mp3",
+            "content": "Sakit sikit, sederhana atau teruk?",
+            "id": 1052,
+            "language": "Malay",
+            "phrase": {
+                "content": "Is it mild, moderate or severe?",
+                "id": 112,
+                "summary": "Is it mild, moderate or severe?"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/bda9a79fe3bbbe38827e2721e9d41460.mp3",
+            "content": "Boleh tunjukkan mana sakit?",
+            "id": 1053,
+            "language": "Malay",
+            "phrase": {
+                "content": "Can you point to the pain?",
+                "id": 113,
+                "summary": "Can you point to the pain?"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/eb0f18b653ce49f7ddcf20eb1d36bf5c.mp3",
+            "content": "Kepala",
+            "id": 1054,
+            "language": "Malay",
+            "phrase": {
+                "content": "Head",
+                "id": 114,
+                "summary": "Head"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/357742da3f7a2fcec0fcffa840db38ce_9vW9bg4.mp3",
+            "content": "Mata",
+            "id": 1055,
+            "language": "Malay",
+            "phrase": {
+                "content": "Eyes",
+                "id": 115,
+                "summary": "Eyes"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/78680da804112991d8254602beec77ad.mp3",
+            "content": "Telinga",
+            "id": 1056,
+            "language": "Malay",
+            "phrase": {
+                "content": "Ears",
+                "id": 116,
+                "summary": "Ears"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/72145611695537542fee15dd67d27902.mp3",
+            "content": "Hidung",
+            "id": 1057,
+            "language": "Malay",
+            "phrase": {
+                "content": "Nose",
+                "id": 117,
+                "summary": "Nose"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d590027b38bca67af1ee2394b06f334e.mp3",
+            "content": "Mulut",
+            "id": 1058,
+            "language": "Malay",
+            "phrase": {
+                "content": "Mouth",
+                "id": 118,
+                "summary": "Mouth"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f19cb3ca0c04f0fdc87703c607cafe06.mp3",
+            "content": "Tekak",
+            "id": 1059,
+            "language": "Malay",
+            "phrase": {
+                "content": "Throat",
+                "id": 119,
+                "summary": "Throat"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/11487ebdbed045a926040bd13dc2d95d.mp3",
+            "content": "Dada",
+            "id": 1060,
+            "language": "Malay",
+            "phrase": {
+                "content": "Chest",
+                "id": 120,
+                "summary": "Chest"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4b9b9fadcea7abec93619599f023166a.mp3",
+            "content": "Perut",
+            "id": 1061,
+            "language": "Malay",
+            "phrase": {
+                "content": "Abdomen",
+                "id": 121,
+                "summary": "Abdomen"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/463f32df44a16aec2ac689429afb800d.mp3",
+            "content": "Belakang",
+            "id": 1062,
+            "language": "Malay",
+            "phrase": {
+                "content": "Back",
+                "id": 122,
+                "summary": "Back"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3cff3b7edc60a7c97cdcaeb8731b9b5e.mp3",
+            "content": "Tangan atau Lengan",
+            "id": 1063,
+            "language": "Malay",
+            "phrase": {
+                "content": "Hand or Arm",
+                "id": 123,
+                "summary": "Arms"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/23c053edf3e38589eed145883b72a70d.mp3",
+            "content": "Kaki",
+            "id": 1064,
+            "language": "Malay",
+            "phrase": {
+                "content": "Legs",
+                "id": 124,
+                "summary": "Legs"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/23c053edf3e38589eed145883b72a70d_5vOCHgY.mp3",
+            "content": "Kaki",
+            "id": 1065,
+            "language": "Malay",
+            "phrase": {
+                "content": "Feet",
+                "id": 125,
+                "summary": "Feet"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/27946274a201346f0322e3861909b5ff.mp3",
+            "content": "satu",
+            "id": 1066,
+            "language": "Malay",
+            "phrase": {
+                "content": "1",
+                "id": 126,
+                "summary": "1"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a319360336c8cac32102f4dffbee4260.mp3",
+            "content": "dua",
+            "id": 1067,
+            "language": "Malay",
+            "phrase": {
+                "content": "2",
+                "id": 127,
+                "summary": "2"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ca0e90458e0fa1ec4b91cd5ce243f25f.mp3",
+            "content": "tiga",
+            "id": 1068,
+            "language": "Malay",
+            "phrase": {
+                "content": "3",
+                "id": 128,
+                "summary": "3"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a8c71f9b5cf41a482b1185480932db3b.mp3",
+            "content": "empat",
+            "id": 1069,
+            "language": "Malay",
+            "phrase": {
+                "content": "4",
+                "id": 129,
+                "summary": "4"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6742923575546471370cc028f289db40.mp3",
+            "content": "lima",
+            "id": 1070,
+            "language": "Malay",
+            "phrase": {
+                "content": "5",
+                "id": 130,
+                "summary": "5"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1099bcee169daf6a3039ac47f82037ca.mp3",
+            "content": "enam",
+            "id": 1071,
+            "language": "Malay",
+            "phrase": {
+                "content": "6",
+                "id": 131,
+                "summary": "6"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0ac1a3dd00e77a8920b26c2c8aa839ca.mp3",
+            "content": "tujuh",
+            "id": 1072,
+            "language": "Malay",
+            "phrase": {
+                "content": "7",
+                "id": 132,
+                "summary": "7"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a0eca9b2b48c384c03899d770a2d6d09.mp3",
+            "content": "lapan",
+            "id": 1073,
+            "language": "Malay",
+            "phrase": {
+                "content": "8",
+                "id": 133,
+                "summary": "8"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4468335418d080311ac997834468aace.mp3",
+            "content": "sembilan",
+            "id": 1074,
+            "language": "Malay",
+            "phrase": {
+                "content": "9",
+                "id": 134,
+                "summary": "9"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/9af8f7f25e9ac56c7282539de238fcb0.mp3",
+            "content": "sepuluh",
+            "id": 1075,
+            "language": "Malay",
+            "phrase": {
+                "content": "10",
+                "id": 135,
+                "summary": "10"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0b1e50e1fd71c96bac94144cc59cff40.mp3",
+            "content": "kosong",
+            "id": 1076,
+            "language": "Malay",
+            "phrase": {
+                "content": "0",
+                "id": 136,
+                "summary": "0"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1831bebb539949a55a71435e32368a9f.mp3",
+            "content": "Januari",
+            "id": 1077,
+            "language": "Malay",
+            "phrase": {
+                "content": "January",
+                "id": 137,
+                "summary": "January"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/17b0aa1b491885d22ee808e34577ea0c.mp3",
+            "content": "Februari",
+            "id": 1078,
+            "language": "Malay",
+            "phrase": {
+                "content": "Feb",
+                "id": 138,
+                "summary": "Feb"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1748c0644a50090814d3e170723ccc5c.mp3",
+            "content": "Mac",
+            "id": 1079,
+            "language": "Malay",
+            "phrase": {
+                "content": "March",
+                "id": 139,
+                "summary": "March"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3fcf026bbfffb63fb24b8de9d0446949.mp3",
+            "content": "April",
+            "id": 1080,
+            "language": "Malay",
+            "phrase": {
+                "content": "April",
+                "id": 140,
+                "summary": "April"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f2fa6af586895a4535f1c514c2aac01b.mp3",
+            "content": "Mei",
+            "id": 1081,
+            "language": "Malay",
+            "phrase": {
+                "content": "May",
+                "id": 141,
+                "summary": "May"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/eb4b40c1221dad5b23fe7ef84d292be1.mp3",
+            "content": "Jun",
+            "id": 1082,
+            "language": "Malay",
+            "phrase": {
+                "content": "June",
+                "id": 142,
+                "summary": "June"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/e66531d9b7544cdcb65302adb44d43a7.mp3",
+            "content": "Julai",
+            "id": 1083,
+            "language": "Malay",
+            "phrase": {
+                "content": "July",
+                "id": 143,
+                "summary": "July"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8cfbac2f2146ce40dadb6b1d4c48758c.mp3",
+            "content": "Ogos",
+            "id": 1084,
+            "language": "Malay",
+            "phrase": {
+                "content": "August",
+                "id": 144,
+                "summary": "August"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/cc5d90569e1c8313c2b1c2aab1401174.mp3",
+            "content": "September",
+            "id": 1085,
+            "language": "Malay",
+            "phrase": {
+                "content": "September",
+                "id": 145,
+                "summary": "September"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/43f11a7e230c388aec20d207d4e23014.mp3",
+            "content": "Oktober",
+            "id": 1086,
+            "language": "Malay",
+            "phrase": {
+                "content": "October",
+                "id": 146,
+                "summary": "October"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7e823b37564da492ca1629b4732289a8.mp3",
+            "content": "November",
+            "id": 1087,
+            "language": "Malay",
+            "phrase": {
+                "content": "November",
+                "id": 147,
+                "summary": "November"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/40ac310c71c0c2aef714cf41bc6a2031.mp3",
+            "content": "Disember",
+            "id": 1088,
+            "language": "Malay",
+            "phrase": {
+                "content": "December",
+                "id": 148,
+                "summary": "December"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b76729ba23c8fe11fd30ea64fe5cf3cd.mp3",
+            "content": "Jangan tanggalkan topeng anda. Anda dikehendaki untuk memakainya.",
+            "id": 3311,
+            "language": "Malay",
+            "phrase": {
+                "content": "Do not remove your mask. Keep your mask on.",
+                "id": 215,
+                "summary": "Keep Mask"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/86a0090c0fbd3ba3006cd977e1c498d4.mp3",
+            "content": "Adakah anda merasa sakit? Di mana?",
+            "id": 3312,
+            "language": "Malay",
+            "phrase": {
+                "content": "Do you have any pain? Where is your pain?",
+                "id": 216,
+                "summary": "Pain"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d64544e5e4a0320d8e3f3825bcfd3ba6.mp3",
+            "content": "Saya perlukan anda untuk tarik nafas dan tahan. Tolong jangan hembus sehingga diberitahu.",
+            "id": 3305,
+            "language": "Malay",
+            "phrase": {
+                "content": "I would need you to inhale deeply and hold your breath. Please do not breathe out unless you’re instructed to do so.",
+                "id": 208,
+                "summary": "Inhale"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/15a27c903fac9b8bfa0c3dd67b2d2eee.mp3",
+            "content": "Tanggalkan baju.",
+            "id": 3306,
+            "language": "Malay",
+            "phrase": {
+                "content": "Take off the shirt",
+                "id": 209,
+                "summary": "Shirt"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a556167e28dade303f0984fe69c699e1.mp3",
+            "content": "Letakkan di sana.",
+            "id": 3307,
+            "language": "Malay",
+            "phrase": {
+                "content": "Put it there",
+                "id": 210,
+                "summary": "Put Shirt"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d7e81fa6bb1bdf2393f3ca15ab7717e6.mp3",
+            "content": "Pakai semula baju.",
+            "id": 3308,
+            "language": "Malay",
+            "phrase": {
+                "content": "Wear back your shirt",
+                "id": 211,
+                "summary": "Wear Shirt"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f2a057c246da27b2cd49bb91d7508aca.mp3",
+            "content": "Saya akan melaraskan bahu/tangan anda. Sila ikut posisi saya.",
+            "id": 3310,
+            "language": "Malay",
+            "phrase": {
+                "content": "I will be adjusting your shoulders/arm. Please follow my positioning.",
+                "id": 213,
+                "summary": "Adjust"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5884f23c89e591c39ced3204ab1a423e.mp3",
+            "content": "Tolong jangan bergerak.",
+            "id": 3313,
+            "language": "Malay",
+            "phrase": {
+                "content": "Stay still, do not move.",
+                "id": 217,
+                "summary": "No Move"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1a0e696ada2f325c76753706339a32e0.mp3",
+            "content": "Duduk di luar, di tempat yang sama dengan tadi.",
+            "id": 3309,
+            "language": "Malay",
+            "phrase": {
+                "content": "Sit outside at the same place just now",
+                "id": 212,
+                "summary": "Sit outside"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

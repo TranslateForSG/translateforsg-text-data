@@ -1,0 +1,124 @@
+{
+    "count": 9,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b76729ba23c8fe11fd30ea64fe5cf3cd.mp3",
+            "content": "Jangan tanggalkan topeng anda. Anda dikehendaki untuk memakainya.",
+            "id": 3311,
+            "language": "Malay",
+            "phrase": {
+                "content": "Do not remove your mask. Keep your mask on.",
+                "id": 215,
+                "summary": "Keep Mask"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/86a0090c0fbd3ba3006cd977e1c498d4.mp3",
+            "content": "Adakah anda merasa sakit? Di mana?",
+            "id": 3312,
+            "language": "Malay",
+            "phrase": {
+                "content": "Do you have any pain? Where is your pain?",
+                "id": 216,
+                "summary": "Pain"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d64544e5e4a0320d8e3f3825bcfd3ba6.mp3",
+            "content": "Saya perlukan anda untuk tarik nafas dan tahan. Tolong jangan hembus sehingga diberitahu.",
+            "id": 3305,
+            "language": "Malay",
+            "phrase": {
+                "content": "I would need you to inhale deeply and hold your breath. Please do not breathe out unless you’re instructed to do so.",
+                "id": 208,
+                "summary": "Inhale"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/15a27c903fac9b8bfa0c3dd67b2d2eee.mp3",
+            "content": "Tanggalkan baju.",
+            "id": 3306,
+            "language": "Malay",
+            "phrase": {
+                "content": "Take off the shirt",
+                "id": 209,
+                "summary": "Shirt"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a556167e28dade303f0984fe69c699e1.mp3",
+            "content": "Letakkan di sana.",
+            "id": 3307,
+            "language": "Malay",
+            "phrase": {
+                "content": "Put it there",
+                "id": 210,
+                "summary": "Put Shirt"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d7e81fa6bb1bdf2393f3ca15ab7717e6.mp3",
+            "content": "Pakai semula baju.",
+            "id": 3308,
+            "language": "Malay",
+            "phrase": {
+                "content": "Wear back your shirt",
+                "id": 211,
+                "summary": "Wear Shirt"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f2a057c246da27b2cd49bb91d7508aca.mp3",
+            "content": "Saya akan melaraskan bahu/tangan anda. Sila ikut posisi saya.",
+            "id": 3310,
+            "language": "Malay",
+            "phrase": {
+                "content": "I will be adjusting your shoulders/arm. Please follow my positioning.",
+                "id": 213,
+                "summary": "Adjust"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5884f23c89e591c39ced3204ab1a423e.mp3",
+            "content": "Tolong jangan bergerak.",
+            "id": 3313,
+            "language": "Malay",
+            "phrase": {
+                "content": "Stay still, do not move.",
+                "id": 217,
+                "summary": "No Move"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1a0e696ada2f325c76753706339a32e0.mp3",
+            "content": "Duduk di luar, di tempat yang sama dengan tadi.",
+            "id": 3309,
+            "language": "Malay",
+            "phrase": {
+                "content": "Sit outside at the same place just now",
+                "id": 212,
+                "summary": "Sit outside"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

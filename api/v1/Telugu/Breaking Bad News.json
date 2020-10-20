@@ -1,0 +1,46 @@
+{
+    "count": 3,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7baf54635c7e1403671d16cd09429faf_rAvFYvg.mp3",
+            "content": "మీ కరోనా  వయిరస్ టెస్ట్ పాజిటివ్ గా వచ్చింది.",
+            "id": 2965,
+            "language": "Telugu",
+            "phrase": {
+                "content": "You have tested positive for coronavirus.",
+                "id": 60,
+                "summary": "Tested Positive"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0eb396b89073c7a30dee5489c8e86c9b_O7as1po.mp3",
+            "content": "మిమ్మల్ని హాస్పిటల్కు తీసుకు వెళ్ళాలి.",
+            "id": 2966,
+            "language": "Telugu",
+            "phrase": {
+                "content": "We will take you to the hospital.",
+                "id": 61,
+                "summary": "Hospital Admission"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0a21e930e6f255e8465b472cbcb5d792_cgJROPF.mp3",
+            "content": "మిమ్మల్ని విడిగా ఉంచడానికి ఒక ఏర్పాటు చేసిన వార్డ్\nలో మారుస్తాము.",
+            "id": 2967,
+            "language": "Telugu",
+            "phrase": {
+                "content": "We will transfer you to an isolation facility.",
+                "id": 62,
+                "summary": "Isolation Facility"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "count": 5,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ead2c417ab1d3f6cc49fab2c41c5f862.mp3",
+            "content": "कृपया अच्छी व्यक्तिगत स्वच्छता बनाए रखें। अपने हाथों को साबुन और पानी से बार-बार धोएं। अपनी आंखों, नाक और मुंह को न छूने की कोशिश करें। खांसते या छींकते समय हमेशा अपना मुंह ढक कर रखें।",
+            "id": 1871,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Please maintain good personal hygiene. Wash your hands with soap and water frequently. Try not to touch your eyes, nose, and mouth. Always cover your mouth when coughing or sneezing.",
+                "id": 179,
+                "summary": "Hygine"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8a0b038255435aa45da41e60eac095d5.mp3",
+            "content": "कृपया अपने चम्मच, कांटा, प्लेट, कटोरे, भोजन का उपयोग करने से दूसरों को रोकें। इसके अलावा अपने तौलिया की तरह व्यक्तिगत स्वच्छता आइटम साझा न करें।",
+            "id": 1872,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Please prevent others from using your spoon, fork, plates, bowls, food. Also do not share personal hygiene items like your towel.",
+                "id": 180,
+                "summary": "Sharing"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/152a8bd6dbcc02429a37827e77a705e6.mp3",
+            "content": "आपके लिए निर्धारित दवाएं लेना जारी रखें (यदि कोई हो)।",
+            "id": 1873,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Continue to take the medications prescribed for you (if any).",
+                "id": 181,
+                "summary": "Medication"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/376bf81eb6df8e787fa90d7a5f8bbb37.mp3",
+            "content": "कृपया ढेर सारा पानी पिएं।",
+            "id": 1874,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Please drink a lot of water.",
+                "id": 182,
+                "summary": "Drink"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/857f97f8279668f54a927434ae4c1d90.mp3",
+            "content": "घर पर अपने तापमान और लक्षणों की निगरानी रखें।",
+            "id": 1875,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Keep monitoring your temperature and symptoms at home.",
+                "id": 183,
+                "summary": "Monitor"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

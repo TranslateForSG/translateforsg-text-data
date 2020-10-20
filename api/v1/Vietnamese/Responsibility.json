@@ -1,0 +1,72 @@
+{
+    "count": 5,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b34c0df21029af21e004819e15effd84.mp3",
+            "content": "Hãy giữ gìn vệ sinh cá nhân tốt. Rửa tay bằng xà phòng và nước thường xuyên. Cố gắng không chạm vào mắt, mũi và miệng của bạn. Luôn che miệng khi ho hoặc hắt hơi.",
+            "id": 1942,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Please maintain good personal hygiene. Wash your hands with soap and water frequently. Try not to touch your eyes, nose, and mouth. Always cover your mouth when coughing or sneezing.",
+                "id": 179,
+                "summary": "Hygine"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a9fca7271686091737e250cf5d2909ff.mp3",
+            "content": "Vui lòng ngăn người khác sử dụng muỗng, nĩa, đĩa, bát, thức ăn của bạn. Cũng không chia sẻ các vật dụng vệ sinh cá nhân như khăn của bạn.",
+            "id": 1943,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Please prevent others from using your spoon, fork, plates, bowls, food. Also do not share personal hygiene items like your towel.",
+                "id": 180,
+                "summary": "Sharing"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4f0bdbe1d6065242482e98e95ecd0c68.mp3",
+            "content": "Tiếp tục dùng thuốc theo quy định cho bạn (nếu có).",
+            "id": 1944,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Continue to take the medications prescribed for you (if any).",
+                "id": 181,
+                "summary": "Medication"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7aa494a380fb2d20be9974b9cde69777.mp3",
+            "content": "Vui lòng uống nhiều nước.",
+            "id": 1945,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Please drink a lot of water.",
+                "id": 182,
+                "summary": "Drink"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3c968cbde47a087527b7454d0081b598.mp3",
+            "content": "Theo dõi nhiệt độ và các triệu chứng của bạn ở nhà.",
+            "id": 1946,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Keep monitoring your temperature and symptoms at home.",
+                "id": 183,
+                "summary": "Monitor"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

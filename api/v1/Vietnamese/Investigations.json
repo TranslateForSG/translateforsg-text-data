@@ -1,0 +1,98 @@
+{
+    "count": 7,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4e9094ed8c3c51ade51a957519e2a570.mp3",
+            "content": "Tôi sẽ đặt nụ bông này vào lỗ mũi của bạn. Bạn sẽ cảm thấy kỳ lạ nhưng nó không đau đớn.",
+            "id": 1351,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "I'm going to put this cotton bud into your nostrils. You will feel strange but it is not painful.",
+                "id": 46,
+                "summary": "Swabbing"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6e5221a96bdbe133c3f571056d4156d3.mp3",
+            "content": "Đây là để kiểm tra coronavirus",
+            "id": 1352,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "This is to test for coronavirus",
+                "id": 47,
+                "summary": "Covid"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3936693ad3f674b47dd882420a54f869.mp3",
+            "content": "Nếu coronavirus dương tính, chúng tôi sẽ gọi điện thoại của bạn vào ngày mai.",
+            "id": 1353,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "If coronavirus positive, we call your phone by tomorrow.",
+                "id": 49,
+                "summary": "Result Collection"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/2fd761415372aa5768eee7328bb34e4a.mp3",
+            "content": "Nếu coronavirus âm tính, chúng tôi sẽ gửi cho bạn SMS sau 3 ngày.",
+            "id": 1355,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "If coronavirus negative, we send you an SMS after 3 days.",
+                "id": 152,
+                "summary": "COVID Negative"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6fa48f28fe590b9643519470f99df49c.mp3",
+            "content": "Nghiêng đầu lại",
+            "id": 1354,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Tilt your head back",
+                "id": 48,
+                "summary": "Tilt Head"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a71fafc6e343d401770183e8883c84df.mp3",
+            "content": "Sau đó, bạn sẽ chụp X-quang",
+            "id": 1356,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Later, you will do an X-ray",
+                "id": 50,
+                "summary": "X-ray"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f538c86c99f25b53d78635fec5b22266.mp3",
+            "content": "Không có dấu hiệu nhiễm trùng trên X-quang của bạn",
+            "id": 1357,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "There is no sign of infection on your X-ray",
+                "id": 51,
+                "summary": "X-ray OK"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

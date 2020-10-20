@@ -1,0 +1,72 @@
+{
+    "count": 5,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4ec74c4df42f82a0e8807d6f9fa5aee0_FmuL9p8.mp3",
+            "content": "ভাল ব্যক্তিগত স্বাস্থ্যবিধি এবং পরিচ্ছন্নতার অভ্যাস রাখুন। নিয়মিতভাবে সাবান এবং পানি দিয়ে আপনার হাত ধুয়ে নিন। আপনার চোখ, নাক এবং মুখ না ধরার চেষ্টা করুন। কাশি বা হাঁচি দেওয়ার সময় অবশ্যই আপনার মুখটি ঢেকে রাখুন।",
+            "id": 1819,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Please maintain good personal hygiene. Wash your hands with soap and water frequently. Try not to touch your eyes, nose, and mouth. Always cover your mouth when coughing or sneezing.",
+                "id": 179,
+                "summary": "Hygine"
+            },
+            "romanized": "Bhalo bektigoto shasthobidhi ebong poricchhonotar obbhash rakhun. Niyomito bhabe shaban ebong pani diye apnar haat dhuye nin. Apnar chokh, nak, ebong mukh na dhorar cheshta korun. Kashi ba hachi dewar shomoy obosshhoi apnar mukhti dekhe rakhun.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/52bcdc46a65f4f40b6cd8b01daa8e029_iSTt72M.mp3",
+            "content": "দয়া করে অন্যদেরকে আপনার চামচ, কাঁটাচামচ, প্লেট, বাটি বা খাবার ব্যবহার করতে দিবেন না। আপনার তোয়ালের মতো নিজস্ব জিনিসপত্রও অন্যদের সাথে মিলাবেন না বা অন্যদের ব্যবহার করতে দিবেন না।",
+            "id": 1820,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Please prevent others from using your spoon, fork, plates, bowls, food. Also do not share personal hygiene items like your towel.",
+                "id": 180,
+                "summary": "Sharing"
+            },
+            "romanized": "Doya kore onnoderke apnar chamoch, katachamoch, plate, bati ba khabar bebohar korte diben na. Apnar towal er moto nijossho jinishpotro o onnoder shathe milaben na ba onnoder bebohar korte diben na.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/bf898a008bcf5c4cf7bbd6854a4d3a96_cEtzCsy.mp3",
+            "content": "আপনার জন্য নির্ধারিত ওষুধগুলো নিতে থাকুন (যদি দেওয়া হয়েছে)।",
+            "id": 1821,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Continue to take the medications prescribed for you (if any).",
+                "id": 181,
+                "summary": "Medication"
+            },
+            "romanized": "Apnar jonno nirdharito oshudhgulo nite thakun (jodi dewa hoyeche).",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ecd157328c4d2243e17554744e0d30d0_qioNNNX.mp3",
+            "content": "বেশী করে পানি পান করুন।",
+            "id": 1822,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Please drink a lot of water.",
+                "id": 182,
+                "summary": "Drink"
+            },
+            "romanized": "Beshi kore pani pan korun.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b026532151fb3be6f7feff00edfb80c7_gWX7CHG.mp3",
+            "content": "বাড়িতে আপনার তাপমাত্রা এবং লক্ষণগুলি পর্যবেক্ষণ করে থাকুন।",
+            "id": 1823,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Keep monitoring your temperature and symptoms at home.",
+                "id": 183,
+                "summary": "Monitor"
+            },
+            "romanized": "Barite apnar tapmatra ebong lokkhonguli porjobekkhon kore thakun.",
+            "special_note": ""
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "count": 7,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/34446695e5e40a0592ef8c452c62b2d3.mp3",
+            "content": "Vui lòng tránh giao thông công cộng.",
+            "id": 1467,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Please avoid public transport.",
+                "id": 166,
+                "summary": "Transport"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/691a1cfb6b8546de18d347c3db631179.mp3",
+            "content": "Bạn có thể đi phương tiện giao thông cá nhân của riêng bạn, một chiếc taxi hoặc một chiếc xe cho thuê tư nhân.",
+            "id": 1468,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "You can take your own private transport, a taxi or a private hire car.",
+                "id": 167,
+                "summary": "Take Taxi"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/64213c67bc4b49a33bd6bc727e8462ae.mp3",
+            "content": "Đeo khẩu trang và ngồi một mình ở ghế sau trong xe.",
+            "id": 1469,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Wear a mask and sit alone in the back seat in the car.",
+                "id": 168,
+                "summary": "In Car"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b098dd6f4a5d9491291d20d606479460.mp3",
+            "content": "Mở cửa sổ xe và tắt điều hòa.",
+            "id": 1470,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Open car windows and turn off air-conditioning.",
+                "id": 169,
+                "summary": "No AC"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4a75efcc61fef88052875517e6e04c26.mp3",
+            "content": "Hãy giữ an toàn biên lai từ taxi hoặc xe thuê riêng. Nếu kết quả xét nghiệm của bạn cho thấy bạn bị nhiễm bệnh, điều này sẽ cần thiết.",
+            "id": 1471,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Please safely keep the receipt from the taxi or private hire car. If your test results indicate you are infected, this will be needed.",
+                "id": 170,
+                "summary": "Receipt"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/590246ba4e0d9b15cb821c8a6154d4af.mp3",
+            "content": "Tránh xa người khác. Bạn phải ở nhà và không thể ra ngoài trong khi đang nghỉ phép. Bạn chỉ có thể đi ra ngoài vì lý do sức khỏe hoặc y tế.",
+            "id": 1472,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Stay away from others. You must stay home and can not go outside while being on medical leave. You may only go out for health or medical reasons.",
+                "id": 171,
+                "summary": "Isolation"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7db851694572f6e5c24e6a48597840fd.mp3",
+            "content": "Nếu bạn cần phải đi đến bất kỳ cuộc hẹn y tế nào trước khi bạn nhận được kết quả xét nghiệm của mình, hãy cẩn thận. Nói với bác sĩ, y tá hoặc nhân viên khác rằng gần đây bạn đã được xét nghiệm COVID-19. Ngoài ra, nói với họ về các triệu chứng của bạn. Trước ngày, bạn nên gọi 6344 8222 để thông báo cho họ.",
+            "id": 1473,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "If you need to go for any medical appointment before you get your test result, be careful. Tell the doctor, nurse, or other staff that you were recently tested for COVID-19. Also, tell them about your symptoms. Before the day, you should call 6344 8222 to inform them.",
+                "id": 172,
+                "summary": "Medical Appointment"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

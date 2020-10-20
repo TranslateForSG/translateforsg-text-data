@@ -1,0 +1,176 @@
+{
+    "count": 13,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/19428eaa387f708b34c0c02804a4ad8f.mp3",
+            "content": "Ada demam tak?",
+            "id": 957,
+            "language": "Malay",
+            "phrase": {
+                "content": "Do you have a fever?",
+                "id": 14,
+                "summary": "Fever"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/56730c078d6d9499589e6a5b321dcf25.mp3",
+            "content": "Sudah berapa hari?",
+            "id": 958,
+            "language": "Malay",
+            "phrase": {
+                "content": "How many days?",
+                "id": 15,
+                "summary": "Length"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d49f3dc17000f2edde01fd93018f6aba.mp3",
+            "content": "Ada gunakan termometer atau tak? Jika ya, apakah suhu badan tertinggi?",
+            "id": 959,
+            "language": "Malay",
+            "phrase": {
+                "content": "Did you measure it with a thermometer? If you did, what was the highest reading?",
+                "id": 16,
+                "summary": "Reading"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a2865e146d2da9f003684b77dd87776d.mp3",
+            "content": "Selsema?",
+            "id": 960,
+            "language": "Malay",
+            "phrase": {
+                "content": "Runny nose?",
+                "id": 17,
+                "summary": "Runny nose"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a35d309f4e22cffe1469cfcf50809f19.mp3",
+            "content": "Batuk?",
+            "id": 961,
+            "language": "Malay",
+            "phrase": {
+                "content": "Cough?",
+                "id": 18,
+                "summary": "Cough"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0cd4f86d6d59f31352acd8c951c9da6e.mp3",
+            "content": "Sakit tekak?",
+            "id": 962,
+            "language": "Malay",
+            "phrase": {
+                "content": "Sore throat?",
+                "id": 19,
+                "summary": "Sore throat"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4ac239ec847a3c17f2fce4c16cf6f910.mp3",
+            "content": "Sesak nafas?",
+            "id": 963,
+            "language": "Malay",
+            "phrase": {
+                "content": "Difficulty breathing?",
+                "id": 20,
+                "summary": "Breathing"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/df833e223fa86ba8d53343345763fa25_hzJafU6.mp3",
+            "content": "Hilang deria bau",
+            "id": 964,
+            "language": "Malay",
+            "phrase": {
+                "content": "Cannot smell properly?",
+                "id": 21,
+                "summary": "Anosmia"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/817cdd22c82e192863078d87353f4e01.mp3",
+            "content": "Hilang deria rasa",
+            "id": 965,
+            "language": "Malay",
+            "phrase": {
+                "content": "Do you feel less taste in the mouth?",
+                "id": 22,
+                "summary": "Ageusia"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/fe3dc33d52ac661479f51f16e373884b_241jYxJ.mp3",
+            "content": "Ada cirit-birit tak? Buang air besar berapa kali sehari?",
+            "id": 1488,
+            "language": "Malay",
+            "phrase": {
+                "content": "Do you have diarrhoea / diarrhea? How many times a day?",
+                "id": 23,
+                "summary": "diarrhoea"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b96f616f4de59c342807adecd3171910.mp3",
+            "content": "Ruam Kulit atau Gatal?",
+            "id": 966,
+            "language": "Malay",
+            "phrase": {
+                "content": "Skin Rash or Itching?",
+                "id": 24,
+                "summary": "Rash"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8961b3ee8e37b82e10a35f697ed0a6bb.mp3",
+            "content": "Ada rasa sakit? Khususnya, ada sakit dada atau pun tidak?",
+            "id": 967,
+            "language": "Malay",
+            "phrase": {
+                "content": "Specifically, any chest pain?",
+                "id": 26,
+                "summary": "Chest Pain"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/503259c79ec83470738c67c1936cb685.mp3",
+            "content": "Guna satu jari, tunjuk saya mana sakit?",
+            "id": 968,
+            "language": "Malay",
+            "phrase": {
+                "content": "Point to the place.",
+                "id": 27,
+                "summary": "Point Out"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

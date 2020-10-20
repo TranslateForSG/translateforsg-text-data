@@ -1,0 +1,2568 @@
+{
+    "count": 197,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7e1b2fb1c810b5e943492f55eb2a1fd6.mp3",
+            "content": "我是一位医生。我不会说华语。我会用这篇网页来与您沟通。希望您能尽量用英语回答。 谢谢。",
+            "id": 1958,
+            "language": "Chinese",
+            "phrase": {
+                "content": "I am a doctor. I do not speak your language. I will communicate with you using this website. Answer me in English as much as possible. Thank you.",
+                "id": 1,
+                "summary": "Intro"
+            },
+            "romanized": "wǒ shì yī wèi yì shēng. wǒ bù hùi shuō huá yǔ. wǒ hùi yòng zhè piān wǎng yè lái yǔ nín gōu tōng. xī wàng nín néng jǐn liàng yòng yīng yǔ húi dá. xiè xiè .",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/11f6c9ba1b2e8c88a50cc48c7d6b9621_PuK1SOj.mp3",
+            "content": "请问, 怎么称呼您呢？",
+            "id": 1959,
+            "language": "Chinese",
+            "phrase": {
+                "content": "What's your name?",
+                "id": 2,
+                "summary": "Name"
+            },
+            "romanized": "qǐng wèn, zěn me chēng hū nín nē?",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/cd53dbb1a1c45877673ea29a33732478.mp3",
+            "content": "请把你的身份证或工作准证交给我。",
+            "id": 1960,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Please give me your Identity Card or Work Permit",
+                "id": 3,
+                "summary": "IC"
+            },
+            "romanized": "qǐng bǎ nǐ de shēn fèn zhèng huò gōng zuò zhǔn zhèng jiāo gěi wǒ.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a8e5afcf75515cd588c54a1b2bb2ef13.mp3",
+            "content": "请问你在哪间公司工作/上班？",
+            "id": 1961,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Which company are you employed under / work for?",
+                "id": 4,
+                "summary": "Company"
+            },
+            "romanized": "qǐng wèn ní zài nǎ jiān gōng sī gōng zuò / shàng bān？",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/339938ec7179290a2d106ae3bd2c7969.mp3",
+            "content": "请问你的主管的名字和联系方式是什么？",
+            "id": 1962,
+            "language": "Chinese",
+            "phrase": {
+                "content": "What is your supervisor’s name and contact number?",
+                "id": 5,
+                "summary": "Supervisor"
+            },
+            "romanized": "qǐng wèn ní de zhǔ guǎn de míng zì hé lián xì fāng shì shì shěn me？",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/180ccf16a72718af36dce307405bb46e.mp3",
+            "content": "请问你住在新加坡的哪个地区？",
+            "id": 1963,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Where do you live in Singapore?",
+                "id": 6,
+                "summary": "Residence"
+            },
+            "romanized": "qǐng wèn ní zhù zài xīn jiā pō de nǎ gè dì qū？",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/aa28d726ccba3f6c3c16eaaab36bb751.mp3",
+            "content": "你知道你的地区是否有任何感染的患者吗？",
+            "id": 1964,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Do you know if any infected patients are from your area?",
+                "id": 7,
+                "summary": "Cluster"
+            },
+            "romanized": "nín zhī dào ní de dì qū shì fǒu yǒu rèn hé gǎn rǎn de huàn zhě ma？",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/9cb631043fcb64192be5a1a7bf81c893.mp3",
+            "content": "过去的十四天内，你是否接触过确诊冠状病毒的患者？",
+            "id": 1965,
+            "language": "Chinese",
+            "phrase": {
+                "content": "In the last 14 days, did you meet anyone who has coronavirus?",
+                "id": 9,
+                "summary": "People"
+            },
+            "romanized": "zài guò qù de shí sì tiān nèi ， ní shì fǒu yǒu yǔ què zhěn de guān zhuàng bìng dú de bìng rén jiē chù guò？",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7f16c88a84aa0dc6b9868ab3827df105.mp3",
+            "content": "有几个人和你住在同一个房间？",
+            "id": 1966,
+            "language": "Chinese",
+            "phrase": {
+                "content": "How many people are staying in the same room as you?",
+                "id": 8,
+                "summary": "Room"
+            },
+            "romanized": "yǒu jī gè rén hé ní zhù zài tóng yī gè fáng jiān ？",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/23df04d2a738662cddea34c2950f62e2.mp3",
+            "content": "是谁？你跟他们是什么关系？",
+            "id": 1967,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Who? What is your relationship with them?",
+                "id": 10,
+                "summary": "People Meet"
+            },
+            "romanized": "rú guǒ yǒu de huà ， qǐng wèn nín yǔ bìng rén shì shěn me guān xī ne？",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/36b6c06fb8706e030ebdec74fd8b8161.mp3",
+            "content": "你是在几天前与病人接触的呢？",
+            "id": 1968,
+            "language": "Chinese",
+            "phrase": {
+                "content": "How many days ago did you meet them?",
+                "id": 11,
+                "summary": "People Meet"
+            },
+            "romanized": "nín shì zài jī tiān qián yǔ bìng rén jiē chù de ne？",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/9bc1a2a291cc271089bf9d03a4a896df.mp3",
+            "content": "你与病人接触的时间有多久？",
+            "id": 1969,
+            "language": "Chinese",
+            "phrase": {
+                "content": "How long were you with him/her?",
+                "id": 12,
+                "summary": "People Meet"
+            },
+            "romanized": "nín yǔ bìng rén jiē chù de shí jiān yǒu duō jǐu？",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a97d2c9f7ff50f028ccb0e3e19d0a68c.mp3",
+            "content": "在过去的十四天内，你是否有出过国还是从其他国家回来到新加坡呢？如果有的话， 请问你去了哪些国家呢？",
+            "id": 1970,
+            "language": "Chinese",
+            "phrase": {
+                "content": "In the last 14 days, did you travel out of Singapore? If yes, tell us the countries in English.",
+                "id": 13,
+                "summary": "14 Days Travel"
+            },
+            "romanized": "zài guò qù de shí sì tiān nèi ， ní shì fǒu yǒu chū guò guó hái shì cóng qí tā guó jiā huí lái dào xīn jiā pō ne？ rú guǒ yǒu de huà，qǐng wèn ní qù le nǎ xiē guó jiā ne？",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a05ceb0dc14ccf5cd7afa3f3248ac07a.mp3",
+            "content": "你目前有没有发烧呢？",
+            "id": 1971,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Do you have a fever?",
+                "id": 14,
+                "summary": "Fever"
+            },
+            "romanized": "nǐ mù qián yǒu méi yǒu fā shāo ne？",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/63224346e348d3909e1f3f7077823352_wyDO3wJ.mp3",
+            "content": "发烧多久了？",
+            "id": 1972,
+            "language": "Chinese",
+            "phrase": {
+                "content": "How many days?",
+                "id": 15,
+                "summary": "Length"
+            },
+            "romanized": "fā shāo duō jiǔ le？",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/60459cd090026e6024232a651a8d6f82.mp3",
+            "content": "你有用温度计测量体温吗？最高体温是几度？",
+            "id": 1973,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Did you measure it with a thermometer? If you did, what was the highest reading?",
+                "id": 16,
+                "summary": "Reading"
+            },
+            "romanized": "nǐ yǒu yòng wēn dù jì cè liàng tǐ wēn ma？rú guǒ yǒu de huà，nǐ zùi gāo de tǐ wēn shì duō shǎo？",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/602be3e577b929bc2805816c72bfbd6e.mp3",
+            "content": "你有流鼻涕吗？",
+            "id": 1974,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Runny nose?",
+                "id": 17,
+                "summary": "Runny nose"
+            },
+            "romanized": "líu bí tì",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7f5285a34a263b9faadb65e749ae3f5a.mp3",
+            "content": "你有咳嗽吗？",
+            "id": 1975,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Cough?",
+                "id": 18,
+                "summary": "Cough"
+            },
+            "romanized": "ké sòu",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/e83acf57a8b73ce6b1c5e4883971c9c6_bw19k5j.mp3",
+            "content": "喉咙痛",
+            "id": 1976,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Sore throat?",
+                "id": 19,
+                "summary": "Sore throat"
+            },
+            "romanized": "hóu lóng tòng",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/568a113a99be14ac612c8ed6cbf3d4b4_e5qQ29A.mp3",
+            "content": "呼吸困难",
+            "id": 1977,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Difficulty breathing?",
+                "id": 20,
+                "summary": "Breathing"
+            },
+            "romanized": "hū xī kùn nán",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/abcc169f3174804e367ab41135ce41ab.mp3",
+            "content": "你的嗅觉有变差吗？",
+            "id": 1978,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Cannot smell properly?",
+                "id": 21,
+                "summary": "Anosmia"
+            },
+            "romanized": "nín de xìu jué yǒu biàn chà ma？",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3f95551d669b0019ae84b1771e6212cf.mp3",
+            "content": "你的味觉有变差吗？/ 你有没有发现最近吃的食物变得没味道吗?",
+            "id": 1979,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Do you feel less taste in the mouth?",
+                "id": 22,
+                "summary": "Ageusia"
+            },
+            "romanized": "nín de wèi jué yǒu biàn chà ma？/ ní yǒu méi yǒu fā xiàn zuì jìn chī de shí wù biàn dé méi wèi dào ma?",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/fbec2ba0661162eaaefadda3f91f1968.mp3",
+            "content": "你最近有没有泻肚子？一天泻几次？",
+            "id": 2142,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Do you have diarrhoea / diarrhea? How many times a day?",
+                "id": 23,
+                "summary": "diarrhoea"
+            },
+            "romanized": "nín zùi jìn yǒu méi yǒu lā dù zǐ？yī tiān lā jī cì？",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/069a46fab4e2ef4fb1145c3cab0e1b80.mp3",
+            "content": "你的皮肤有出疹子或发痒吗？",
+            "id": 1980,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Skin Rash or Itching?",
+                "id": 24,
+                "summary": "Rash"
+            },
+            "romanized": "pí zhěn huò sāo yǎng？",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1c193888a47958c92e10694057c4e157.mp3",
+            "content": "你的身体有哪里痛吗？",
+            "id": 1981,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Do you have any pain on your body?",
+                "id": 25,
+                "summary": "Pain"
+            },
+            "romanized": "nín de shēn tǐ yǒu nǎ lǐ tòng ma？",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/2728c3193b54d2017e5017a051eec7f6.mp3",
+            "content": "你的有胸口有疼痛吗？",
+            "id": 1982,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Specifically, any chest pain?",
+                "id": 26,
+                "summary": "Chest Pain"
+            },
+            "romanized": "yǒu xiōng bù téng tòng ma？",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/cb428f7da08ab4380463d583ec38ec97.mp3",
+            "content": "可以指出你的痛在哪里吗？",
+            "id": 1983,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Point to the place.",
+                "id": 27,
+                "summary": "Point Out"
+            },
+            "romanized": "kě yǐ zhǐ chū nǐ de tòng zài nǎ lǐ ma?",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d83f085db40671fd4a7d43db750ea025.mp3",
+            "content": "你有什么长期慢性疾病，或其他病历吗？",
+            "id": 1984,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Do you have any past medical history?",
+                "id": 28,
+                "summary": "Medical History"
+            },
+            "romanized": "ní yǒu shěn me cháng qī màn xìng jí bìng，huò qí tā bìng lì ma？",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4367b2e2b0a95deb39357824a5847aa7.mp3",
+            "content": "请您指出您是否有下列的疾病吗？",
+            "id": 1985,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Point to which ones.",
+                "id": 29,
+                "summary": "Symptoms"
+            },
+            "romanized": "qǐng nín zhǐ chū nín shì fǒu yǒu xià liè de jí bìng ma?",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/878d76b2f827bc213ca74419019d1f1b_8JMqQIs.mp3",
+            "content": "哮喘",
+            "id": 1986,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Asthma",
+                "id": 30,
+                "summary": "Asthma"
+            },
+            "romanized": "xiāo chuǎn",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0f1cb05516be4205f897ac073b3dd204_F1gqssb.mp3",
+            "content": "肺炎",
+            "id": 1987,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Pneumonia",
+                "id": 31,
+                "summary": "Pneumonia"
+            },
+            "romanized": "fèi yán",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/36d2cbd685fe77230b9dff2dd3a9ced2_vIqjuLa.mp3",
+            "content": "高血压",
+            "id": 1988,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Hypertension",
+                "id": 32,
+                "summary": "Hypertension"
+            },
+            "romanized": "gāo xiě yā",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5c947d5845b477c6f9ce688d6b9b61a7_mOy8UIG.mp3",
+            "content": "高胆固醇",
+            "id": 1989,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Hyperlipidemia / Cholesterol",
+                "id": 33,
+                "summary": "Hyperlipidemia"
+            },
+            "romanized": "gāo dǎn gù chún",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b41877e5d586b1b557850fd91ad9fe5e_CY1HCX8.mp3",
+            "content": "糖尿病",
+            "id": 1990,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Diabetes",
+                "id": 34,
+                "summary": "Diabetes"
+            },
+            "romanized": "táng niào bìng",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b82a42870bd0e7ef56854483f91724b0_kiFG6T8.mp3",
+            "content": "心脏问题 / 心脏衰竭",
+            "id": 2143,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Heart problems",
+                "id": 35,
+                "summary": "Heart problems"
+            },
+            "romanized": "xīn zāng wèn tí   /   xīn zāng shuāi jié",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a8760a54d4cf2fd698317fe680be14d1_czuz4G4.mp3",
+            "content": "肾衰竭\n您有洗肾吗？",
+            "id": 1991,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Kidney problems",
+                "id": 36,
+                "summary": "Kidney problems"
+            },
+            "romanized": "shèn shuāi jié \nnín yǒu xǐ shèn ma ？",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/19a3d28eaa924e28930edb8e5a7e0462.mp3",
+            "content": "你有对什么药物敏感吗？",
+            "id": 1992,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Do you have a drug allergy?",
+                "id": 37,
+                "summary": "Drug allergy"
+            },
+            "romanized": "nǐ yǒu dùi yào wù mǐn gǎn ma ？",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/9c45287f2b0eb16fe7eba4488f7af5fd.mp3",
+            "content": "你有抽烟吗？\n一天抽几支 / 几包？",
+            "id": 1993,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Do you smoke? If yes, how many cigarettes a day?",
+                "id": 38,
+                "summary": "Smoke"
+            },
+            "romanized": "nǐ yǒu chōu yān ma ？ \nyī tiān chōu jǐ zhī / jǐ bāo？",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/260cfee8641cca7c2d7c6d43644364b3.mp3",
+            "content": "你有喝酒吗？\n每个星期喝几杯？喝什么样的酒？",
+            "id": 1994,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Do you drink? If yes, how much (number of bottles a week, type of alcohol)?",
+                "id": 39,
+                "summary": "Drink Alcohol"
+            },
+            "romanized": "nǐ yǒu hē jǐu ma？ \nměi gè xīng qī hē jǐ bēi？hē shén me yàng de jǐu？",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/2e5d36e4686f2203216afb89aff88ca0.mp3",
+            "content": "你最近心情如何？”好“的话，请把大拇指向上，“不好”的话，请把大拇指向下",
+            "id": 1995,
+            "language": "Chinese",
+            "phrase": {
+                "content": "How do you feel emotionally?",
+                "id": 40,
+                "summary": "Emotion Feeling"
+            },
+            "romanized": "nǐ zùi jìn xīn qíng rú hé ？ ”hǎo“ de huà ，qǐng bǎ dà mǔ zhǐ xiàng shàng， “bù hǎo” de huà， dà mǔ zhǐ xiàng xià",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/2570c1925d0471a644841f40fcb10a16_uMEfgqJ.mp3",
+            "content": "会不会觉得人生没有意义，想要伤害自己/ 想结束自己的生命",
+            "id": 1996,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Do you have suicidal thoughts?",
+                "id": 41,
+                "summary": "Suicidal thoughts"
+            },
+            "romanized": "hùi bù hùi jué dé rén shēng méi yǒu yì yì, xiǎng yào shāng hài zì jǐ / xiǎng jié shù zì jǐ de shēng mìng",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f2ea4af0b60c387f3bd11cb897b1128e.mp3",
+            "content": "如果您有其他问题和担忧，请麻烦您用英语问我",
+            "id": 1997,
+            "language": "Chinese",
+            "phrase": {
+                "content": "If you have any other problems, you can tell me in English.",
+                "id": 42,
+                "summary": "Other Problems"
+            },
+            "romanized": "rú guǒ nín yǒu qí tā wèn tí hé dàn yōu, qǐng má fán nín yòng yīng yǔ wèn wǒ",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/fac639d16f0b7dd4cdf9ee0f92e3d81a.mp3",
+            "content": "我现在将进行身体检测。",
+            "id": 1998,
+            "language": "Chinese",
+            "phrase": {
+                "content": "I’m going to examine you.",
+                "id": 43,
+                "summary": "Physical Exam Starts"
+            },
+            "romanized": "wǒ xiàn zài jiāng jìn xíng shēn tǐ jiǎn cè.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/40dac5e03868cb79a3cc9329168205da.mp3",
+            "content": "在检测的当时如果有任何不适，请告诉我。",
+            "id": 1999,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Tell me if you feel more pain.",
+                "id": 149,
+                "summary": "Tell if Pain"
+            },
+            "romanized": "zài jiǎn cè de dāng shí rú guǒ yǒu rèn hé bú shì, qǐng gào sù wǒ.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/38e89e2185f834647544d44111586c3b_xSV318r.mp3",
+            "content": "请脱掉你的衬衫。",
+            "id": 2000,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Please remove your shirt.",
+                "id": 150,
+                "summary": "Remove Clothing"
+            },
+            "romanized": "qǐng tuō diào nǐ de chèn shān 。",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/65c8fbdeb8498900fa77f2deed7f3e3c.mp3",
+            "content": "请用嘴巴深呼吸",
+            "id": 2001,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Keep taking deep breaths through your mouth.",
+                "id": 44,
+                "summary": "Deep Breath"
+            },
+            "romanized": "qǐng yòng zǔi bā shēn hū xī",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7127cea9e5738d9cc53f230807a5640e.mp3",
+            "content": "当我把听筒放在你身上时，请说\"99\"",
+            "id": 2002,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Say \"99\" when I listen with my stethoscope.",
+                "id": 45,
+                "summary": "99"
+            },
+            "romanized": "dāng wǒ bǎ tīng tǒng fàng zài nín shēn shàng shí，qǐng shuō \"99\"",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c8cd1658d43e1e38e58b7ec4a8b12c0a.mp3",
+            "content": "我会把这个棉花棒放进您的鼻子。你会感到不舒服，请忍一下。",
+            "id": 2003,
+            "language": "Chinese",
+            "phrase": {
+                "content": "I'm going to put this cotton bud into your nostrils. You will feel strange but it is not painful.",
+                "id": 46,
+                "summary": "Swabbing"
+            },
+            "romanized": "Wǒ huì bǎ zhè ge mián huā bàng fàng jìn nín de bí zi. Nǐ huì gǎn dào bú shū fú, qǐng rěn yī xià.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d88cd9b6a045a507b87a0c300bfbd826.mp3",
+            "content": "如果您的冠状病毒检测报告为阳性, 我们明天会再打电话给你。",
+            "id": 2004,
+            "language": "Chinese",
+            "phrase": {
+                "content": "If coronavirus positive, we call your phone by tomorrow.",
+                "id": 49,
+                "summary": "Result Collection"
+            },
+            "romanized": "rú guǒ nín de guàn zhuàng bìng dú jiǎn cè bào gào wei yáng xìng, wǒ men míng tiān huì zài dǎ diàn huà gěi nín。",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/323645f0860cfa7ac4072701bed2ded5.mp3",
+            "content": "这是用来检测冠状病毒。",
+            "id": 2144,
+            "language": "Chinese",
+            "phrase": {
+                "content": "This is to test for coronavirus",
+                "id": 47,
+                "summary": "Covid"
+            },
+            "romanized": "zhè shì yòng lái jiǎn cè guān zhuàng bìng dú 。",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0e9987f74973efb2f6ed027824b1c928.mp3",
+            "content": "如果冠状病毒检测报告为阴性，我们3天后会向你发送简讯。",
+            "id": 2005,
+            "language": "Chinese",
+            "phrase": {
+                "content": "If coronavirus negative, we send you an SMS after 3 days.",
+                "id": 152,
+                "summary": "COVID Negative"
+            },
+            "romanized": "Rú guǒ guān zhuàng bìng dú jiǎn cè bào gào wei yīn xìng, wǒ men sān tiān hòu huì xiàng nǐ fā sòng jiǎn xùn。",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/317caa7584907573f96fbefdca566608.mp3",
+            "content": "请把头往后仰 / 请抬头向上",
+            "id": 2006,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Tilt your head back",
+                "id": 48,
+                "summary": "Tilt Head"
+            },
+            "romanized": "qǐng bǎ tóu wǎng hòu yǎng / qǐng tái tóu xiàng shàng",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3ac860dd7242eb6ad3cb571804525adf.mp3",
+            "content": "待会儿给你照X光",
+            "id": 2007,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Later, you will do an X-ray",
+                "id": 50,
+                "summary": "X-ray"
+            },
+            "romanized": "dài hùi ér gěi nǐ zhào X guāng",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/23466cde4c968ac5eb007ac418cd9349.mp3",
+            "content": "你的X光报告显示肺部没有发炎的迹象。",
+            "id": 2008,
+            "language": "Chinese",
+            "phrase": {
+                "content": "There is no sign of infection on your X-ray",
+                "id": 51,
+                "summary": "X-ray OK"
+            },
+            "romanized": "nǐ de X guāng bào gào xiǎn shì fèi bù méi yǒu fā yán de jī xiàng 。",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/cd6325c4b0c90a18b9d1970d2615fc7a.mp3",
+            "content": "你应该很快就可以回家了。",
+            "id": 2009,
+            "language": "Chinese",
+            "phrase": {
+                "content": "You can go back soon.",
+                "id": 52,
+                "summary": "Can go back"
+            },
+            "romanized": "nǐ yìng gāi hěn kuài jìu kě yǐ húi jiā le 。",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3e7b7b59849696c3a2f9b26ff102e1fa_EfwmTc8.mp3",
+            "content": "请在这边稍等，不要离开这里。",
+            "id": 2010,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Wait here, do not leave this area",
+                "id": 53,
+                "summary": "Wait Patient"
+            },
+            "romanized": "qǐng zài zhè biān shāo děng, bù yào lí kāi zhè lǐ.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d8e79c71728aeab7a2804388af73d459.mp3",
+            "content": "你需要住院几天， 让我们观察。",
+            "id": 2011,
+            "language": "Chinese",
+            "phrase": {
+                "content": "You have to stay in the hospital for a few days",
+                "id": 54,
+                "summary": "Hospital Stay"
+            },
+            "romanized": "nǐ xū yào zhù yuàn jī tiān, ràng wǒ men guān chá 。",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3de52611beaf3ee55709c790806ec77b.mp3",
+            "content": "我现在让你吃点药，吃了你会舒服一点。",
+            "id": 2012,
+            "language": "Chinese",
+            "phrase": {
+                "content": "I'll give you medicine to make you feel better",
+                "id": 55,
+                "summary": "Medicine"
+            },
+            "romanized": "wǒ xiàn zài ràng nǐ chī diǎn yào, chī le nǐ hùi shū fú yī diǎn 。",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/589f7df5919de0b7549510150a624a09.mp3",
+            "content": "如果感到呼吸困难，请你马上回来就医。",
+            "id": 2013,
+            "language": "Chinese",
+            "phrase": {
+                "content": "You must come back if you have problems with breathing.",
+                "id": 57,
+                "summary": "Problem after 5 days"
+            },
+            "romanized": "rú guǒ gǎn dào hū xī kùn nán, qǐng nǐ mǎ shàng huí lái jiù yī。",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/da9096ad745aec493cca25406a889b08.mp3",
+            "content": "接下来的五天, 你不能回去上班。",
+            "id": 2014,
+            "language": "Chinese",
+            "phrase": {
+                "content": "You must not work for the next 5 days.",
+                "id": 56,
+                "summary": "No work 5 days"
+            },
+            "romanized": "jiē xià lái de wǔ tiān, nǐ bù néng huí qù shàng bān.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6c24b6f3df5ae1e0a2b5df0a2be86fd8.mp3",
+            "content": "如果五天后还没完全康复，你得必须回来。",
+            "id": 2015,
+            "language": "Chinese",
+            "phrase": {
+                "content": "You must come back if you do not recover completely after 5 days.",
+                "id": 151,
+                "summary": "Come back 5 days"
+            },
+            "romanized": "rú guǒ wǔ tiān hòu hái méi wán quán kāng fù, nǐ děi bì xū huí lái",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/856e967a3d613a33e6bef7ed8523e4ee.mp3",
+            "content": "请仔细参考这份传单。",
+            "id": 2016,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Read the handout carefully",
+                "id": 58,
+                "summary": "Handout"
+            },
+            "romanized": "qǐng zǐ xì cān kǎo zhè fèn chuán dān。",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/89017a3497138e402c6ee0c4d47fb0ab.mp3",
+            "content": "谢谢你",
+            "id": 2017,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Thank you",
+                "id": 59,
+                "summary": "Thank you"
+            },
+            "romanized": "xiè xiè nǐ ",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/fd67731ba2eadb3bbfe48520ff28e43a.mp3",
+            "content": "请避免乘坐公共交通工具",
+            "id": 2018,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Please avoid public transport.",
+                "id": 166,
+                "summary": "Transport"
+            },
+            "romanized": "Qǐng bì miǎn chéng zuò gōng gòng jiāo tōng gōng jù",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d27dbdc221359c2037605a73b5255939.mp3",
+            "content": "你可以乘坐私人交通工具、德士或私召车",
+            "id": 2019,
+            "language": "Chinese",
+            "phrase": {
+                "content": "You can take your own private transport, a taxi or a private hire car.",
+                "id": 167,
+                "summary": "Take Taxi"
+            },
+            "romanized": "nǐ kě yǐ chéng zuò sī rén jiāo tōng gōng jù、\ndé shì huò sī zhào chē",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/2b139a3ad7efca0d3a374c985822750c.mp3",
+            "content": "请戴上口罩，独自坐在汽车后座。",
+            "id": 2020,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Wear a mask and sit alone in the back seat in the car.",
+                "id": 168,
+                "summary": "In Car"
+            },
+            "romanized": "Qǐng dài shàng kǒu zhào, dú zì zuò zài qì chē hòu zuò.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/9b8185724dcce553753aaf529168508b.mp3",
+            "content": "打开车窗，关闭冷气",
+            "id": 2021,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Open car windows and turn off air-conditioning.",
+                "id": 169,
+                "summary": "No AC"
+            },
+            "romanized": "Dǎ kāi chē chuāng, guān bì lěng qì",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a4ee46687f915a311ffef8871daa0d5f.mp3",
+            "content": "请向你的德士或私召车司机要求收据。如果您的冠状病毒检测报告为阳性，我们必须追踪所有和您接触过的人。收据会对我们很有帮助。",
+            "id": 2022,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Please safely keep the receipt from the taxi or private hire car. If your test results indicate you are infected, this will be needed.",
+                "id": 170,
+                "summary": "Receipt"
+            },
+            "romanized": "Qǐng xiàng nǐ de dé shì huò sī zhào chē sī jī yāo qiú shōu jù. Rú guǒ nín de guàn zhuàng bìng dú jiǎn cè bào gào wei yáng xìng, wǒ men bì xū zhuī zōng suǒ yǒu hé nín jiē chù guò de rén. Shōu jù huì duì wǒ men hěn yǒu bāng zhù.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/789b701a2b3213bbe27c2572f85fe1b1.mp3",
+            "content": "你自己要实行居家隔离。法律规定：除非是要处理与医疗相关的事, 这整个病假期间你不能离开家。",
+            "id": 2023,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Stay away from others. You must stay home and can not go outside while being on medical leave. You may only go out for health or medical reasons.",
+                "id": 171,
+                "summary": "Isolation"
+            },
+            "romanized": "nǐ zì jǐ yào shí xíng jū jiā gé lí. Fǎ lǜ guī dìng: Chú fēi shì yào chǔ lǐ yǔ yī liáo xiāng guān de shì, zhè zhěng gè bìng jià qí jiān nǐ bù néng lí kāi jiā.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/550a62371561b55aa136ece4a8bcfd77.mp3",
+            "content": "在还没获得您的冠状病毒测试结果之前，如果您需要去看医生或复诊，请通知医护人员您近期验过冠状病毒，而且有什么症状。在预约日期前，您也应该拨打6344 8222 通知人民协会。",
+            "id": 2024,
+            "language": "Chinese",
+            "phrase": {
+                "content": "If you need to go for any medical appointment before you get your test result, be careful. Tell the doctor, nurse, or other staff that you were recently tested for COVID-19. Also, tell them about your symptoms. Before the day, you should call 6344 8222 to inform them.",
+                "id": 172,
+                "summary": "Medical Appointment"
+            },
+            "romanized": "Zài hái méi huò dé nín de guàn zhuàng bìng dú cè shì jié guǒ zhī qián, rú guǒ nín xū yào qù kàn yī shēng huò fù zhěn, qǐng tōng zhī yī hù rén yuán nín jìn qí yàn guò guàn zhuàng bìng dú, ér qiě yǒu shé me zhèng zhuàng. Zài yù yuē rì qí qián, nín yě yīng gāi bō dǎ 6344 8222 tōng zhī rén mín xié huì.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/353b562aecb8a2a21140b9594e577133.mp3",
+            "content": "你的冠状病毒的测试结果是阳性(positive) 的",
+            "id": 2025,
+            "language": "Chinese",
+            "phrase": {
+                "content": "You have tested positive for coronavirus.",
+                "id": 60,
+                "summary": "Tested Positive"
+            },
+            "romanized": "nǐ de guàn zhuàng bìng dú de cè shì jié guǒ shì yáng xìng de",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7019321a75a0c4c175d52e8028241e7a.mp3",
+            "content": "我们将带你去医院。",
+            "id": 2026,
+            "language": "Chinese",
+            "phrase": {
+                "content": "We will take you to the hospital.",
+                "id": 61,
+                "summary": "Hospital Admission"
+            },
+            "romanized": "wǒ men jiāng dài nǐ qù yì yuàn 。",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4f3b23edac5d029fff95429da9fc5ea2.mp3",
+            "content": "我们会把你转去隔离设施",
+            "id": 2027,
+            "language": "Chinese",
+            "phrase": {
+                "content": "We will transfer you to an isolation facility.",
+                "id": 62,
+                "summary": "Isolation Facility"
+            },
+            "romanized": "wǒ men hùi bǎ nǐ zhuǎn qù gé lí shè shī",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/48f75a24bcb4d03161c22565eb502333_6yTORfj.mp3",
+            "content": "早上好",
+            "id": 2028,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Good morning",
+                "id": 64,
+                "summary": "Morning"
+            },
+            "romanized": "zǎo shàng hǎo",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6ab1f1775c4a1e4e89be1379a26a52d4_f0xihF1.mp3",
+            "content": "晚上好",
+            "id": 2029,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Good Evening",
+                "id": 173,
+                "summary": "Evening"
+            },
+            "romanized": "wǎn shàng hǎo",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8c9bdf7d38e8df7a5a447ab18db206d2_Usx8Yz3.mp3",
+            "content": "下午好",
+            "id": 2030,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Good Afternoon",
+                "id": 174,
+                "summary": "Afternoon"
+            },
+            "romanized": "xià wǔ hǎo",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/eed214fe2ee0f705eefe95ad54f73ca7_AOy7zat.mp3",
+            "content": "我是照顾您的护士",
+            "id": 2031,
+            "language": "Chinese",
+            "phrase": {
+                "content": "I am the nurse",
+                "id": 65,
+                "summary": "Nurse"
+            },
+            "romanized": "wǒ shì zhào gù nín de hù shì",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/47b40ff092cdc9d4589532ca0ab9f4dc_YhRZhX7.mp3",
+            "content": "我是照顾您的医生",
+            "id": 2032,
+            "language": "Chinese",
+            "phrase": {
+                "content": "I am the doctor",
+                "id": 66,
+                "summary": "Doctor"
+            },
+            "romanized": "wǒ shì zhào gù nín de yì shēng",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/012bd2cdaff9bb786dcdba0cf7e1cd75_19qQIdF.mp3",
+            "content": "您现在在加护病房",
+            "id": 2033,
+            "language": "Chinese",
+            "phrase": {
+                "content": "You are in the intensive care unit.",
+                "id": 67,
+                "summary": "In ICU"
+            },
+            "romanized": "nín xiàn zài zài jiā hù bìng fáng",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5ce438210f58d2e52ba8fccd3d99cb67_gHtUU7o.mp3",
+            "content": "星期一",
+            "id": 2034,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Today is Monday",
+                "id": 68,
+                "summary": "Monday"
+            },
+            "romanized": "xīng qī yī",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/34e5216bc310f8c4db8fbfe772156237_zjipUgx.mp3",
+            "content": "星期二",
+            "id": 2035,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Today is Tuesday",
+                "id": 69,
+                "summary": "Tuesday"
+            },
+            "romanized": "xīng qī èr",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/711d996d87638acb6b93552fca140942_jZgbdfG.mp3",
+            "content": "星期三",
+            "id": 2036,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Today is Wednesday",
+                "id": 70,
+                "summary": "Wednesday"
+            },
+            "romanized": "xīng qī sān",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3df6af796b60302d6184ee1e02e090ab_UyI9KS5.mp3",
+            "content": "星期四",
+            "id": 2054,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Today is Thursday",
+                "id": 71,
+                "summary": "Thursday"
+            },
+            "romanized": "xīng qī sì",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/450ea3af464ff9f8a08600c0c1f7b82c_8xSA6Qz.mp3",
+            "content": "星期五",
+            "id": 2055,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Today is Friday",
+                "id": 72,
+                "summary": "Friday"
+            },
+            "romanized": "xīng qī wǔ",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1ae72f6826c2717962d123e8088116c2_lmum5MN.mp3",
+            "content": "星期六",
+            "id": 2056,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Today is Saturday",
+                "id": 73,
+                "summary": "Saturday"
+            },
+            "romanized": "xīng qī lìu",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d292590eeeb4b025d428a892a86352a2.mp3",
+            "content": "今天是星期天",
+            "id": 2057,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Today is Sunday",
+                "id": 74,
+                "summary": "Sunday"
+            },
+            "romanized": "xīng qī tiān",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/11f2abe1ecd6781895bbff5b76fb2287_KQgiHK5.mp3",
+            "content": "你的病情正在改善",
+            "id": 2058,
+            "language": "Chinese",
+            "phrase": {
+                "content": "You are getting better",
+                "id": 153,
+                "summary": "Getting Better"
+            },
+            "romanized": "nǐ de bìng qíng zhèng zài gǎi shàn",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/012ec8c8e39645110aa39e7044cb3d6e_Peykk9L.mp3",
+            "content": "等你病情再好一点，我们会把呼吸管拿掉",
+            "id": 2059,
+            "language": "Chinese",
+            "phrase": {
+                "content": "We will remove the breathing tube when you are better",
+                "id": 75,
+                "summary": "Remove Tube Later"
+            },
+            "romanized": "děng nǐ bìng qíng zài hǎo yī diǎn ， wǒ men hùi bǎ hū xī guǎn ná diào",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4d438c3e2d5a009e51447203e07519b1.mp3",
+            "content": "等我们把呼吸管取出后，你才说话",
+            "id": 2060,
+            "language": "Chinese",
+            "phrase": {
+                "content": "You can talk after we remove the breathing tube",
+                "id": 76,
+                "summary": "Can Talk as Remove"
+            },
+            "romanized": "dāng wǒ mén qǔ chū le nǐ de hū xī guǎn zhī hòu,\nnǐ jiù kě yǐ shuō huà le",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/95ed1511a7419ffc97f40e64c0263612_qMH3mBN.mp3",
+            "content": "请深呼吸",
+            "id": 2061,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Take a deep breath",
+                "id": 77,
+                "summary": "Deep breath"
+            },
+            "romanized": "qǐng shēn hū xī",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/fd7292d219bf722437140289fddcae27_Iq5t6Kt.mp3",
+            "content": "请给我大力地咳嗽",
+            "id": 2062,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Give me a big cough",
+                "id": 78,
+                "summary": "Big cough"
+            },
+            "romanized": "qǐng gěi wǒ dà lì de ké sòu",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b30c687f104b7ab2e8cc6953eb6698b1_wdj5W34.mp3",
+            "content": "别挣扎",
+            "id": 2063,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Don’t struggle",
+                "id": 79,
+                "summary": "Don’t struggle"
+            },
+            "romanized": "bié zhēng zhā",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0f225a7c1284817ad9e3c09079ccbb43_Rft6fnm.mp3",
+            "content": "别动",
+            "id": 2064,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Don’t move",
+                "id": 80,
+                "summary": "Don’t move"
+            },
+            "romanized": "bié dòng",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/14afcd6f337b8460665a19b3f12b79c1_bA4OQxq.mp3",
+            "content": "举起手",
+            "id": 2065,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Lift up your arm",
+                "id": 81,
+                "summary": "Lift up your arm"
+            },
+            "romanized": "jǔ qǐ shǒu",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/bb5b8a0baf7f7c7a8402fc01fe9f8edf_Y9DHodP.mp3",
+            "content": "抬起脚",
+            "id": 2066,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Lift up your leg",
+                "id": 82,
+                "summary": "Lift up your leg"
+            },
+            "romanized": "tái qǐ jiǎo",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c917c9d200c53e4f29f08edf94759536_tRPS4oc.mp3",
+            "content": "握我的手",
+            "id": 2068,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Squeeze my hand",
+                "id": 83,
+                "summary": "Squeeze my hand"
+            },
+            "romanized": "wò wǒ de shǒu",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/421357c7eb643239af72af66516daa59_3iif5ZL.mp3",
+            "content": "伸出两只手指",
+            "id": 2069,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Show me two fingers",
+                "id": 84,
+                "summary": "Show two fingers"
+            },
+            "romanized": "shēn chū liǎng zhǐ shǒu zhǐ",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6c923ac71b8b7af76c51376478b708d4_4stJvQb.mp3",
+            "content": "张开嘴巴",
+            "id": 2070,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Open your mouth",
+                "id": 85,
+                "summary": "Open mouth"
+            },
+            "romanized": "zhāng kāi zǔi bā",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/25018b246097d0cf5c3e2715483cd2ef.mp3",
+            "content": "伸出你的舌头",
+            "id": 2071,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Stick out your tongue",
+                "id": 86,
+                "summary": "Stick out tongue"
+            },
+            "romanized": "shēn chū nǐ de shé tóu",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c6dfc1b18b10ff44c8ebe7d6b1415327.mp3",
+            "content": "张开你的眼睛",
+            "id": 2072,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Open your eyes",
+                "id": 87,
+                "summary": "Open eyes"
+            },
+            "romanized": "zhāng kāi nǐ de yǎn jīng",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/075c1585a24d5992bc7698cccbd4ed4f.mp3",
+            "content": "我现在要用灯光来检查你的眼睛，会有点不舒服，请忍耐一下",
+            "id": 2073,
+            "language": "Chinese",
+            "phrase": {
+                "content": "I’m going to shine a light into your eyes. It will be bright.",
+                "id": 88,
+                "summary": "Shine a light into your eyes"
+            },
+            "romanized": "wǒ xiàn zài yào yòng dēng guāng lái jiǎn chá nǐ de yǎn jīng, hùi yǒu diǎn bù shū fú, qǐng rěn nài yī xià",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f414a410b2313bed567d284e9eb0d2c8.mp3",
+            "content": "你的肺部目前衰弱，我们需要放一条呼吸管，帮助您呼吸。",
+            "id": 2074,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Your lungs are weak. We are going to insert a breathing tube to help you breathe",
+                "id": 89,
+                "summary": "Insert a breathing tube"
+            },
+            "romanized": "Nǐ de fèi bù mù qián shuāi ruò, wǒ men xū yào fàng yī tiáo hū xī guǎn, bāng zhù nín hū xī",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/97c04d9c1029c0b99f62dbcd019d8c77.mp3",
+            "content": "你现在会进入睡眠状态",
+            "id": 2075,
+            "language": "Chinese",
+            "phrase": {
+                "content": "You are going to sleep now",
+                "id": 90,
+                "summary": "Sleep"
+            },
+            "romanized": "nín xiàn zài hùi jìn rù shùi mián zhuàng tài",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/881059ae107242d3611fb78ca4eac569.mp3",
+            "content": "我们要帮你躺在腹部。这样能让您的肺部更好的扩张。",
+            "id": 2076,
+            "language": "Chinese",
+            "phrase": {
+                "content": "We are turning you onto your belly to help your lungs expand",
+                "id": 91,
+                "summary": "Turn onto belly"
+            },
+            "romanized": "Wǒ men yào bāng nǐ tǎng zài fù bù. Zhè yàng néng ràng nín de fèi bù gèng hǎo de kuò zhāng.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/2f6887cf3166441947949cd58019bfdd.mp3",
+            "content": "我们需要帮你插入尿管，帮助您排尿。",
+            "id": 2077,
+            "language": "Chinese",
+            "phrase": {
+                "content": "We are inserting a tube to help you pass urine",
+                "id": 92,
+                "summary": "Insert tube urine"
+            },
+            "romanized": "wǒ men xū yào bāng nín chā rù niào guǎn ， bāng zhù nín pái niào 。",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/fdad64bbeebe83582d7fc9b1ab5a992a.mp3",
+            "content": "我们正在通过你的鼻子插入一条管子",
+            "id": 2078,
+            "language": "Chinese",
+            "phrase": {
+                "content": "We are inserting a tube through your nose",
+                "id": 93,
+                "summary": "Insert tube nose"
+            },
+            "romanized": "wǒ men zhèng zài tōng guò nín de bí zǐ chā rù yī tiáo guǎn zǐ",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3ec15c6a13b967dcdea4bf3428a9f7c9.mp3",
+            "content": "现在我们要在你的颈部插入一条输药管，好让我们输药。",
+            "id": 2079,
+            "language": "Chinese",
+            "phrase": {
+                "content": "We are going to give you an injection in your neck to give you medications",
+                "id": 94,
+                "summary": "Injection in Neck"
+            },
+            "romanized": "xiàn zài wǒ men yào zài nín de jǐng bù chā rù yī tiáo shū yào guǎn, hǎo ràng wǒ men shū yào 。",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6a0afc54e46c3ab163e936ac82b2acd3.mp3",
+            "content": "我们会在你的手上插入一条线，让我们\n直接量你的血压。",
+            "id": 2080,
+            "language": "Chinese",
+            "phrase": {
+                "content": "We are going to give you an injection in your arm to measure your blood pressure",
+                "id": 95,
+                "summary": "Measure Blood Pressure"
+            },
+            "romanized": "Wǒ men huì zài nǐ de shǒu shàng chā rù yī tiáo xiàn, ràng wǒ men zhí jiē liàng ní de xiě yā.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f409c1bf0503f33bf63491c47f01715f.mp3",
+            "content": "我们会给你吃药，让你睡得比较舒服",
+            "id": 2081,
+            "language": "Chinese",
+            "phrase": {
+                "content": "We will give you sleeping medications.",
+                "id": 96,
+                "summary": "Sleeping Meds"
+            },
+            "romanized": "wǒ men hùi gěi nǐ chī yào, ràng nǐ shùi dé bǐ jiào shū fú",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/caed706aac50030c8a1e7d41e944a590.mp3",
+            "content": "我们会给你一些止痛药",
+            "id": 2082,
+            "language": "Chinese",
+            "phrase": {
+                "content": "We will give you painkillers.",
+                "id": 97,
+                "summary": "Painkillers"
+            },
+            "romanized": "wǒ men hùi gěi nǐ yī xiē zhǐ tòng yào",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a3933a05790946e4dfc8dde30d2d2662.mp3",
+            "content": "我们会给你药来维持你的血压",
+            "id": 2083,
+            "language": "Chinese",
+            "phrase": {
+                "content": "We are giving you medication to keep your blood pressure up.",
+                "id": 98,
+                "summary": "Blood Pressure Medication"
+            },
+            "romanized": "wǒ men hùi gěi nǐ  yào lái wéi chí nǐ de xiě yā",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/214e4232910a2c9b04161fadea40360f.mp3",
+            "content": "我们要取出你的呼吸管",
+            "id": 2084,
+            "language": "Chinese",
+            "phrase": {
+                "content": "We are going to remove the breathing tube.",
+                "id": 99,
+                "summary": "Remove Tube"
+            },
+            "romanized": "wǒ men yào qǔ chū nǐ de hū xī guǎn",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/85e06ad7715e854c03f8e2564e74f242.mp3",
+            "content": "我们要吸掉你的痰",
+            "id": 2085,
+            "language": "Chinese",
+            "phrase": {
+                "content": "We are going to suck out your phlegm",
+                "id": 100,
+                "summary": "Phlegm suck out"
+            },
+            "romanized": "wǒ men yào xī diào nǐ de tán",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7ef8df1d352fd88590f8c7c96bc68bfb.mp3",
+            "content": "我们会用海绵帮你擦身体",
+            "id": 2086,
+            "language": "Chinese",
+            "phrase": {
+                "content": "We are going to clean you with a sponge",
+                "id": 101,
+                "summary": "Clean with sponge"
+            },
+            "romanized": "wǒ men hùi yòng hǎi mián bāng nǐ cā shēn tǐ",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8cf929d1308d8cee87f2bd0794e0c573.mp3",
+            "content": "向左转",
+            "id": 2087,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Turn left",
+                "id": 102,
+                "summary": "​Turn left"
+            },
+            "romanized": "xiàng zuǒ zhuǎn",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/995337ebda9089aabdb6a0ab583a782f.mp3",
+            "content": "向右转",
+            "id": 2088,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Turn right",
+                "id": 103,
+                "summary": "Turn right"
+            },
+            "romanized": "xiàng yòu zhuǎn",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/832db1ac060d44dae868b4eeed92a2c4.mp3",
+            "content": "我们来帮你换尿布",
+            "id": 2089,
+            "language": "Chinese",
+            "phrase": {
+                "content": "We will change your diapers",
+                "id": 104,
+                "summary": "We will change your diapers"
+            },
+            "romanized": "wǒ men lái bāng nǐ huàn niào bù",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/bb5b8a0baf7f7c7a8402fc01fe9f8edf_c1wZMve.mp3",
+            "content": "抬起脚",
+            "id": 2067,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Lift up your leg",
+                "id": 105,
+                "summary": "Lift up your leg"
+            },
+            "romanized": "tái qǐ jiǎo",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/17349b68067db03bbd631f98a8430fd3.mp3",
+            "content": "我们会扶你坐起来",
+            "id": 2090,
+            "language": "Chinese",
+            "phrase": {
+                "content": "We are going to sit you up",
+                "id": 106,
+                "summary": "We are going to sit you up"
+            },
+            "romanized": "wǒ men hùi fú nǐ zuò qǐ lái",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d62e8ce5d834f5e16f2fd88f298082cc_MnSvgL2.mp3",
+            "content": "我们要把你移到床上",
+            "id": 2091,
+            "language": "Chinese",
+            "phrase": {
+                "content": "We are going to shift you up the bed",
+                "id": 107,
+                "summary": "Shift head"
+            },
+            "romanized": "wǒ men yào bǎ nǐ yí dào chuáng shàng",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/50001138fa931e79611898ff1ba0a326.mp3",
+            "content": "我们会擦你的嘴巴",
+            "id": 2092,
+            "language": "Chinese",
+            "phrase": {
+                "content": "We are going to clean your mouth",
+                "id": 108,
+                "summary": "Clean mouth"
+            },
+            "romanized": "wǒ men hùi cā nǐ de zǔi bā",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0cd3ceb17c92f2290d357e274124fca4_Wcd2uJc.mp3",
+            "content": "不要吞下漱口液",
+            "id": 2093,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Do not swallow the gargle",
+                "id": 109,
+                "summary": "Dont swallow"
+            },
+            "romanized": "bù yào tūn xià shù kǒu yè",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6dd1b7b132ebcc0dd3bb0486169b906d.mp3",
+            "content": "你现在哪里有痛吗？",
+            "id": 2094,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Are you in pain?",
+                "id": 110,
+                "summary": "Are you in pain?"
+            },
+            "romanized": "nǐ xiàn zài nǎ lǐ yǒu tòng ma ？",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/562570929796e487434dcfc70d6b5a23_Fs1PNq8.mp3",
+            "content": "痛在哪里？",
+            "id": 2095,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Where is the pain?",
+                "id": 111,
+                "summary": "Where is the pain?"
+            },
+            "romanized": "tòng zài nǎ lǐ ？",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4830148f82feafa342b757ae53096e92.mp3",
+            "content": "你的痛，是轻微的痛，中等的痛，还是非常痛？",
+            "id": 2096,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Is it mild, moderate or severe?",
+                "id": 112,
+                "summary": "Is it mild, moderate or severe?"
+            },
+            "romanized": "nǐ de tòng, shì qīng wēi de tòng, zhōng děng de tòng, hái shì fēi cháng tòng ？",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/75be88987f2bf4d748a2c1427c5c3874.mp3",
+            "content": "您能指给我看痛在哪里吗？",
+            "id": 2097,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Can you point to the pain?",
+                "id": 113,
+                "summary": "Can you point to the pain?"
+            },
+            "romanized": "nín néng zhǐ gěi wǒ kàn tòng zài nǎ lǐ ma ？",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4be2abbcf7d3f280c292a8d0c4fbba98_zJV13n3.mp3",
+            "content": "头",
+            "id": 2098,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Head",
+                "id": 114,
+                "summary": "Head"
+            },
+            "romanized": "tóu",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/946f5c8c6903b9f74125c4fe026e6dcd_F3lgp8r.mp3",
+            "content": "眼睛",
+            "id": 2099,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Eyes",
+                "id": 115,
+                "summary": "Eyes"
+            },
+            "romanized": "yǎn jīng",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/62507462c9a26d733b3828b0fd0bc642_hR9synz.mp3",
+            "content": "耳朵",
+            "id": 2100,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Ears",
+                "id": 116,
+                "summary": "Ears"
+            },
+            "romanized": "ěr duǒ",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/e6134a29931ad14d89de9017a9213734_3Y9tk3W.mp3",
+            "content": "鼻子",
+            "id": 2101,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Nose",
+                "id": 117,
+                "summary": "Nose"
+            },
+            "romanized": "bí zǐ",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4e3e32131e9cb81a572fbcac4c77fa9d_ULcJC2N.mp3",
+            "content": "嘴巴/口",
+            "id": 2102,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Mouth",
+                "id": 118,
+                "summary": "Mouth"
+            },
+            "romanized": "zǔi bā / kǒu",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/e997c075dd5a68b5c5932b330ae3f9a4_f9tFeZS.mp3",
+            "content": "喉咙",
+            "id": 2103,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Throat",
+                "id": 119,
+                "summary": "Throat"
+            },
+            "romanized": "hóu lóng",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/793f195dacff9b8c582d0f74f9241815_RVfXRwj.mp3",
+            "content": "胸口",
+            "id": 2104,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Chest",
+                "id": 120,
+                "summary": "Chest"
+            },
+            "romanized": "xiōng kǒu",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/25bc427ca3db02f20c6477481f0f3064.mp3",
+            "content": "腹部/肚子",
+            "id": 2105,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Abdomen",
+                "id": 121,
+                "summary": "Abdomen"
+            },
+            "romanized": "fù bù / dù zǐ",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a6d9108337c6a1f9f257896b287448a1_KrIWhUi.mp3",
+            "content": "背",
+            "id": 2106,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Back",
+                "id": 122,
+                "summary": "Back"
+            },
+            "romanized": "bèi",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/9d17d34aa3d2ae632d81a90f0077afc0_hbeGxCe.mp3",
+            "content": "手或手臂",
+            "id": 2107,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Hand or Arm",
+                "id": 123,
+                "summary": "Arms"
+            },
+            "romanized": "shǒu huò shǒu bì",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/9d023c6d9baab342350b143564c2496c_EsJaHt5.mp3",
+            "content": "腿",
+            "id": 2108,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Legs",
+                "id": 124,
+                "summary": "Legs"
+            },
+            "romanized": "tǔi",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5297c017274229b3b965ff8fb1cbbc8a_VCwgsWx.mp3",
+            "content": "脚",
+            "id": 2109,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Feet",
+                "id": 125,
+                "summary": "Feet"
+            },
+            "romanized": "jiǎo",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7941da94db2a83c04d0d85ee45ecb1e3_S038ssg.mp3",
+            "content": "一",
+            "id": 2110,
+            "language": "Chinese",
+            "phrase": {
+                "content": "1",
+                "id": 126,
+                "summary": "1"
+            },
+            "romanized": "yī",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/2d8be272c9e78713e31e5c0c165422bb_Y9r8Lv1.mp3",
+            "content": "二",
+            "id": 2111,
+            "language": "Chinese",
+            "phrase": {
+                "content": "2",
+                "id": 127,
+                "summary": "2"
+            },
+            "romanized": "èr",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/e662ff59a0da04db4f9323b6b6197015_2F4X4kz.mp3",
+            "content": "三",
+            "id": 2112,
+            "language": "Chinese",
+            "phrase": {
+                "content": "3",
+                "id": 128,
+                "summary": "3"
+            },
+            "romanized": "sān",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/21716cf311071e8d339b611c8bdce9e4_SuM1tMf.mp3",
+            "content": "四",
+            "id": 2113,
+            "language": "Chinese",
+            "phrase": {
+                "content": "4",
+                "id": 129,
+                "summary": "4"
+            },
+            "romanized": "sì",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1fcc29d077c043016d325c68d328187f_YtMZevd.mp3",
+            "content": "五",
+            "id": 2114,
+            "language": "Chinese",
+            "phrase": {
+                "content": "5",
+                "id": 130,
+                "summary": "5"
+            },
+            "romanized": "wǔ",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/61b453523d86ac98afd3c98bdf1b0f9d_gcaYYRf.mp3",
+            "content": "六",
+            "id": 2115,
+            "language": "Chinese",
+            "phrase": {
+                "content": "6",
+                "id": 131,
+                "summary": "6"
+            },
+            "romanized": "lìu",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/aad6914f8f4e0871030b7c6814f752e6_yeQrTpx.mp3",
+            "content": "七",
+            "id": 2116,
+            "language": "Chinese",
+            "phrase": {
+                "content": "7",
+                "id": 132,
+                "summary": "7"
+            },
+            "romanized": "qī",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/edf1acd5c6576c6d0eac12a8127b3830_d6CAgeN.mp3",
+            "content": "八",
+            "id": 2117,
+            "language": "Chinese",
+            "phrase": {
+                "content": "8",
+                "id": 133,
+                "summary": "8"
+            },
+            "romanized": "bā",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/9b4851f85d53f5b6117f5ad823d1e18c_eLzYJCR.mp3",
+            "content": "九",
+            "id": 2118,
+            "language": "Chinese",
+            "phrase": {
+                "content": "9",
+                "id": 134,
+                "summary": "9"
+            },
+            "romanized": "jǐu",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/181245720b7774e764cf1000e569d5d2_uneJa03.mp3",
+            "content": "十",
+            "id": 2119,
+            "language": "Chinese",
+            "phrase": {
+                "content": "10",
+                "id": 135,
+                "summary": "10"
+            },
+            "romanized": "shí",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/777fda6c519cd062e6d8414e96a4605e_KXtJK3Y.mp3",
+            "content": "零",
+            "id": 2120,
+            "language": "Chinese",
+            "phrase": {
+                "content": "0",
+                "id": 136,
+                "summary": "0"
+            },
+            "romanized": "líng",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/43bc301e73522b009a4b39851960d8a7_XEWIboM.mp3",
+            "content": "一月",
+            "id": 2121,
+            "language": "Chinese",
+            "phrase": {
+                "content": "January",
+                "id": 137,
+                "summary": "January"
+            },
+            "romanized": "yī yuè",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b61c626886430a4acd373923dc529d8c_XFbGRoH.mp3",
+            "content": "二月",
+            "id": 2122,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Feb",
+                "id": 138,
+                "summary": "Feb"
+            },
+            "romanized": "èr yuè",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/eade91dc002fb276234cefd4797f14f5_2MYOgtS.mp3",
+            "content": "三月",
+            "id": 2123,
+            "language": "Chinese",
+            "phrase": {
+                "content": "March",
+                "id": 139,
+                "summary": "March"
+            },
+            "romanized": "sān yuè",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5178fda8e7cb6387857aee58d0f4421c_mlurXxT.mp3",
+            "content": "四月",
+            "id": 2124,
+            "language": "Chinese",
+            "phrase": {
+                "content": "April",
+                "id": 140,
+                "summary": "April"
+            },
+            "romanized": "sì yuè",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/cd474e412550648feb12ca4d403a92f0_M8zrS9C.mp3",
+            "content": "五月",
+            "id": 2125,
+            "language": "Chinese",
+            "phrase": {
+                "content": "May",
+                "id": 141,
+                "summary": "May"
+            },
+            "romanized": "wǔ yuè",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/dc71b73f68d6da2249821b6286607fc4_dHY7sdL.mp3",
+            "content": "六月",
+            "id": 2126,
+            "language": "Chinese",
+            "phrase": {
+                "content": "June",
+                "id": 142,
+                "summary": "June"
+            },
+            "romanized": "lìu yuè",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/328dcec7ed9cbefbf25f6b0e8705bd0b_nh77VyK.mp3",
+            "content": "七月",
+            "id": 2127,
+            "language": "Chinese",
+            "phrase": {
+                "content": "July",
+                "id": 143,
+                "summary": "July"
+            },
+            "romanized": "qī yuè",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b7263939aca94fe05e8e1a59988acc93_wsMRn91.mp3",
+            "content": "八月",
+            "id": 2128,
+            "language": "Chinese",
+            "phrase": {
+                "content": "August",
+                "id": 144,
+                "summary": "August"
+            },
+            "romanized": "bā yuè",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/cd9559ebaf7c4a24306825fff379f9c3_Wz2kcdK.mp3",
+            "content": "九月",
+            "id": 2129,
+            "language": "Chinese",
+            "phrase": {
+                "content": "September",
+                "id": 145,
+                "summary": "September"
+            },
+            "romanized": "jǐu yuè",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ade2e82d676a35f2bb8246543d3c679d_2WrWGnR.mp3",
+            "content": "十月",
+            "id": 2130,
+            "language": "Chinese",
+            "phrase": {
+                "content": "October",
+                "id": 146,
+                "summary": "October"
+            },
+            "romanized": "shí yuè",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4e04f1a9c3b32bc1a606662db8bb89ac_maqGEHy.mp3",
+            "content": "十一月",
+            "id": 2131,
+            "language": "Chinese",
+            "phrase": {
+                "content": "November",
+                "id": 147,
+                "summary": "November"
+            },
+            "romanized": "shí yī yuè",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5c28133800a208faf12b88b4d88e039b_Rxs3dkS.mp3",
+            "content": "十二月",
+            "id": 2132,
+            "language": "Chinese",
+            "phrase": {
+                "content": "December",
+                "id": 148,
+                "summary": "December"
+            },
+            "romanized": "shí èr yuè",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/70528824ef0cf2660666807276df4fd3.mp3",
+            "content": "在家里时，请独自住在一个房间内。如果可以，请单独使用一间厕所来减少与其他人的接触。如果你和其他人共用同一间厕所，使用前后需要消毒。",
+            "id": 2145,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Stay in a separate room at home. It is best if the room has an attached bathroom. This is to reduce contact with the other members of the house. If you are using a shared bathroom, the bathroom needs to be cleaned before or after you use it.",
+                "id": 176,
+                "summary": "Separate"
+            },
+            "romanized": "zài jiā lǐ shí ， qǐng dú zì zhù zài yī gè fáng jiān nèi 。 rú guǒ kě yǐ ， qǐng dān dú shǐ yòng yī jiān cè suǒ lái jiǎn shǎo yǔ qí tā rén de jiē hóng 。 rú guǒ nǐ hé qí tā rén gòng yòng tóng yī jiān cè suǒ ， shǐ yòng qián hòu xū yào xiāo dú 。",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b44cc0e176ff9590e258ca0a3031e936.mp3",
+            "content": "请要求他人为您定时准备食物、水和其他日常用品，将它们放置在您的房门外，好让您可以把它们带进房内",
+            "id": 2146,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Arrange for food, water, and other supplies to be placed outside your room. You yourself have to bring those items into your room.",
+                "id": 177,
+                "summary": "Arrange"
+            },
+            "romanized": "qǐng yào qíu tā rén wèi nín dìng shí zhǔn bèi shí wù 、 shǔi hé qí tā rì cháng yòng pǐn ， jiāng tā men fàng zhì zài nín de fáng mén wài ， hǎo ràng nín kě yǐ bǎ tā men dài jìn fáng nèi",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/035f5ddea2c895a791f9d72edc1b49e9.mp3",
+            "content": "直到您的检测结果为阴性前，请减少您与其他家人（尤其是年幼和年长人士）的近距离接触。",
+            "id": 2147,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Until you know your swab test results, reduce your contact with family members. Especially, try not to get near older people.",
+                "id": 178,
+                "summary": "Elderly"
+            },
+            "romanized": "zhí dào nín de jiǎn cè jié guǒ wèi yīn xìng qián ， qǐng jiǎn shǎo nín yǔ qí tā jiā rén （ yóu qí shì nián yòu hé nián cháng rén shì ） de jìn jù lí jiē hóng 。",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1586a09a8a421b488b4a36da01d4ebdf.mp3",
+            "content": "请保持良好个人卫生。经常用水和肥皂洗手，避免触摸眼睛、鼻子和嘴巴。在咳嗽或打喷嚏时，请用纸巾或手肘遮盖嘴巴和鼻子。",
+            "id": 2148,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Please maintain good personal hygiene. Wash your hands with soap and water frequently. Try not to touch your eyes, nose, and mouth. Always cover your mouth when coughing or sneezing.",
+                "id": 179,
+                "summary": "Hygine"
+            },
+            "romanized": "qǐng bǎo chí liáng hǎo gè rén wèi shēng 。 jīng cháng yòng shǔi hé féi zào xǐ shǒu ， bì miǎn hóng mō yǎn jīng 、 bí zǐ hé zǔi bā 。 zài ké sòu huò dǎ pēn tì shí ， qǐng yòng zhǐ jīn huò shǒu zhǒu zhē gài zǔi bā hé bí zǐ 。",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/cd34316f51c933e84270e551265f8746.mp3",
+            "content": "请不要与他人共用食物、餐具或个人卫生用品。",
+            "id": 2149,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Please prevent others from using your spoon, fork, plates, bowls, food. Also do not share personal hygiene items like your towel.",
+                "id": 180,
+                "summary": "Sharing"
+            },
+            "romanized": "qǐng bù yào yǔ tā rén gòng yòng shí wù 、 cān jù huò gè rén wèi shēng yòng pǐn 。",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7717e9d1774887f799dc9a95e01e73cb.mp3",
+            "content": "请继续服用医生给您开的药。",
+            "id": 2133,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Continue to take the medications prescribed for you (if any).",
+                "id": 181,
+                "summary": "Medication"
+            },
+            "romanized": "Qǐng jì xù fú yòng yī shēng gěi nín kāi di yào.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b0600689a166241f2b6e7f903ee14adb.mp3",
+            "content": "记得多喝水",
+            "id": 2150,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Please drink a lot of water.",
+                "id": 182,
+                "summary": "Drink"
+            },
+            "romanized": "jì dé duō hē shǔi",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/927cd00ea5a81f3556e95de8d0319ac8.mp3",
+            "content": "请在家里继续测量体温，注意自己是否有症状",
+            "id": 2151,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Keep monitoring your temperature and symptoms at home.",
+                "id": 183,
+                "summary": "Monitor"
+            },
+            "romanized": "qǐng zài jiā lǐ jì xù cè liàng tǐ wēn ， zhù yì zì jǐ shì fǒu yǒu zhèng zhuàng",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/fd67731ba2eadb3bbfe48520ff28e43a.mp3",
+            "content": "请避免乘坐公共交通工具",
+            "id": 2018,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Please avoid public transport.",
+                "id": 166,
+                "summary": "Transport"
+            },
+            "romanized": "Qǐng bì miǎn chéng zuò gōng gòng jiāo tōng gōng jù",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d27dbdc221359c2037605a73b5255939.mp3",
+            "content": "你可以乘坐私人交通工具、德士或私召车",
+            "id": 2019,
+            "language": "Chinese",
+            "phrase": {
+                "content": "You can take your own private transport, a taxi or a private hire car.",
+                "id": 167,
+                "summary": "Take Taxi"
+            },
+            "romanized": "nǐ kě yǐ chéng zuò sī rén jiāo tōng gōng jù、\ndé shì huò sī zhào chē",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d18b971e79d6b6756d673fc1dc4b404f.mp3",
+            "content": "如果咳嗽恶化，有呼吸困难，或发烧持续在38度以上",
+            "id": 2152,
+            "language": "Chinese",
+            "phrase": {
+                "content": "If your cough is getting worse and you feel breathless, or your fever is persistently above 38 degrees Celsius",
+                "id": 184,
+                "summary": "38C"
+            },
+            "romanized": "rú guǒ ké sòu è huà ， yǒu hū xī kùn nán ， huò fā shāo chí xù zài 3 8 dù yǐ shàng",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/27e9d7599d2c06f7934f3d95e5f8e82a.mp3",
+            "content": "请立刻戴上外科口罩，立即前往医院紧急部门。",
+            "id": 2153,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Wear a surgical mask and come to our Emergency Department.",
+                "id": 185,
+                "summary": "Mask"
+            },
+            "romanized": "qǐng lì kè dài shàng wài kē kǒu zhào ， lì jí qián wǎng yì yuàn jǐn jí bù mén 。",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d2f06e64610f686348397bb745b1c8a3.mp3",
+            "content": "在紧急情况下，请拨995叫救护车。\n请通知医护人员您近期验过冠状病毒。\n若您之前有出国，请您通知医护人员。",
+            "id": 2154,
+            "language": "Chinese",
+            "phrase": {
+                "content": "In an emergency situation, call 995 for an ambulance. Inform the ambulance operator that you were recently tested for COVID-19 and also tell them your travel history.",
+                "id": 187,
+                "summary": "Ambulance"
+            },
+            "romanized": "zài jǐn jí qíng kuàng xià ， qǐng bō 9 9 5 jiào jìu hù chē 。 \n qǐng tōng zhī yì hù rén yuán nín jìn qī yàn guò guān zhuàng bìng dú 。 \n ruò nín zhī qián yǒu chū guó ， qǐng nín tōng zhī yì hù rén yuán 。",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/035086a4322b5478e9f035b73c19316e.mp3",
+            "content": "请您将手扣的管线接到血压检测器",
+            "id": 2134,
+            "language": "Chinese",
+            "phrase": {
+                "content": "1) Connect the blood pressure cuff to the reader machine.",
+                "id": 188,
+                "summary": ""
+            },
+            "romanized": "Qǐng nín jiàng shǒu kòu de guǎn xiàn jiē dào xiě yā jiǎn cè qì",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/9fccf070406062bec0f2ae1568c6c725.mp3",
+            "content": "手扣上的箭头应该指向您手臂的内侧",
+            "id": 2135,
+            "language": "Chinese",
+            "phrase": {
+                "content": "2) The “arrow” on the the cuff should be pointing downwards on the inside of your arm.",
+                "id": 189,
+                "summary": ""
+            },
+            "romanized": "Shǒu kòu shàng de jiàn tóu yīng gāi zhǐ xiàng nín shǒu bì de nèi cè",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/fbf5d222352a565a1b7d0e33478c3d93.mp3",
+            "content": "手扣位置应该位于您手肘的1-2公分以上",
+            "id": 2136,
+            "language": "Chinese",
+            "phrase": {
+                "content": "(!) The cuff should be positioned 1 to 2 cm above your elbow joint.",
+                "id": 190,
+                "summary": ""
+            },
+            "romanized": "Shǒu kòu wèi zhì yīng gāi wèi yú nín shǒu zhǒu de yī dào èr gōng fēn yǐ shàng",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a3389b29d4750999423e594e188a1c6a.mp3",
+            "content": "手扣不应该系得太紧，也不应该太松。 留大概一根手指的空间就好了",
+            "id": 2137,
+            "language": "Chinese",
+            "phrase": {
+                "content": "3) The BP cuff should fit snugly onto your arm. It should not feel loose. Leave some space enough for 1 left finger to fit in (for good gauge)",
+                "id": 191,
+                "summary": ""
+            },
+            "romanized": "Shǒu kòu bù yìng gāi xì dé tài jǐn, yě bù yìng gāi tài sōng. Liú dà gài yī gēn shǒu zhǐ de kōng jiān jiù hǎo le",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/88d351c0e10559cee03c75803cbc640e.mp3",
+            "content": "测量血压时，请避免按压血压器的管线",
+            "id": 2138,
+            "language": "Chinese",
+            "phrase": {
+                "content": "4) Do not bend the tube during blood pressure measurement.",
+                "id": 192,
+                "summary": ""
+            },
+            "romanized": "cèl liáng xiě yā shí, qǐng bì miǎn àn yā xiě yā qì de guǎn xiàn",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/38d6ce0c7cbbe3994f5b117366d0e94a.mp3",
+            "content": "测量血压时，请放轻松，将整个手臂放在桌上",
+            "id": 2139,
+            "language": "Chinese",
+            "phrase": {
+                "content": "5) Relax & Rest your entire arm on a table while measuring your blood pressure.",
+                "id": 193,
+                "summary": ""
+            },
+            "romanized": "cè liáng xiě yā shí, qǐng fàng qīng sōng, jiāng zhěng gè shǒubì fàng zài zhuō shàng",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5e6c5846724e386666a1f85f6467c916.mp3",
+            "content": "按 “开始／停止” 的青/蓝/黑色按钮以开始测量血压。请等上一分钟，直到屏幕显示三组号码",
+            "id": 2140,
+            "language": "Chinese",
+            "phrase": {
+                "content": "6) Press the “Start/Stop” button to start measuring your BP. Wait for 1 minute until 3 numbers appear.",
+                "id": 194,
+                "summary": ""
+            },
+            "romanized": "Àn “kāi shǐ / tíng zhǐ” de qīng / lán / hēi sè àn niǔ yǐ kāi shǐ cè liáng xiě yā. Qǐng děng shàng yī fēn zhōng, zhí dào píng mù xiǎn shì sān zǔ hào mǎ",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f098565c7b9cf85d43edc1611da1e9b6.mp3",
+            "content": "第一个号数是您的收缩压。第二个号数是您的舒张压。最后的号数是您的心跳率。",
+            "id": 2141,
+            "language": "Chinese",
+            "phrase": {
+                "content": "7) The top number is your Systolic blood pressure. The middle number is your Diastolic blood pressure. The bottom number is your Pulse rate.",
+                "id": 195,
+                "summary": ""
+            },
+            "romanized": "Dì yī gè hào shù shì nín de shōu suō yā. Dì èr gè hào shù shì nín de shū zhāng yā. Zuì hòu de hào shù shì nín de xīn tiào lǜ.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ecaaa7989c5c8a5ab88dd92c0eab6b29.mp3",
+            "content": "什么是2019冠状病毒疾病？\r\n\r\n2019冠状病毒疾病是一种由新型冠状病毒所引起的呼吸道疾病。这个疾病源自于中国武汉市。",
+            "id": 2155,
+            "language": "Chinese",
+            "phrase": {
+                "content": "What is COVID-19?\r\n\r\nCOVID-19 (more specifically, a coronavirus) is an illness that started from the Wuhan City in China, it is a respiratory illness.",
+                "id": 155,
+                "summary": "What COVID"
+            },
+            "romanized": "shí yāo shì 2 0 1 9 guān zhuàng bìng dú jí bìng ？ \r \n \r \n 2 0 1 9 guān zhuàng bìng dú jí bìng shì yī zhǒng yóu xīn xíng guān zhuàng bìng dú suǒ yǐn qǐ de hū xī dào jí bìng 。 zhè gè jí bìng yuán zì yú zhōng guó wǔ hàn shì 。",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/66f4b38eeda23f0f68ca88316a2579a3.mp3",
+            "content": "2019冠状病毒疾病的症状有哪些？\r\n\r\n最常见的症状有发烧、疲倦与干咳。有些病人也可能出现流鼻涕、喉咙痛或拉肚子（腹泻）等其他症状。这些症状通常是轻微的。有些病患则没有任何症状。\r\n\r\n不过，以上的症状也可能由肺炎引起，并非一定为2019冠状病毒疾病。",
+            "id": 2156,
+            "language": "Chinese",
+            "phrase": {
+                "content": "What are the symptoms of COVID-19?\r\n\r\nThe most common symptoms are fever, tiredness and dry cough. Some patients also have a runny nose, sore throat or diarrhea. These symptoms are usually mild.\r\n\r\nSome people become infected but do not have any symptoms.\r\n\r\nHowever, it also can be caused by a lung infection or pneumonia.",
+                "id": 156,
+                "summary": "What are the symptoms of COVID-19?"
+            },
+            "romanized": "2 0 1 9 guān zhuàng bìng dú jí bìng de zhèng zhuàng yǒu nǎ xiē ？ \r \n \r \n zùi cháng jiàn de zhèng zhuàng yǒu fā shāo 、 pí juàn yǔ gān ké 。 yǒu xiē bìng rén yě kě néng chū xiàn líu bí tì 、 hóu lóng tòng huò lā dù zǐ （ fù xiè ） děng qí tā zhèng zhuàng 。 zhè xiē zhèng zhuàng tōng cháng shì qīng wēi de 。 yǒu xiē bìng huàn zé méi yǒu rèn hé zhèng zhuàng 。 \r \n \r \n bù guò ， yǐ shàng de zhèng zhuàng yě kě néng yóu fèi yán yǐn qǐ ， bìng fēi yī dìng wèi 2 0 1 9 guān zhuàng bìng dú jí bìng 。",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5fc82db49bef802d9d561743721b4386.mp3",
+            "content": "2019冠状病毒疾病如何传播？\r\n\r\n已经受到病毒感染的人将可能把它传给其他人。病毒可通过咳嗽、打喷嚏时所产生的呼吸道飞沫而在空中传播。此外，如果你触碰这些飞沫所停留到的表面，再接触自己的眼睛、鼻子或嘴巴，也可以被感染。",
+            "id": 2157,
+            "language": "Chinese",
+            "phrase": {
+                "content": "How does COVID-19 spread?\r\n\r\nPeople can be infected by other persons already infected with COVID-19. The virus spreads through cough and sneezing. The virus can also spread with saliva from the mouth, used plates, spoons, and forks.",
+                "id": 157,
+                "summary": "COVID Spread"
+            },
+            "romanized": "2 0 1 9 guān zhuàng bìng dú jí bìng rú hé chuán bō ？ \r \n \r \n yǐ jīng shòu dào bìng dú gǎn rǎn de rén jiāng kě néng bǎ tā chuán gěi qí tā rén 。 bìng dú kě tōng guò ké sòu 、 dǎ pēn tì shí suǒ chǎn shēng de hū xī dào fēi mò ér zài kōng zhōng chuán bō 。 cǐ wài ， rú guǒ nǐ hóng pèng zhè xiē fēi mò suǒ tíng líu dào de biǎo miàn ， zài jiē hóng zì jǐ de yǎn jīng 、 bí zǐ huò zǔi bā ， yě kě yǐ bèi gǎn rǎn 。",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/224c409254730f33d8c7e83bd6eda52a.mp3",
+            "content": "如何测试自己是否患有2019冠状病毒疾病？\r\n\r\n2019冠状病毒疾病的测试为一种鼻咽拭子测试。医疗人员会将拭子伸入你的鼻子，直到鼻子后部（咽部），擦拭那里的分泌物。整个过程大约需要10秒钟。过程中你也许会感到些许不舒服，但不会感觉到痛。",
+            "id": 2158,
+            "language": "Chinese",
+            "phrase": {
+                "content": "What is the test for COVID-19?\r\n\r\nIt is a swab test. A swab will be inserted in your nostrils or at the back of your throat. It will last about 10 seconds. There might be a slight discomfort, however, it is not too painful.",
+                "id": 158,
+                "summary": "COVID-19 Test"
+            },
+            "romanized": "rú hé cè shì zì jǐ shì fǒu huàn yǒu 2 0 1 9 guān zhuàng bìng dú jí bìng ？ \r \n \r \n 2 0 1 9 guān zhuàng bìng dú jí bìng de cè shì wèi yī zhǒng bí yān shì zǐ cè shì 。 yì liáo rén yuán hùi jiāng shì zǐ shēn rù nǐ de bí zǐ ， zhí dào bí zǐ hòu bù （ yān bù ） ， cā shì nà lǐ de fēn mì wù 。 zhěng gè guò chéng dà yuē xū yào 1 0 miǎo zhōng 。 guò chéng zhōng nǐ yě xǔ hùi gǎn dào xiē xǔ bù shū fú ， dàn bù hùi gǎn jué dào tòng 。",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/989d90dbf9259debddbbcc6a0c2b803c.mp3",
+            "content": "如果我确诊患有2019冠状病毒疾病，该怎么办？\r\n\r\n根据你的身体状况，有关当局将为你提供某些生活安排，或把你送入医院。他们会继续观察你的身体状况，留意是否有好转的现象。你也许需要进行X光或血液测试。通常，你每24小时必须进行一次拭子测试。如果连续两次的测试结果为阴性，将可以出院或离开隔离设施。回家後，你仍需要自我隔离两个星期。",
+            "id": 2159,
+            "language": "Chinese",
+            "phrase": {
+                "content": "What if I have COVID-19?\r\n\r\nAuthority will make separate living arrangements for you or admit you to a hospital. They will monitor your health, whether it is improving or not. X-ray or blood test may also be needed. Usually, they will test your swab every 24 hours. If your test is negative twice in a row, you will be released. But after going home, you have to stay separate from everyone for 2 weeks.",
+                "id": 159,
+                "summary": "COVID-19 Positive"
+            },
+            "romanized": "rú guǒ wǒ què zhěn huàn yǒu 2 0 1 9 guān zhuàng bìng dú jí bìng ， gāi zěn yāo bàn ？ \r \n \r \n gēn jù nǐ de shēn tǐ zhuàng kuàng ， yǒu guān dāng jú jiāng wèi nǐ tí gōng mǒu xiē shēng huó ān pái ， huò bǎ nǐ sòng rù yì yuàn 。 tā men hùi jì xù guān chá nǐ de shēn tǐ zhuàng kuàng ， líu yì shì fǒu yǒu hǎo zhuǎn de xiàn xiàng 。 nǐ yě xǔ xū yào jìn xíng X guāng huò xiě yè cè shì 。 tōng cháng ， nǐ měi 2 4 xiǎo shí bì xū jìn xíng yī cì shì zǐ cè shì 。 rú guǒ lián xù liǎng cì de cè shì jié guǒ wèi yīn xìng ， jiāng kě yǐ chū yuàn huò lí kāi gé lí shè shī 。 húi jiā hòu ， nǐ réng xū yào zì wǒ gé lí liǎng gè xīng qī 。",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/57b7c4fc07c5be47aaa692beb4d1fb06.mp3",
+            "content": "我会因为患有2019冠状病毒疾病而过世吗？\r\n\r\n患有2019冠状病毒疾病会让你和你的家人感到忧虑。不过，百分之八十的2019冠状病毒疾病感染是轻微的，不需要任何治疗。对于年长人士，或患有其他疾病的人，风险则比较高。只有百分之五的病人需要入住加护病房来帮助他们的呼吸。",
+            "id": 2160,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Will I die if I have COVID-19?\r\n\r\nCOVID-19 may make you and your family worried. However, 80% of the time, COVID-19 infections are mild. They do not even need any treatment. There is a slight risk of damage to those who are old or have other health problems. Only 5% of patients need ICU for helping them breathe.",
+                "id": 160,
+                "summary": "Die COVID-19"
+            },
+            "romanized": "wǒ hùi yīn wèi huàn yǒu 2 0 1 9 guān zhuàng bìng dú jí bìng ér guò shì ma ？ \r \n \r \n huàn yǒu 2 0 1 9 guān zhuàng bìng dú jí bìng hùi ràng nǐ hé nǐ de jiā rén gǎn dào yōu lv̀ 。 bù guò ， bǎi fēn zhī bā shí de 2 0 1 9 guān zhuàng bìng dú jí bìng gǎn rǎn shì qīng wēi de ， bù xū yào rèn hé zhì liáo 。 dùi yú nián cháng rén shì ， huò huàn yǒu qí tā jí bìng de rén ， fēng xiǎn zé bǐ jiào gāo 。 zhǐ yǒu bǎi fēn zhī wǔ de bìng rén xū yào rù zhù jiā hù bìng fáng lái bāng zhù tā men de hū xī 。",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4e838be321bbdeeb9767c1cfe23f4dac.mp3",
+            "content": "2019冠状病毒疾病有治疗吗？\r\n\r\n大多数的2019冠状病毒疾病病患不需要任何治疗。他们只需要某些药来控制他们的咳嗽、发烧或其他症状。对于百分之五的严重病患，目前仍没有获得科学证明的治疗。不过我们仍在研究中。请不要害怕。如果你的呼吸有困难，我们会提供机器来帮助你呼吸。我们也会开药来控制你的血压。",
+            "id": 2161,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Is there a treatment for COVID-19?\r\n\r\nMost patients of COVID-19 do not need any treatment. They only need medicine for cough, fever and other symptoms. However, for 5% of the patients who are very ill, there are no proven treatments. However, we are very near to discovering treatment. Do not be afraid. If you have problems breathing we will use a machine to help you breathe. We will give you medicine for blood pressure.",
+                "id": 161,
+                "summary": "COVID-19 Treatment"
+            },
+            "romanized": "2 0 1 9 guān zhuàng bìng dú jí bìng yǒu zhì liáo ma ？ \r \n \r \n dà duō shù de 2 0 1 9 guān zhuàng bìng dú jí bìng bìng huàn bù xū yào rèn hé zhì liáo 。 tā men zhǐ xū yào mǒu xiē yào lái kòng zhì tā men de ké sòu 、 fā shāo huò qí tā zhèng zhuàng 。 dùi yú bǎi fēn zhī wǔ de yán zhòng bìng huàn ， mù qián réng méi yǒu huò dé kē xué zhèng míng de zhì liáo 。 bù guò wǒ men réng zài yán jīu zhōng 。 qǐng bù yào hài pà 。 rú guǒ nǐ de hū xī yǒu kùn nán ， wǒ men hùi tí gōng jī qì lái bāng zhù nǐ hū xī 。 wǒ men yě hùi kāi yào lái kòng zhì nǐ de xiě yā 。",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/bb18dcd195276294dd9f386eb05a045f.mp3",
+            "content": "我需要为治疗支付多少费用？\r\n\r\n根据新加坡政府的公告，如果您是新加坡公民，永久居民或长期通行证持有者，政府会承担所有医疗费用。政府也会支付所有工作准证持有者的医疗费用。但是，如果您在2020年3月27日之后离开新加坡，并在回国后的14天内被确诊患有2019冠状病毒疾病，政府将不会承担任何费用。",
+            "id": 2162,
+            "language": "Chinese",
+            "phrase": {
+                "content": "How much will I have to pay for Treatment?\r\n\r\nAccording to the announcement of the Singapore Government, if you are a citizen of Singapore, or a permanent resident, or a long term pass holder, the government will pay. So even if you have a work permit, the government will pay. But, if you went out of Singapore after 27 March 2020 and get admitted within 14 days of returning, the government will not pay your bills.",
+                "id": 162,
+                "summary": "Treatment Cost"
+            },
+            "romanized": "wǒ xū yào wèi zhì liáo zhī fù duō shǎo fèi yòng ？ \r \n \r \n gēn jù xīn jiā pō zhèng fǔ de gōng gào ， rú guǒ nín shì xīn jiā pō gōng mín ， yǒng jǐu jū mín huò cháng qī tōng xíng zhèng chí yǒu zhě ， zhèng fǔ hùi chéng dàn suǒ yǒu yì liáo fèi yòng 。 zhèng fǔ yě hùi zhī fù suǒ yǒu gōng zuò zhǔn zhèng chí yǒu zhě de yì liáo fèi yòng 。 dàn shì ， rú guǒ nín zài 2 0 2 0 nián 3 yuè 2 7 rì zhī hòu lí kāi xīn jiā pō ， bìng zài húi guó hòu de 1 4 tiān nèi bèi què zhěn huàn yǒu 2 0 1 9 guān zhuàng bìng dú jí bìng ， zhèng fǔ jiāng bù hùi chéng dàn rèn hé fèi yòng 。",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/eee3931293e620c7208631454408cce6.mp3",
+            "content": "我担心不能工作。我会失业吗？\r\n\r\n按照法律，您的雇主必须允许你接受治疗。即使您目前不能工作，雇主也必须支付您的薪水。如果您的工资没有及时支付，新加坡政府可以对雇主采取行动。",
+            "id": 2163,
+            "language": "Chinese",
+            "phrase": {
+                "content": "I am worried about not working. Will I lose my job?\r\n\r\nYour employer has to allow your treatment by the law. The employer has to pay your salary even if you cannot work now.  If your salary is not paid timely, the Singapore Government can take action against the employer.",
+                "id": 163,
+                "summary": "Job Loss"
+            },
+            "romanized": "wǒ dàn xīn bù néng gōng zuò 。 wǒ hùi shī yè ma ？ \r \n \r \n àn zhào fǎ lv̀ ， nín de gù zhǔ bì xū yǔn xǔ nǐ jiē shòu zhì liáo 。 jí shǐ nín mù qián bù néng gōng zuò ， gù zhǔ yě bì xū zhī fù nín de xīn shǔi 。 rú guǒ nín de gōng zī méi yǒu jí shí zhī fù ， xīn jiā pō zhèng fǔ kě yǐ dùi gù zhǔ cǎi qǔ xíng dòng 。",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/579f2de7b4db5b5596fb221fc582411a.mp3",
+            "content": "\"我很害怕，我想回家。\" \r\n\r\n在此期间感到恐惧和焦虑是很自然的。\r\n\r\n为了家人的安全，您必须遵守医生和政府的指示。新加坡政府已作出安排，好让我们可以安全地为您提供治疗。新加坡拥有齐全的医疗设施，而我们将尽力为您提供最好的治疗。",
+            "id": 2164,
+            "language": "Chinese",
+            "phrase": {
+                "content": "I am scared and I want to go home.\r\n\r\nIt is natural to be scared and anxious during this period.\r\n\r\nYou must follow the instructions of doctors and the Government for the safety of your family. The Singapore Government has made arrangements, so we can safely give you treatment. Singapore has good hospitals and treatment here. We will do our best to give you the best treatment possible.",
+                "id": 164,
+                "summary": "Scared"
+            },
+            "romanized": "\" wǒ hěn hài pà ， wǒ xiǎng húi jiā 。 \"   \r \n \r \n zài cǐ qī jiān gǎn dào kǒng jù hé jiāo lv̀ shì hěn zì rán de 。 \r \n \r \n wèi le jiā rén de ān quán ， nín bì xū zūn shǒu yì shēng hé zhèng fǔ de zhǐ shì 。 xīn jiā pō zhèng fǔ yǐ zuò chū ān pái ， hǎo ràng wǒ men kě yǐ ān quán dì wèi nín tí gōng zhì liáo 。 xīn jiā pō yǒng yǒu qí quán de yì liáo shè shī ， ér wǒ men jiāng jǐn lì wèi nín tí gōng zùi hǎo de zhì liáo 。",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ed96ff1ebfe9800b0131deb7e4e21668.mp3",
+            "content": "我该如何避免受到2019冠状病毒疾病感染？\r\n\r\n幸运的是，您可以采取一些防范措施来降低受到感染的风险。它们是：\r\n\r\n1.用肥皂和水彻底洗手, 至少20秒钟。 \r\n2.请勿触摸眼睛，鼻子和嘴巴。 \r\n3.咳嗽或打喷嚏时，请用肘部或纸巾遮住口鼻。\r\n4.与他人之间保持至少1米的距离。\r\n5.如果您感到不适，请待在家里并进行自我隔离。如果有发烧、咳嗽或呼吸困难的症状，请尽早就医。",
+            "id": 2165,
+            "language": "Chinese",
+            "phrase": {
+                "content": "How can I prevent COVID-19 Infection?\r\n\r\nFortunately, there are some actions you can take to minimize the risk of infection. They are:\r\n\r\n1. Thoroughly washing your hands with soap and water for at least 20 seconds.\r\n2. Do not touch eyes, nose, and mouth.\r\n3. Covering your mouth and nose with your elbow or tissue when you cough or sneeze.\r\n4. Maintaining at least 1 meter distance between yourself and anyone else.\r\n5. Staying home if you feel unwell and keep away from others. If you have a fever, cough or breathing problem, please seek medical attention early.",
+                "id": 165,
+                "summary": "Prevention"
+            },
+            "romanized": "wǒ gāi rú hé bì miǎn shòu dào 2 0 1 9 guān zhuàng bìng dú jí bìng gǎn rǎn ？ \r \n \r \n xìng yùn de shì ， nín kě yǐ cǎi qǔ yī xiē fáng fàn cuò shī lái jiàng dī shòu dào gǎn rǎn de fēng xiǎn 。 tā men shì ： \r \n \r \n 1 . yòng féi zào hé shǔi chè dǐ xǐ shǒu ,   zhì shǎo 2 0 miǎo zhōng 。   \r \n 2 . qǐng wù hóng mō yǎn jīng ， bí zǐ hé zǔi bā 。   \r \n 3 . ké sòu huò dǎ pēn tì shí ， qǐng yòng zhǒu bù huò zhǐ jīn zhē zhù kǒu bí 。 \r \n 4 . yǔ tā rén zhī jiān bǎo chí zhì shǎo 1 mǐ de jù lí 。 \r \n 5 . rú guǒ nín gǎn dào bù shì ， qǐng dài zài jiā lǐ bìng jìn xíng zì wǒ gé lí 。 rú guǒ yǒu fā shāo 、 ké sòu huò hū xī kùn nán de zhèng zhuàng ， qǐng jǐn zǎo jìu yì 。",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/542e658173ce850e65c14c2e3388ff3c.mp3",
+            "content": "移动快速分类站",
+            "id": 3092,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Mobile Rapid Triage Station",
+                "id": 202,
+                "summary": "Name"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5627afde0233a93d0bfbbd7a31869e03.mp3",
+            "content": "在移动快速分诊站，我们将检查您的体温并记录您的生命体征。",
+            "id": 3093,
+            "language": "Chinese",
+            "phrase": {
+                "content": "At the mobile rapid triage station, we will be screening your temperature and taking your vital signs.",
+                "id": 203,
+                "summary": "Intro"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/dce542138728dae0247f70976d99a9ba.mp3",
+            "content": "请出示我们/扫描您的工作许可证。",
+            "id": 3094,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Please show us/scan your work permit.",
+                "id": 204,
+                "summary": "WP"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/cd8b9430d352a5ef7ed8d85316906db9.mp3",
+            "content": "请告诉我们您在宿舍里的楼号和房号。",
+            "id": 3095,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Please tell us your block and room no. in your dorm.",
+                "id": 205,
+                "summary": "Block & Room"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

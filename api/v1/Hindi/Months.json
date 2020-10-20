@@ -1,0 +1,163 @@
+{
+    "count": 12,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/70c1e6d1a9f80b2bc929445561b01aeb.mp3",
+            "content": "जनवरी",
+            "id": 434,
+            "language": "Hindi",
+            "phrase": {
+                "content": "January",
+                "id": 137,
+                "summary": "January"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/9e96d1c2e6701c0bb564d2f54943ae40.mp3",
+            "content": "फ़र",
+            "id": 435,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Feb",
+                "id": 138,
+                "summary": "Feb"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1d869259dedfd8ffdd59261730a4d84a.mp3",
+            "content": "मार्च",
+            "id": 436,
+            "language": "Hindi",
+            "phrase": {
+                "content": "March",
+                "id": 139,
+                "summary": "March"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/85be126d83bfb4db7f0e5d5c582e4a5a.mp3",
+            "content": "अप्रैल",
+            "id": 437,
+            "language": "Hindi",
+            "phrase": {
+                "content": "April",
+                "id": 140,
+                "summary": "April"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0019ea4d4a475509118aa22c568aa4fb.mp3",
+            "content": "मई",
+            "id": 438,
+            "language": "Hindi",
+            "phrase": {
+                "content": "May",
+                "id": 141,
+                "summary": "May"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0dd976c9d14e7e12f14e6f72a1e418e0.mp3",
+            "content": "जून",
+            "id": 439,
+            "language": "Hindi",
+            "phrase": {
+                "content": "June",
+                "id": 142,
+                "summary": "June"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5581651e9f25d26e66ea63531de726d2.mp3",
+            "content": "जुलाई",
+            "id": 440,
+            "language": "Hindi",
+            "phrase": {
+                "content": "July",
+                "id": 143,
+                "summary": "July"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4853273cbdf872cc7948e0ff6fac83f9.mp3",
+            "content": "अगस्त",
+            "id": 441,
+            "language": "Hindi",
+            "phrase": {
+                "content": "August",
+                "id": 144,
+                "summary": "August"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/71bf207fa44bb5193c2cf97a1f0761a4.mp3",
+            "content": "सितंबर",
+            "id": 442,
+            "language": "Hindi",
+            "phrase": {
+                "content": "September",
+                "id": 145,
+                "summary": "September"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b764cf9c1a6f5629aa867c7175918595.mp3",
+            "content": "अक्टूबर",
+            "id": 443,
+            "language": "Hindi",
+            "phrase": {
+                "content": "October",
+                "id": 146,
+                "summary": "October"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/dc80a1d469d0562d0e358142f022f36e.mp3",
+            "content": "नवंबर",
+            "id": 444,
+            "language": "Hindi",
+            "phrase": {
+                "content": "November",
+                "id": 147,
+                "summary": "November"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b281ae009d9448712cedc3ca3e489b97.mp3",
+            "content": "दिसंबर",
+            "id": 445,
+            "language": "Hindi",
+            "phrase": {
+                "content": "December",
+                "id": 148,
+                "summary": "December"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

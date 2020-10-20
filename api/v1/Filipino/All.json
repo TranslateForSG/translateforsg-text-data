@@ -1,0 +1,2607 @@
+{
+    "count": 200,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/438f42ceef3f7e27a218efea02c70b2e_iwMoNcr.mp3",
+            "content": "Ako po ay isang doktor. Hindi ako marunong magsalita ng Filipino. Makikipag-usap ako sayo gamit ang website na ito. Kung maaari, sagutin mo ako sa wikang Ingles. Maraming salamat. ",
+            "id": 644,
+            "language": "Filipino",
+            "phrase": {
+                "content": "I am a doctor. I do not speak your language. I will communicate with you using this website. Answer me in English as much as possible. Thank you.",
+                "id": 1,
+                "summary": "Intro"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c8c95117ce5f43ead8f3d780e3af1e37_i9WRz0p.mp3",
+            "content": "Ano ang pangalan mo?",
+            "id": 645,
+            "language": "Filipino",
+            "phrase": {
+                "content": "What's your name?",
+                "id": 2,
+                "summary": "Name"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0bb7ac9a937da1a9b7b4565aa7ed2d13_n0Xk4ux.mp3",
+            "content": "Maaari mo bang ibigay sa akin ang iyong Identification Card o Work Permit?",
+            "id": 646,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Please give me your Identity Card or Work Permit",
+                "id": 3,
+                "summary": "IC"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f742b5e9f770857f658291a5f60c29ed_Xew2UOV.mp3",
+            "content": "Aling kumpanya ang nagtatrabaho sa ilalim / trabaho para sa?",
+            "id": 775,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Which company are you employed under / work for?",
+                "id": 4,
+                "summary": "Company"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/cb16cc20b5679170ee55d65d58637002_pM1YH1n.mp3",
+            "content": "Ano ang pangalan ng iyong superbisor at numero ng contact?",
+            "id": 776,
+            "language": "Filipino",
+            "phrase": {
+                "content": "What is your supervisor’s name and contact number?",
+                "id": 5,
+                "summary": "Supervisor"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/08624d6bdc0cf411d41e5a30d99e435f.mp3",
+            "content": "Saan ka nakatira sa Singapore?",
+            "id": 777,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Where do you live in Singapore?",
+                "id": 6,
+                "summary": "Residence"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/30b5120c492adad454fd0b60d4662d36_v6db9cb.mp3",
+            "content": "Alam mo ba kung ang anumang mga nahawaang pasyente ay mula sa iyong lugar?",
+            "id": 778,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Do you know if any infected patients are from your area?",
+                "id": 7,
+                "summary": "Cluster"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/773a4becb4d0a7d10cb1d609808198ed_dF8BICM.mp3",
+            "content": "Sa nakaraang labing-apat na araw, ikaw ba ay nakipagkita sa taong na nag positibo sa coronavirus?",
+            "id": 647,
+            "language": "Filipino",
+            "phrase": {
+                "content": "In the last 14 days, did you meet anyone who has coronavirus?",
+                "id": 9,
+                "summary": "People"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a1667dad273839545fb287aaaedad005_lsHEPHX.mp3",
+            "content": "Gaano karaming mga tao ang nananatili sa parehong silid tulad mo?",
+            "id": 779,
+            "language": "Filipino",
+            "phrase": {
+                "content": "How many people are staying in the same room as you?",
+                "id": 8,
+                "summary": "Room"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/80cba50019401edd207282de08f3b04f_MgBlpo6.mp3",
+            "content": "Sino sila at ano ang relasyon mo sa kanila?",
+            "id": 648,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Who? What is your relationship with them?",
+                "id": 10,
+                "summary": "People Meet"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/65e4de12d9e4f7bdfa1e31f6e46667b4_z8Z7N0D.mp3",
+            "content": "Ilang araw na ang nakaraan simula ng huli mo silang nakita?",
+            "id": 649,
+            "language": "Filipino",
+            "phrase": {
+                "content": "How many days ago did you meet them?",
+                "id": 11,
+                "summary": "People Meet"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/e3fdb5f6c8cdcd62e4d1f423aa95619b_6rrhedX.mp3",
+            "content": "Gaano katagal mo silang nakasama?",
+            "id": 650,
+            "language": "Filipino",
+            "phrase": {
+                "content": "How long were you with him/her?",
+                "id": 12,
+                "summary": "People Meet"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/61f9c70e42fc33221cae5fe8248081e3_PXDbPDZ.mp3",
+            "content": "Sa nakaraang labing-apat na araw, ikaw ba ay bumiyahe palabas ng bansa? Kung oo, sabihin mo sa amin sa wikang Ingles ang mga bansang pinuntahan mo.",
+            "id": 651,
+            "language": "Filipino",
+            "phrase": {
+                "content": "In the last 14 days, did you travel out of Singapore? If yes, tell us the countries in English.",
+                "id": 13,
+                "summary": "14 Days Travel"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c1729bb27dde794241836d98ba999421_HSWwmKI.mp3",
+            "content": "Mayroon ka bang lagnat?",
+            "id": 652,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Do you have a fever?",
+                "id": 14,
+                "summary": "Fever"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c2ae46b0996c00cd35fa41f1f2c65436_Duoc9je.mp3",
+            "content": "Gaano katagal ka nang may lagnat?",
+            "id": 653,
+            "language": "Filipino",
+            "phrase": {
+                "content": "How many days?",
+                "id": 15,
+                "summary": "Length"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1445030c5a6aed14cc9a5c526a7c2ad5_PPneRIY.mp3",
+            "content": "Nasukat mo ba ang iyong mga temperatura gamit ang thermometer? Kung oo, ano ang pinakamataas mong nakuha na temperatura?",
+            "id": 654,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Did you measure it with a thermometer? If you did, what was the highest reading?",
+                "id": 16,
+                "summary": "Reading"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a488a4eb7b0093a82862e4279b79ac16_zyDFGLi.mp3",
+            "content": "Mayroon ka bang sipon?",
+            "id": 655,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Runny nose?",
+                "id": 17,
+                "summary": "Runny nose"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/eb53664d3b45e9b7287f327619ec4d41_WgNq0mY.mp3",
+            "content": "Mayroon ka bang ubo?",
+            "id": 656,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Cough?",
+                "id": 18,
+                "summary": "Cough"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8f01c9bcac605ae2bb62972333a24466_FRZ5lGO.mp3",
+            "content": "Sumasakit ba ang iyong lalamunan?",
+            "id": 657,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Sore throat?",
+                "id": 19,
+                "summary": "Sore throat"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b520774df49527cdc2d614a1528bb3f4_t8CyMSw.mp3",
+            "content": "Ikaw ba ay nahihirapang huminga?",
+            "id": 658,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Difficulty breathing?",
+                "id": 20,
+                "summary": "Breathing"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3bb2deef4cf30ba7848d358743f1eb94_6vEVwvk.mp3",
+            "content": "Hindi maamoy nang maayos?",
+            "id": 780,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Cannot smell properly?",
+                "id": 21,
+                "summary": "Anosmia"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7100e1eff855399af9504bd1f3917b39_VBtS5ZG.mp3",
+            "content": "Mas mababa ang pakiramdam mo sa bibig?",
+            "id": 781,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Do you feel less taste in the mouth?",
+                "id": 22,
+                "summary": "Ageusia"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7991cbfbbf3a0fe07baaa7493642df98_QBqTa52.mp3",
+            "content": "Ikaw ba ay nagkaroon ng diarrhea o dumi na basa? Kung oo, ilang beses sa isang araw ka dumudumi?",
+            "id": 659,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Do you have diarrhoea / diarrhea? How many times a day?",
+                "id": 23,
+                "summary": "diarrhoea"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ac5ad595e351202434e16433cbd1d25e_a3Plukv.mp3",
+            "content": "Balat o Balat?",
+            "id": 660,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Skin Rash or Itching?",
+                "id": 24,
+                "summary": "Rash"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/902fe9defb00f6fb4faee7b8fb10aa9a.mp3",
+            "content": "May sakit ka ba sa iyong katawan?",
+            "id": 661,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Do you have any pain on your body?",
+                "id": 25,
+                "summary": "Pain"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5ace9e7c60a5163fa95c38a5bb3de374_wvnH2gC.mp3",
+            "content": "Mayroon bang masakit sa dibdib? ",
+            "id": 662,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Specifically, any chest pain?",
+                "id": 26,
+                "summary": "Chest Pain"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/704d7d06ce83d4f4f3781214365c8d33_elw0FFT.mp3",
+            "content": "Ituro mo kung saang banda sa iyong katawan ang may masakit",
+            "id": 663,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Point to the place.",
+                "id": 27,
+                "summary": "Point Out"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ea3866da97d0233bfd11c7fcd847554a_HNMfgiS.mp3",
+            "content": "Mayroon ka bang mga naging karamdaman, sakit, operasyon, mga iniinom na gamot pang maintenance na dapat namin malaman? ",
+            "id": 664,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Do you have any past medical history?",
+                "id": 28,
+                "summary": "Medical History"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/2f8d1f2212ce3a867d06d33e34dfda0c_2gqpYCq.mp3",
+            "content": "Ituro kung alin sa mga ito",
+            "id": 665,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Point to which ones.",
+                "id": 29,
+                "summary": "Symptoms"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/477b8a477dcadb95a077f6747512277a_LrRPMcF.mp3",
+            "content": "Hika",
+            "id": 666,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Asthma",
+                "id": 30,
+                "summary": "Asthma"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ef605722bd064e1dcb7f9aff4021c73e_VwbSbQb.mp3",
+            "content": "Pulmonya",
+            "id": 667,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Pneumonia",
+                "id": 31,
+                "summary": "Pneumonia"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/54221f73dd8e9d49cb5083479210063e_9zguZws.mp3",
+            "content": "Altapresyon o High blood",
+            "id": 668,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Hypertension",
+                "id": 32,
+                "summary": "Hypertension"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a051a801fb9f3de259e781167f2b4375_L5d62cT.mp3",
+            "content": "Mataas na cholesterol",
+            "id": 669,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Hyperlipidemia / Cholesterol",
+                "id": 33,
+                "summary": "Hyperlipidemia"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/52d261e9ebc332373e9c8a0abb6bd605_PsEK8pW.mp3",
+            "content": "Diabetes",
+            "id": 670,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Diabetes",
+                "id": 34,
+                "summary": "Diabetes"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ca3322c5157600fa1402d0c145d217aa_9P59hF5.mp3",
+            "content": "Sakit sa puso",
+            "id": 671,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Heart problems",
+                "id": 35,
+                "summary": "Heart problems"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/08d898bc2ea5bb7bfda09326b0517ca9_oW0BhBs.mp3",
+            "content": "Sakit sa bato",
+            "id": 672,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Kidney problems",
+                "id": 36,
+                "summary": "Kidney problems"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4afe23e83eaa8ff0de95187c4738ed15_Gk5OuSJ.mp3",
+            "content": "Mayroon ka bang allergy sa mga gamot?",
+            "id": 673,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Do you have a drug allergy?",
+                "id": 37,
+                "summary": "Drug allergy"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7d6b2e12cffb9cde4c4c3cf99de95c68_z3uLAfj.mp3",
+            "content": "Ikaw ba ay naninigarilyo? Kung oo, ilang sigarilyo sa isang araw?",
+            "id": 674,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Do you smoke? If yes, how many cigarettes a day?",
+                "id": 38,
+                "summary": "Smoke"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0137d054259cb2e18fc4b6dac5e24fff_fpEz0sC.mp3",
+            "content": "Umiinom ka ba ng alkohol o alak? Kung oo, gaano karami at kadalas? (ilang bote ang naiinom sa isang linggo at ano ang klase ng alkohol o alak) ",
+            "id": 675,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Do you drink? If yes, how much (number of bottles a week, type of alcohol)?",
+                "id": 39,
+                "summary": "Drink Alcohol"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/eef99e3ac2e02ac6b02990b8fd28387b_JDPITtA.mp3",
+            "content": "Ano ang pakiramdam mo sa emosyon?",
+            "id": 782,
+            "language": "Filipino",
+            "phrase": {
+                "content": "How do you feel emotionally?",
+                "id": 40,
+                "summary": "Emotion Feeling"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4740f2715748e734342e56450759b86b_okOyHNE.mp3",
+            "content": "Mayroon ka bang pag-iisip ng pagpapakamatay?",
+            "id": 783,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Do you have suicidal thoughts?",
+                "id": 41,
+                "summary": "Suicidal thoughts"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0752282bad86cf03e11d89d3cddab607_i6FHGzh.mp3",
+            "content": "Kung may iba ka pang problema sa iyong kalusugan, paki-sabi sa wikang Ingles",
+            "id": 676,
+            "language": "Filipino",
+            "phrase": {
+                "content": "If you have any other problems, you can tell me in English.",
+                "id": 42,
+                "summary": "Other Problems"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3b6f13b5599f5fae4c9c37249da80c8d_OOw1tZT.mp3",
+            "content": "Eksaminin lang kita",
+            "id": 677,
+            "language": "Filipino",
+            "phrase": {
+                "content": "I’m going to examine you.",
+                "id": 43,
+                "summary": "Physical Exam Starts"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6a09ef28fd53b2567f93db3a09170f8c_nBIB6J4.mp3",
+            "content": "Sabihin mo kung may masakit",
+            "id": 678,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Tell me if you feel more pain.",
+                "id": 149,
+                "summary": "Tell if Pain"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a652f80a3192f1c0ed1e0e5e76a2fb15_3eHcsak.mp3",
+            "content": "Paki-tanggal ang iyong damit",
+            "id": 679,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Please remove your shirt.",
+                "id": 150,
+                "summary": "Remove Clothing"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/e87c62358d22723b2a9f0362133afe9c_k1mIjSq.mp3",
+            "content": "Huminga nang malalim gamit ang iyong bibig",
+            "id": 680,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Keep taking deep breaths through your mouth.",
+                "id": 44,
+                "summary": "Deep Breath"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/45fd180c13b3cf85b365276b9080155d_Hs3G9LS.mp3",
+            "content": "Sabihin ang \"99\" habang nakikinig ako gamit ang stethoscope ",
+            "id": 681,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Say \"99\" when I listen with my stethoscope.",
+                "id": 45,
+                "summary": "99"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/fb16609e368d58fc22f893e659814c4e_BjO5rLB.mp3",
+            "content": "Ipapasok ko lamang itong cotton bud sa loob ng iyong ilong. Kakaiba ang pakiramdam, ngunit hindi naman ito masakit.",
+            "id": 682,
+            "language": "Filipino",
+            "phrase": {
+                "content": "I'm going to put this cotton bud into your nostrils. You will feel strange but it is not painful.",
+                "id": 46,
+                "summary": "Swabbing"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0ca89726493c8c3e097a7499b10030da_CnoKCMU.mp3",
+            "content": "Ito ay pagsusuri para sa coronavirus",
+            "id": 683,
+            "language": "Filipino",
+            "phrase": {
+                "content": "If coronavirus positive, we call your phone by tomorrow.",
+                "id": 49,
+                "summary": "Result Collection"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f836bd0edbacccb6c15177c23eb80a77_AjmJmZV.mp3",
+            "content": "Ibaling nang bahagya ang ulo palikod",
+            "id": 684,
+            "language": "Filipino",
+            "phrase": {
+                "content": "This is to test for coronavirus",
+                "id": 47,
+                "summary": "Covid"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/660615e6e148fd281e93f8a37b16741e_ZOeA5Wh.mp3",
+            "content": "Kung negatibo ka sa coronavirus, magsesend kami ng SMS makalipas ang tatlong araw.",
+            "id": 686,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Tilt your head back",
+                "id": 48,
+                "summary": "Tilt Head"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3db1af0678f1ca497eeeec62897cf58d_sMkOnbh.mp3",
+            "content": "Kung positibo ka sa coronavirus, tatawagan ka namin bukas.",
+            "id": 685,
+            "language": "Filipino",
+            "phrase": {
+                "content": "If coronavirus negative, we send you an SMS after 3 days.",
+                "id": 152,
+                "summary": "COVID Negative"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8c636932f84d93b98a2862058d82679b_yz54IoM.mp3",
+            "content": "Mamaya ay kukuhanan ka ng X-ray",
+            "id": 687,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Later, you will do an X-ray",
+                "id": 50,
+                "summary": "X-ray"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a21a058852e0fb32d193de2a9a4dfcd3_zbQTUmD.mp3",
+            "content": "Wala namang senyales ng impeksyon batay sa iyong X-ray",
+            "id": 688,
+            "language": "Filipino",
+            "phrase": {
+                "content": "There is no sign of infection on your X-ray",
+                "id": 51,
+                "summary": "X-ray OK"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/94524a37c4e74c4335793442182b35f6_PZAtZN7.mp3",
+            "content": "Maaari ka nang umuwi sa ilang sandali",
+            "id": 689,
+            "language": "Filipino",
+            "phrase": {
+                "content": "You can go back soon.",
+                "id": 52,
+                "summary": "Can go back"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/15b2fa2e0fddf53e9e4b5e20ee5026f3_QoRAV3K.mp3",
+            "content": "Maaari lamang na maghintay dito, huwag aalis sa lugar na ito",
+            "id": 690,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Wait here, do not leave this area",
+                "id": 53,
+                "summary": "Wait Patient"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c708182b1105877d92273217b93482a5_6J2y2uk.mp3",
+            "content": "Kailangan mong manatili sa ospital sa loob ng ilang mga araw",
+            "id": 691,
+            "language": "Filipino",
+            "phrase": {
+                "content": "You have to stay in the hospital for a few days",
+                "id": 54,
+                "summary": "Hospital Stay"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1783defb0d6fbaa090e44abf0b118cd4_FlRipzK.mp3",
+            "content": "Bibigyan kita ng gamot upang mapabuti ang iyong pakiramdam",
+            "id": 692,
+            "language": "Filipino",
+            "phrase": {
+                "content": "I'll give you medicine to make you feel better",
+                "id": 55,
+                "summary": "Medicine"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7d1b71a0f3b3a5a2a57f8d71e09625a4_kIZUZjt.mp3",
+            "content": "Kailangan mong bumalik dito sakaling magkaroon ng problema sa paghinga",
+            "id": 694,
+            "language": "Filipino",
+            "phrase": {
+                "content": "You must not work for the next 5 days.",
+                "id": 56,
+                "summary": "No work 5 days"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c6ac4df27a9235aea0da9eea9d337b52_DMFyUjY.mp3",
+            "content": "Kailangan mong hindi pumasok sa trabaho sa loob ng limang araw",
+            "id": 693,
+            "language": "Filipino",
+            "phrase": {
+                "content": "You must come back if you have problems with breathing.",
+                "id": 57,
+                "summary": "Problem after 5 days"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d6d351e71aeffb7fb7808edf87ed4c5b_e1RWAn4.mp3",
+            "content": "Kailangan mong bumalik dito sakaling hindi ka tuluyang gumaling pagkatapos ng limang araw",
+            "id": 695,
+            "language": "Filipino",
+            "phrase": {
+                "content": "You must come back if you do not recover completely after 5 days.",
+                "id": 151,
+                "summary": "Come back 5 days"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7ebf667896c1749369bd0e8f23a5c9a8_V41ZJHa.mp3",
+            "content": "Basahin mo ng maigi ang handout",
+            "id": 696,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Read the handout carefully",
+                "id": 58,
+                "summary": "Handout"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4744e108b907d0b3c15a0e3594b72462_baZNTOW.mp3",
+            "content": "Salamat.",
+            "id": 697,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Thank you",
+                "id": 59,
+                "summary": "Thank you"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/043978eb3625f1030b795f08e4517ee3.mp3",
+            "content": "Mangyaring iwasan ang pampublikong transportasyon.",
+            "id": 1887,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Please avoid public transport.",
+                "id": 166,
+                "summary": "Transport"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/55705ee484cef95dc0e7bea6faef3f67.mp3",
+            "content": "Maaari kang kumuha ng iyong sariling pribadong transportasyon, isang taxi o isang pribadong upa ng kotse.",
+            "id": 1888,
+            "language": "Filipino",
+            "phrase": {
+                "content": "You can take your own private transport, a taxi or a private hire car.",
+                "id": 167,
+                "summary": "Take Taxi"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/20be7b2f044ceab06bb03f0e56db19f0.mp3",
+            "content": "Magsuot ng mask at umupo mag-isa sa back seat sa kotse.",
+            "id": 1889,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Wear a mask and sit alone in the back seat in the car.",
+                "id": 168,
+                "summary": "In Car"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6779af4295cec6d7bb9008d6e437fa6a.mp3",
+            "content": "Buksan ang mga bintana ng kotse at patayin ang air-conditioning.",
+            "id": 1890,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Open car windows and turn off air-conditioning.",
+                "id": 169,
+                "summary": "No AC"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/11f2dfc37a2fb40da71aac374765feef.mp3",
+            "content": "Mangyaring ligtas na panatilihin ang resibo mula sa taxi o pribadong upa ng kotse. Kung ipahiwatig ng mga resulta ng iyong pagsubok na nahawaan ka, kakailanganin ito.",
+            "id": 1891,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Please safely keep the receipt from the taxi or private hire car. If your test results indicate you are infected, this will be needed.",
+                "id": 170,
+                "summary": "Receipt"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3401d012793e163d1f87a2ccafa57058.mp3",
+            "content": "Lumayo sa iba. Dapat kang manatili sa bahay at hindi makakapunta sa labas habang nasa medical leave. Maaari ka lamang lumabas dahil sa kalusugan o medikal na kadahilanan.",
+            "id": 1892,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Stay away from others. You must stay home and can not go outside while being on medical leave. You may only go out for health or medical reasons.",
+                "id": 171,
+                "summary": "Isolation"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/112cfdffb195df21e25a92c35debf4b1.mp3",
+            "content": "Kung kailangan mong pumunta para sa anumang appointment sa medikal bago ka makakuha ng resulta ng iyong pagsubok, mag-ingat. Sabihin sa doktor, nars, o iba pang mga kawani na ikaw ay sinubukan para sa COVID-19. Gayundin, sabihin sa kanila ang tungkol sa iyong mga sintomas. Bago ang araw, dapat kang tumawag sa 6344 8222 upang ipaalam sa kanila.",
+            "id": 1893,
+            "language": "Filipino",
+            "phrase": {
+                "content": "If you need to go for any medical appointment before you get your test result, be careful. Tell the doctor, nurse, or other staff that you were recently tested for COVID-19. Also, tell them about your symptoms. Before the day, you should call 6344 8222 to inform them.",
+                "id": 172,
+                "summary": "Medical Appointment"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1fa79229591ba2ff547437facfe86d4a_YPKVbs7.mp3",
+            "content": "Sinubukan mo ang positibo para sa coronavirus.",
+            "id": 784,
+            "language": "Filipino",
+            "phrase": {
+                "content": "You have tested positive for coronavirus.",
+                "id": 60,
+                "summary": "Tested Positive"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ae6361d23cb864f3599c7654805abc31_7YGJD1E.mp3",
+            "content": "Dadalhin ka namin sa ospital.",
+            "id": 785,
+            "language": "Filipino",
+            "phrase": {
+                "content": "We will take you to the hospital.",
+                "id": 61,
+                "summary": "Hospital Admission"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/05678e3fefde9c918643b21138242803_4XXwgZ3.mp3",
+            "content": "Ililipat namin sa iyo ang isang pasilidad ng paghihiwalay.",
+            "id": 786,
+            "language": "Filipino",
+            "phrase": {
+                "content": "We will transfer you to an isolation facility.",
+                "id": 62,
+                "summary": "Isolation Facility"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8a9f11ea7dde5b7a4a971a51679faa5b.mp3",
+            "content": "Magandang umaga",
+            "id": 698,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Good morning",
+                "id": 64,
+                "summary": "Morning"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/dfbda20fb956af4ceb9b5e8ce173f193.mp3",
+            "content": "Magandang gabi",
+            "id": 1477,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Good Evening",
+                "id": 173,
+                "summary": "Evening"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/45fd5c0d7062aec42a5522cd2adb426a.mp3",
+            "content": "Magandang hapon",
+            "id": 1484,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Good Afternoon",
+                "id": 174,
+                "summary": "Afternoon"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ef79e797be288a202e5c6722d91f0d8b_fSZRDrh.mp3",
+            "content": "Ako ang nars.",
+            "id": 699,
+            "language": "Filipino",
+            "phrase": {
+                "content": "I am the nurse",
+                "id": 65,
+                "summary": "Nurse"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/2bba29a8c869328006f1675c75c16783_nBe0CSZ.mp3",
+            "content": "Ako ang doktor.",
+            "id": 700,
+            "language": "Filipino",
+            "phrase": {
+                "content": "I am the doctor",
+                "id": 66,
+                "summary": "Doctor"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/dad1490428a1325e6f8be9c64cb17f6b_DD6HirP.mp3",
+            "content": "Ikaw ay nasa ICU o intensive care unit.",
+            "id": 701,
+            "language": "Filipino",
+            "phrase": {
+                "content": "You are in the intensive care unit.",
+                "id": 67,
+                "summary": "In ICU"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/44b0b477de2444e6db501ac03832a6b2_hQLo17N.mp3",
+            "content": "Ngayon ay Lunes",
+            "id": 787,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Today is Monday",
+                "id": 68,
+                "summary": "Monday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f3734fedbabb191640a7117dcc3927ab_QSNPyTC.mp3",
+            "content": "Ngayon ay Martes",
+            "id": 788,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Today is Tuesday",
+                "id": 69,
+                "summary": "Tuesday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5c01077e4fa63cb589cae6d06234a846_KO0koub.mp3",
+            "content": "Ngayon ay Miyerkules",
+            "id": 789,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Today is Wednesday",
+                "id": 70,
+                "summary": "Wednesday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c96fa96c509d545396d9a0eb1ee0d712_UFBqXS6.mp3",
+            "content": "Ngayon ay Huwebes",
+            "id": 790,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Today is Thursday",
+                "id": 71,
+                "summary": "Thursday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6d76f04c35bf525ae4dd74bbdbad7ce1_49dt8RY.mp3",
+            "content": "Ngayon ay Biyernes",
+            "id": 791,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Today is Friday",
+                "id": 72,
+                "summary": "Friday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/fed087f1c7fc95ce34e3715445ee72dc_SeAragn.mp3",
+            "content": "Ngayon ay Sabado",
+            "id": 792,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Today is Saturday",
+                "id": 73,
+                "summary": "Saturday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/831e6ac9d4ab0fac1ff8fb844ee3b074_rDbNYV0.mp3",
+            "content": "Ngayon ay Linggo",
+            "id": 793,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Today is Sunday",
+                "id": 74,
+                "summary": "Sunday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/aee310ebd11c7b1ac6ca102ba8645def_pmzBbRF.mp3",
+            "content": "Bumubuti na ang iyong kalagayan.",
+            "id": 702,
+            "language": "Filipino",
+            "phrase": {
+                "content": "You are getting better",
+                "id": 153,
+                "summary": "Getting Better"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1ffb290ecc383873ca94400b5fd2ca28_ziicbCg.mp3",
+            "content": "Aalisin namin ang tubo kapag bumuti na ang iyong kalagayan",
+            "id": 703,
+            "language": "Filipino",
+            "phrase": {
+                "content": "We will remove the breathing tube when you are better",
+                "id": 75,
+                "summary": "Remove Tube Later"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b70a19d85d5431f532bfc602c0a35436_GEvpLak.mp3",
+            "content": "Huminga nang malalim",
+            "id": 705,
+            "language": "Filipino",
+            "phrase": {
+                "content": "You can talk after we remove the breathing tube",
+                "id": 76,
+                "summary": "Can Talk as Remove"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/501c8816fa507fe14467c89a0038c3eb_LOAXpu4.mp3",
+            "content": "Maaari ka nang magsalita pagkatapos alisin ang tubo",
+            "id": 704,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Take a deep breath",
+                "id": 77,
+                "summary": "Deep breath"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/78520374f685861b835020b154d15895_I5WQ5kj.mp3",
+            "content": "Umubo nang may puwersa",
+            "id": 706,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Give me a big cough",
+                "id": 78,
+                "summary": "Big cough"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/24ff55aa092d9b4d9fef80473beaee53_xV2jjDs.mp3",
+            "content": "Huwag labanan",
+            "id": 707,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Don’t struggle",
+                "id": 79,
+                "summary": "Don’t struggle"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/e4cb04804b0983cddc63d87a803bf6ac_uFVk6kw.mp3",
+            "content": "Huwag gagalaw",
+            "id": 708,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Don’t move",
+                "id": 80,
+                "summary": "Don’t move"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c3f9a1bf6eef76b7d2c551e148552fd1_bcBdz5y.mp3",
+            "content": "Itaas ang kamay",
+            "id": 709,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Lift up your arm",
+                "id": 81,
+                "summary": "Lift up your arm"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8004ae79cb6cd8a5022f5e1d54fa9cf9_1I6Z1Se.mp3",
+            "content": "Iangat ang iyong paa",
+            "id": 794,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Lift up your leg",
+                "id": 82,
+                "summary": "Lift up your leg"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/068f6424d62e0f38aecf65a45d322e50_mEVagGL.mp3",
+            "content": "Pisilin ang kamay ko",
+            "id": 710,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Squeeze my hand",
+                "id": 83,
+                "summary": "Squeeze my hand"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7ac58b85dfcecebb9e222ef6d581df47_PPLWykZ.mp3",
+            "content": "Itaas ang dalawang daliri sa kamay",
+            "id": 711,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Show me two fingers",
+                "id": 84,
+                "summary": "Show two fingers"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/bf4f201c49828522b0aea8e396404336_Gy413Ni.mp3",
+            "content": "Buksan ang bibig",
+            "id": 712,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Open your mouth",
+                "id": 85,
+                "summary": "Open mouth"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/942d97a01334988c4567c55c256d5fd0_kitRPKS.mp3",
+            "content": "Labas ang dila",
+            "id": 713,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Stick out your tongue",
+                "id": 86,
+                "summary": "Stick out tongue"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c1c7ea0ae9c8ca7bfd2b8aea95a562d2_pR4vrEd.mp3",
+            "content": "Buksan ang mga mata",
+            "id": 714,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Open your eyes",
+                "id": 87,
+                "summary": "Open eyes"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1c23cb30f62e7095caff1f6568034dd6_6oTHMjk.mp3",
+            "content": "Iilawan ko lang ang iyong mga mata. Makakasilaw lang saglit. ",
+            "id": 715,
+            "language": "Filipino",
+            "phrase": {
+                "content": "I’m going to shine a light into your eyes. It will be bright.",
+                "id": 88,
+                "summary": "Shine a light into your eyes"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f423f8f9614eaba9ba71c17d8e50fa97_jbVmRWm.mp3",
+            "content": "Mahina na ang iyong baga. Kailangan naming magpasok ng tubo para tulungan kang huminga",
+            "id": 716,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Your lungs are weak. We are going to insert a breathing tube to help you breathe",
+                "id": 89,
+                "summary": "Insert a breathing tube"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/486f769b6581da47f67d4cc744af4f6e_teM338T.mp3",
+            "content": "Makakatulog ka na",
+            "id": 717,
+            "language": "Filipino",
+            "phrase": {
+                "content": "You are going to sleep now",
+                "id": 90,
+                "summary": "Sleep"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/90237829fd1f2dc8efa1aaed21a597ef_kMKI32Z.mp3",
+            "content": "Ipapadapa ka lang namin para tulungang lumuwag ang iyong baga",
+            "id": 718,
+            "language": "Filipino",
+            "phrase": {
+                "content": "We are turning you onto your belly to help your lungs expand",
+                "id": 91,
+                "summary": "Turn onto belly"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b1b9759f9d33ed0014f1faf966fd33bb_qVeaHDU.mp3",
+            "content": "Magpapasok lang kami ng sonda/tubo sa pantog para tulungan kang maka-ihi",
+            "id": 719,
+            "language": "Filipino",
+            "phrase": {
+                "content": "We are inserting a tube to help you pass urine",
+                "id": 92,
+                "summary": "Insert tube urine"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/742e028f48bbbaef37affce1ac812176_SUWQZKf.mp3",
+            "content": "Magpapasok lang kami ng tubo sa loob ng ilong",
+            "id": 720,
+            "language": "Filipino",
+            "phrase": {
+                "content": "We are inserting a tube through your nose",
+                "id": 93,
+                "summary": "Insert tube nose"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/63e272e32ef70f260001ba2345f2d46b_UF3fRVS.mp3",
+            "content": "Mag-injeksyon lang kami sa leeg para magbigay ng gamot",
+            "id": 721,
+            "language": "Filipino",
+            "phrase": {
+                "content": "We are going to give you an injection in your neck to give you medications",
+                "id": 94,
+                "summary": "Injection in Neck"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/dfa9eb2dc1a45ee91393a19eb2bf1273_dFELtPS.mp3",
+            "content": "(Injection for giving medication) Tutusok lang kami sa braso para magbigay ng gamot",
+            "id": 722,
+            "language": "Filipino",
+            "phrase": {
+                "content": "We are going to give you an injection in your arm to measure your blood pressure",
+                "id": 95,
+                "summary": "Measure Blood Pressure"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/e5d9e904f967d6b6303b156eb350e2d9_mYiPcq9.mp3",
+            "content": "Bibigyan ka namin ng gamot pampatulog",
+            "id": 723,
+            "language": "Filipino",
+            "phrase": {
+                "content": "We will give you sleeping medications.",
+                "id": 96,
+                "summary": "Sleeping Meds"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/fd1c49ac833b3b01942ae9f1af7b28eb_G4UnjgS.mp3",
+            "content": "Bibigyan ka namin ng gamot para sa kirot",
+            "id": 724,
+            "language": "Filipino",
+            "phrase": {
+                "content": "We will give you painkillers.",
+                "id": 97,
+                "summary": "Painkillers"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/90a3b2653c29bc1f13be8cf512e20ee7_xf4jGvs.mp3",
+            "content": "Binibigyan ka namin ng gamot para mapataas ang blood pressure",
+            "id": 725,
+            "language": "Filipino",
+            "phrase": {
+                "content": "We are giving you medication to keep your blood pressure up.",
+                "id": 98,
+                "summary": "Blood Pressure Medication"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a7868ddd8266a0acfcf4646398e2f71e_ExszkA0.mp3",
+            "content": "Tatanggalin na namin ang tubo sa baga",
+            "id": 726,
+            "language": "Filipino",
+            "phrase": {
+                "content": "We are going to remove the breathing tube.",
+                "id": 99,
+                "summary": "Remove Tube"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/526043d00b14a36afe1a758bc73b39f1_UQYH6zt.mp3",
+            "content": "I-suction lang namin ang iyong plema ",
+            "id": 727,
+            "language": "Filipino",
+            "phrase": {
+                "content": "We are going to suck out your phlegm",
+                "id": 100,
+                "summary": "Phlegm suck out"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0f824b07349c98032a6924d94bc59e58_fTVCUzi.mp3",
+            "content": "Papaliguan ka namin",
+            "id": 728,
+            "language": "Filipino",
+            "phrase": {
+                "content": "We are going to clean you with a sponge",
+                "id": 101,
+                "summary": "Clean with sponge"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8738d9fa9613ee5cd53a22421b4e4e95_BT70JPq.mp3",
+            "content": "Harap sa kaliwa",
+            "id": 729,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Turn left",
+                "id": 102,
+                "summary": "​Turn left"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/2a1c57eca314687778cea4a06b59bcd5_2vsfRNR.mp3",
+            "content": "Harap sa kanan",
+            "id": 730,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Turn right",
+                "id": 103,
+                "summary": "Turn right"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/063dd342ea98665c3ad1a5577d3c3c1c_RzIFidF.mp3",
+            "content": "Papalitan namin ang iyong diaper",
+            "id": 731,
+            "language": "Filipino",
+            "phrase": {
+                "content": "We will change your diapers",
+                "id": 104,
+                "summary": "We will change your diapers"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8004ae79cb6cd8a5022f5e1d54fa9cf9_P2d4CKV.mp3",
+            "content": "Iangat ang iyong paa",
+            "id": 795,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Lift up your leg",
+                "id": 105,
+                "summary": "Lift up your leg"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/87c2bdeeb8545d0090c046cc545957ee_3flqeeS.mp3",
+            "content": "I-uupo ka namin",
+            "id": 732,
+            "language": "Filipino",
+            "phrase": {
+                "content": "We are going to sit you up",
+                "id": 106,
+                "summary": "We are going to sit you up"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/22d3d0e6506da90d234aec746abab761.mp3",
+            "content": "I-aangat ka lang namin sa kama",
+            "id": 733,
+            "language": "Filipino",
+            "phrase": {
+                "content": "We are going to shift you up the bed",
+                "id": 107,
+                "summary": "Shift head"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/adcce6588c06ba037b8b3e240a230b27_C8dDUAb.mp3",
+            "content": "Lilinisin namin ang iyong bibig",
+            "id": 734,
+            "language": "Filipino",
+            "phrase": {
+                "content": "We are going to clean your mouth",
+                "id": 108,
+                "summary": "Clean mouth"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1878606a187264fbddc51821cfad52ad_YIsNw8c.mp3",
+            "content": "Huwag lunukin ang solusyong gamit sa pagmumog",
+            "id": 735,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Do not swallow the gargle",
+                "id": 109,
+                "summary": "Dont swallow"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/9b1fa234e474cdae8f99b6c358440742_mh4M13y.mp3",
+            "content": "Mayroon ka bang nararamdaman na masakit ngayon?",
+            "id": 736,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Are you in pain?",
+                "id": 110,
+                "summary": "Are you in pain?"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d5a460eb5764534e35116f2bf091b54e_fjHNkSP.mp3",
+            "content": "Saang banda ang masakit?",
+            "id": 737,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Where is the pain?",
+                "id": 111,
+                "summary": "Where is the pain?"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/9dc77eaff343506126f0a9b13f620ef8_mKnLQzT.mp3",
+            "content": "Ang sakit na nararamdaman ba ay banayad, katamtaman o malubha?",
+            "id": 738,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Is it mild, moderate or severe?",
+                "id": 112,
+                "summary": "Is it mild, moderate or severe?"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1ad254883416199c363393381d807890_PjJV58o.mp3",
+            "content": "Maaring ituro mo kung anung parte ng katawan ang masakit?",
+            "id": 739,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Can you point to the pain?",
+                "id": 113,
+                "summary": "Can you point to the pain?"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/58b2321796ef9dfecf48c24852b0a71d_gnrv2a2.mp3",
+            "content": "Ulo",
+            "id": 740,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Head",
+                "id": 114,
+                "summary": "Head"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/357742da3f7a2fcec0fcffa840db38ce_E1i5Byy.mp3",
+            "content": "Mata",
+            "id": 741,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Eyes",
+                "id": 115,
+                "summary": "Eyes"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/df25e480371311adbe876ffdd88e3eb7_wGMczLI.mp3",
+            "content": "Tenga",
+            "id": 742,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Ears",
+                "id": 116,
+                "summary": "Ears"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/864a39d1b6ce2b9430ac30dea126e647_mYMECLE.mp3",
+            "content": "Ilong",
+            "id": 743,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Nose",
+                "id": 117,
+                "summary": "Nose"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c3c804a1d8d1a22490b4b0d2ce3c7e46_H3yCph1.mp3",
+            "content": "Bibig",
+            "id": 744,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Mouth",
+                "id": 118,
+                "summary": "Mouth"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/23c80c941336e47a2e679f59fd9ee16f_vIcE88F.mp3",
+            "content": "Lalamunan",
+            "id": 745,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Throat",
+                "id": 119,
+                "summary": "Throat"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/daacc99ad3ec1f4d53540dded0177acf_fxvAT5B.mp3",
+            "content": "Dibdib",
+            "id": 746,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Chest",
+                "id": 120,
+                "summary": "Chest"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/02cc9a1720aaac1367d890c99b0102ea_Fr3KI62.mp3",
+            "content": "Tiyan",
+            "id": 747,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Abdomen",
+                "id": 121,
+                "summary": "Abdomen"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/2ee17feba4eecda3b642c11d3338051c_RU0YpBw.mp3",
+            "content": "Likod",
+            "id": 748,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Back",
+                "id": 122,
+                "summary": "Back"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/23764ab020c2738120c96e328cb40f27.mp3",
+            "content": "Kamay o Arm",
+            "id": 749,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Hand or Arm",
+                "id": 123,
+                "summary": "Arms"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/2a92841b14381d15a7a7a98a5c234b6d_PlSJrr2.mp3",
+            "content": "Hita",
+            "id": 750,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Legs",
+                "id": 124,
+                "summary": "Legs"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/298da4610b51213458138d4f800d5a83_J57rILl.mp3",
+            "content": "Paa",
+            "id": 751,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Feet",
+                "id": 125,
+                "summary": "Feet"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f9dd51ebcb2f3fa564b7a9e77b5a59af_OVVHG4Z.mp3",
+            "content": "Isa",
+            "id": 752,
+            "language": "Filipino",
+            "phrase": {
+                "content": "1",
+                "id": 126,
+                "summary": "1"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/2d7156aa7ac287dffa66698035162bdb_kslwNbB.mp3",
+            "content": "Dalawa",
+            "id": 753,
+            "language": "Filipino",
+            "phrase": {
+                "content": "2",
+                "id": 127,
+                "summary": "2"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5547544dfdb10b22b2c0779b1b23ae58_i4G4O9L.mp3",
+            "content": "Tatlo",
+            "id": 754,
+            "language": "Filipino",
+            "phrase": {
+                "content": "3",
+                "id": 128,
+                "summary": "3"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c7b23b67ae6a021233f7e8a44778079c_yfKsJmJ.mp3",
+            "content": "Apat",
+            "id": 755,
+            "language": "Filipino",
+            "phrase": {
+                "content": "4",
+                "id": 129,
+                "summary": "4"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0cb9cde516c38ed84dc1f3f2b5556ed3_OeBm7fi.mp3",
+            "content": "Lima",
+            "id": 756,
+            "language": "Filipino",
+            "phrase": {
+                "content": "5",
+                "id": 130,
+                "summary": "5"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ca8fe59dd02d0f752997acdfbeb0303b_7bEXfKO.mp3",
+            "content": "Anim",
+            "id": 757,
+            "language": "Filipino",
+            "phrase": {
+                "content": "6",
+                "id": 131,
+                "summary": "6"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/84cb470849c58753662cb21fbb427ac2_VDbnE1m.mp3",
+            "content": "Pito",
+            "id": 758,
+            "language": "Filipino",
+            "phrase": {
+                "content": "7",
+                "id": 132,
+                "summary": "7"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ba6360fb9e3cd47b766121d986402472_wc0te9V.mp3",
+            "content": "Walo",
+            "id": 759,
+            "language": "Filipino",
+            "phrase": {
+                "content": "8",
+                "id": 133,
+                "summary": "8"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/fbb469baf48892fc729a365efaa23168_VupwahT.mp3",
+            "content": "Siyam",
+            "id": 760,
+            "language": "Filipino",
+            "phrase": {
+                "content": "9",
+                "id": 134,
+                "summary": "9"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ca53d8e59bc93dd342745a6f902af342_Msg8fZ0.mp3",
+            "content": "Sampu",
+            "id": 761,
+            "language": "Filipino",
+            "phrase": {
+                "content": "10",
+                "id": 135,
+                "summary": "10"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d7ed4ee1df437474d005188535f74875_UUlTGSw.mp3",
+            "content": "Zero",
+            "id": 762,
+            "language": "Filipino",
+            "phrase": {
+                "content": "0",
+                "id": 136,
+                "summary": "0"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ee89e028576abbdb8f5e2922ffa6612b_bBz6X2X.mp3",
+            "content": "Enero",
+            "id": 763,
+            "language": "Filipino",
+            "phrase": {
+                "content": "January",
+                "id": 137,
+                "summary": "January"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/606989bc079c75e630aad22420515827_sKYaPzS.mp3",
+            "content": "Pebrero",
+            "id": 764,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Feb",
+                "id": 138,
+                "summary": "Feb"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/9770bef87b8e55ec297d950e31bd5286_2SgnXKf.mp3",
+            "content": "Marso",
+            "id": 765,
+            "language": "Filipino",
+            "phrase": {
+                "content": "March",
+                "id": 139,
+                "summary": "March"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5e60b5ec40e89b36af60305c59be3a00_J0xhWiM.mp3",
+            "content": "Abril",
+            "id": 766,
+            "language": "Filipino",
+            "phrase": {
+                "content": "April",
+                "id": 140,
+                "summary": "April"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4ec3b69ed63112f7e8865f1e94706f35_TNeeVAB.mp3",
+            "content": "Mayo",
+            "id": 767,
+            "language": "Filipino",
+            "phrase": {
+                "content": "May",
+                "id": 141,
+                "summary": "May"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7f55eef38c5c76340e5bb4fd1b1c5d63_ilEvBS5.mp3",
+            "content": "Hunyo",
+            "id": 768,
+            "language": "Filipino",
+            "phrase": {
+                "content": "June",
+                "id": 142,
+                "summary": "June"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d5aa9fb6094d78d59d3166d66897c5cf_eHhP7gW.mp3",
+            "content": "Hulyo",
+            "id": 769,
+            "language": "Filipino",
+            "phrase": {
+                "content": "July",
+                "id": 143,
+                "summary": "July"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1df861fe51f457b17d0c4508e5cd42b6_uCYUaDh.mp3",
+            "content": "Agosto",
+            "id": 770,
+            "language": "Filipino",
+            "phrase": {
+                "content": "August",
+                "id": 144,
+                "summary": "August"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7e2ef7e6f6a6813a72b7391e0e4470b6_4TJaEFj.mp3",
+            "content": "Setyembre",
+            "id": 771,
+            "language": "Filipino",
+            "phrase": {
+                "content": "September",
+                "id": 145,
+                "summary": "September"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a41f73be40841a6aafda051bd0706203_QC5nB7R.mp3",
+            "content": "Oktubre",
+            "id": 772,
+            "language": "Filipino",
+            "phrase": {
+                "content": "October",
+                "id": 146,
+                "summary": "October"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/fa1f85bbb7e46975cc669bed8786df7b_xVGvuAt.mp3",
+            "content": "Nobyembre",
+            "id": 773,
+            "language": "Filipino",
+            "phrase": {
+                "content": "November",
+                "id": 147,
+                "summary": "November"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/438f42ceef3f7e27a218efea02c70b2e_A3s8Q4O.mp3",
+            "content": "Disyembre",
+            "id": 642,
+            "language": "Filipino",
+            "phrase": {
+                "content": "December",
+                "id": 148,
+                "summary": "December"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/79298400799e6c8e2521e6ca244b3232.mp3",
+            "content": "Manatili sa isang hiwalay na silid sa bahay. Pinakamabuti kung ang silid ay may nakalakip na banyo. Ito ay upang mabawasan ang pakikipag-ugnay sa ibang mga miyembro ng bahay. Kung gumagamit ka ng isang ibinahaging banyo, kailangang malinis ang banyo bago o pagkatapos mong gamitin.",
+            "id": 1894,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Stay in a separate room at home. It is best if the room has an attached bathroom. This is to reduce contact with the other members of the house. If you are using a shared bathroom, the bathroom needs to be cleaned before or after you use it.",
+                "id": 176,
+                "summary": "Separate"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ac5dc66fe81f316ed694343fd22679b3.mp3",
+            "content": "Mag-ayos para sa pagkain, tubig, at iba pang mga supply upang mailagay sa labas ng iyong silid. Kailangan mong dalhin ang iyong mga item sa iyong silid.",
+            "id": 1895,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Arrange for food, water, and other supplies to be placed outside your room. You yourself have to bring those items into your room.",
+                "id": 177,
+                "summary": "Arrange"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/cf46c552d22285f840b4d3616eb887e8.mp3",
+            "content": "Hanggang sa malaman mo ang iyong mga resulta ng pagsubok sa pamunas, bawasan ang iyong pakikipag-ugnay sa mga miyembro ng pamilya. Lalo na, subukang huwag lumapit sa mga matatandang tao.",
+            "id": 1896,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Until you know your swab test results, reduce your contact with family members. Especially, try not to get near older people.",
+                "id": 178,
+                "summary": "Elderly"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/34e931b831af7f5ac5901bb38678a21f.mp3",
+            "content": "Mangyaring mapanatili ang mahusay na personal na kalinisan. Hugasan ang iyong mga kamay ng madalas na sabon at tubig. Subukang huwag hawakan ang iyong mga mata, ilong, at bibig. Laging takpan ang iyong bibig kapag umuubo o bumahin.",
+            "id": 1897,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Please maintain good personal hygiene. Wash your hands with soap and water frequently. Try not to touch your eyes, nose, and mouth. Always cover your mouth when coughing or sneezing.",
+                "id": 179,
+                "summary": "Hygine"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6360e0575300daa84bf28ac7a17cb9fc.mp3",
+            "content": "Mangyaring pigilan ang iba sa paggamit ng iyong kutsara, tinidor, plato, mangkok, pagkain. Huwag ring ibahagi ang mga personal na item sa kalinisan tulad ng iyong tuwalya.",
+            "id": 1898,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Please prevent others from using your spoon, fork, plates, bowls, food. Also do not share personal hygiene items like your towel.",
+                "id": 180,
+                "summary": "Sharing"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8b1deb3c4b23757b64c08e9ee3b52056.mp3",
+            "content": "Patuloy na kunin ang mga gamot na inireseta para sa iyo (kung mayroon man).",
+            "id": 1899,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Continue to take the medications prescribed for you (if any).",
+                "id": 181,
+                "summary": "Medication"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a398db8d079ae3070504acf70fba7506.mp3",
+            "content": "Mangyaring uminom ng maraming tubig.",
+            "id": 1900,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Please drink a lot of water.",
+                "id": 182,
+                "summary": "Drink"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f006d2415a35ea6a1874932c7144fe98.mp3",
+            "content": "Panatilihin ang pagsubaybay sa iyong temperatura at sintomas sa bahay.",
+            "id": 1901,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Keep monitoring your temperature and symptoms at home.",
+                "id": 183,
+                "summary": "Monitor"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/043978eb3625f1030b795f08e4517ee3.mp3",
+            "content": "Mangyaring iwasan ang pampublikong transportasyon.",
+            "id": 1887,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Please avoid public transport.",
+                "id": 166,
+                "summary": "Transport"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/55705ee484cef95dc0e7bea6faef3f67.mp3",
+            "content": "Maaari kang kumuha ng iyong sariling pribadong transportasyon, isang taxi o isang pribadong upa ng kotse.",
+            "id": 1888,
+            "language": "Filipino",
+            "phrase": {
+                "content": "You can take your own private transport, a taxi or a private hire car.",
+                "id": 167,
+                "summary": "Take Taxi"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/270ffa66872ffe07705f9be5e67118ab.mp3",
+            "content": "Kung ang iyong ubo ay lumala at nakakaramdam ka ng paghinga, o ang iyong lagnat ay patuloy na higit sa 38 degree Celsius",
+            "id": 1902,
+            "language": "Filipino",
+            "phrase": {
+                "content": "If your cough is getting worse and you feel breathless, or your fever is persistently above 38 degrees Celsius",
+                "id": 184,
+                "summary": "38C"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/357925a025a24a4c03adacdb5ae5e6a2.mp3",
+            "content": "Magsuot ng isang kirurhiko mask at lumapit sa aming Kagawaran ng Pang-emergency.",
+            "id": 1903,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Wear a surgical mask and come to our Emergency Department.",
+                "id": 185,
+                "summary": "Mask"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a0d48bf3786f46d1e49073c4292bd0bb.mp3",
+            "content": "Sa isang emergency na sitwasyon, tumawag sa 995 para sa isang ambulansya. Ipagbigay-alam sa operator ng ambulansya na ikaw ay kamakailan nasubok para sa COVID-19 at sabihin din sa kanila ang iyong kasaysayan ng paglalakbay.",
+            "id": 1904,
+            "language": "Filipino",
+            "phrase": {
+                "content": "In an emergency situation, call 995 for an ambulance. Inform the ambulance operator that you were recently tested for COVID-19 and also tell them your travel history.",
+                "id": 187,
+                "summary": "Ambulance"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/77f35fd5646370ecf3d287a9ea4ce077.mp3",
+            "content": "1) Ikonekta ang cuff ng presyon ng dugo sa makina ng mambabasa.",
+            "id": 1905,
+            "language": "Filipino",
+            "phrase": {
+                "content": "1) Connect the blood pressure cuff to the reader machine.",
+                "id": 188,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c5df38499a138616aa42bd5c3d8cb066.mp3",
+            "content": "2) Ang &quot;arrow&quot; sa cuff ay dapat na ituro pababa sa loob ng iyong braso.",
+            "id": 1906,
+            "language": "Filipino",
+            "phrase": {
+                "content": "2) The “arrow” on the the cuff should be pointing downwards on the inside of your arm.",
+                "id": 189,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f22ecfc6af3d2374c5e9b8c5f1734ab5.mp3",
+            "content": "(!) Ang cuff ay dapat na nakaposisyon sa 1 hanggang 2 cm sa itaas ng iyong kasukasuan ng siko.",
+            "id": 1907,
+            "language": "Filipino",
+            "phrase": {
+                "content": "(!) The cuff should be positioned 1 to 2 cm above your elbow joint.",
+                "id": 190,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/cc6016c307b07932b561109a2575f243.mp3",
+            "content": "3) Ang cuff cuff ay dapat magkasya sa iyong braso. Hindi ito dapat maluwag. Mag-iwan ng sapat na puwang para sa 1 kaliwang daliri upang magkasya (para sa mabuting sukat)",
+            "id": 1908,
+            "language": "Filipino",
+            "phrase": {
+                "content": "3) The BP cuff should fit snugly onto your arm. It should not feel loose. Leave some space enough for 1 left finger to fit in (for good gauge)",
+                "id": 191,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1ed16e467c2a1f795f0fe86ad2dd665a.mp3",
+            "content": "4) Huwag yumuko ang tubo sa panahon ng pagsukat ng presyon ng dugo.",
+            "id": 1909,
+            "language": "Filipino",
+            "phrase": {
+                "content": "4) Do not bend the tube during blood pressure measurement.",
+                "id": 192,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/45181addd9b80ba0854877d9838f85b9.mp3",
+            "content": "5) Mamahinga at Ipahinga ang iyong buong braso sa isang mesa habang sinusukat ang iyong presyon ng dugo.",
+            "id": 1910,
+            "language": "Filipino",
+            "phrase": {
+                "content": "5) Relax & Rest your entire arm on a table while measuring your blood pressure.",
+                "id": 193,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8e712432c465018d9c8ab405d8115e13.mp3",
+            "content": "6) Pindutin ang pindutan ng &quot;Start / Stop&quot; upang simulan ang pagsukat ng iyong BP. Maghintay ng 1 minuto hanggang lumitaw ang 3 mga numero.",
+            "id": 1911,
+            "language": "Filipino",
+            "phrase": {
+                "content": "6) Press the “Start/Stop” button to start measuring your BP. Wait for 1 minute until 3 numbers appear.",
+                "id": 194,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0c739af50246718522ee8a3229137ee8.mp3",
+            "content": "7) Ang nangungunang numero ay ang iyong Systolic presyon ng dugo. Ang gitnang bilang ay ang iyong Diastolic pressure sa dugo. Ang pinakamababang numero ay ang iyong rate ng Pulse.",
+            "id": 1912,
+            "language": "Filipino",
+            "phrase": {
+                "content": "7) The top number is your Systolic blood pressure. The middle number is your Diastolic blood pressure. The bottom number is your Pulse rate.",
+                "id": 195,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/27d8d9131130adb8d32c2d9ddbeaa2c2.mp3",
+            "content": "Ano ang COVID-19? Ang COVID-19 (mas partikular, isang coronavirus) ay isang sakit na nagsimula mula sa Wuhan City sa China, ito ay isang sakit sa paghinga.",
+            "id": 1265,
+            "language": "Filipino",
+            "phrase": {
+                "content": "What is COVID-19?\r\n\r\nCOVID-19 (more specifically, a coronavirus) is an illness that started from the Wuhan City in China, it is a respiratory illness.",
+                "id": 155,
+                "summary": "What COVID"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3423586ec0f0e18905332552db9a7948.mp3",
+            "content": "Ano ang mga sintomas ng COVID-19? Ang pinakakaraniwang sintomas ay lagnat, pagkapagod at tuyong ubo. Ang ilang mga pasyente ay mayroon ding tumatakbo ilong, namamagang lalamunan o pagtatae. Ang mga sintomas na ito ay karaniwang banayad. Ang ilang mga tao ay nahawahan ngunit walang mga sintomas. Gayunpaman, maaari rin itong sanhi ng impeksyon sa baga o pneumonia.",
+            "id": 1266,
+            "language": "Filipino",
+            "phrase": {
+                "content": "What are the symptoms of COVID-19?\r\n\r\nThe most common symptoms are fever, tiredness and dry cough. Some patients also have a runny nose, sore throat or diarrhea. These symptoms are usually mild.\r\n\r\nSome people become infected but do not have any symptoms.\r\n\r\nHowever, it also can be caused by a lung infection or pneumonia.",
+                "id": 156,
+                "summary": "What are the symptoms of COVID-19?"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/10e84ac038e5857546af32a63f5453d7.mp3",
+            "content": "Paano kumalat ang COVID-19? Ang mga tao ay maaaring mahawahan ng ibang mga tao na nahawahan na ng COVID-19. Ang virus ay kumakalat sa pamamagitan ng ubo at pagbahing. Ang virus ay maaari ring kumalat gamit ang laway mula sa bibig, ginamit na mga plato, kutsara, at tinidor.",
+            "id": 1267,
+            "language": "Filipino",
+            "phrase": {
+                "content": "How does COVID-19 spread?\r\n\r\nPeople can be infected by other persons already infected with COVID-19. The virus spreads through cough and sneezing. The virus can also spread with saliva from the mouth, used plates, spoons, and forks.",
+                "id": 157,
+                "summary": "COVID Spread"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/e08ec53fb83f99dc2cd2dccdfabfc7e2.mp3",
+            "content": "Ano ang pagsubok para sa COVID-19? Ito ay isang swab test. Ang isang pamunas ay ipapasok sa iyong butas ng ilong o sa likod ng iyong lalamunan. Ito ay tatagal ng mga 10 segundo. Maaaring mayroong isang bahagyang kakulangan sa ginhawa, gayunpaman, hindi ito masyadong masakit.",
+            "id": 1268,
+            "language": "Filipino",
+            "phrase": {
+                "content": "What is the test for COVID-19?\r\n\r\nIt is a swab test. A swab will be inserted in your nostrils or at the back of your throat. It will last about 10 seconds. There might be a slight discomfort, however, it is not too painful.",
+                "id": 158,
+                "summary": "COVID-19 Test"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8e846dc99f0577d4f623e4ce392c0b62.mp3",
+            "content": "Paano kung mayroon akong COVID-19? Ang awtoridad ay gagawa ng magkahiwalay na pag-aayos ng pamumuhay para sa iyo o aminin ka sa isang ospital. Masusubaybayan nila ang iyong kalusugan, mapabuti man o hindi. Ang X-ray o pagsusuri ng dugo ay maaaring kailanganin. Karaniwan, susubukan nila ang iyong pamalo tuwing 24 na oras. Kung negatibo ang iyong pagsubok nang dalawang beses sa isang hilera, ilalabas ka. Ngunit pagkatapos ng pag-uwi, kailangan mong manatiling hiwalay sa lahat sa loob ng 2 linggo.",
+            "id": 1269,
+            "language": "Filipino",
+            "phrase": {
+                "content": "What if I have COVID-19?\r\n\r\nAuthority will make separate living arrangements for you or admit you to a hospital. They will monitor your health, whether it is improving or not. X-ray or blood test may also be needed. Usually, they will test your swab every 24 hours. If your test is negative twice in a row, you will be released. But after going home, you have to stay separate from everyone for 2 weeks.",
+                "id": 159,
+                "summary": "COVID-19 Positive"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ed9ab4b6f3510864cca268813ba022f3.mp3",
+            "content": "Mamamatay ba ako kung mayroon akong COVID-19? Maaaring pag-alala ka ng COVID-19 at ng iyong pamilya. Gayunpaman, 80% ng oras, ang mga impeksyon sa COVID-19 ay banayad. Hindi man nila kailangan ng anumang paggamot. May kaunting panganib na mapinsala sa mga may edad o may iba pang mga problema sa kalusugan. 5% lamang ng mga pasyente ang nangangailangan ng ICU para matulungan silang makahinga.",
+            "id": 1270,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Will I die if I have COVID-19?\r\n\r\nCOVID-19 may make you and your family worried. However, 80% of the time, COVID-19 infections are mild. They do not even need any treatment. There is a slight risk of damage to those who are old or have other health problems. Only 5% of patients need ICU for helping them breathe.",
+                "id": 160,
+                "summary": "Die COVID-19"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/08ddcec9dcef9266ceb607be388b8f9e.mp3",
+            "content": "Mayroon bang paggamot para sa COVID-19? Karamihan sa mga pasyente ng COVID-19 ay hindi nangangailangan ng anumang paggamot. Kailangan lang nila ng gamot para sa ubo, lagnat at iba pang mga sintomas. Gayunpaman, para sa 5% ng mga pasyente na may sakit, walang mga napatunayan na paggamot. Gayunpaman, malapit na kami upang matuklasan ang paggamot. Huwag kang matakot. Kung mayroon kang mga problema sa paghinga ay gumagamit kami ng isang makina upang matulungan kang huminga. Bibigyan ka namin ng gamot para sa presyon ng dugo.",
+            "id": 1271,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Is there a treatment for COVID-19?\r\n\r\nMost patients of COVID-19 do not need any treatment. They only need medicine for cough, fever and other symptoms. However, for 5% of the patients who are very ill, there are no proven treatments. However, we are very near to discovering treatment. Do not be afraid. If you have problems breathing we will use a machine to help you breathe. We will give you medicine for blood pressure.",
+                "id": 161,
+                "summary": "COVID-19 Treatment"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6dcb1b7a9415b6ad313b2d5bd97bc9e7.mp3",
+            "content": "Magkano ang babayaran ko para sa Paggamot? Ayon sa anunsyo ng Pamahalaang Singapore, kung ikaw ay isang mamamayan ng Singapore, o isang permanenteng residente, o isang long term pass holder, babayaran ng gobyerno. Kaya&#39;t kung mayroon kang isang permit sa trabaho, babayaran ng gobyerno. Ngunit, kung lumabas ka sa Singapore pagkatapos ng 27 Marso 2020 at nakakuha sa loob ng 14 na araw ng pagbabalik, hindi babayaran ng gobyerno ang iyong mga bayarin.",
+            "id": 1272,
+            "language": "Filipino",
+            "phrase": {
+                "content": "How much will I have to pay for Treatment?\r\n\r\nAccording to the announcement of the Singapore Government, if you are a citizen of Singapore, or a permanent resident, or a long term pass holder, the government will pay. So even if you have a work permit, the government will pay. But, if you went out of Singapore after 27 March 2020 and get admitted within 14 days of returning, the government will not pay your bills.",
+                "id": 162,
+                "summary": "Treatment Cost"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/2fde9372192d094306889ec495c0e2de.mp3",
+            "content": "Nag-aalala ako tungkol sa hindi gumana. Mawawalan ba ako ng trabaho? Dapat pahintulutan ng iyong employer ang iyong paggamot sa batas. Kailangang bayaran ng employer ang iyong suweldo kahit na hindi ka makatrabaho ngayon. Kung ang iyong suweldo ay hindi nababayaran nang napapanahon, ang Pamahalaang Singapore ay maaaring kumilos laban sa employer.",
+            "id": 1273,
+            "language": "Filipino",
+            "phrase": {
+                "content": "I am worried about not working. Will I lose my job?\r\n\r\nYour employer has to allow your treatment by the law. The employer has to pay your salary even if you cannot work now.  If your salary is not paid timely, the Singapore Government can take action against the employer.",
+                "id": 163,
+                "summary": "Job Loss"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/85473f799ae78fd73456563b52a792a2.mp3",
+            "content": "Natatakot ako at gusto kong umuwi. Ito ay natural na matakot at balisa sa panahong ito. Dapat mong sundin ang mga tagubilin ng mga doktor at Pamahalaan para sa kaligtasan ng iyong pamilya. Ang Pamahalaang ng Singapore ay gumawa ng mga pag-aayos, kaya maaari naming ligtas na mabigyan ka ng paggamot. Ang Singapore ay may magagandang ospital at paggamot dito. Gagawin namin ang aming makakaya upang mabigyan ka ng pinakamahusay na paggamot sa maaari.",
+            "id": 1274,
+            "language": "Filipino",
+            "phrase": {
+                "content": "I am scared and I want to go home.\r\n\r\nIt is natural to be scared and anxious during this period.\r\n\r\nYou must follow the instructions of doctors and the Government for the safety of your family. The Singapore Government has made arrangements, so we can safely give you treatment. Singapore has good hospitals and treatment here. We will do our best to give you the best treatment possible.",
+                "id": 164,
+                "summary": "Scared"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3394b162cf4cd645db4c73a09a823771.mp3",
+            "content": "Paano ko maiiwasan ang COVID-19 Infection? Sa kabutihang palad, may ilang mga pagkilos na maaari mong gawin upang mabawasan ang panganib ng impeksyon. Ang mga ito ay: 1. Malinis na hugasan ang iyong mga kamay gamit ang sabon at tubig nang hindi bababa sa 20 segundo. 2. Huwag hawakan ang mga mata, ilong, at bibig. 3. Takpan ang iyong bibig at ilong gamit ang iyong siko o tisyu kapag umubo ka o bumahin. 4. Pagpapanatili ng hindi bababa sa 1 metro ang distansya sa pagitan ng iyong sarili at sa sinumang iba pa. 5. Manatili sa bahay kung sa tingin mo ay hindi maayos at umiwas sa iba. Kung mayroon kang isang lagnat, ubo o problema sa paghinga, mangyaring humingi ng medikal na atensyon nang maaga.",
+            "id": 1275,
+            "language": "Filipino",
+            "phrase": {
+                "content": "How can I prevent COVID-19 Infection?\r\n\r\nFortunately, there are some actions you can take to minimize the risk of infection. They are:\r\n\r\n1. Thoroughly washing your hands with soap and water for at least 20 seconds.\r\n2. Do not touch eyes, nose, and mouth.\r\n3. Covering your mouth and nose with your elbow or tissue when you cough or sneeze.\r\n4. Maintaining at least 1 meter distance between yourself and anyone else.\r\n5. Staying home if you feel unwell and keep away from others. If you have a fever, cough or breathing problem, please seek medical attention early.",
+                "id": 165,
+                "summary": "Prevention"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0b0500cf7b6b33316d94c5a3354f1e64.mp3",
+            "content": "Huwag tanggalin ang iyong face mask.",
+            "id": 3323,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Do not remove your mask. Keep your mask on.",
+                "id": 215,
+                "summary": "Keep Mask"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5efc2d54151c4d7ad4b13b2f39d34c9f.mp3",
+            "content": "May nararamdaman ka bang sakit? Saan?",
+            "id": 3324,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Do you have any pain? Where is your pain?",
+                "id": 216,
+                "summary": "Pain"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4fcacd3792ec126ec40853115c6b4a51_uCmY04r.mp3",
+            "content": "Kinakailangan kitang huminga ng malalim at pigilan ang iyong hininga. Huwag bumitiw sa iyong hininga hanggat ikaw ay pinagsasabihan.",
+            "id": 3317,
+            "language": "Filipino",
+            "phrase": {
+                "content": "I would need you to inhale deeply and hold your breath. Please do not breathe out unless you’re instructed to do so.",
+                "id": 208,
+                "summary": "Inhale"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/018b560b4164b1bfb846eefb5125728c_ValBlp7.mp3",
+            "content": "Tanggalin ang iyong t-shirt",
+            "id": 3318,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Take off the shirt",
+                "id": 209,
+                "summary": "Shirt"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7d0190afb96e42ee7cd60b168e71d7f6_Eo0T8g0.mp3",
+            "content": "Ilagay mo diyan",
+            "id": 3319,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Put it there",
+                "id": 210,
+                "summary": "Put Shirt"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/14582d488b74bd88cfa9b069aff6fc9e.mp3",
+            "content": "Isuot mo ulit ang iyong t-shirt",
+            "id": 3320,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Wear back your shirt",
+                "id": 211,
+                "summary": "Wear Shirt"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/868900676df234588309a80de7da21e1.mp3",
+            "content": "I-aadjust ko ang iyong balikat/braso. Sundin ang aking paggalaw.",
+            "id": 3322,
+            "language": "Filipino",
+            "phrase": {
+                "content": "I will be adjusting your shoulders/arm. Please follow my positioning.",
+                "id": 213,
+                "summary": "Adjust"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

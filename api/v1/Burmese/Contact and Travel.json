@@ -1,0 +1,85 @@
+{
+    "count": 6,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b937ea281087a0a84ca24d0603a63fce_jxYhM1U.mp3",
+            "content": "လွန်ခဲ့တဲ့‌ ၁၄ရက်အတွင်း ကိုရိုနာဗိုင်းရပ်စ်‌ရောဂါရှိသူနှင့်ထိတွေ့ ထားခြင်းရှိပါသလား။",
+            "id": 1675,
+            "language": "Burmese",
+            "phrase": {
+                "content": "In the last 14 days, did you meet anyone who has coronavirus?",
+                "id": 9,
+                "summary": "People"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f68e7c6c2f5ea04aaebf7f76ad10c23a_jgS09HH.mp3",
+            "content": "သင့်အခန်းမှာ အတူနေတဲ့သူ ဘယ်နှစ်ယောက်ရှိပါသလဲ?",
+            "id": 1676,
+            "language": "Burmese",
+            "phrase": {
+                "content": "How many people are staying in the same room as you?",
+                "id": 8,
+                "summary": "Room"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ce4c1d907759c1abb1fe6f234aa86ab0_B6YgAAJ.mp3",
+            "content": "အခန်းဖော်များ၏အမည်နှင့် ထိုသူများနှင့်မည်သို့ပတ်သက်ပါသလဲ?",
+            "id": 1677,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Who? What is your relationship with them?",
+                "id": 10,
+                "summary": "People Meet"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/396a0d3de7274267107816b99d680854_jKj1oua.mp3",
+            "content": "လွန်ခဲ့‌သော ဘယ်နှရက်ခန်.က ‌ထိုသူများနှင်.‌တွေ.ဆုံခဲ.ပါသလဲ။ (‌အောက်တွင်ဖေါ်် ပြထား‌သောဇယားအတွင်း နံပါတ်ကိုရွေးချယ်ပေးနိုင်ပါသည်။",
+            "id": 1678,
+            "language": "Burmese",
+            "phrase": {
+                "content": "How many days ago did you meet them?",
+                "id": 11,
+                "summary": "People Meet"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d9006be0d7dca608f79c9a1b443de4e0_fo61BM4.mp3",
+            "content": "အချိန်ဘယ်လောက်ကြာကြာ ထိုသူများနဲ့ရှိနေခဲ့ပါသလဲ?",
+            "id": 1679,
+            "language": "Burmese",
+            "phrase": {
+                "content": "How long were you with him/her?",
+                "id": 12,
+                "summary": "People Meet"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/25357d17c005ac8b430430eb991b7dc2_Y8lpyxv.mp3",
+            "content": "လွန်ခဲ့တဲ့ ၁၄ရက်အတွင်း စင်ကာပူနိုင်ငံပြင်ပကို ခရီးသွားခဲ့ခြင်းရှိပါသလား။ သွားလာခဲ့ပါက သွားခဲ့သော နိုင်ငံများကို အင်္ဂလိပ်လို ပြောပြပေးပါ။",
+            "id": 1680,
+            "language": "Burmese",
+            "phrase": {
+                "content": "In the last 14 days, did you travel out of Singapore? If yes, tell us the countries in English.",
+                "id": 13,
+                "summary": "14 Days Travel"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

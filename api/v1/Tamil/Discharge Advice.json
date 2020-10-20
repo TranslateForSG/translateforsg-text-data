@@ -1,0 +1,124 @@
+{
+    "count": 9,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm47.m4a",
+            "content": "நீங்கள் விரைவில் வீட்டிற்கு திரும்பலாம்.",
+            "id": 2218,
+            "language": "Tamil",
+            "phrase": {
+                "content": "You can go back soon.",
+                "id": 52,
+                "summary": "Can go back"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm48.m4a",
+            "content": "இங்கேயே காத்திருங்கள். இந்த இடத்தை விட்டு எங்கும் செல்லாதீர்கள்.",
+            "id": 2219,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Wait here, do not leave this area",
+                "id": 53,
+                "summary": "Wait Patient"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm49.m4a",
+            "content": "நீங்கள் மருத்துவமனையில் சில நாட்கள் தங்கியிருக்க வேண்டும்.",
+            "id": 2220,
+            "language": "Tamil",
+            "phrase": {
+                "content": "You have to stay in the hospital for a few days",
+                "id": 54,
+                "summary": "Hospital Stay"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm51.m4a",
+            "content": "உடல் நிலை சீராக நான் சில மருந்துகளை தரப்போகிறேன்",
+            "id": 2221,
+            "language": "Tamil",
+            "phrase": {
+                "content": "I'll give you medicine to make you feel better",
+                "id": 55,
+                "summary": "Medicine"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm52.m4a",
+            "content": "நீஙகள் அடுத்த ஐந்து (5) நாட்களுக்கு வேலைக்கு செல்ல கூடாது  ",
+            "id": 2223,
+            "language": "Tamil",
+            "phrase": {
+                "content": "You must not work for the next 5 days.",
+                "id": 56,
+                "summary": "No work 5 days"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm53.m4a",
+            "content": "உங்களுக்கு சுவாசிப்பதில் ஏதேனும் பிரச்சனை ஏற்பட்டால், எங்களிடம் திரும்பி வரவும் ",
+            "id": 2222,
+            "language": "Tamil",
+            "phrase": {
+                "content": "You must come back if you have problems with breathing.",
+                "id": 57,
+                "summary": "Problem after 5 days"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm54.m4a",
+            "content": "நீங்கள் 5 நாட்களுக்குப் பிறகு முழுமையாக குணமடையவில்லை என்றால் நீங்கள் திரும்பி வர வேண்டும்",
+            "id": 2224,
+            "language": "Tamil",
+            "phrase": {
+                "content": "You must come back if you do not recover completely after 5 days.",
+                "id": 151,
+                "summary": "Come back 5 days"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm55.m4a",
+            "content": "\nதகவல் கையேட்டை கவனமாகப் படியுங்கள்",
+            "id": 2225,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Read the handout carefully",
+                "id": 58,
+                "summary": "Handout"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm56.m4a",
+            "content": "நன்றி, nandri",
+            "id": 2226,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Thank you",
+                "id": 59,
+                "summary": "Thank you"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

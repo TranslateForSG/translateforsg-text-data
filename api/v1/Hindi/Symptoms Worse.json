@@ -1,0 +1,72 @@
+{
+    "count": 5,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/801756381dfa2072d5292ddbb9189190.mp3",
+            "content": "कृपया सार्वजनिक परिवहन से बचें।",
+            "id": 1861,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Please avoid public transport.",
+                "id": 166,
+                "summary": "Transport"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d008583019d5639da8346261b7c511bc.mp3",
+            "content": "आप अपना निजी परिवहन, टैक्सी या निजी किराए की कार ले सकते हैं।",
+            "id": 1862,
+            "language": "Hindi",
+            "phrase": {
+                "content": "You can take your own private transport, a taxi or a private hire car.",
+                "id": 167,
+                "summary": "Take Taxi"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/448763a7cd8f254458731a44e50a4b2d.mp3",
+            "content": "यदि आपकी खांसी खराब हो रही है और आपको सांस फूल रही है, या आपका बुखार लगातार 38 डिग्री सेल्सियस से ऊपर है",
+            "id": 1876,
+            "language": "Hindi",
+            "phrase": {
+                "content": "If your cough is getting worse and you feel breathless, or your fever is persistently above 38 degrees Celsius",
+                "id": 184,
+                "summary": "38C"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6251ab2ae638ba120f909b12f462c06e.mp3",
+            "content": "सर्जिकल मास्क पहनें और हमारे आपातकालीन विभाग में आएं।",
+            "id": 1877,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Wear a surgical mask and come to our Emergency Department.",
+                "id": 185,
+                "summary": "Mask"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/164580acde61a8d05854336cbcd1fbbe.mp3",
+            "content": "आपातकालीन स्थिति में, एम्बुलेंस के लिए 995 पर कॉल करें। एम्बुलेंस ऑपरेटर को सूचित करें कि आपको हाल ही में COVID-19 के लिए परीक्षण किया गया था और उन्हें अपना यात्रा इतिहास भी बताएं।",
+            "id": 1878,
+            "language": "Hindi",
+            "phrase": {
+                "content": "In an emergency situation, call 995 for an ambulance. Inform the ambulance operator that you were recently tested for COVID-19 and also tell them your travel history.",
+                "id": 187,
+                "summary": "Ambulance"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

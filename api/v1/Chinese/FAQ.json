@@ -1,0 +1,150 @@
+{
+    "count": 11,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ecaaa7989c5c8a5ab88dd92c0eab6b29.mp3",
+            "content": "什么是2019冠状病毒疾病？\r\n\r\n2019冠状病毒疾病是一种由新型冠状病毒所引起的呼吸道疾病。这个疾病源自于中国武汉市。",
+            "id": 2155,
+            "language": "Chinese",
+            "phrase": {
+                "content": "What is COVID-19?\r\n\r\nCOVID-19 (more specifically, a coronavirus) is an illness that started from the Wuhan City in China, it is a respiratory illness.",
+                "id": 155,
+                "summary": "What COVID"
+            },
+            "romanized": "shí yāo shì 2 0 1 9 guān zhuàng bìng dú jí bìng ？ \r \n \r \n 2 0 1 9 guān zhuàng bìng dú jí bìng shì yī zhǒng yóu xīn xíng guān zhuàng bìng dú suǒ yǐn qǐ de hū xī dào jí bìng 。 zhè gè jí bìng yuán zì yú zhōng guó wǔ hàn shì 。",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/66f4b38eeda23f0f68ca88316a2579a3.mp3",
+            "content": "2019冠状病毒疾病的症状有哪些？\r\n\r\n最常见的症状有发烧、疲倦与干咳。有些病人也可能出现流鼻涕、喉咙痛或拉肚子（腹泻）等其他症状。这些症状通常是轻微的。有些病患则没有任何症状。\r\n\r\n不过，以上的症状也可能由肺炎引起，并非一定为2019冠状病毒疾病。",
+            "id": 2156,
+            "language": "Chinese",
+            "phrase": {
+                "content": "What are the symptoms of COVID-19?\r\n\r\nThe most common symptoms are fever, tiredness and dry cough. Some patients also have a runny nose, sore throat or diarrhea. These symptoms are usually mild.\r\n\r\nSome people become infected but do not have any symptoms.\r\n\r\nHowever, it also can be caused by a lung infection or pneumonia.",
+                "id": 156,
+                "summary": "What are the symptoms of COVID-19?"
+            },
+            "romanized": "2 0 1 9 guān zhuàng bìng dú jí bìng de zhèng zhuàng yǒu nǎ xiē ？ \r \n \r \n zùi cháng jiàn de zhèng zhuàng yǒu fā shāo 、 pí juàn yǔ gān ké 。 yǒu xiē bìng rén yě kě néng chū xiàn líu bí tì 、 hóu lóng tòng huò lā dù zǐ （ fù xiè ） děng qí tā zhèng zhuàng 。 zhè xiē zhèng zhuàng tōng cháng shì qīng wēi de 。 yǒu xiē bìng huàn zé méi yǒu rèn hé zhèng zhuàng 。 \r \n \r \n bù guò ， yǐ shàng de zhèng zhuàng yě kě néng yóu fèi yán yǐn qǐ ， bìng fēi yī dìng wèi 2 0 1 9 guān zhuàng bìng dú jí bìng 。",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5fc82db49bef802d9d561743721b4386.mp3",
+            "content": "2019冠状病毒疾病如何传播？\r\n\r\n已经受到病毒感染的人将可能把它传给其他人。病毒可通过咳嗽、打喷嚏时所产生的呼吸道飞沫而在空中传播。此外，如果你触碰这些飞沫所停留到的表面，再接触自己的眼睛、鼻子或嘴巴，也可以被感染。",
+            "id": 2157,
+            "language": "Chinese",
+            "phrase": {
+                "content": "How does COVID-19 spread?\r\n\r\nPeople can be infected by other persons already infected with COVID-19. The virus spreads through cough and sneezing. The virus can also spread with saliva from the mouth, used plates, spoons, and forks.",
+                "id": 157,
+                "summary": "COVID Spread"
+            },
+            "romanized": "2 0 1 9 guān zhuàng bìng dú jí bìng rú hé chuán bō ？ \r \n \r \n yǐ jīng shòu dào bìng dú gǎn rǎn de rén jiāng kě néng bǎ tā chuán gěi qí tā rén 。 bìng dú kě tōng guò ké sòu 、 dǎ pēn tì shí suǒ chǎn shēng de hū xī dào fēi mò ér zài kōng zhōng chuán bō 。 cǐ wài ， rú guǒ nǐ hóng pèng zhè xiē fēi mò suǒ tíng líu dào de biǎo miàn ， zài jiē hóng zì jǐ de yǎn jīng 、 bí zǐ huò zǔi bā ， yě kě yǐ bèi gǎn rǎn 。",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/224c409254730f33d8c7e83bd6eda52a.mp3",
+            "content": "如何测试自己是否患有2019冠状病毒疾病？\r\n\r\n2019冠状病毒疾病的测试为一种鼻咽拭子测试。医疗人员会将拭子伸入你的鼻子，直到鼻子后部（咽部），擦拭那里的分泌物。整个过程大约需要10秒钟。过程中你也许会感到些许不舒服，但不会感觉到痛。",
+            "id": 2158,
+            "language": "Chinese",
+            "phrase": {
+                "content": "What is the test for COVID-19?\r\n\r\nIt is a swab test. A swab will be inserted in your nostrils or at the back of your throat. It will last about 10 seconds. There might be a slight discomfort, however, it is not too painful.",
+                "id": 158,
+                "summary": "COVID-19 Test"
+            },
+            "romanized": "rú hé cè shì zì jǐ shì fǒu huàn yǒu 2 0 1 9 guān zhuàng bìng dú jí bìng ？ \r \n \r \n 2 0 1 9 guān zhuàng bìng dú jí bìng de cè shì wèi yī zhǒng bí yān shì zǐ cè shì 。 yì liáo rén yuán hùi jiāng shì zǐ shēn rù nǐ de bí zǐ ， zhí dào bí zǐ hòu bù （ yān bù ） ， cā shì nà lǐ de fēn mì wù 。 zhěng gè guò chéng dà yuē xū yào 1 0 miǎo zhōng 。 guò chéng zhōng nǐ yě xǔ hùi gǎn dào xiē xǔ bù shū fú ， dàn bù hùi gǎn jué dào tòng 。",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/989d90dbf9259debddbbcc6a0c2b803c.mp3",
+            "content": "如果我确诊患有2019冠状病毒疾病，该怎么办？\r\n\r\n根据你的身体状况，有关当局将为你提供某些生活安排，或把你送入医院。他们会继续观察你的身体状况，留意是否有好转的现象。你也许需要进行X光或血液测试。通常，你每24小时必须进行一次拭子测试。如果连续两次的测试结果为阴性，将可以出院或离开隔离设施。回家後，你仍需要自我隔离两个星期。",
+            "id": 2159,
+            "language": "Chinese",
+            "phrase": {
+                "content": "What if I have COVID-19?\r\n\r\nAuthority will make separate living arrangements for you or admit you to a hospital. They will monitor your health, whether it is improving or not. X-ray or blood test may also be needed. Usually, they will test your swab every 24 hours. If your test is negative twice in a row, you will be released. But after going home, you have to stay separate from everyone for 2 weeks.",
+                "id": 159,
+                "summary": "COVID-19 Positive"
+            },
+            "romanized": "rú guǒ wǒ què zhěn huàn yǒu 2 0 1 9 guān zhuàng bìng dú jí bìng ， gāi zěn yāo bàn ？ \r \n \r \n gēn jù nǐ de shēn tǐ zhuàng kuàng ， yǒu guān dāng jú jiāng wèi nǐ tí gōng mǒu xiē shēng huó ān pái ， huò bǎ nǐ sòng rù yì yuàn 。 tā men hùi jì xù guān chá nǐ de shēn tǐ zhuàng kuàng ， líu yì shì fǒu yǒu hǎo zhuǎn de xiàn xiàng 。 nǐ yě xǔ xū yào jìn xíng X guāng huò xiě yè cè shì 。 tōng cháng ， nǐ měi 2 4 xiǎo shí bì xū jìn xíng yī cì shì zǐ cè shì 。 rú guǒ lián xù liǎng cì de cè shì jié guǒ wèi yīn xìng ， jiāng kě yǐ chū yuàn huò lí kāi gé lí shè shī 。 húi jiā hòu ， nǐ réng xū yào zì wǒ gé lí liǎng gè xīng qī 。",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/57b7c4fc07c5be47aaa692beb4d1fb06.mp3",
+            "content": "我会因为患有2019冠状病毒疾病而过世吗？\r\n\r\n患有2019冠状病毒疾病会让你和你的家人感到忧虑。不过，百分之八十的2019冠状病毒疾病感染是轻微的，不需要任何治疗。对于年长人士，或患有其他疾病的人，风险则比较高。只有百分之五的病人需要入住加护病房来帮助他们的呼吸。",
+            "id": 2160,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Will I die if I have COVID-19?\r\n\r\nCOVID-19 may make you and your family worried. However, 80% of the time, COVID-19 infections are mild. They do not even need any treatment. There is a slight risk of damage to those who are old or have other health problems. Only 5% of patients need ICU for helping them breathe.",
+                "id": 160,
+                "summary": "Die COVID-19"
+            },
+            "romanized": "wǒ hùi yīn wèi huàn yǒu 2 0 1 9 guān zhuàng bìng dú jí bìng ér guò shì ma ？ \r \n \r \n huàn yǒu 2 0 1 9 guān zhuàng bìng dú jí bìng hùi ràng nǐ hé nǐ de jiā rén gǎn dào yōu lv̀ 。 bù guò ， bǎi fēn zhī bā shí de 2 0 1 9 guān zhuàng bìng dú jí bìng gǎn rǎn shì qīng wēi de ， bù xū yào rèn hé zhì liáo 。 dùi yú nián cháng rén shì ， huò huàn yǒu qí tā jí bìng de rén ， fēng xiǎn zé bǐ jiào gāo 。 zhǐ yǒu bǎi fēn zhī wǔ de bìng rén xū yào rù zhù jiā hù bìng fáng lái bāng zhù tā men de hū xī 。",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4e838be321bbdeeb9767c1cfe23f4dac.mp3",
+            "content": "2019冠状病毒疾病有治疗吗？\r\n\r\n大多数的2019冠状病毒疾病病患不需要任何治疗。他们只需要某些药来控制他们的咳嗽、发烧或其他症状。对于百分之五的严重病患，目前仍没有获得科学证明的治疗。不过我们仍在研究中。请不要害怕。如果你的呼吸有困难，我们会提供机器来帮助你呼吸。我们也会开药来控制你的血压。",
+            "id": 2161,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Is there a treatment for COVID-19?\r\n\r\nMost patients of COVID-19 do not need any treatment. They only need medicine for cough, fever and other symptoms. However, for 5% of the patients who are very ill, there are no proven treatments. However, we are very near to discovering treatment. Do not be afraid. If you have problems breathing we will use a machine to help you breathe. We will give you medicine for blood pressure.",
+                "id": 161,
+                "summary": "COVID-19 Treatment"
+            },
+            "romanized": "2 0 1 9 guān zhuàng bìng dú jí bìng yǒu zhì liáo ma ？ \r \n \r \n dà duō shù de 2 0 1 9 guān zhuàng bìng dú jí bìng bìng huàn bù xū yào rèn hé zhì liáo 。 tā men zhǐ xū yào mǒu xiē yào lái kòng zhì tā men de ké sòu 、 fā shāo huò qí tā zhèng zhuàng 。 dùi yú bǎi fēn zhī wǔ de yán zhòng bìng huàn ， mù qián réng méi yǒu huò dé kē xué zhèng míng de zhì liáo 。 bù guò wǒ men réng zài yán jīu zhōng 。 qǐng bù yào hài pà 。 rú guǒ nǐ de hū xī yǒu kùn nán ， wǒ men hùi tí gōng jī qì lái bāng zhù nǐ hū xī 。 wǒ men yě hùi kāi yào lái kòng zhì nǐ de xiě yā 。",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/bb18dcd195276294dd9f386eb05a045f.mp3",
+            "content": "我需要为治疗支付多少费用？\r\n\r\n根据新加坡政府的公告，如果您是新加坡公民，永久居民或长期通行证持有者，政府会承担所有医疗费用。政府也会支付所有工作准证持有者的医疗费用。但是，如果您在2020年3月27日之后离开新加坡，并在回国后的14天内被确诊患有2019冠状病毒疾病，政府将不会承担任何费用。",
+            "id": 2162,
+            "language": "Chinese",
+            "phrase": {
+                "content": "How much will I have to pay for Treatment?\r\n\r\nAccording to the announcement of the Singapore Government, if you are a citizen of Singapore, or a permanent resident, or a long term pass holder, the government will pay. So even if you have a work permit, the government will pay. But, if you went out of Singapore after 27 March 2020 and get admitted within 14 days of returning, the government will not pay your bills.",
+                "id": 162,
+                "summary": "Treatment Cost"
+            },
+            "romanized": "wǒ xū yào wèi zhì liáo zhī fù duō shǎo fèi yòng ？ \r \n \r \n gēn jù xīn jiā pō zhèng fǔ de gōng gào ， rú guǒ nín shì xīn jiā pō gōng mín ， yǒng jǐu jū mín huò cháng qī tōng xíng zhèng chí yǒu zhě ， zhèng fǔ hùi chéng dàn suǒ yǒu yì liáo fèi yòng 。 zhèng fǔ yě hùi zhī fù suǒ yǒu gōng zuò zhǔn zhèng chí yǒu zhě de yì liáo fèi yòng 。 dàn shì ， rú guǒ nín zài 2 0 2 0 nián 3 yuè 2 7 rì zhī hòu lí kāi xīn jiā pō ， bìng zài húi guó hòu de 1 4 tiān nèi bèi què zhěn huàn yǒu 2 0 1 9 guān zhuàng bìng dú jí bìng ， zhèng fǔ jiāng bù hùi chéng dàn rèn hé fèi yòng 。",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/eee3931293e620c7208631454408cce6.mp3",
+            "content": "我担心不能工作。我会失业吗？\r\n\r\n按照法律，您的雇主必须允许你接受治疗。即使您目前不能工作，雇主也必须支付您的薪水。如果您的工资没有及时支付，新加坡政府可以对雇主采取行动。",
+            "id": 2163,
+            "language": "Chinese",
+            "phrase": {
+                "content": "I am worried about not working. Will I lose my job?\r\n\r\nYour employer has to allow your treatment by the law. The employer has to pay your salary even if you cannot work now.  If your salary is not paid timely, the Singapore Government can take action against the employer.",
+                "id": 163,
+                "summary": "Job Loss"
+            },
+            "romanized": "wǒ dàn xīn bù néng gōng zuò 。 wǒ hùi shī yè ma ？ \r \n \r \n àn zhào fǎ lv̀ ， nín de gù zhǔ bì xū yǔn xǔ nǐ jiē shòu zhì liáo 。 jí shǐ nín mù qián bù néng gōng zuò ， gù zhǔ yě bì xū zhī fù nín de xīn shǔi 。 rú guǒ nín de gōng zī méi yǒu jí shí zhī fù ， xīn jiā pō zhèng fǔ kě yǐ dùi gù zhǔ cǎi qǔ xíng dòng 。",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/579f2de7b4db5b5596fb221fc582411a.mp3",
+            "content": "\"我很害怕，我想回家。\" \r\n\r\n在此期间感到恐惧和焦虑是很自然的。\r\n\r\n为了家人的安全，您必须遵守医生和政府的指示。新加坡政府已作出安排，好让我们可以安全地为您提供治疗。新加坡拥有齐全的医疗设施，而我们将尽力为您提供最好的治疗。",
+            "id": 2164,
+            "language": "Chinese",
+            "phrase": {
+                "content": "I am scared and I want to go home.\r\n\r\nIt is natural to be scared and anxious during this period.\r\n\r\nYou must follow the instructions of doctors and the Government for the safety of your family. The Singapore Government has made arrangements, so we can safely give you treatment. Singapore has good hospitals and treatment here. We will do our best to give you the best treatment possible.",
+                "id": 164,
+                "summary": "Scared"
+            },
+            "romanized": "\" wǒ hěn hài pà ， wǒ xiǎng húi jiā 。 \"   \r \n \r \n zài cǐ qī jiān gǎn dào kǒng jù hé jiāo lv̀ shì hěn zì rán de 。 \r \n \r \n wèi le jiā rén de ān quán ， nín bì xū zūn shǒu yì shēng hé zhèng fǔ de zhǐ shì 。 xīn jiā pō zhèng fǔ yǐ zuò chū ān pái ， hǎo ràng wǒ men kě yǐ ān quán dì wèi nín tí gōng zhì liáo 。 xīn jiā pō yǒng yǒu qí quán de yì liáo shè shī ， ér wǒ men jiāng jǐn lì wèi nín tí gōng zùi hǎo de zhì liáo 。",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ed96ff1ebfe9800b0131deb7e4e21668.mp3",
+            "content": "我该如何避免受到2019冠状病毒疾病感染？\r\n\r\n幸运的是，您可以采取一些防范措施来降低受到感染的风险。它们是：\r\n\r\n1.用肥皂和水彻底洗手, 至少20秒钟。 \r\n2.请勿触摸眼睛，鼻子和嘴巴。 \r\n3.咳嗽或打喷嚏时，请用肘部或纸巾遮住口鼻。\r\n4.与他人之间保持至少1米的距离。\r\n5.如果您感到不适，请待在家里并进行自我隔离。如果有发烧、咳嗽或呼吸困难的症状，请尽早就医。",
+            "id": 2165,
+            "language": "Chinese",
+            "phrase": {
+                "content": "How can I prevent COVID-19 Infection?\r\n\r\nFortunately, there are some actions you can take to minimize the risk of infection. They are:\r\n\r\n1. Thoroughly washing your hands with soap and water for at least 20 seconds.\r\n2. Do not touch eyes, nose, and mouth.\r\n3. Covering your mouth and nose with your elbow or tissue when you cough or sneeze.\r\n4. Maintaining at least 1 meter distance between yourself and anyone else.\r\n5. Staying home if you feel unwell and keep away from others. If you have a fever, cough or breathing problem, please seek medical attention early.",
+                "id": 165,
+                "summary": "Prevention"
+            },
+            "romanized": "wǒ gāi rú hé bì miǎn shòu dào 2 0 1 9 guān zhuàng bìng dú jí bìng gǎn rǎn ？ \r \n \r \n xìng yùn de shì ， nín kě yǐ cǎi qǔ yī xiē fáng fàn cuò shī lái jiàng dī shòu dào gǎn rǎn de fēng xiǎn 。 tā men shì ： \r \n \r \n 1 . yòng féi zào hé shǔi chè dǐ xǐ shǒu ,   zhì shǎo 2 0 miǎo zhōng 。   \r \n 2 . qǐng wù hóng mō yǎn jīng ， bí zǐ hé zǔi bā 。   \r \n 3 . ké sòu huò dǎ pēn tì shí ， qǐng yòng zhǒu bù huò zhǐ jīn zhē zhù kǒu bí 。 \r \n 4 . yǔ tā rén zhī jiān bǎo chí zhì shǎo 1 mǐ de jù lí 。 \r \n 5 . rú guǒ nín gǎn dào bù shì ， qǐng dài zài jiā lǐ bìng jìn xíng zì wǒ gé lí 。 rú guǒ yǒu fā shāo 、 ké sòu huò hū xī kùn nán de zhèng zhuàng ， qǐng jǐn zǎo jìu yì 。",
+            "special_note": ""
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "count": 8,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm249.m4a",
+            "content": "1) சுற்றுப்பட்டையை இரத்த அழுத்த இயந்திரத்துடன் இணைக்கவும்.",
+            "id": 2336,
+            "language": "Tamil",
+            "phrase": {
+                "content": "1) Connect the blood pressure cuff to the reader machine.",
+                "id": 188,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm250.m4a",
+            "content": "2) சுற்றுப்பட்டையில் குறிக்கப்பட்டுள்ள “அம்பு” உங்கள் சுற்றுப்பட்டையின் உட்புறத்தில் கீழ்நோக்கி இருக்க வேண்டும்.",
+            "id": 2337,
+            "language": "Tamil",
+            "phrase": {
+                "content": "2) The “arrow” on the the cuff should be pointing downwards on the inside of your arm.",
+                "id": 189,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm251.m4a",
+            "content": "(!) சுற்றுப்பட்டை உங்கள் முழங்கைக்கு மேல், 1-இலிருந்து 2 சீம் (cm)-குள் வைக்கப்பட வேண்டும்.",
+            "id": 2338,
+            "language": "Tamil",
+            "phrase": {
+                "content": "(!) The cuff should be positioned 1 to 2 cm above your elbow joint.",
+                "id": 190,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm252.m4a",
+            "content": "3) பிபி சுற்றுப்பட்டை உங்கள் கையளவுக்கு பொருத்தமாகவும், இறுக்கமாகவும் இருக்க வேண்டும். இடது கையின் ஒரு விரலை விடுமளவிற்கு போதுமான இடத்தை விட்டுவையுங்கள். ",
+            "id": 2339,
+            "language": "Tamil",
+            "phrase": {
+                "content": "3) The BP cuff should fit snugly onto your arm. It should not feel loose. Leave some space enough for 1 left finger to fit in (for good gauge)",
+                "id": 191,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm253.m4a",
+            "content": "4) இரத்த அழுத்த அளவீட்டின் போது, தயவுசெய்து குழாயை வளைக்காதீர்கள். ",
+            "id": 2340,
+            "language": "Tamil",
+            "phrase": {
+                "content": "4) Do not bend the tube during blood pressure measurement.",
+                "id": 192,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm254.m4a",
+            "content": "5) நீங்கள் உங்களது இரத்த அழுத்தத்தை அளவிடும்போது, உங்களுடைய முழு கையையும் அசைக்காமல் ஒரு மேசையின் மீது வைத்து அளவிடவும். ",
+            "id": 2341,
+            "language": "Tamil",
+            "phrase": {
+                "content": "5) Relax & Rest your entire arm on a table while measuring your blood pressure.",
+                "id": 193,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm255.m4a",
+            "content": "6) உங்களது BP-ஐ அளவிட “Start / Stop” பொத்தானை அழுத்தவும். 3 எண்கள் தோன்றும் வரை, 1 நிமிடத்திற்கு காத்திருங்கள்.",
+            "id": 2342,
+            "language": "Tamil",
+            "phrase": {
+                "content": "6) Press the “Start/Stop” button to start measuring your BP. Wait for 1 minute until 3 numbers appear.",
+                "id": 194,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm256.m4a",
+            "content": "7) முதல் எண் உங்களின் சிஸ்டாலிக் (systolic) இரத்த அழுத்தமாகும். நடுவிலுள்ள எண் உங்களின் டயஸ்டாலிக் (dystolic) இரத்த அழுத்தமாகும். கடைசி எண் உங்களது நாடித்துடிப்பு வீதமாகும்.",
+            "id": 2343,
+            "language": "Tamil",
+            "phrase": {
+                "content": "7) The top number is your Systolic blood pressure. The middle number is your Diastolic blood pressure. The bottom number is your Pulse rate.",
+                "id": 195,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "count": 5,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/cdcb0c38dc32a65d6a24f48b71ae5851.mp3",
+            "content": "Sepanjang 2 minggu lepas, anda ada bertemu dengan sesiapa yang dijangkiti koronavirus?",
+            "id": 952,
+            "language": "Malay",
+            "phrase": {
+                "content": "In the last 14 days, did you meet anyone who has coronavirus?",
+                "id": 9,
+                "summary": "People"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/e8e335516e9aceca9fa154d67c49b6f2.mp3",
+            "content": "Siapa? Apakah hubungan anda dengan dia /  mereka?",
+            "id": 953,
+            "language": "Malay",
+            "phrase": {
+                "content": "Who? What is your relationship with them?",
+                "id": 10,
+                "summary": "People Meet"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/16db0018cc030810796141dbc05a66b7.mp3",
+            "content": "Berapa hari lepas jumpa dia / mereka?",
+            "id": 954,
+            "language": "Malay",
+            "phrase": {
+                "content": "How many days ago did you meet them?",
+                "id": 11,
+                "summary": "People Meet"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/dd6f9cbdd476a79857de5d2bd65fb7fe.mp3",
+            "content": "Berapa lama dengan dia / mereka? ",
+            "id": 955,
+            "language": "Malay",
+            "phrase": {
+                "content": "How long were you with him/her?",
+                "id": 12,
+                "summary": "People Meet"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/bfb5c38d7d5845b209778ace1e7b960c.mp3",
+            "content": "Sepanjang 2 minggu lepas, anda ada pergi luar negara atau tak? Sekiranya ya, beritahu kami nama-nama negara tersebut dalam Inggeris.",
+            "id": 956,
+            "language": "Malay",
+            "phrase": {
+                "content": "In the last 14 days, did you travel out of Singapore? If yes, tell us the countries in English.",
+                "id": 13,
+                "summary": "14 Days Travel"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

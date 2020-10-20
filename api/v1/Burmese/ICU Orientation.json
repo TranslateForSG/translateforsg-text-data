@@ -1,0 +1,215 @@
+{
+    "count": 16,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b9e359d167e826e0bc231dc9b3d5f496.m4a",
+            "content": "မင်္ဂလာ နံနက်ခင်းပါ။",
+            "id": 2357,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Good morning",
+                "id": 64,
+                "summary": "Morning"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3b851cdb0eeda8fffa250c785ee8db29.m4a",
+            "content": "မင်္ဂလာ ညနေခင်းပါ။",
+            "id": 2358,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Good Evening",
+                "id": 173,
+                "summary": "Evening"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/737ca641db2c818500d018b9eb368f6c.m4a",
+            "content": "မင်္ဂလာ နေ့လည်ခင်းပါ။",
+            "id": 2359,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Good Afternoon",
+                "id": 174,
+                "summary": "Afternoon"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6c3b4fb556f6574a153ffed5be223678_ejKjuDj.mp3",
+            "content": "ကျွန်ုပ်သူနာပြုတစ်ယောက်ပါ။",
+            "id": 1732,
+            "language": "Burmese",
+            "phrase": {
+                "content": "I am the nurse",
+                "id": 65,
+                "summary": "Nurse"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7a46e4de6f60d17eb0875547e0408097_2ys5qtp.mp3",
+            "content": "ကျွန်ုပ်ဆရာဝန်တစ်ယောက်ပါ။",
+            "id": 1733,
+            "language": "Burmese",
+            "phrase": {
+                "content": "I am the doctor",
+                "id": 66,
+                "summary": "Doctor"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1616a3041a9b28b4d385f50778cb0356_6Z73qmp.mp3",
+            "content": "သင်ယခုအထူးကြပ်မတ်ဆောင်အထဲရောက်နေပါတယ်။",
+            "id": 1734,
+            "language": "Burmese",
+            "phrase": {
+                "content": "You are in the intensive care unit.",
+                "id": 67,
+                "summary": "In ICU"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a149c0ecf7d2265248ec848d5dba3679_9xJvttU.mp3",
+            "content": "ယနေ့တနင်္လာနေ့ဖြစ်ပါတယ်။",
+            "id": 1735,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Today is Monday",
+                "id": 68,
+                "summary": "Monday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d66f0b54623b3c062c66e5e4e19358ca_Id0YASI.mp3",
+            "content": "ယနေ့အင်္ဂါနေ့ဖြစ်ပါတယ်။",
+            "id": 1736,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Today is Tuesday",
+                "id": 69,
+                "summary": "Tuesday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b0b0fed34a3f4b7a395350c47912b2bd_xgwjiaD.mp3",
+            "content": "ယနေ့ဗုဒ္ဓဟူးနေ့ဖြစ်ပါတယ်။",
+            "id": 1737,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Today is Wednesday",
+                "id": 70,
+                "summary": "Wednesday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4ed66a1f7bee6dcf89b1ef17cfefe30f_DYrBynn.mp3",
+            "content": "ယနေ့ကြာသပတေးနေ့ဖြစ်ပါတယ်။",
+            "id": 1738,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Today is Thursday",
+                "id": 71,
+                "summary": "Thursday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/baf3b01ecb4ff232c86dbdd046e432da_QQdY7eT.mp3",
+            "content": "ယနေ့သောကြာနေ့ဖြစ်ပါတယ်။",
+            "id": 1739,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Today is Friday",
+                "id": 72,
+                "summary": "Friday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/688b25f33e706ceff8c3bea0099d62fa_yUPdYat.mp3",
+            "content": "ယနေ့စနေနေ့ဖြစ်ပါတယ်။",
+            "id": 1740,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Today is Saturday",
+                "id": 73,
+                "summary": "Saturday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8fb69c7c81bcef3450a96d5aee909cb4_kxVfgTO.mp3",
+            "content": "ယနေ့တနင်္ဂနွေနေ့ဖြစ်ပါတယ်။",
+            "id": 1741,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Today is Sunday",
+                "id": 74,
+                "summary": "Sunday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/294443d856b8e02fa90461035fb5dd0e_juxDepZ.mp3",
+            "content": "သင်သက်သာသွားပါပြီ။",
+            "id": 1742,
+            "language": "Burmese",
+            "phrase": {
+                "content": "You are getting better",
+                "id": 153,
+                "summary": "Getting Better"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1fcfcf23f43684e1e6e3ec9c73c19492_eGI5fQh.mp3",
+            "content": "သင်သက်သာသွားရင် အသက်ရှုပိုက်ကိုဖြုတ်ပါမယ်။",
+            "id": 1743,
+            "language": "Burmese",
+            "phrase": {
+                "content": "We will remove the breathing tube when you are better",
+                "id": 75,
+                "summary": "Remove Tube Later"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/9f4fea089583a2a7e15e68aea477d51d_JqK26Xe.mp3",
+            "content": "အသက်ရှုပိုက်ကိုဖြုတ်ပြီးရင်စကားပြောနိုင်ပါပြီ။",
+            "id": 1745,
+            "language": "Burmese",
+            "phrase": {
+                "content": "You can talk after we remove the breathing tube",
+                "id": 76,
+                "summary": "Can Talk as Remove"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

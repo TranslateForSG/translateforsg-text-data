@@ -1,0 +1,59 @@
+{
+    "count": 4,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": null,
+            "content": "ਕੀ ਤੁਹਾਨੂੰ ਦਰਦ ਹੋ ਰਿਹਾ ਹੈ?",
+            "id": 3233,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Are you in pain?",
+                "id": 110,
+                "summary": "Are you in pain?"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਦਰਦ ਕਿੱਥੇ ਹੋ ਰਿਹਾ ਹੈ?",
+            "id": 3234,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Where is the pain?",
+                "id": 111,
+                "summary": "Where is the pain?"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਕੀ ਇਹ ਦਰਦ ਹਲਕਾ, ਦਰਮਿਆਨਾ ਜਾਂ ਗੰਭੀਰ ਹੈ?",
+            "id": 3235,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Is it mild, moderate or severe?",
+                "id": 112,
+                "summary": "Is it mild, moderate or severe?"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਕੀ ਤੁਸੀਂ ਦਰਦ ਵਾਲੀ ਜਗਾਹ ਵੱਲ ਇਸ਼ਾਰਾ ਕਰ ਸਕਦੇ ਹੋ?",
+            "id": 3236,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Can you point to the pain?",
+                "id": 113,
+                "summary": "Can you point to the pain?"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

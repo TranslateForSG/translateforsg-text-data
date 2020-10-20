@@ -1,0 +1,150 @@
+{
+    "count": 11,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/27946274a201346f0322e3861909b5ff.mp3",
+            "content": "satu",
+            "id": 1066,
+            "language": "Malay",
+            "phrase": {
+                "content": "1",
+                "id": 126,
+                "summary": "1"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a319360336c8cac32102f4dffbee4260.mp3",
+            "content": "dua",
+            "id": 1067,
+            "language": "Malay",
+            "phrase": {
+                "content": "2",
+                "id": 127,
+                "summary": "2"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ca0e90458e0fa1ec4b91cd5ce243f25f.mp3",
+            "content": "tiga",
+            "id": 1068,
+            "language": "Malay",
+            "phrase": {
+                "content": "3",
+                "id": 128,
+                "summary": "3"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a8c71f9b5cf41a482b1185480932db3b.mp3",
+            "content": "empat",
+            "id": 1069,
+            "language": "Malay",
+            "phrase": {
+                "content": "4",
+                "id": 129,
+                "summary": "4"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6742923575546471370cc028f289db40.mp3",
+            "content": "lima",
+            "id": 1070,
+            "language": "Malay",
+            "phrase": {
+                "content": "5",
+                "id": 130,
+                "summary": "5"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1099bcee169daf6a3039ac47f82037ca.mp3",
+            "content": "enam",
+            "id": 1071,
+            "language": "Malay",
+            "phrase": {
+                "content": "6",
+                "id": 131,
+                "summary": "6"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0ac1a3dd00e77a8920b26c2c8aa839ca.mp3",
+            "content": "tujuh",
+            "id": 1072,
+            "language": "Malay",
+            "phrase": {
+                "content": "7",
+                "id": 132,
+                "summary": "7"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a0eca9b2b48c384c03899d770a2d6d09.mp3",
+            "content": "lapan",
+            "id": 1073,
+            "language": "Malay",
+            "phrase": {
+                "content": "8",
+                "id": 133,
+                "summary": "8"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4468335418d080311ac997834468aace.mp3",
+            "content": "sembilan",
+            "id": 1074,
+            "language": "Malay",
+            "phrase": {
+                "content": "9",
+                "id": 134,
+                "summary": "9"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/9af8f7f25e9ac56c7282539de238fcb0.mp3",
+            "content": "sepuluh",
+            "id": 1075,
+            "language": "Malay",
+            "phrase": {
+                "content": "10",
+                "id": 135,
+                "summary": "10"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0b1e50e1fd71c96bac94144cc59cff40.mp3",
+            "content": "kosong",
+            "id": 1076,
+            "language": "Malay",
+            "phrase": {
+                "content": "0",
+                "id": 136,
+                "summary": "0"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

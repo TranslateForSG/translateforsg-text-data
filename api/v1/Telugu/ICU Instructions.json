@@ -1,0 +1,150 @@
+{
+    "count": 11,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/53196f6eff7d90121ce5e2a81416f4cb_IWA4ndj.mp3",
+            "content": "గట్టిగా ఊపిరి తీసుకోండి",
+            "id": 2984,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Take a deep breath",
+                "id": 77,
+                "summary": "Deep breath"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0f6c7e674272bad6028b1e3e2dcc4730_DfzoowK.mp3",
+            "content": "గట్టిగా దగ్గంది",
+            "id": 2985,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Give me a big cough",
+                "id": 78,
+                "summary": "Big cough"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/174cb08079a8a2a21db56d45fbe3e99e_sJrAl2h.mp3",
+            "content": "అవస్థ పడకండి",
+            "id": 2986,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Don’t struggle",
+                "id": 79,
+                "summary": "Don’t struggle"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8fbdd31c64e1066d313fe495ad3c9962_51dekt4.mp3",
+            "content": "కదలకండి",
+            "id": 2987,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Don’t move",
+                "id": 80,
+                "summary": "Don’t move"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8db4e1f1a6677bf835d8db024ba02c6e_aR3181b.mp3",
+            "content": "మీ చేయి పైకి ఎత్తండి",
+            "id": 2988,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Lift up your arm",
+                "id": 81,
+                "summary": "Lift up your arm"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5dbbc13730f704fa1586fabcb27ca11e_86CSL2G.mp3",
+            "content": "మీ కాలు పైకి ఎత్తండి",
+            "id": 2989,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Lift up your leg",
+                "id": 82,
+                "summary": "Lift up your leg"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/058bb759f91ff17f7988ddf46c9425d1_ZUNNfHV.mp3",
+            "content": "నా చేతిని నొక్కండి",
+            "id": 2990,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Squeeze my hand",
+                "id": 83,
+                "summary": "Squeeze my hand"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/35f39ff2ab1bf9db0690b8178bcf456e_k1BBnrg.mp3",
+            "content": "నాకు రెండు వేళ్లు చూపించండి",
+            "id": 2991,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Show me two fingers",
+                "id": 84,
+                "summary": "Show two fingers"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d1d202a12d428c5e343ab45c1ca499c8_WoRSvKU.mp3",
+            "content": "మీ నోరు తెరవండి",
+            "id": 2992,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Open your mouth",
+                "id": 85,
+                "summary": "Open mouth"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3f80402837253534fdfaa8200ed97c4a_Yq4EHJO.mp3",
+            "content": "మీ నాలుకను బయట పెట్టండి",
+            "id": 2993,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Stick out your tongue",
+                "id": 86,
+                "summary": "Stick out tongue"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/00ee6eb4714d1c716f636f48f9ba08d3_jr8Nhdt.mp3",
+            "content": "మీ కళ్ళు తెరవండి",
+            "id": 2994,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Open your eyes",
+                "id": 87,
+                "summary": "Open eyes"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

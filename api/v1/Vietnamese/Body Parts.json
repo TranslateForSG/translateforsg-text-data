@@ -1,0 +1,163 @@
+{
+    "count": 12,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ca15ee184615bb74c975ebb1d15b1b66.mp3",
+            "content": "Cái đầu",
+            "id": 1421,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Head",
+                "id": 114,
+                "summary": "Head"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1ed56dd089653c41b74995658c22a3f9.mp3",
+            "content": "Đôi mắt",
+            "id": 1422,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Eyes",
+                "id": 115,
+                "summary": "Eyes"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/cf7c73b4df076b1ad3404669b8635631.mp3",
+            "content": "Đôi tai",
+            "id": 1423,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Ears",
+                "id": 116,
+                "summary": "Ears"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0cebedb0a187e90a1bf97eca39fc0a15.mp3",
+            "content": "Mũi",
+            "id": 1424,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Nose",
+                "id": 117,
+                "summary": "Nose"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6d9faa9a1a57aaf29710e97f1a3543fc.mp3",
+            "content": "Mồm",
+            "id": 1425,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Mouth",
+                "id": 118,
+                "summary": "Mouth"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/53f2532d6ab2a4b07bdf7307946aa5c2.mp3",
+            "content": "Họng",
+            "id": 1426,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Throat",
+                "id": 119,
+                "summary": "Throat"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/bb4e783769d45f53c55e167506901294.mp3",
+            "content": "Ngực",
+            "id": 1427,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Chest",
+                "id": 120,
+                "summary": "Chest"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/682a1b4c86e92027850fcb43cbc7fe55.mp3",
+            "content": "Bụng",
+            "id": 1428,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Abdomen",
+                "id": 121,
+                "summary": "Abdomen"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c7371f3fea7a28c3737f706ae795a963.mp3",
+            "content": "Trở lại",
+            "id": 1429,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Back",
+                "id": 122,
+                "summary": "Back"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c44611d26a5d3bacc489440b6355f0e3.mp3",
+            "content": "Tay hoặc cánh tay",
+            "id": 1430,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Hand or Arm",
+                "id": 123,
+                "summary": "Arms"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5b76c6e3b7e360177a00888121feee72.mp3",
+            "content": "Chân",
+            "id": 1431,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Legs",
+                "id": 124,
+                "summary": "Legs"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/907bb5ea58c1a04fec7e6e6a70600dfe.mp3",
+            "content": "Đôi chân",
+            "id": 1432,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Feet",
+                "id": 125,
+                "summary": "Feet"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

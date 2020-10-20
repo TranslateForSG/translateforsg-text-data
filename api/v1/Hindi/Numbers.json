@@ -1,0 +1,150 @@
+{
+    "count": 11,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c4ca4238a0b923820dcc509a6f75849b_YfR69gg.mp3",
+            "content": "1",
+            "id": 423,
+            "language": "Hindi",
+            "phrase": {
+                "content": "1",
+                "id": 126,
+                "summary": "1"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c81e728d9d4c2f636f067f89cc14862c_BqTUF8X.mp3",
+            "content": "2",
+            "id": 424,
+            "language": "Hindi",
+            "phrase": {
+                "content": "2",
+                "id": 127,
+                "summary": "2"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/eccbc87e4b5ce2fe28308fd9f2a7baf3_3cMt1Vt.mp3",
+            "content": "3",
+            "id": 425,
+            "language": "Hindi",
+            "phrase": {
+                "content": "3",
+                "id": 128,
+                "summary": "3"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a87ff679a2f3e71d9181a67b7542122c_8fRUsJr.mp3",
+            "content": "4",
+            "id": 426,
+            "language": "Hindi",
+            "phrase": {
+                "content": "4",
+                "id": 129,
+                "summary": "4"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/e4da3b7fbbce2345d7772b0674a318d5_1gwQUwy.mp3",
+            "content": "5",
+            "id": 427,
+            "language": "Hindi",
+            "phrase": {
+                "content": "5",
+                "id": 130,
+                "summary": "5"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1679091c5a880faf6fb5e6087eb1b2dc_AuSoOBt.mp3",
+            "content": "6",
+            "id": 428,
+            "language": "Hindi",
+            "phrase": {
+                "content": "6",
+                "id": 131,
+                "summary": "6"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8f14e45fceea167a5a36dedd4bea2543_CwjxM37.mp3",
+            "content": "7",
+            "id": 429,
+            "language": "Hindi",
+            "phrase": {
+                "content": "7",
+                "id": 132,
+                "summary": "7"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c9f0f895fb98ab9159f51fd0297e236d_n2ksJLD.mp3",
+            "content": "8",
+            "id": 430,
+            "language": "Hindi",
+            "phrase": {
+                "content": "8",
+                "id": 133,
+                "summary": "8"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/45c48cce2e2d7fbdea1afc51c7c6ad26_e5OohMa.mp3",
+            "content": "9",
+            "id": 431,
+            "language": "Hindi",
+            "phrase": {
+                "content": "9",
+                "id": 134,
+                "summary": "9"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d3d9446802a44259755d38e6d163e820_9yAnCmj.mp3",
+            "content": "10",
+            "id": 432,
+            "language": "Hindi",
+            "phrase": {
+                "content": "10",
+                "id": 135,
+                "summary": "10"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/cfcd208495d565ef66e7dff9f98764da_UGWWXCc.mp3",
+            "content": "0",
+            "id": 433,
+            "language": "Hindi",
+            "phrase": {
+                "content": "0",
+                "id": 136,
+                "summary": "0"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

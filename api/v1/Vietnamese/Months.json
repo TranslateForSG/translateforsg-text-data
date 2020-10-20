@@ -1,0 +1,163 @@
+{
+    "count": 12,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d53eedaf4667a8b633ef366b6f998bc1.mp3",
+            "content": "tháng Giêng",
+            "id": 1444,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "January",
+                "id": 137,
+                "summary": "January"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/db0152e02cad5a18e49580cb853e2345.mp3",
+            "content": "Tháng hai",
+            "id": 1445,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Feb",
+                "id": 138,
+                "summary": "Feb"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/2c6fc9cfdef659af718377358548748c.mp3",
+            "content": "tháng Ba",
+            "id": 1446,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "March",
+                "id": 139,
+                "summary": "March"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b72b5e9b10b97f49267adbb861528d22.mp3",
+            "content": "Tháng 4",
+            "id": 1447,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "April",
+                "id": 140,
+                "summary": "April"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/65b9f1e8cdff9e0d2ea18ba0c4bac7a0.mp3",
+            "content": "có thể",
+            "id": 1448,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "May",
+                "id": 141,
+                "summary": "May"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/98a2d2b7c4b3c0049e3a53c8a57d7aca.mp3",
+            "content": "Tháng 6",
+            "id": 1449,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "June",
+                "id": 142,
+                "summary": "June"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/bfcc6b04a1e20ee346774d57ec79e5ce.mp3",
+            "content": "Tháng 7",
+            "id": 1450,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "July",
+                "id": 143,
+                "summary": "July"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4f422079809acae92c82e7eb2cdc2534.mp3",
+            "content": "tháng Tám",
+            "id": 1451,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "August",
+                "id": 144,
+                "summary": "August"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a3951810060b9efe25902c3bc8b39059.mp3",
+            "content": "Tháng Chín",
+            "id": 1452,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "September",
+                "id": 145,
+                "summary": "September"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/9c6373859d007ec1ada9d6b539941754.mp3",
+            "content": "Tháng Mười",
+            "id": 1453,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "October",
+                "id": 146,
+                "summary": "October"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8d9c852229ca739408782b7982e2d7ce.mp3",
+            "content": "Tháng 11",
+            "id": 1454,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "November",
+                "id": 147,
+                "summary": "November"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/9b4c5daee0fb304f9d879f045b958fe7.mp3",
+            "content": "Tháng 12",
+            "id": 1455,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "December",
+                "id": 148,
+                "summary": "December"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

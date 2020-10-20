@@ -1,0 +1,98 @@
+{
+    "count": 7,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b224ad36d21151eb80b74630555fc299_5Y9z0YJ.mp3",
+            "content": "ကျွန်ုပ် ဆရာဝန်တစ်ယောက်ပါ။ ဗမာစကားမပြောတတ်ပါဘူ။း ဒီwebsiteနဲ့အပြန်အလှန်စကားပြောကြပါမယ်။ အင်္ဂလိပ်လိုအတတ်နိုင်ဆုံး‌ဖြေကြားပေးပါ။ ကျေးဇူးပါ။ ",
+            "id": 1670,
+            "language": "Burmese",
+            "phrase": {
+                "content": "I am a doctor. I do not speak your language. I will communicate with you using this website. Answer me in English as much as possible. Thank you.",
+                "id": 1,
+                "summary": "Intro"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/11730f360340c2049152658ac7374660_4ApVEBj.mp3",
+            "content": "သင့်နာမည်ဘယ်လိုခေါ််ပါသလဲ?",
+            "id": 1671,
+            "language": "Burmese",
+            "phrase": {
+                "content": "What's your name?",
+                "id": 2,
+                "summary": "Name"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/da0b11440843d6a7fdbd386645745afb_gA40597.mp3",
+            "content": "ကျေးဇူးပြုပြီး သင့်ရဲ့ မှတ်ပုံတင်ကတ်ပြား ဒါမှမဟုတ် ဝန်ထမ်းကဒ်ကို ပေးပါ။",
+            "id": 1672,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Please give me your Identity Card or Work Permit",
+                "id": 3,
+                "summary": "IC"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/541d46144959b4140bd9fbd89ad905e1_2jWO2Vf.mp3",
+            "content": "ဘယ် ကုမ္ပဏီမှာအလုပ်လုပ်နေပါသလဲ?",
+            "id": 1673,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Which company are you employed under / work for?",
+                "id": 4,
+                "summary": "Company"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c59cfac383afd112212e83c5526431e0_Psuf0tq.mp3",
+            "content": "သင့်အထက်လူကြီးနာမည်နှင့် ဆက်သွယ်လို့ရမယ့် ဖုန်းနံပါတ် ပြောပြပါ။",
+            "id": 1674,
+            "language": "Burmese",
+            "phrase": {
+                "content": "What is your supervisor’s name and contact number?",
+                "id": 5,
+                "summary": "Supervisor"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/46bbbc52459a670ba6fd0597e8896188.m4a",
+            "content": "စင်္ကာပူနိုင်ငံရဲ့ ဘယ်နေရာမှာ သင်နေထိုင်ပါသလဲ",
+            "id": 2346,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Where do you live in Singapore?",
+                "id": 6,
+                "summary": "Residence"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/822b001107242c45ecb5531827fb0ec1.m4a",
+            "content": "သင့် အနီးအနား ရောဂါပိုးကူးစက်ခံထားရသူ ရှိမရှိ သင်သိပါသလား",
+            "id": 2347,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Do you know if any infected patients are from your area?",
+                "id": 7,
+                "summary": "Cluster"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

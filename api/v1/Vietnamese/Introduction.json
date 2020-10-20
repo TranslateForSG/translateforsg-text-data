@@ -1,0 +1,98 @@
+{
+    "count": 7,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f8a21343403c4fda14c45070feacd4a3.mp3",
+            "content": "Tôi là một bác sĩ. Tôi không nói ngôn ngữ của bạn. Tôi sẽ liên lạc với bạn bằng cách sử dụng trang web này. Trả lời tôi bằng tiếng Anh càng nhiều càng tốt. Cảm ơn bạn.",
+            "id": 1304,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "I am a doctor. I do not speak your language. I will communicate with you using this website. Answer me in English as much as possible. Thank you.",
+                "id": 1,
+                "summary": "Intro"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/e04761942ee0e7f7f0d9ac409d37c95b.mp3",
+            "content": "Bạn tên là gì?",
+            "id": 1305,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "What's your name?",
+                "id": 2,
+                "summary": "Name"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1038ce0d64669331ccaac7ba97943a3e.mp3",
+            "content": "Vui lòng cho tôi Chứng minh nhân dân hoặc Giấy phép làm việc",
+            "id": 1306,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Please give me your Identity Card or Work Permit",
+                "id": 3,
+                "summary": "IC"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/000e9298936edba3d401df11a4ece733.mp3",
+            "content": "Công ty bạn đang làm việc dưới / làm việc cho?",
+            "id": 1307,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Which company are you employed under / work for?",
+                "id": 4,
+                "summary": "Company"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/e71db3507e5d076f37be6f91cc48a84f.mp3",
+            "content": "Tên và số liên lạc của người giám sát của bạn là gì?",
+            "id": 1308,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "What is your supervisor’s name and contact number?",
+                "id": 5,
+                "summary": "Supervisor"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ceb09c497d0cd069dae653b7ddaba346.mp3",
+            "content": "Bạn sống ở đâu tại Singapore?",
+            "id": 1309,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Where do you live in Singapore?",
+                "id": 6,
+                "summary": "Residence"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c569b80eca1436a84f22739dd4fafc0b.mp3",
+            "content": "Bạn có biết nếu có bệnh nhân bị nhiễm bệnh từ khu vực của bạn?",
+            "id": 1310,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Do you know if any infected patients are from your area?",
+                "id": 7,
+                "summary": "Cluster"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

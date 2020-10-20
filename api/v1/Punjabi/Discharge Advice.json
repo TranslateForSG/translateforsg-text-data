@@ -1,0 +1,124 @@
+{
+    "count": 9,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": null,
+            "content": "ਤੁਸੀਂ ਥੋੜ੍ਹੀ ਦੇਰ ਬਾਅਦ ਵਾਪਸ ਜਾ ਸਕਦੇ ਹੋ.",
+            "id": 3165,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "You can go back soon.",
+                "id": 52,
+                "summary": "Can go back"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਅਜੇ ਤੁਸੀਂ ਇਥੇ ਰੁਕੋ, ਇਸ ਜਗ੍ਹਾ ਨੂੰ ਛੱਡ ਕੇ ਨਾ ਜਾਓ.",
+            "id": 3166,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Wait here, do not leave this area",
+                "id": 53,
+                "summary": "Wait Patient"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਤੁਹਾਨੂੰ ਕੁਝ ਦਿਨ ਹਸਪਤਾਲ ਵਿਚ ਰਹਿਣਾ ਪਏਗਾ.",
+            "id": 3167,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "You have to stay in the hospital for a few days",
+                "id": 54,
+                "summary": "Hospital Stay"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਮੈਂ ਤੁਹਾਨੂੰ ਦਵਾਈ ਦੇਵਾਂਗਾ ਜਿਸ ਨਾਲ ਤੁਹਾਨੂੰ ਬਿਹਤਰ ਮਹਿਸੂਸ ਹੋਵੇਗਾ.",
+            "id": 3168,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "I'll give you medicine to make you feel better",
+                "id": 55,
+                "summary": "Medicine"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਤੁਹਾਨੂੰ ਅਗਲੇ 5 ਦਿਨਾਂ ਲਈ ਕੰਮ ਨਹੀਂ ਕਰਨਾ ਚਾਹੀਦਾ.",
+            "id": 3170,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "You must not work for the next 5 days.",
+                "id": 56,
+                "summary": "No work 5 days"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਜੇ ਤੁਹਾਨੂੰ ਸਾਹ ਲੈਣ ਵਿੱਚ ਮੁਸ਼ਕਿਲ ਹੋਵੇ ਤਾਂ ਤੁਹਾਨੂੰ ਵਾਪਿਸ ਆਉਣਾ ਪਵੇਗਾ.",
+            "id": 3169,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "You must come back if you have problems with breathing.",
+                "id": 57,
+                "summary": "Problem after 5 days"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਜੇ ਤੁਸੀਂ 5 ਦਿਨਾਂ ਬਾਅਦ ਪੂਰੀ ਤਰ੍ਹਾਂ ਠੀਕ ਨਹੀਂ ਹੁੰਦੇ ਤਾਂ ਤੁਹਾਨੂੰ ਵਾਪਸ ਆਉਣਾ ਪਵੇਗਾ.",
+            "id": 3171,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "You must come back if you do not recover completely after 5 days.",
+                "id": 151,
+                "summary": "Come back 5 days"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਕਾਗਜ਼ ਨੂੰ ਧਿਆਨ ਨਾਲ ਪੜ੍ਹੋ.",
+            "id": 3172,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Read the handout carefully",
+                "id": 58,
+                "summary": "Handout"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਤੁਹਾਡਾ ਧੰਨਵਾਦ.",
+            "id": 3173,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Thank you",
+                "id": 59,
+                "summary": "Thank you"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

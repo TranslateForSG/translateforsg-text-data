@@ -1,0 +1,124 @@
+{
+    "count": 9,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1_eYAk84X.mp3",
+            "content": "আপনার মাস্ক খুলবেন না। মাস্কটি পড়ে থাকুন।",
+            "id": 3302,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Do not remove your mask. Keep your mask on.",
+                "id": 215,
+                "summary": "Keep Mask"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/2_g26jjW7.mp3",
+            "content": "আপনার ব্যাথা করছে? কোথায়?",
+            "id": 3303,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Do you have any pain? Where is your pain?",
+                "id": 216,
+                "summary": "Pain"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3_3yFktZo.mp3",
+            "content": "আপনাকে এখন গভীর ভাবে নিশ্বাস নিয়ে ধরে রাখতে হবে. আমি পরের সিদ্ধান্ত না দেয়া পর্যন্ত দয়া করে নিশ্বাস ছাড়বেন না।",
+            "id": 3098,
+            "language": "Bengali",
+            "phrase": {
+                "content": "I would need you to inhale deeply and hold your breath. Please do not breathe out unless you’re instructed to do so.",
+                "id": 208,
+                "summary": "Inhale"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4_R00iP5o.mp3",
+            "content": "শার্ট টি খুলে ফেলুন",
+            "id": 3099,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Take off the shirt",
+                "id": 209,
+                "summary": "Shirt"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5_8qClFky.mp3",
+            "content": "এখানে রাখুন",
+            "id": 3100,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Put it there",
+                "id": 210,
+                "summary": "Put Shirt"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6_JjRgKPG.mp3",
+            "content": "শার্ট টি এখন পরিধান করুন",
+            "id": 3101,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Wear back your shirt",
+                "id": 211,
+                "summary": "Wear Shirt"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7_aTF3ZOL.mp3",
+            "content": "আমি একটা নির্দিস্ট জায়গাতে আপনার হাত রাখছি। এই জায়গা থেকে হাত সরাবেন না।",
+            "id": 3103,
+            "language": "Bengali",
+            "phrase": {
+                "content": "I will be adjusting your shoulders/arm. Please follow my positioning.",
+                "id": 213,
+                "summary": "Adjust"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8_7LlQkvp.mp3",
+            "content": "ওভাবেই থাকুন। নড়বেন না।",
+            "id": 3304,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Stay still, do not move.",
+                "id": 217,
+                "summary": "No Move"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/9.mp3",
+            "content": "একই জায়গায় এখন বাহিরে বসুন।",
+            "id": 3102,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Sit outside at the same place just now",
+                "id": 212,
+                "summary": "Sit outside"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

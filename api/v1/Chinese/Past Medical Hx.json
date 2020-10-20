@@ -1,0 +1,202 @@
+{
+    "count": 15,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d83f085db40671fd4a7d43db750ea025.mp3",
+            "content": "你有什么长期慢性疾病，或其他病历吗？",
+            "id": 1984,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Do you have any past medical history?",
+                "id": 28,
+                "summary": "Medical History"
+            },
+            "romanized": "ní yǒu shěn me cháng qī màn xìng jí bìng，huò qí tā bìng lì ma？",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4367b2e2b0a95deb39357824a5847aa7.mp3",
+            "content": "请您指出您是否有下列的疾病吗？",
+            "id": 1985,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Point to which ones.",
+                "id": 29,
+                "summary": "Symptoms"
+            },
+            "romanized": "qǐng nín zhǐ chū nín shì fǒu yǒu xià liè de jí bìng ma?",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/878d76b2f827bc213ca74419019d1f1b_8JMqQIs.mp3",
+            "content": "哮喘",
+            "id": 1986,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Asthma",
+                "id": 30,
+                "summary": "Asthma"
+            },
+            "romanized": "xiāo chuǎn",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0f1cb05516be4205f897ac073b3dd204_F1gqssb.mp3",
+            "content": "肺炎",
+            "id": 1987,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Pneumonia",
+                "id": 31,
+                "summary": "Pneumonia"
+            },
+            "romanized": "fèi yán",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/36d2cbd685fe77230b9dff2dd3a9ced2_vIqjuLa.mp3",
+            "content": "高血压",
+            "id": 1988,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Hypertension",
+                "id": 32,
+                "summary": "Hypertension"
+            },
+            "romanized": "gāo xiě yā",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5c947d5845b477c6f9ce688d6b9b61a7_mOy8UIG.mp3",
+            "content": "高胆固醇",
+            "id": 1989,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Hyperlipidemia / Cholesterol",
+                "id": 33,
+                "summary": "Hyperlipidemia"
+            },
+            "romanized": "gāo dǎn gù chún",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b41877e5d586b1b557850fd91ad9fe5e_CY1HCX8.mp3",
+            "content": "糖尿病",
+            "id": 1990,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Diabetes",
+                "id": 34,
+                "summary": "Diabetes"
+            },
+            "romanized": "táng niào bìng",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b82a42870bd0e7ef56854483f91724b0_kiFG6T8.mp3",
+            "content": "心脏问题 / 心脏衰竭",
+            "id": 2143,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Heart problems",
+                "id": 35,
+                "summary": "Heart problems"
+            },
+            "romanized": "xīn zāng wèn tí   /   xīn zāng shuāi jié",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a8760a54d4cf2fd698317fe680be14d1_czuz4G4.mp3",
+            "content": "肾衰竭\n您有洗肾吗？",
+            "id": 1991,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Kidney problems",
+                "id": 36,
+                "summary": "Kidney problems"
+            },
+            "romanized": "shèn shuāi jié \nnín yǒu xǐ shèn ma ？",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/19a3d28eaa924e28930edb8e5a7e0462.mp3",
+            "content": "你有对什么药物敏感吗？",
+            "id": 1992,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Do you have a drug allergy?",
+                "id": 37,
+                "summary": "Drug allergy"
+            },
+            "romanized": "nǐ yǒu dùi yào wù mǐn gǎn ma ？",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/9c45287f2b0eb16fe7eba4488f7af5fd.mp3",
+            "content": "你有抽烟吗？\n一天抽几支 / 几包？",
+            "id": 1993,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Do you smoke? If yes, how many cigarettes a day?",
+                "id": 38,
+                "summary": "Smoke"
+            },
+            "romanized": "nǐ yǒu chōu yān ma ？ \nyī tiān chōu jǐ zhī / jǐ bāo？",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/260cfee8641cca7c2d7c6d43644364b3.mp3",
+            "content": "你有喝酒吗？\n每个星期喝几杯？喝什么样的酒？",
+            "id": 1994,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Do you drink? If yes, how much (number of bottles a week, type of alcohol)?",
+                "id": 39,
+                "summary": "Drink Alcohol"
+            },
+            "romanized": "nǐ yǒu hē jǐu ma？ \nměi gè xīng qī hē jǐ bēi？hē shén me yàng de jǐu？",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/2e5d36e4686f2203216afb89aff88ca0.mp3",
+            "content": "你最近心情如何？”好“的话，请把大拇指向上，“不好”的话，请把大拇指向下",
+            "id": 1995,
+            "language": "Chinese",
+            "phrase": {
+                "content": "How do you feel emotionally?",
+                "id": 40,
+                "summary": "Emotion Feeling"
+            },
+            "romanized": "nǐ zùi jìn xīn qíng rú hé ？ ”hǎo“ de huà ，qǐng bǎ dà mǔ zhǐ xiàng shàng， “bù hǎo” de huà， dà mǔ zhǐ xiàng xià",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/2570c1925d0471a644841f40fcb10a16_uMEfgqJ.mp3",
+            "content": "会不会觉得人生没有意义，想要伤害自己/ 想结束自己的生命",
+            "id": 1996,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Do you have suicidal thoughts?",
+                "id": 41,
+                "summary": "Suicidal thoughts"
+            },
+            "romanized": "hùi bù hùi jué dé rén shēng méi yǒu yì yì, xiǎng yào shāng hài zì jǐ / xiǎng jié shù zì jǐ de shēng mìng",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f2ea4af0b60c387f3bd11cb897b1128e.mp3",
+            "content": "如果您有其他问题和担忧，请麻烦您用英语问我",
+            "id": 1997,
+            "language": "Chinese",
+            "phrase": {
+                "content": "If you have any other problems, you can tell me in English.",
+                "id": 42,
+                "summary": "Other Problems"
+            },
+            "romanized": "rú guǒ nín yǒu qí tā wèn tí hé dàn yōu, qǐng má fán nín yòng yīng yǔ wèn wǒ",
+            "special_note": ""
+        }
+    ]
+}

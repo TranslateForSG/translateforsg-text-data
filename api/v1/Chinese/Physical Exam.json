@@ -1,0 +1,72 @@
+{
+    "count": 5,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/fac639d16f0b7dd4cdf9ee0f92e3d81a.mp3",
+            "content": "我现在将进行身体检测。",
+            "id": 1998,
+            "language": "Chinese",
+            "phrase": {
+                "content": "I’m going to examine you.",
+                "id": 43,
+                "summary": "Physical Exam Starts"
+            },
+            "romanized": "wǒ xiàn zài jiāng jìn xíng shēn tǐ jiǎn cè.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/40dac5e03868cb79a3cc9329168205da.mp3",
+            "content": "在检测的当时如果有任何不适，请告诉我。",
+            "id": 1999,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Tell me if you feel more pain.",
+                "id": 149,
+                "summary": "Tell if Pain"
+            },
+            "romanized": "zài jiǎn cè de dāng shí rú guǒ yǒu rèn hé bú shì, qǐng gào sù wǒ.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/38e89e2185f834647544d44111586c3b_xSV318r.mp3",
+            "content": "请脱掉你的衬衫。",
+            "id": 2000,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Please remove your shirt.",
+                "id": 150,
+                "summary": "Remove Clothing"
+            },
+            "romanized": "qǐng tuō diào nǐ de chèn shān 。",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/65c8fbdeb8498900fa77f2deed7f3e3c.mp3",
+            "content": "请用嘴巴深呼吸",
+            "id": 2001,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Keep taking deep breaths through your mouth.",
+                "id": 44,
+                "summary": "Deep Breath"
+            },
+            "romanized": "qǐng yòng zǔi bā shēn hū xī",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7127cea9e5738d9cc53f230807a5640e.mp3",
+            "content": "当我把听筒放在你身上时，请说\"99\"",
+            "id": 2002,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Say \"99\" when I listen with my stethoscope.",
+                "id": 45,
+                "summary": "99"
+            },
+            "romanized": "dāng wǒ bǎ tīng tǒng fàng zài nín shēn shàng shí，qǐng shuō \"99\"",
+            "special_note": ""
+        }
+    ]
+}

@@ -1,0 +1,150 @@
+{
+    "count": 11,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": null,
+            "content": "ਪਿਛਲੇ 14 ਦਿਨਾਂ ਵਿੱਚ, ਕੀ ਤੁਸੀਂ ਕਿਸੇ ਨੂੰ ਮਿਲੇ ਜਿਸ ਨੂੰ ਕੋਰੋਨਾਵਾਇਰਸ ਹੈ?",
+            "id": 3112,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "In the last 14 days, did you meet anyone who has coronavirus?",
+                "id": 9,
+                "summary": "People"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਤੁਹਾਡੇ ਨਾਲ ਇੱਕੋ ਕਮਰੇ ਵਿਚ ਕਿੰਨੇ ਲੋਗ ਰਹਿੰਦੇ ਹਨ?",
+            "id": 3113,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "How many people are staying in the same room as you?",
+                "id": 8,
+                "summary": "Room"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਕੌਣ ਕੌਣ? ਉਨ੍ਹਾਂ ਨਾਲ ਤੁਹਾਡਾ ਕੀ ਸੰਬੰਧ ਹੈ?",
+            "id": 3114,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Who? What is your relationship with them?",
+                "id": 10,
+                "summary": "People Meet"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਤੁਸੀਂ ਉਹਨਾਂ ਨੂੰ ਕਿੰਨੇ ਦਿਨ ਪਹਿਲਾਂ ਮਿਲੇ ਸੀ?",
+            "id": 3115,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "How many days ago did you meet them?",
+                "id": 11,
+                "summary": "People Meet"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਕਿੰਨੀ ਦੇਰ ਤੁਸੀਂ ਓਹਨਾ ਦੇ ਨਾਲ ਸੀ?",
+            "id": 3116,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "How long were you with him/her?",
+                "id": 12,
+                "summary": "People Meet"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਪਿਛਲੇ 14 ਦਿਨਾਂ ਵਿੱਚ, ਕੀ ਤੁਸੀਂ ਸਿੰਗਾਪੁਰ ਤੋਂ ਬਾਹਰ ਕੋਈ ਯਾਤਰਾ ਕੀਤੀ ਸੀ? ਜੇ ਕੀਤੀ ਸੀ ਤਾਂ ਅੰਗ੍ਰੇਜ਼ੀ ਵਿਚ ਉਹਨਾਂ ਦੇਸ਼ਾਂ ਦੇ ਨਾਮ ਦੱਸੋ.",
+            "id": 3117,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "In the last 14 days, did you travel out of Singapore? If yes, tell us the countries in English.",
+                "id": 13,
+                "summary": "14 Days Travel"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਲੱਛਣਾਂ ਦੇ ਸ਼ੁਰੂ ਹੋਣ ਤੋਂ 7 ਦਿਨ ਪਹਿਲਾਂ ਤੁਹਾਡੀਆਂ ਕੀ ਗਤੀਵਿਧੀਆਂ ਸਨ?",
+            "id": 3118,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "What were your activities for last 7 days before onset of symptoms?",
+                "id": 196,
+                "summary": "Activities 7 Days"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਦਾਖਲ ਹੋਣ ਤੋਂ ਪਹਿਲਾਂ ਤੁਹਾਡੀਆਂ ਗਤੀਵਿਧੀਆਂ ਕੀ ਸਨ?",
+            "id": 3119,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "What were your activities until admission?",
+                "id": 197,
+                "summary": "Activities Admit"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਉਹ ਜਿਨ੍ਹਾਂ ਲੋਕਾਂ ਦੇ ਨਜ਼ਦੀਕ ਸਨ ਸਾਨੂੰ ਉਨ੍ਹਾਂ ਲੋਕਾਂ ਦੇ ਸੰਪਰਕ ਦੀ ਜ਼ਰੂਰਤ ਹੈ.",
+            "id": 3120,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "We need the contacts of people who they were close to.",
+                "id": 198,
+                "summary": "Need Contacts"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਤੁਸੀਂ ਹਾਲ ਹੀ ਵਿੱਚ ਕਿੱਥੇ-ਕਿੱਥੇ ਗਏ ਸੀ? (ਜਾਂ ਇਹ ਵੀ ਹੋ ਸਕਦਾ ਹੈ ਕਿ ਸਰਕਟ ਬ੍ਰੈਕਰ ਸ਼ੁਰੂ ਹੋਣ ਤੋਂ ਬਾਅਦ ਤੁਸੀਂ ਕਿਤੇ ਵੀ ਨਾ ਗਏ ਹੋਵੋ)",
+            "id": 3121,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Where have you visited recently? (or maybe nowhere after circuit breaker)",
+                "id": 199,
+                "summary": "Recent Visit"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਤੁਸੀਂ ਖਾਣਾ ਕਿਥੋਂ ਖਰੀਦਦੇ ਹੋ?",
+            "id": 3122,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Where do you buy food?",
+                "id": 200,
+                "summary": "Buy Food"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

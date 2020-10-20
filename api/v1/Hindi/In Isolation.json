@@ -1,0 +1,46 @@
+{
+    "count": 3,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/98488cc3a0e0bae06944892c54c91757.mp3",
+            "content": "घर में एक अलग कमरे में रहें। यह सबसे अच्छा है अगर कमरे में संलग्न बाथरूम है। यह घर के अन्य सदस्यों के साथ संपर्क को कम करना है। यदि आप साझा बाथरूम का उपयोग कर रहे हैं, तो बाथरूम का उपयोग करने से पहले या बाद में आपको साफ करना होगा।",
+            "id": 1868,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Stay in a separate room at home. It is best if the room has an attached bathroom. This is to reduce contact with the other members of the house. If you are using a shared bathroom, the bathroom needs to be cleaned before or after you use it.",
+                "id": 176,
+                "summary": "Separate"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/e92cefeb0b6382e6e99c231d4a03919f.mp3",
+            "content": "अपने कमरे के बाहर रखे जाने वाले भोजन, पानी और अन्य आपूर्ति की व्यवस्था करें। आपको स्वयं उन वस्तुओं को अपने कमरे में लाना होगा।",
+            "id": 1869,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Arrange for food, water, and other supplies to be placed outside your room. You yourself have to bring those items into your room.",
+                "id": 177,
+                "summary": "Arrange"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3737068102e75e9e37ba8a31a3670997.mp3",
+            "content": "जब तक आप अपने स्वाब परीक्षण के परिणाम नहीं जानते हैं, तब तक परिवार के सदस्यों के साथ संपर्क कम करें। विशेष रूप से, पुराने लोगों के पास न जाने की कोशिश करें।",
+            "id": 1870,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Until you know your swab test results, reduce your contact with family members. Especially, try not to get near older people.",
+                "id": 178,
+                "summary": "Elderly"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

@@ -1,0 +1,207 @@
+{
+    "count": 25,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "created_at": "2020-04-27T16:55:05.631019+08:00",
+            "description": "",
+            "downloadable_file": "https://storage.googleapis.com/translateforsg-data/downloadables/Acetylcysteine_600mg_Tablet_Amended.docx",
+            "id": 3,
+            "name": "Acetylcysteine 600mg Tablet",
+            "updated_at": "2020-04-27T16:55:05.631051+08:00"
+        },
+        {
+            "created_at": "2020-04-27T16:56:18.176370+08:00",
+            "description": "",
+            "downloadable_file": "https://storage.googleapis.com/translateforsg-data/downloadables/Amlodipine_10mg_Tablet_Amended.docx",
+            "id": 4,
+            "name": "Amlodipine 10mg Tablet",
+            "updated_at": "2020-04-27T16:56:18.176401+08:00"
+        },
+        {
+            "created_at": "2020-04-27T16:57:03.857079+08:00",
+            "description": "",
+            "downloadable_file": "https://storage.googleapis.com/translateforsg-data/downloadables/Amoxicillin_Clavulanic_Acid_625mg_Tablet_Amended.docx",
+            "id": 5,
+            "name": "Amoxicillin Clavulanic Acid 625mg Tablet",
+            "updated_at": "2020-04-27T16:57:03.857111+08:00"
+        },
+        {
+            "created_at": "2020-04-27T17:08:38.534590+08:00",
+            "description": "",
+            "downloadable_file": "https://storage.googleapis.com/translateforsg-data/downloadables/Arcoxia_120mg_Tablet_amended.docx",
+            "id": 6,
+            "name": "Arcoxia 120mg Tablet",
+            "updated_at": "2020-04-27T17:08:38.534624+08:00"
+        },
+        {
+            "created_at": "2020-04-27T17:09:04.091984+08:00",
+            "description": "",
+            "downloadable_file": "https://storage.googleapis.com/translateforsg-data/downloadables/Avamys_30_Dose_Spray_Amended.docx",
+            "id": 7,
+            "name": "Avamys 30 Dose Spray",
+            "updated_at": "2020-04-27T17:09:04.092014+08:00"
+        },
+        {
+            "created_at": "2020-04-27T17:09:29.127949+08:00",
+            "description": "",
+            "downloadable_file": "https://storage.googleapis.com/translateforsg-data/downloadables/Betamethasone_0.1__Cream_Amended.docx",
+            "id": 8,
+            "name": "Betamethasone 0.1 Cream",
+            "updated_at": "2020-04-27T17:09:29.127979+08:00"
+        },
+        {
+            "created_at": "2020-04-27T17:10:35.713383+08:00",
+            "description": "",
+            "downloadable_file": "https://storage.googleapis.com/translateforsg-data/downloadables/Cetirizine_10mg_Tablet_Checked.docx",
+            "id": 9,
+            "name": "Cetirizine 10mg Tablet",
+            "updated_at": "2020-04-27T17:10:35.713414+08:00"
+        },
+        {
+            "created_at": "2020-04-27T17:10:57.847716+08:00",
+            "description": "",
+            "downloadable_file": "https://storage.googleapis.com/translateforsg-data/downloadables/Chlorpheniramine_4mg_Tablet_Checked.docx",
+            "id": 10,
+            "name": "Chlorpheniramine 4mg Tablet",
+            "updated_at": "2020-04-27T17:10:57.847747+08:00"
+        },
+        {
+            "created_at": "2020-04-27T17:11:37.486663+08:00",
+            "description": "",
+            "downloadable_file": "https://storage.googleapis.com/translateforsg-data/downloadables/Cinnarizine_25mg_Tablet_checked.docx",
+            "id": 11,
+            "name": "Cinnarizine 25mg Tablet",
+            "updated_at": "2020-04-27T17:11:37.486693+08:00"
+        },
+        {
+            "created_at": "2020-04-27T17:11:56.727110+08:00",
+            "description": "",
+            "downloadable_file": "https://storage.googleapis.com/translateforsg-data/downloadables/Clarithromycin_250mg_Tablet_checked.docx",
+            "id": 12,
+            "name": "Clarithromycin 250mg Tablet",
+            "updated_at": "2020-04-27T17:11:56.727141+08:00"
+        },
+        {
+            "created_at": "2020-04-27T17:12:19.231924+08:00",
+            "description": "",
+            "downloadable_file": "https://storage.googleapis.com/translateforsg-data/downloadables/Dextromethorphan__Syrup.docx",
+            "id": 13,
+            "name": "Dextromethorphan Syrup",
+            "updated_at": "2020-04-27T17:12:19.231956+08:00"
+        },
+        {
+            "created_at": "2020-04-27T17:12:38.462993+08:00",
+            "description": "",
+            "downloadable_file": "https://storage.googleapis.com/translateforsg-data/downloadables/Dextromethorphan_15mg_Tablet_Checked.docx",
+            "id": 14,
+            "name": "Dextromethorphan 15mg Tablet",
+            "updated_at": "2020-04-27T17:12:38.463028+08:00"
+        },
+        {
+            "created_at": "2020-04-27T17:13:46.212810+08:00",
+            "description": "",
+            "downloadable_file": "https://storage.googleapis.com/translateforsg-data/downloadables/Dimenhydrinate_50mg_Tablet_checked.docx",
+            "id": 15,
+            "name": "Dimenhydrinate 50mg Tablet",
+            "updated_at": "2020-04-27T17:13:46.212839+08:00"
+        },
+        {
+            "created_at": "2020-04-27T17:14:05.531731+08:00",
+            "description": "",
+            "downloadable_file": "https://storage.googleapis.com/translateforsg-data/downloadables/Glucophage_XR_500_mg_Tablet.docx",
+            "id": 16,
+            "name": "Glucophage XR 500 mg Tablet",
+            "updated_at": "2020-04-27T17:14:05.531764+08:00"
+        },
+        {
+            "created_at": "2020-04-27T17:14:20.657994+08:00",
+            "description": "",
+            "downloadable_file": "https://storage.googleapis.com/translateforsg-data/downloadables/Hyoscine_10mg_Tablet.docx",
+            "id": 17,
+            "name": "Hyoscine 10mg Tablet",
+            "updated_at": "2020-04-27T17:14:20.658025+08:00"
+        },
+        {
+            "created_at": "2020-04-27T17:14:36.577193+08:00",
+            "description": "",
+            "downloadable_file": "https://storage.googleapis.com/translateforsg-data/downloadables/Loperamide_2mg.docx",
+            "id": 18,
+            "name": "Loperamide 2mg",
+            "updated_at": "2020-04-27T17:14:36.577225+08:00"
+        },
+        {
+            "created_at": "2020-04-27T17:16:17.979851+08:00",
+            "description": "",
+            "downloadable_file": "https://storage.googleapis.com/translateforsg-data/downloadables/Methyl_salicylate_compound_cream.docx",
+            "id": 19,
+            "name": "Methyl salicylate compound cream",
+            "updated_at": "2020-04-27T17:16:17.979883+08:00"
+        },
+        {
+            "created_at": "2020-04-27T17:16:38.613812+08:00",
+            "description": "",
+            "downloadable_file": "https://storage.googleapis.com/translateforsg-data/downloadables/Miconazole_2__Cream.docx",
+            "id": 20,
+            "name": "Miconazole 2 Cream",
+            "updated_at": "2020-04-27T17:16:38.613845+08:00"
+        },
+        {
+            "created_at": "2020-04-27T17:16:54.178530+08:00",
+            "description": "",
+            "downloadable_file": "https://storage.googleapis.com/translateforsg-data/downloadables/Naproxen_275_mg.docx",
+            "id": 21,
+            "name": "Naproxen 275 mg",
+            "updated_at": "2020-04-27T17:16:54.178563+08:00"
+        },
+        {
+            "created_at": "2020-04-27T17:17:13.602793+08:00",
+            "description": "",
+            "downloadable_file": "https://storage.googleapis.com/translateforsg-data/downloadables/Omeprazole_20mg.docx",
+            "id": 22,
+            "name": "Omeprazole 20mg",
+            "updated_at": "2020-04-27T17:17:13.602825+08:00"
+        },
+        {
+            "created_at": "2020-04-27T17:17:30.906150+08:00",
+            "description": "",
+            "downloadable_file": "https://storage.googleapis.com/translateforsg-data/downloadables/Oracort_E_paste.docx",
+            "id": 23,
+            "name": "Oracort E paste",
+            "updated_at": "2020-04-27T17:17:30.906185+08:00"
+        },
+        {
+            "created_at": "2020-04-27T17:17:58.968191+08:00",
+            "description": "",
+            "downloadable_file": "https://storage.googleapis.com/translateforsg-data/downloadables/Paracetamol_500mg_Tablet.docx",
+            "id": 24,
+            "name": "Paracetamol 500mg Tablet",
+            "updated_at": "2020-04-27T17:17:58.968224+08:00"
+        },
+        {
+            "created_at": "2020-04-27T17:18:14.086963+08:00",
+            "description": "",
+            "downloadable_file": "https://storage.googleapis.com/translateforsg-data/downloadables/Telfast_D_Tablet.docx",
+            "id": 25,
+            "name": "Telfast D Tablet",
+            "updated_at": "2020-04-27T17:18:14.086996+08:00"
+        },
+        {
+            "created_at": "2020-04-27T17:18:30.943581+08:00",
+            "description": "",
+            "downloadable_file": "https://storage.googleapis.com/translateforsg-data/downloadables/Ventolin_100mcg_Evohaler.docx",
+            "id": 26,
+            "name": "Ventolin 100mcg Evohaler",
+            "updated_at": "2020-04-27T17:18:30.943615+08:00"
+        },
+        {
+            "created_at": "2020-04-27T17:18:47.645524+08:00",
+            "description": "",
+            "downloadable_file": "https://storage.googleapis.com/translateforsg-data/downloadables/Viocil_2.4_mg_lozenge.docx",
+            "id": 27,
+            "name": "Viocil 2.4 mg lozenge",
+            "updated_at": "2020-04-27T17:18:47.645559+08:00"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "count": 5,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": null,
+            "content": "ਮੈਂ ਤੁਹਾਡੀ ਜਾਂਚ ਕਰਨ ਜਾ ਰਿਹਾ ਹਾਂ.",
+            "id": 3152,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "I’m going to examine you.",
+                "id": 43,
+                "summary": "Physical Exam Starts"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਜੇ ਤੁਹਾਨੂੰ ਜ਼ਿਆਦਾ ਦਰਦ ਮਹਿਸੂਸ ਹੁੰਦਾ ਹੈ ਤਾਂ ਮੈਨੂੰ ਦੱਸੋ.",
+            "id": 3153,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Tell me if you feel more pain.",
+                "id": 149,
+                "summary": "Tell if Pain"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੀ ਕਮੀਜ਼ ਨੂੰ ਉਤਾਰ ਦਿਓ.",
+            "id": 3155,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Please remove your shirt.",
+                "id": 150,
+                "summary": "Remove Clothing"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਆਪਣੇ ਮੂੰਹ ਰਾਹੀਂ ਲੰਬੀ ਸਾਹ ਲੈਂਦੇ ਰਹੋ.",
+            "id": 3154,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Keep taking deep breaths through your mouth.",
+                "id": 44,
+                "summary": "Deep Breath"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਜਦੋਂ ਮੈਂ ਆਪਣੇ ਸਟੈਥੋਸਕੋਪ ਨਾਲ ਸੁਣਾ, ਓਦੋਂ ਤੁਸੀਂ \"99\" ਕਹੋ.",
+            "id": 3156,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Say \"99\" when I listen with my stethoscope.",
+                "id": 45,
+                "summary": "99"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

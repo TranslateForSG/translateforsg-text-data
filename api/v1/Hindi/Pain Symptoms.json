@@ -1,0 +1,59 @@
+{
+    "count": 4,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/aa5e602ed0a9ad3629ced627e794e509.mp3",
+            "content": "क्या आपको दर्द हो रहा है?",
+            "id": 407,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Are you in pain?",
+                "id": 110,
+                "summary": "Are you in pain?"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/90d7f412125c8572e73d8a8c481bd98c.mp3",
+            "content": "दर्द कहाँ है?",
+            "id": 408,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Where is the pain?",
+                "id": 111,
+                "summary": "Where is the pain?"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/cd88a5abd8bd153a4655025d08b71897.mp3",
+            "content": "क्या यह हल्का, मध्यम या गंभीर है?",
+            "id": 409,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Is it mild, moderate or severe?",
+                "id": 112,
+                "summary": "Is it mild, moderate or severe?"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7ddab49a31c2870e5ac571c9e5569b59.mp3",
+            "content": "क्या आप दर्द की ओर इशारा कर सकते हैं?",
+            "id": 410,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Can you point to the pain?",
+                "id": 113,
+                "summary": "Can you point to the pain?"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

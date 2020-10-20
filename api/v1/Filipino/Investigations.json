@@ -1,0 +1,98 @@
+{
+    "count": 7,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/fb16609e368d58fc22f893e659814c4e_BjO5rLB.mp3",
+            "content": "Ipapasok ko lamang itong cotton bud sa loob ng iyong ilong. Kakaiba ang pakiramdam, ngunit hindi naman ito masakit.",
+            "id": 682,
+            "language": "Filipino",
+            "phrase": {
+                "content": "I'm going to put this cotton bud into your nostrils. You will feel strange but it is not painful.",
+                "id": 46,
+                "summary": "Swabbing"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f836bd0edbacccb6c15177c23eb80a77_AjmJmZV.mp3",
+            "content": "Ibaling nang bahagya ang ulo palikod",
+            "id": 684,
+            "language": "Filipino",
+            "phrase": {
+                "content": "This is to test for coronavirus",
+                "id": 47,
+                "summary": "Covid"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0ca89726493c8c3e097a7499b10030da_CnoKCMU.mp3",
+            "content": "Ito ay pagsusuri para sa coronavirus",
+            "id": 683,
+            "language": "Filipino",
+            "phrase": {
+                "content": "If coronavirus positive, we call your phone by tomorrow.",
+                "id": 49,
+                "summary": "Result Collection"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3db1af0678f1ca497eeeec62897cf58d_sMkOnbh.mp3",
+            "content": "Kung positibo ka sa coronavirus, tatawagan ka namin bukas.",
+            "id": 685,
+            "language": "Filipino",
+            "phrase": {
+                "content": "If coronavirus negative, we send you an SMS after 3 days.",
+                "id": 152,
+                "summary": "COVID Negative"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/660615e6e148fd281e93f8a37b16741e_ZOeA5Wh.mp3",
+            "content": "Kung negatibo ka sa coronavirus, magsesend kami ng SMS makalipas ang tatlong araw.",
+            "id": 686,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Tilt your head back",
+                "id": 48,
+                "summary": "Tilt Head"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8c636932f84d93b98a2862058d82679b_yz54IoM.mp3",
+            "content": "Mamaya ay kukuhanan ka ng X-ray",
+            "id": 687,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Later, you will do an X-ray",
+                "id": 50,
+                "summary": "X-ray"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a21a058852e0fb32d193de2a9a4dfcd3_zbQTUmD.mp3",
+            "content": "Wala namang senyales ng impeksyon batay sa iyong X-ray",
+            "id": 688,
+            "language": "Filipino",
+            "phrase": {
+                "content": "There is no sign of infection on your X-ray",
+                "id": 51,
+                "summary": "X-ray OK"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

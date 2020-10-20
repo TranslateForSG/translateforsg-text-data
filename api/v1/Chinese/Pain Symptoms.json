@@ -1,0 +1,59 @@
+{
+    "count": 4,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6dd1b7b132ebcc0dd3bb0486169b906d.mp3",
+            "content": "你现在哪里有痛吗？",
+            "id": 2094,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Are you in pain?",
+                "id": 110,
+                "summary": "Are you in pain?"
+            },
+            "romanized": "nǐ xiàn zài nǎ lǐ yǒu tòng ma ？",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/562570929796e487434dcfc70d6b5a23_Fs1PNq8.mp3",
+            "content": "痛在哪里？",
+            "id": 2095,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Where is the pain?",
+                "id": 111,
+                "summary": "Where is the pain?"
+            },
+            "romanized": "tòng zài nǎ lǐ ？",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4830148f82feafa342b757ae53096e92.mp3",
+            "content": "你的痛，是轻微的痛，中等的痛，还是非常痛？",
+            "id": 2096,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Is it mild, moderate or severe?",
+                "id": 112,
+                "summary": "Is it mild, moderate or severe?"
+            },
+            "romanized": "nǐ de tòng, shì qīng wēi de tòng, zhōng děng de tòng, hái shì fēi cháng tòng ？",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/75be88987f2bf4d748a2c1427c5c3874.mp3",
+            "content": "您能指给我看痛在哪里吗？",
+            "id": 2097,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Can you point to the pain?",
+                "id": 113,
+                "summary": "Can you point to the pain?"
+            },
+            "romanized": "nín néng zhǐ gěi wǒ kàn tòng zài nǎ lǐ ma ？",
+            "special_note": ""
+        }
+    ]
+}

@@ -1,0 +1,189 @@
+{
+    "count": 14,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5e57ef35a749402bd957c5746c702109_maWgmwJ.mp3",
+            "content": "သင့်မျက်လုံးများကို ဓါတ်မီးထိုးပြီးစစ်ဆေးပါမယ်။ အနည်းငယ်မျက်စိစူးပါမယ်။",
+            "id": 1757,
+            "language": "Burmese",
+            "phrase": {
+                "content": "I’m going to shine a light into your eyes. It will be bright.",
+                "id": 88,
+                "summary": "Shine a light into your eyes"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/cee5cf5bb023483ebffe2de427fcdc4b_SvIEbuL.mp3",
+            "content": "သင်အဆုတ် အားနည်း‌နေပါတယ်။ အသက်ရှုရလွယ်ကူအောင် အသက်ရှု လေပြွန်ကို ထည့်သွင်း‌ပေးပါမယ်။",
+            "id": 1758,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Your lungs are weak. We are going to insert a breathing tube to help you breathe",
+                "id": 89,
+                "summary": "Insert a breathing tube"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/139ebbe59ac9de9311468d4c14e90db0_hJgTtK8.mp3",
+            "content": "သင်အိပ်ပျော် သွားပါလိမ့်မယ်။",
+            "id": 1759,
+            "language": "Burmese",
+            "phrase": {
+                "content": "You are going to sleep now",
+                "id": 90,
+                "summary": "Sleep"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/37c63483d6991d1ffa4bc9bab4631e5d_OocEl08.mp3",
+            "content": "သင်၏အဆုတ်အနေအထားကျယ်ပြန့်‌စေရန် သင့်ကိုမှောက်ရက်အ‌နေအထားကို လှည့်‌ပေး‌နေပါတယ်။",
+            "id": 1760,
+            "language": "Burmese",
+            "phrase": {
+                "content": "We are turning you onto your belly to help your lungs expand",
+                "id": 91,
+                "summary": "Turn onto belly"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1bf96a0b6d39839c7c7d7877e464ba66_cDDd0sk.mp3",
+            "content": "သင်ဆီးသွားရလွယ်ကူအောင် သင့်ကို ဆီးပိုက်ထည့်သွင်း‌ပေး‌နေပါတယ်။",
+            "id": 1761,
+            "language": "Burmese",
+            "phrase": {
+                "content": "We are inserting a tube to help you pass urine",
+                "id": 92,
+                "summary": "Insert tube urine"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7460e4fd7940d5f00d6f660c68c96e74_0O0E9Pv.mp3",
+            "content": "သင့်နှာ‌ခေါင်း‌ပေါက်အတွင်းသို့ ပိုက်ကို ထည့်သွင်း‌ပေး‌နေပါတယ်။",
+            "id": 1762,
+            "language": "Burmese",
+            "phrase": {
+                "content": "We are inserting a tube through your nose",
+                "id": 93,
+                "summary": "Insert tube nose"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/2ba2c5275f8309c35a2a560c42c45760_HYqIacE.mp3",
+            "content": "သင့်ကိုဆေးသွင်း‌ပေးရန် သင်၏လည်ပင်းကိုဆေးထိုးပါမယ်။ ",
+            "id": 1763,
+            "language": "Burmese",
+            "phrase": {
+                "content": "We are going to give you an injection in your neck to give you medications",
+                "id": 94,
+                "summary": "Injection in Neck"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8943d2ef074842e57c6b3c7227424864_bEQcOAH.mp3",
+            "content": "သင်၏ ‌သွေးဖိအားကို တိုင်းတာရန် သင်၏လက်မောင်းအတွင်းသို့ဆေးသွင်း‌ပေးပါမယ်။",
+            "id": 1764,
+            "language": "Burmese",
+            "phrase": {
+                "content": "We are going to give you an injection in your arm to measure your blood pressure",
+                "id": 95,
+                "summary": "Measure Blood Pressure"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/49abdb94609aa9b3b0335cf93cb8f052_tUdxTfG.mp3",
+            "content": "သင့်ကိုအိပ်ဆေး‌ပေးပါမယ်။",
+            "id": 1765,
+            "language": "Burmese",
+            "phrase": {
+                "content": "We will give you sleeping medications.",
+                "id": 96,
+                "summary": "Sleeping Meds"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8c3d09c632768c69627bbb2946422eb3_OyUIOpX.mp3",
+            "content": "သင့်ကို အကိုက်အခဲ ‌ပျောက်ဆေး‌ပေးပါမယ်။",
+            "id": 1766,
+            "language": "Burmese",
+            "phrase": {
+                "content": "We will give you painkillers.",
+                "id": 97,
+                "summary": "Painkillers"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/cdf3265a8e8dac0d8a554432900c543d_BZapi7r.mp3",
+            "content": "သွေးဖိအားတက်စေရန်ဆေးပေးပါမယ်။",
+            "id": 1767,
+            "language": "Burmese",
+            "phrase": {
+                "content": "We are giving you medication to keep your blood pressure up.",
+                "id": 98,
+                "summary": "Blood Pressure Medication"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4d578afad91af30f0cc537d5c9b1e632_G37K1VY.mp3",
+            "content": "အသက်ရှုပိုက်ကိုဖြုတ်ပေးပါမယ်။",
+            "id": 1768,
+            "language": "Burmese",
+            "phrase": {
+                "content": "We are going to remove the breathing tube.",
+                "id": 99,
+                "summary": "Remove Tube"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/594d28b79dd8ecf9272bfa164168e819_0hY3YXn.mp3",
+            "content": "သင်၏ချွဲကိုစုပ်ထုတ်ပေးပါမယ်။",
+            "id": 1769,
+            "language": "Burmese",
+            "phrase": {
+                "content": "We are going to suck out your phlegm",
+                "id": 100,
+                "summary": "Phlegm suck out"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b02f3f24c3a2c92fa89537054ebb98d3_TxmEaIC.mp3",
+            "content": "သင့်ကိုသန့်ရှင်းရေးလုပ်ပေးပါမယ်။",
+            "id": 1770,
+            "language": "Burmese",
+            "phrase": {
+                "content": "We are going to clean you with a sponge",
+                "id": 101,
+                "summary": "Clean with sponge"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

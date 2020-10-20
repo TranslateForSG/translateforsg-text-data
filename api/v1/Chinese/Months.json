@@ -1,0 +1,163 @@
+{
+    "count": 12,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/43bc301e73522b009a4b39851960d8a7_XEWIboM.mp3",
+            "content": "一月",
+            "id": 2121,
+            "language": "Chinese",
+            "phrase": {
+                "content": "January",
+                "id": 137,
+                "summary": "January"
+            },
+            "romanized": "yī yuè",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b61c626886430a4acd373923dc529d8c_XFbGRoH.mp3",
+            "content": "二月",
+            "id": 2122,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Feb",
+                "id": 138,
+                "summary": "Feb"
+            },
+            "romanized": "èr yuè",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/eade91dc002fb276234cefd4797f14f5_2MYOgtS.mp3",
+            "content": "三月",
+            "id": 2123,
+            "language": "Chinese",
+            "phrase": {
+                "content": "March",
+                "id": 139,
+                "summary": "March"
+            },
+            "romanized": "sān yuè",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5178fda8e7cb6387857aee58d0f4421c_mlurXxT.mp3",
+            "content": "四月",
+            "id": 2124,
+            "language": "Chinese",
+            "phrase": {
+                "content": "April",
+                "id": 140,
+                "summary": "April"
+            },
+            "romanized": "sì yuè",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/cd474e412550648feb12ca4d403a92f0_M8zrS9C.mp3",
+            "content": "五月",
+            "id": 2125,
+            "language": "Chinese",
+            "phrase": {
+                "content": "May",
+                "id": 141,
+                "summary": "May"
+            },
+            "romanized": "wǔ yuè",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/dc71b73f68d6da2249821b6286607fc4_dHY7sdL.mp3",
+            "content": "六月",
+            "id": 2126,
+            "language": "Chinese",
+            "phrase": {
+                "content": "June",
+                "id": 142,
+                "summary": "June"
+            },
+            "romanized": "lìu yuè",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/328dcec7ed9cbefbf25f6b0e8705bd0b_nh77VyK.mp3",
+            "content": "七月",
+            "id": 2127,
+            "language": "Chinese",
+            "phrase": {
+                "content": "July",
+                "id": 143,
+                "summary": "July"
+            },
+            "romanized": "qī yuè",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b7263939aca94fe05e8e1a59988acc93_wsMRn91.mp3",
+            "content": "八月",
+            "id": 2128,
+            "language": "Chinese",
+            "phrase": {
+                "content": "August",
+                "id": 144,
+                "summary": "August"
+            },
+            "romanized": "bā yuè",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/cd9559ebaf7c4a24306825fff379f9c3_Wz2kcdK.mp3",
+            "content": "九月",
+            "id": 2129,
+            "language": "Chinese",
+            "phrase": {
+                "content": "September",
+                "id": 145,
+                "summary": "September"
+            },
+            "romanized": "jǐu yuè",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ade2e82d676a35f2bb8246543d3c679d_2WrWGnR.mp3",
+            "content": "十月",
+            "id": 2130,
+            "language": "Chinese",
+            "phrase": {
+                "content": "October",
+                "id": 146,
+                "summary": "October"
+            },
+            "romanized": "shí yuè",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4e04f1a9c3b32bc1a606662db8bb89ac_maqGEHy.mp3",
+            "content": "十一月",
+            "id": 2131,
+            "language": "Chinese",
+            "phrase": {
+                "content": "November",
+                "id": 147,
+                "summary": "November"
+            },
+            "romanized": "shí yī yuè",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5c28133800a208faf12b88b4d88e039b_Rxs3dkS.mp3",
+            "content": "十二月",
+            "id": 2132,
+            "language": "Chinese",
+            "phrase": {
+                "content": "December",
+                "id": 148,
+                "summary": "December"
+            },
+            "romanized": "shí èr yuè",
+            "special_note": ""
+        }
+    ]
+}

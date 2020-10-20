@@ -1,0 +1,124 @@
+{
+    "count": 9,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7a11d98414b3601936f32795147701d5_fZNL1XX.mp3",
+            "content": "ခဏနေရင် ပြန်လို့ရပါပြီ။",
+            "id": 1720,
+            "language": "Burmese",
+            "phrase": {
+                "content": "You can go back soon.",
+                "id": 52,
+                "summary": "Can go back"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a5ed47baaf8f449a5984e52c5b2955f7_ljOrQkk.mp3",
+            "content": "ဒီနေရာမှာ ခဏစောင့်နေပေးပါ။ ဒီကနေဘယ်မှ မထွက်သွားပါနဲ့။",
+            "id": 1721,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Wait here, do not leave this area",
+                "id": 53,
+                "summary": "Wait Patient"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b0ce0c78f48579ae12951a4dff4f2889_wdWkS3y.mp3",
+            "content": "သင်ဆေးရုံတွင်ရက်အနည်းငယ်နေရန်လိုအပ်ပါတယ်။",
+            "id": 1722,
+            "language": "Burmese",
+            "phrase": {
+                "content": "You have to stay in the hospital for a few days",
+                "id": 54,
+                "summary": "Hospital Stay"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7379efeae22888ae582955fe0d4748b3_xb0rM4U.mp3",
+            "content": "သင်ခံစားရတာ သက်သာအောင် ဆေးပေးပါမယ်။",
+            "id": 1723,
+            "language": "Burmese",
+            "phrase": {
+                "content": "I'll give you medicine to make you feel better",
+                "id": 55,
+                "summary": "Medicine"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d47a0bc5085cb3a2ac48c840dd647e26_8UCamZk.mp3",
+            "content": "သင် ‌နောက် ၅ရက်အတွင်း အလုပ်လုပ်လို့မရပါဘူး။",
+            "id": 1725,
+            "language": "Burmese",
+            "phrase": {
+                "content": "You must not work for the next 5 days.",
+                "id": 56,
+                "summary": "No work 5 days"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8e8e6c786d408d908c60e5d5e74bf9b6_Rn2uiS2.mp3",
+            "content": "သင်အသက်ရူရအဆင်မပြေတာ၊ ခက်ခဲတာတွေရှိရင် ဆေးရုံ၊ ဆေးခန်းကို ပြန်လာပေးဖို့လိုပါတယ်။",
+            "id": 1724,
+            "language": "Burmese",
+            "phrase": {
+                "content": "You must come back if you have problems with breathing.",
+                "id": 57,
+                "summary": "Problem after 5 days"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7b6594ac592021d14fc489602203041f_tuHL2u3.mp3",
+            "content": "နောက် ၅ရက်အတွင်း မသက်သာပါက ဆေးရုံဆေးခန်းကို ပြန်လာ‌ခဲ့ပါ။",
+            "id": 1726,
+            "language": "Burmese",
+            "phrase": {
+                "content": "You must come back if you do not recover completely after 5 days.",
+                "id": 151,
+                "summary": "Come back 5 days"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/830664e497ae66ceea8c7f725470f3c9_Qsgyjuw.mp3",
+            "content": "ပေးထား‌တဲ့ ညွှန်ကြားချက်တွေကိုသေချာနားလည်အောင်ဖတ်ပါ။",
+            "id": 1727,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Read the handout carefully",
+                "id": 58,
+                "summary": "Handout"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/cd86c74531c48bf03287856a9577b7a8_1fQmszo.mp3",
+            "content": "ကျေးဇူးတင်ပါသည်။",
+            "id": 1729,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Thank you",
+                "id": 59,
+                "summary": "Thank you"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

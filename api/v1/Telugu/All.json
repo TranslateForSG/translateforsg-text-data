@@ -1,0 +1,2568 @@
+{
+    "count": 197,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ca90b5c533fcfee93e5953ebb4eed08d_kRKgC0j.mp3",
+            "content": "నేను ఒక వైద్యుడిని. నేను తెలుగు మాట్లాడలేను. ఈ వెబ్‌సైట్‌ను ఉపయోగించి నేను మీతో మాట్లాడతాను. నాకు వీలైనంతవరకు ఇంగ్లీషులో సమాధానం ఇవ్వండి. ధన్యవాదాలు.",
+            "id": 2889,
+            "language": "Telugu",
+            "phrase": {
+                "content": "I am a doctor. I do not speak your language. I will communicate with you using this website. Answer me in English as much as possible. Thank you.",
+                "id": 1,
+                "summary": "Intro"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d2815ace7418f6eb8a47e30126dd3d39_CAwSTff.mp3",
+            "content": "మీ పేరు ఏమిటి?",
+            "id": 2890,
+            "language": "Telugu",
+            "phrase": {
+                "content": "What's your name?",
+                "id": 2,
+                "summary": "Name"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5cecc7afcbca328775129d52f24ceb16_XwBwYho.mp3",
+            "content": "దయచేసి మీ FIN లేదా IC నంబర్ ఇవ్వండి",
+            "id": 2891,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Please give me your Identity Card or Work Permit",
+                "id": 3,
+                "summary": "IC"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/9b22c28855a72e6fb1da5c2e5c3e0960_M83Y8i1.mp3",
+            "content": "ఏ కంపెనీ కింద మీరు పనిచేస్తారు?",
+            "id": 2892,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Which company are you employed under / work for?",
+                "id": 4,
+                "summary": "Company"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a1bd96a00a93bc72c830d4cf5676cde3_BuIZhJ9.mp3",
+            "content": "మీ సూపర్వైజర్ పేరు ఇంకా ఫోన్ నెంబర్ ఏమిటి?",
+            "id": 2893,
+            "language": "Telugu",
+            "phrase": {
+                "content": "What is your supervisor’s name and contact number?",
+                "id": 5,
+                "summary": "Supervisor"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ff91ee71155742178778415b8da89537_rgAnEJs.mp3",
+            "content": "మీరు సింగపూర్‌లో ఎక్కడ ఉంటారు?",
+            "id": 2894,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Where do you live in Singapore?",
+                "id": 6,
+                "summary": "Residence"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/006b5105a1d817444134ff4d2aea8f39.mp3",
+            "content": "మీ ప్రాంతంలో ఈ ఇన్ఫెక్షన్ సోకిన వ్యక్తులు ఎవరయినా మీకు తెలుసా?",
+            "id": 2895,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Do you know if any infected patients are from your area?",
+                "id": 7,
+                "summary": "Cluster"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/46e1751f5029eca05da776b174b706d3_gkp8yw9.mp3",
+            "content": "గత 14 రోజుల్లో, కరోనావైరస్ ఉన్నవారిని మీరు కలిశారా?",
+            "id": 2896,
+            "language": "Telugu",
+            "phrase": {
+                "content": "In the last 14 days, did you meet anyone who has coronavirus?",
+                "id": 9,
+                "summary": "People"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/142cb40cf7ea38043d50b6df311c901d_kWTludB.mp3",
+            "content": "మీ రూములో ఎంతమంది వున్నారు?",
+            "id": 2897,
+            "language": "Telugu",
+            "phrase": {
+                "content": "How many people are staying in the same room as you?",
+                "id": 8,
+                "summary": "Room"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7ded5fa0c3b0ee5cfa130ef4031cf755_j4dTl3i.mp3",
+            "content": "ఎవరిని కలిశారు? వారితో మీ సంబంధం ఏమిటి?",
+            "id": 2898,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Who? What is your relationship with them?",
+                "id": 10,
+                "summary": "People Meet"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/db82e87a7b2e79f74be1a2a4e1c2cae5_sPrhLNI.mp3",
+            "content": "ఎన్ని రోజుల క్రితం మీరు వారిని కలిశారు?",
+            "id": 2899,
+            "language": "Telugu",
+            "phrase": {
+                "content": "How many days ago did you meet them?",
+                "id": 11,
+                "summary": "People Meet"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8f9a7744f5bc8ddf6a39e5313eb0e919_s1NZkPk.mp3",
+            "content": "మీరు కలిసిన వారితో ఎంతకాలం ఉన్నారు?",
+            "id": 2900,
+            "language": "Telugu",
+            "phrase": {
+                "content": "How long were you with him/her?",
+                "id": 12,
+                "summary": "People Meet"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4be4fa9fd7f03005272838fbd21bc0a8_1KIA3SU.mp3",
+            "content": "గత 14 రోజుల్లో, మీరు సింగపూర్ నుండి ప్రయాణించారా? అవును అయితే, దేశాలను ఆంగ్లంలో చెప్పండి.",
+            "id": 2901,
+            "language": "Telugu",
+            "phrase": {
+                "content": "In the last 14 days, did you travel out of Singapore? If yes, tell us the countries in English.",
+                "id": 13,
+                "summary": "14 Days Travel"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d8e2f0ce249e90eafe7e227c5f4ca576_WV3E0Kx.mp3",
+            "content": "మీ లక్షణాలు ప్రారంభమయ్యే 7 రోజుల ముందు మీరు ఏమి చేసారు?",
+            "id": 2902,
+            "language": "Telugu",
+            "phrase": {
+                "content": "What were your activities for last 7 days before onset of symptoms?",
+                "id": 196,
+                "summary": "Activities 7 Days"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/75043089502280528af2dade02cd0f08_pKrfT72.mp3",
+            "content": "మీరు అడ్మిట్ అయ్యే ముoదు వరకు మీ డెయిలీ రొటీను ఏమిటి?",
+            "id": 2903,
+            "language": "Telugu",
+            "phrase": {
+                "content": "What were your activities until admission?",
+                "id": 197,
+                "summary": "Activities Admit"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f121660ad5d5f091945656e831867700.mp3",
+            "content": "వారికి క్లోజుగా ఉన్న వారి వివరాలు మాకు అవసరం.",
+            "id": 2904,
+            "language": "Telugu",
+            "phrase": {
+                "content": "We need the contacts of people who they were close to.",
+                "id": 198,
+                "summary": "Need Contacts"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a1f28c7514bbbcd0f1adbdebec8720df_tS4yzhW.mp3",
+            "content": "గత కొన్ని రోజులుగా మీరు ఎక్కడికి వెళ్లారు?",
+            "id": 2905,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Where have you visited recently? (or maybe nowhere after circuit breaker)",
+                "id": 199,
+                "summary": "Recent Visit"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0ab3e0910dee4b1a866ced248c85d476_EgesYAF.mp3",
+            "content": "మీరు మీ ఆహారాన్ని ఎక్కడ కొంటారు?",
+            "id": 2906,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Where do you buy food?",
+                "id": 200,
+                "summary": "Buy Food"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/dab11be908324e964922af5f854538ad_6Y6Wb4K.mp3",
+            "content": "మీకు జ్వరం ఉందా?",
+            "id": 2907,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Do you have a fever?",
+                "id": 14,
+                "summary": "Fever"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ede6a86ed4f32893616fb06ec75d08ed_cMu5v8s.mp3",
+            "content": "ఎన్ని రోజుల నుంచి?",
+            "id": 2908,
+            "language": "Telugu",
+            "phrase": {
+                "content": "How many days?",
+                "id": 15,
+                "summary": "Length"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/97b5ce38c98703f6c5c1149b3031ac1a_Hkh6E9g.mp3",
+            "content": "మీరు టెంపరేచర్ ని థర్మామీటర్‌తో కొలిచారా? మీరు అలా చేస్తే, అత్యధిక టెంపరేచర్ ఎంత ఉంది?",
+            "id": 2909,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Did you measure it with a thermometer? If you did, what was the highest reading?",
+                "id": 16,
+                "summary": "Reading"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b21af67f0eb8e1c6aaf4d092b347c6cd_RNVsCSJ.mp3",
+            "content": "మీ ముక్కు కారుతోందా?",
+            "id": 2910,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Runny nose?",
+                "id": 17,
+                "summary": "Runny nose"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c084e7ce0e8c4378a0a095d23c606b79_0I7z1Ty.mp3",
+            "content": "మీకు దగ్గు ఉందా?",
+            "id": 2911,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Cough?",
+                "id": 18,
+                "summary": "Cough"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3ea028a0829777e75e9a11795664a5ce_WAdNM7L.mp3",
+            "content": "మీకు గొంతు నొప్పి ఉందా?",
+            "id": 2912,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Sore throat?",
+                "id": 19,
+                "summary": "Sore throat"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/14026c1c25dd330dcc5c0872af7db5ac_JOGz5VR.mp3",
+            "content": "మీకు శ్వాస తీసుకోవడంలో ఇబ్బంది ఉందా?",
+            "id": 2913,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Difficulty breathing?",
+                "id": 20,
+                "summary": "Breathing"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/cb4dcb05e154abb6dddaa553e43258ac_qYKa3pp.mp3",
+            "content": "వాసన చూడగలుగుతున్నారా ?",
+            "id": 2914,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Cannot smell properly?",
+                "id": 21,
+                "summary": "Anosmia"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/448760b00b3dbed98cf2423e5a47e0f4.mp3",
+            "content": "మీరు తినేదాన్ని రుచి చూడగలరా?",
+            "id": 2915,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Do you feel less taste in the mouth?",
+                "id": 22,
+                "summary": "Ageusia"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/fe0db480b88870a7c343b8cbaba4cae4_LwH0sU4.mp3",
+            "content": "మీకు విరేచనాలు అవుతున్నాయా? రోజుకు ఎన్నిసార్లు?",
+            "id": 2916,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Do you have diarrhoea / diarrhea? How many times a day?",
+                "id": 23,
+                "summary": "diarrhoea"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/531927946c5cab360b0118a4817014d8_eyGHHAH.mp3",
+            "content": "మీకు దద్దుర్లు ఉన్నాయా?",
+            "id": 2917,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Skin Rash or Itching?",
+                "id": 24,
+                "summary": "Rash"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/439de35ea8a6ea629c4e639cf9405fb6_3Vq8W1A.mp3",
+            "content": "మీ శరీరంలో ఏదైనా నొప్పి ఉందా?",
+            "id": 2918,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Do you have any pain on your body?",
+                "id": 25,
+                "summary": "Pain"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f4eedd91776c4771f1bea4d7105223cd_0UVaHKp.mp3",
+            "content": "ప్రత్యేకంగా, మీకు ఛాతీ నొప్పి ఉందా?",
+            "id": 2919,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Specifically, any chest pain?",
+                "id": 26,
+                "summary": "Chest Pain"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/540bc66e3c69f07bce06eda53c627ecc_ZjlEX1R.mp3",
+            "content": "నొప్పి ఎక్కడ బాధిస్తుందో సూచించండి",
+            "id": 2920,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Point to the place.",
+                "id": 27,
+                "summary": "Point Out"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/36c36880d1f5048fc2938801e9c25b8f_ZZjEVAz.mp3",
+            "content": "మీకు గత వైద్య చరిత్ర ఏదైనా ఉందా?",
+            "id": 2921,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Do you have any past medical history?",
+                "id": 28,
+                "summary": "Medical History"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a46cf1e34974454071db58b16742364d_LkGLx27.mp3",
+            "content": "వైద్య చరిత్ర సూచించండి.",
+            "id": 2922,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Point to which ones.",
+                "id": 29,
+                "summary": "Symptoms"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6b2db4b1c0efa5c9644fc0b8e478223b_z82qPsB.mp3",
+            "content": "ఆస్తమా",
+            "id": 2923,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Asthma",
+                "id": 30,
+                "summary": "Asthma"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f19bc9ae262cfd869cc1a6d69d1348d8_Irl6dNT.mp3",
+            "content": "న్యుమోనియా",
+            "id": 2924,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Pneumonia",
+                "id": 31,
+                "summary": "Pneumonia"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b4c11d7fc19efb48179abf45afb9a425_AiMLmD9.mp3",
+            "content": "రక్తపోటు",
+            "id": 2925,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Hypertension",
+                "id": 32,
+                "summary": "Hypertension"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ba8b3c4d9ebd00ae6ee9ef9481af695c_I3aZLye.mp3",
+            "content": "కొలెస్ట్రాల్",
+            "id": 2926,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Hyperlipidemia / Cholesterol",
+                "id": 33,
+                "summary": "Hyperlipidemia"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c1e9363b6af13c364f46866546c46da0_e8bY3Ld.mp3",
+            "content": "సుగర్/\nడయాబెటిస్",
+            "id": 2927,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Diabetes",
+                "id": 34,
+                "summary": "Diabetes"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/dfa01a6787c61cfadc0d0ccd367ba972_dSCYhd7.mp3",
+            "content": "గుండె సమస్యలు",
+            "id": 2928,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Heart problems",
+                "id": 35,
+                "summary": "Heart problems"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/df10748794ab84af5f4f925efe81e547_nLcNPGu.mp3",
+            "content": "కిడ్నీ సమస్యలు",
+            "id": 2929,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Kidney problems",
+                "id": 36,
+                "summary": "Kidney problems"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/27aa6caf977ff32773a4a597f2bf8d7c_CcOAsdb.mp3",
+            "content": "మీకు ఏదైనా మందులకు అలెర్జీ ఉందా?",
+            "id": 2930,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Do you have a drug allergy?",
+                "id": 37,
+                "summary": "Drug allergy"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/966a5876588cb33f95f29cec822b22ef_WCRsXX9.mp3",
+            "content": "మీరు పొగత్రాగుతారా? అవును అయితే, రోజుకు ఎన్ని సిగరెట్లు?",
+            "id": 2931,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Do you smoke? If yes, how many cigarettes a day?",
+                "id": 38,
+                "summary": "Smoke"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b1f196e3819b5420ecceb0b6cfc3fabc_afSiojE.mp3",
+            "content": "మీరు త్రాగుతారా? ఒక్కవేల తాగితే  వారానికి ఎన్ని సీసాలు లేదా బాటిల్స్ త్రాగుతారు?  ఏ రకమైన మందు త్రాగుతారు?",
+            "id": 2932,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Do you drink? If yes, how much (number of bottles a week, type of alcohol)?",
+                "id": 39,
+                "summary": "Drink Alcohol"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a4eff340a60b704689274197a9164cd3_pqYGOmC.mp3",
+            "content": "మీరు మానసికంగా ఎలా వున్నారు? (👍🏽👎🏽)",
+            "id": 2933,
+            "language": "Telugu",
+            "phrase": {
+                "content": "How do you feel emotionally?",
+                "id": 40,
+                "summary": "Emotion Feeling"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3369ecad0441f367081745bb47ffc270.mp3",
+            "content": "మీకు ఆత్మహత్య చేసుకోవాలన్న ఆలోచన వస్తోoదా?",
+            "id": 2934,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Do you have suicidal thoughts?",
+                "id": 41,
+                "summary": "Suicidal thoughts"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/dbc94e1adef7013c135927d88fb5ef1b_KNUxHsC.mp3",
+            "content": "మీకు ఏమైనా సమస్యలు ఉంటే, మీరు నాకు ఇంగ్లీషులో చెప్పండి",
+            "id": 2935,
+            "language": "Telugu",
+            "phrase": {
+                "content": "If you have any other problems, you can tell me in English.",
+                "id": 42,
+                "summary": "Other Problems"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/be030e3d1b1928c1bf2f47c09f14dc32_2722F1N.mp3",
+            "content": "నేను మిమ్మల్ని పరిశీలించబోతున్నాను",
+            "id": 2936,
+            "language": "Telugu",
+            "phrase": {
+                "content": "I’m going to examine you.",
+                "id": 43,
+                "summary": "Physical Exam Starts"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5ce2642f30248ab3bd717a99fa613fd2_iZ4FDDm.mp3",
+            "content": "మీకు నొప్పిగా ఉంటే చెప్పండి",
+            "id": 2937,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Tell me if you feel more pain.",
+                "id": 149,
+                "summary": "Tell if Pain"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c75a19099737289b963c4fbfba34dbea_gIlxFPy.mp3",
+            "content": "దయచేసి మీ చొక్కా తొలగించండి.",
+            "id": 2938,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Please remove your shirt.",
+                "id": 150,
+                "summary": "Remove Clothing"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/de0161b3fb6a9fefe1ae8d842d00d962_rqcnItQ.mp3",
+            "content": "మీరు నోటితో గట్టిగ స్వాస పీలుస్తూ ఉండండి",
+            "id": 2939,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Keep taking deep breaths through your mouth.",
+                "id": 44,
+                "summary": "Deep Breath"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/350a209b33863315a719f9f76cc5868f_fJphl5d.mp3",
+            "content": "నేను స్టెతస్కోప్‌తో పరీక్షిస్తున్నప్పుడు, మీరు ఆంగ్లంలో నైన్టీ-నైన్ చెప్పండి.",
+            "id": 2940,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Say \"99\" when I listen with my stethoscope.",
+                "id": 45,
+                "summary": "99"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/dc019259d962c456cc65da4d954dcb43_BXXTeSI.mp3",
+            "content": "నేను ఈ కాటన్ మొగ్గను మీ ముక్కులో పెట్టబోతున్నాను. మీరు వింతగా భావిస్తారు కానీ బాధాకరమైనది కాదు.",
+            "id": 2941,
+            "language": "Telugu",
+            "phrase": {
+                "content": "I'm going to put this cotton bud into your nostrils. You will feel strange but it is not painful.",
+                "id": 46,
+                "summary": "Swabbing"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f50f879e6424c8fb125a73cd197c7743_6UyrPjS.mp3",
+            "content": "మీకు కరోనావైరస్ ఉంటే, మేము రేపు మీకు ఫోన్‌  చేస్తాము.",
+            "id": 2944,
+            "language": "Telugu",
+            "phrase": {
+                "content": "If coronavirus positive, we call your phone by tomorrow.",
+                "id": 49,
+                "summary": "Result Collection"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b5b4063287b2b71d2ab0b42f57c7375d_VG7JLwN.mp3",
+            "content": "ఇది కరోనావైరస్ పరీక్షా చెయ్యడం కోసం ఇది చేస్తున్నాము",
+            "id": 2942,
+            "language": "Telugu",
+            "phrase": {
+                "content": "This is to test for coronavirus",
+                "id": 47,
+                "summary": "Covid"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d0a89f60cd57de91d2b93a33150df7bb_927Tvn7.mp3",
+            "content": "మీకు కరోనావైరస్ లేకపోతే, మేము 3 రోజుల తర్వాత మీకు SMS పంపుతాము",
+            "id": 2945,
+            "language": "Telugu",
+            "phrase": {
+                "content": "If coronavirus negative, we send you an SMS after 3 days.",
+                "id": 152,
+                "summary": "COVID Negative"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b36f68d8c78233ad032d9aefffc9fc7e_S059qCZ.mp3",
+            "content": "మీ తల వెనుకకు వంచండి",
+            "id": 2943,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Tilt your head back",
+                "id": 48,
+                "summary": "Tilt Head"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/071a6e1abcf800acc56e312d7b2ade02_myey61s.mp3",
+            "content": "తరువాత, మీరు ఎక్స్-రే తీయించుకుంటారు",
+            "id": 2946,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Later, you will do an X-ray",
+                "id": 50,
+                "summary": "X-ray"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7eeff0b2c783a25b8a9e1035d424df40_6DkxqxE.mp3",
+            "content": "మీ ఎక్స్-రేలు మీ ఎక్స్-రేలో సంక్రమణ (ఇన్ఫెక్షన్) కనిపించట్లేదు",
+            "id": 2947,
+            "language": "Telugu",
+            "phrase": {
+                "content": "There is no sign of infection on your X-ray",
+                "id": 51,
+                "summary": "X-ray OK"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f6a9949d3cf781781839e4c33d81910a_K43Po13.mp3",
+            "content": "మీ శ్లాబ్ టెస్ట్ నెగటివ్ గా వచ్చినాక కూడా మీకు జ్వరం, దగ్గు, ముక్కు కారటం మొదలైన లక్షణాలు ఉంటే, మీరు ఐసొలేషన్ లోనే వుoడవలసి వుoటుoది.",
+            "id": 2948,
+            "language": "Telugu",
+            "phrase": {
+                "content": "If your COVID Swab is negative but you have symptoms of fever, cough, runny nose, you have to remain in an isolation area.",
+                "id": 201,
+                "summary": "Negative w/ Symptoms"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/558b1fc682d8da1d80a753c44087605b_ctWrpZA.mp3",
+            "content": "మీరు త్వరలో తిరిగి వెళ్ళవచ్చు.",
+            "id": 2949,
+            "language": "Telugu",
+            "phrase": {
+                "content": "You can go back soon.",
+                "id": 52,
+                "summary": "Can go back"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ce34cfeca20d6e219d1eaae13515811b_r3WlXTh.mp3",
+            "content": "ఇక్కడ ఉండండి, ఎక్కడికీ వెళ్లవద్దు",
+            "id": 2950,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Wait here, do not leave this area",
+                "id": 53,
+                "summary": "Wait Patient"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/117fa0b892644c82010f4f8474aa33aa_uaIiLMs.mp3",
+            "content": "మీరు కొన్ని రోజులు ఆసుపత్రిలో ఉండాలి",
+            "id": 2951,
+            "language": "Telugu",
+            "phrase": {
+                "content": "You have to stay in the hospital for a few days",
+                "id": 54,
+                "summary": "Hospital Stay"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/29674df821c3da6242797c9f2b6e70f9_M7sXcdX.mp3",
+            "content": "మీకు మేలు అవ్వడానికి మందులు ఇస్తాను",
+            "id": 2952,
+            "language": "Telugu",
+            "phrase": {
+                "content": "I'll give you medicine to make you feel better",
+                "id": 55,
+                "summary": "Medicine"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/cfdc834307c76ca2baa571e6cd2d8657_u3X9Aos.mp3",
+            "content": "మీకు ఊపిరి తీసుకోవడంలో సమస్య ఉంటే మీరు తప్పక తిరిగి రావాలి.",
+            "id": 2953,
+            "language": "Telugu",
+            "phrase": {
+                "content": "You must come back if you have problems with breathing.",
+                "id": 57,
+                "summary": "Problem after 5 days"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7d278b2c44b9797c559b933e04cb014f_nZAp3EJ.mp3",
+            "content": "మీరు వచ్చే 5 రోజులు పని చేయకూడదు",
+            "id": 2954,
+            "language": "Telugu",
+            "phrase": {
+                "content": "You must not work for the next 5 days.",
+                "id": 56,
+                "summary": "No work 5 days"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b3c1c775b76caa2006996ca60439e84c_mVFfYyW.mp3",
+            "content": "5 రోజుల తర్వాత మీరు పూర్తిగా కోలుకోకపోతే మీరు తిరిగి రావాలి",
+            "id": 2955,
+            "language": "Telugu",
+            "phrase": {
+                "content": "You must come back if you do not recover completely after 5 days.",
+                "id": 151,
+                "summary": "Come back 5 days"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d5d80ffad0e756670e0e9eab6aeee9e8_pJ9KqpW.mp3",
+            "content": "కాగితంపై ఉన్న సూచనలను జాగ్రత్తగా చదవండి",
+            "id": 2956,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Read the handout carefully",
+                "id": 58,
+                "summary": "Handout"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0e3fffa2227ee92f4c0af2640291f068_TvDPap9.mp3",
+            "content": "ధన్యవాదాలు.",
+            "id": 2957,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Thank you",
+                "id": 59,
+                "summary": "Thank you"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/55c28a218c5645a7a238e43c8d2889bd_NqFBpsE.mp3",
+            "content": "బస్సు, మెట్రో, లాంటి పబ్లిక్ ట్రాన్స్ పోర్ట్ లో వెళ్ళవద్దు",
+            "id": 2958,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Please avoid public transport.",
+                "id": 166,
+                "summary": "Transport"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/9c0ed1a1de4dfcfda28137c481a90609_ugyrZY8.mp3",
+            "content": "మీసొ0త బండి లో గాని టాక్సీలో గాని గ్రాబ్లో గాని ప్రయాణి0చగలరు.",
+            "id": 2959,
+            "language": "Telugu",
+            "phrase": {
+                "content": "You can take your own private transport, a taxi or a private hire car.",
+                "id": 167,
+                "summary": "Take Taxi"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/204d1587816ec27d576d8d20194bff24_Q8CEHIY.mp3",
+            "content": "కార్లో వెనక సీటులో ఒంటరిగా మాస్కు వేసుకుని కూర్చోడి.",
+            "id": 2960,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Wear a mask and sit alone in the back seat in the car.",
+                "id": 168,
+                "summary": "In Car"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/e29ce405ade24457733447e37a95bef0.mp3",
+            "content": "కారు కిటికీలు కిoదకి ది0చి AC ఆపివేయండి",
+            "id": 2961,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Open car windows and turn off air-conditioning.",
+                "id": 169,
+                "summary": "No AC"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c3d778014990713e06feea8fa32ca1de.mp3",
+            "content": "మీ టెస్ట్ పాజిటివ్ అయితే , చొన్త్రచ్త్ త్రచిఙ్ కోసం మీరు వెళ్ళిన ప్రతి టాక్సీ లేదా గ్రాబ్ ట్రిప్ కి రసీదు/బిల్లు జాగ్రత్త చెయ్యండి.",
+            "id": 2962,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Please safely keep the receipt from the taxi or private hire car. If your test results indicate you are infected, this will be needed.",
+                "id": 170,
+                "summary": "Receipt"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/dc7eaae50a40b2eb5980f1515d5e027e.mp3",
+            "content": "అందరి నుండి దూరంగా ఉండండి. మీరు తప్పనిసరిగా ఇంట్లోనే ఉండాలి మరియు మెడికల్ సెలవులో ఉన్నప్పుడు బయటికి వెళ్ళలేరు. మీరు ఆరోగ్యం లేదా వైద్య కారణాల వల్ల మాత్రమే బయటకు వెళ్ళవచ్చు.",
+            "id": 2963,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Stay away from others. You must stay home and can not go outside while being on medical leave. You may only go out for health or medical reasons.",
+                "id": 171,
+                "summary": "Isolation"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/83ea4fce4ef9a0355d72c76fc5c5836c_UByOxjJ.mp3",
+            "content": "మీరు మెడికల్ అప్పోయింట్మెంట్  కి వెళ్లాల్సిన అవసరం ఉంటే, మీ  స్వాబ్ టెస్ట్ రిసల్టు తెలిసిన ముందు, అక్కడ ఉన్న మెడికల్ సిబ్బందికి తెలియజేయండి, మీ కోవిడ్ 19 టెస్ట్ ఇంకా మీ లక్షణాలు గురించి. మీ అప్పోయింట్మెంట్ కి ముదుగా పీపుల్స్ అసోసియేషన్ కి ఈ ఫోన్ చేసి చెప్పండి. Tel: 6344 8222",
+            "id": 2964,
+            "language": "Telugu",
+            "phrase": {
+                "content": "If you need to go for any medical appointment before you get your test result, be careful. Tell the doctor, nurse, or other staff that you were recently tested for COVID-19. Also, tell them about your symptoms. Before the day, you should call 6344 8222 to inform them.",
+                "id": 172,
+                "summary": "Medical Appointment"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7baf54635c7e1403671d16cd09429faf_rAvFYvg.mp3",
+            "content": "మీ కరోనా  వయిరస్ టెస్ట్ పాజిటివ్ గా వచ్చింది.",
+            "id": 2965,
+            "language": "Telugu",
+            "phrase": {
+                "content": "You have tested positive for coronavirus.",
+                "id": 60,
+                "summary": "Tested Positive"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0eb396b89073c7a30dee5489c8e86c9b_O7as1po.mp3",
+            "content": "మిమ్మల్ని హాస్పిటల్కు తీసుకు వెళ్ళాలి.",
+            "id": 2966,
+            "language": "Telugu",
+            "phrase": {
+                "content": "We will take you to the hospital.",
+                "id": 61,
+                "summary": "Hospital Admission"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0a21e930e6f255e8465b472cbcb5d792_cgJROPF.mp3",
+            "content": "మిమ్మల్ని విడిగా ఉంచడానికి ఒక ఏర్పాటు చేసిన వార్డ్\nలో మారుస్తాము.",
+            "id": 2967,
+            "language": "Telugu",
+            "phrase": {
+                "content": "We will transfer you to an isolation facility.",
+                "id": 62,
+                "summary": "Isolation Facility"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/30d9da0b8e76d9cf6fdf3eeecc2a44ab_23rcfD9.mp3",
+            "content": "శుభోదయం",
+            "id": 2968,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Good morning",
+                "id": 64,
+                "summary": "Morning"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4260c5b9205566636363b6dacd6a42d9_NR6AA3m.mp3",
+            "content": "శుభ మద్యాహ్నం",
+            "id": 2969,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Good Evening",
+                "id": 173,
+                "summary": "Evening"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4070fb819e56a9d7c32253c70b3a63ce_QXbx9Gc.mp3",
+            "content": "శుభ సాయంత్రం",
+            "id": 2970,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Good Afternoon",
+                "id": 174,
+                "summary": "Afternoon"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/2bb033c8068da50b2630402f09f358c1_QJefQ4M.mp3",
+            "content": "నేను నర్సుని",
+            "id": 2971,
+            "language": "Telugu",
+            "phrase": {
+                "content": "I am the nurse",
+                "id": 65,
+                "summary": "Nurse"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a0009ced6a39792e53257c96038136be_1R0ACFR.mp3",
+            "content": "నేను డాక్టర్",
+            "id": 2972,
+            "language": "Telugu",
+            "phrase": {
+                "content": "I am the doctor",
+                "id": 66,
+                "summary": "Doctor"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/62ddfd33ba0f1a0a8faada91db5caedd_WpRqvAl.mp3",
+            "content": "మీరు ఇంటెన్సివ్ కేర్ యూనిట్లో ఉన్నారు",
+            "id": 2973,
+            "language": "Telugu",
+            "phrase": {
+                "content": "You are in the intensive care unit.",
+                "id": 67,
+                "summary": "In ICU"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6511f22be9bebf64bba97793cdae4f28_3EDcX4W.mp3",
+            "content": "ఈరోజు సోమవారం",
+            "id": 2974,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Today is Monday",
+                "id": 68,
+                "summary": "Monday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8255f0b63d8d030d449dca5eae778056_gXombSH.mp3",
+            "content": "ఈరోజు మంగళవారం",
+            "id": 2975,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Today is Tuesday",
+                "id": 69,
+                "summary": "Tuesday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/91bc89e919c6f1d9d2e4d85f4d6ff3cf_N9vVlUv.mp3",
+            "content": "ఈ రోజు బుధవారం",
+            "id": 2976,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Today is Wednesday",
+                "id": 70,
+                "summary": "Wednesday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c9ca3f74450ddcbb1b290e2aa32674f8_Q3JEM91.mp3",
+            "content": "ఈ రోజు గురువారము",
+            "id": 2977,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Today is Thursday",
+                "id": 71,
+                "summary": "Thursday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1ab7c85d39933bf57b98df93fe582c93_o3erIei.mp3",
+            "content": "ఈ రోజు శుక్రవారం",
+            "id": 2978,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Today is Friday",
+                "id": 72,
+                "summary": "Friday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ad5b7387a43c83e5aa80d82798a786b7_43ZJdCU.mp3",
+            "content": "ఈ రోజు శనివారం",
+            "id": 2979,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Today is Saturday",
+                "id": 73,
+                "summary": "Saturday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d972a7becbe16d06b31292936db52db2_WaqnNHR.mp3",
+            "content": "ఈరోజు ఆదివారం",
+            "id": 2980,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Today is Sunday",
+                "id": 74,
+                "summary": "Sunday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b8855f798fc1fcff33ca6e55811f190c_phKf4PZ.mp3",
+            "content": "మీ ఆరోగ్యం మెరుగుపడుతోంది",
+            "id": 2981,
+            "language": "Telugu",
+            "phrase": {
+                "content": "You are getting better",
+                "id": 153,
+                "summary": "Getting Better"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b02720ab562aacbf21d327e24dc1d5bc_XoqDXET.mp3",
+            "content": "మీ ఆరోగ్యం బాగున్నప్పుడు మేము గొట్టాన్ని తీసేస్తాం",
+            "id": 2982,
+            "language": "Telugu",
+            "phrase": {
+                "content": "We will remove the breathing tube when you are better",
+                "id": 75,
+                "summary": "Remove Tube Later"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/9da77b44d156e133a9c61686e9e9b073_uzdZM8W.mp3",
+            "content": "మేము గొట్టాన్ని తీసిన తర్వాత మీరు మాట్లాడవచ్చు",
+            "id": 2983,
+            "language": "Telugu",
+            "phrase": {
+                "content": "You can talk after we remove the breathing tube",
+                "id": 76,
+                "summary": "Can Talk as Remove"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/53196f6eff7d90121ce5e2a81416f4cb_IWA4ndj.mp3",
+            "content": "గట్టిగా ఊపిరి తీసుకోండి",
+            "id": 2984,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Take a deep breath",
+                "id": 77,
+                "summary": "Deep breath"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0f6c7e674272bad6028b1e3e2dcc4730_DfzoowK.mp3",
+            "content": "గట్టిగా దగ్గంది",
+            "id": 2985,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Give me a big cough",
+                "id": 78,
+                "summary": "Big cough"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/174cb08079a8a2a21db56d45fbe3e99e_sJrAl2h.mp3",
+            "content": "అవస్థ పడకండి",
+            "id": 2986,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Don’t struggle",
+                "id": 79,
+                "summary": "Don’t struggle"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8fbdd31c64e1066d313fe495ad3c9962_51dekt4.mp3",
+            "content": "కదలకండి",
+            "id": 2987,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Don’t move",
+                "id": 80,
+                "summary": "Don’t move"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8db4e1f1a6677bf835d8db024ba02c6e_aR3181b.mp3",
+            "content": "మీ చేయి పైకి ఎత్తండి",
+            "id": 2988,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Lift up your arm",
+                "id": 81,
+                "summary": "Lift up your arm"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5dbbc13730f704fa1586fabcb27ca11e_86CSL2G.mp3",
+            "content": "మీ కాలు పైకి ఎత్తండి",
+            "id": 2989,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Lift up your leg",
+                "id": 82,
+                "summary": "Lift up your leg"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/058bb759f91ff17f7988ddf46c9425d1_ZUNNfHV.mp3",
+            "content": "నా చేతిని నొక్కండి",
+            "id": 2990,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Squeeze my hand",
+                "id": 83,
+                "summary": "Squeeze my hand"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/35f39ff2ab1bf9db0690b8178bcf456e_k1BBnrg.mp3",
+            "content": "నాకు రెండు వేళ్లు చూపించండి",
+            "id": 2991,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Show me two fingers",
+                "id": 84,
+                "summary": "Show two fingers"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d1d202a12d428c5e343ab45c1ca499c8_WoRSvKU.mp3",
+            "content": "మీ నోరు తెరవండి",
+            "id": 2992,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Open your mouth",
+                "id": 85,
+                "summary": "Open mouth"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3f80402837253534fdfaa8200ed97c4a_Yq4EHJO.mp3",
+            "content": "మీ నాలుకను బయట పెట్టండి",
+            "id": 2993,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Stick out your tongue",
+                "id": 86,
+                "summary": "Stick out tongue"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/00ee6eb4714d1c716f636f48f9ba08d3_jr8Nhdt.mp3",
+            "content": "మీ కళ్ళు తెరవండి",
+            "id": 2994,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Open your eyes",
+                "id": 87,
+                "summary": "Open eyes"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b38e55d94eb31edf10a775d646f6717c_LwZQgES.mp3",
+            "content": "నేను మీ కళ్ళలో ఒక కాంతిని (లైట్) వేస్తాను. అది ప్రకాశవంతంగా ఉంటుంది.",
+            "id": 2995,
+            "language": "Telugu",
+            "phrase": {
+                "content": "I’m going to shine a light into your eyes. It will be bright.",
+                "id": 88,
+                "summary": "Shine a light into your eyes"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3db956a65f3bd1300055e614313fcfd9_HtWPP0T.mp3",
+            "content": "మీ ఊపిరితిత్తులు బలహీనంగా ఉన్నాయి. మీకు ఊపిరి పీల్చుకోవడానికి మేము గొట్టాన్ని పెట్టబోతున్నాం",
+            "id": 2996,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Your lungs are weak. We are going to insert a breathing tube to help you breathe",
+                "id": 89,
+                "summary": "Insert a breathing tube"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/32bdd2e13e1672ee94790814a5c1ee75_Y64ajoY.mp3",
+            "content": "మీరు ఇప్పుడు నిద్రపోతారు",
+            "id": 2997,
+            "language": "Telugu",
+            "phrase": {
+                "content": "You are going to sleep now",
+                "id": 90,
+                "summary": "Sleep"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6adf7afe6f002359cf082c3e4071c78e_z9bJK6J.mp3",
+            "content": "మేము మిమ్మల్ని మీ బొడ్డుపైకి మారుస్తున్నాము. మీ ఊపిరితిత్తులు విస్తరించడానికి",
+            "id": 2998,
+            "language": "Telugu",
+            "phrase": {
+                "content": "We are turning you onto your belly to help your lungs expand",
+                "id": 91,
+                "summary": "Turn onto belly"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/81140b923f1f1689435bf6171e995f84_oYKc8N4.mp3",
+            "content": "మీకు మూత్రం పంపడంలో సహాయపడటానికి మేము ఒక గొట్టం వేస్తున్నాము",
+            "id": 2999,
+            "language": "Telugu",
+            "phrase": {
+                "content": "We are inserting a tube to help you pass urine",
+                "id": 92,
+                "summary": "Insert tube urine"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/97fe3d371a894fadb01e7dbff265aff5_azuiIUy.mp3",
+            "content": "మేము మీ ముక్కు ద్వారా గొట్టం వేస్తున్నాము",
+            "id": 3000,
+            "language": "Telugu",
+            "phrase": {
+                "content": "We are inserting a tube through your nose",
+                "id": 93,
+                "summary": "Insert tube nose"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b2eb4e79d5924b6fc038ca62c0434810_fz61w6m.mp3",
+            "content": "మీకు మందులు ఇవ్వడానికి మేము మీ మెడలో ఇంజెక్షన్ ఇవ్వబోతున్నాం",
+            "id": 3001,
+            "language": "Telugu",
+            "phrase": {
+                "content": "We are going to give you an injection in your neck to give you medications",
+                "id": 94,
+                "summary": "Injection in Neck"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5086a18a2e00c6626464f7a1623e8bc2_kFjOr1H.mp3",
+            "content": "మీ బిపిని కొలవడానికి మేము మీ చేతిలో ఇంజెక్షన్ ఇవ్వబోతున్నాము",
+            "id": 3002,
+            "language": "Telugu",
+            "phrase": {
+                "content": "We are going to give you an injection in your arm to measure your blood pressure",
+                "id": 95,
+                "summary": "Measure Blood Pressure"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f6aa3861c2816e5bbe4c1d74076b2d54_xiPCDBm.mp3",
+            "content": "మేము మీకు నిద్ర మందు ఇస్తాము",
+            "id": 3003,
+            "language": "Telugu",
+            "phrase": {
+                "content": "We will give you sleeping medications.",
+                "id": 96,
+                "summary": "Sleeping Meds"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4ece39810b9311dd9dead77879c08edd_CWCNCPk.mp3",
+            "content": "మేము మీకు పెయిన్ కిల్లర్స్ ఇస్తాము.",
+            "id": 3004,
+            "language": "Telugu",
+            "phrase": {
+                "content": "We will give you painkillers.",
+                "id": 97,
+                "summary": "Painkillers"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/2420868dfca4c823ba23e7b7e997a8ff_VD77q98.mp3",
+            "content": "మీ బిపిని అధికంగా ఉంచడానికి మేము మీకు మందులు ఇస్తున్నాము.",
+            "id": 3005,
+            "language": "Telugu",
+            "phrase": {
+                "content": "We are giving you medication to keep your blood pressure up.",
+                "id": 98,
+                "summary": "Blood Pressure Medication"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/97576681f57b32bc7479cf4b3330437a_CGL1GwT.mp3",
+            "content": "మేము గొట్టాన్ని తొలగించబోతున్నాము.",
+            "id": 3006,
+            "language": "Telugu",
+            "phrase": {
+                "content": "We are going to remove the breathing tube.",
+                "id": 99,
+                "summary": "Remove Tube"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4b14316245a4808265ded702c28ba8fc_gn2EzaZ.mp3",
+            "content": "మేము మీ కఫాన్ని పీల్చి తొలగించబోతున్నాం",
+            "id": 3007,
+            "language": "Telugu",
+            "phrase": {
+                "content": "We are going to suck out your phlegm",
+                "id": 100,
+                "summary": "Phlegm suck out"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5c17c81e6a95791107d354d797b5546a_rFLPMSn.mp3",
+            "content": "మేము మిమ్మల్ని స్పాంజితో శుభ్రం చేయబోతున్నాం",
+            "id": 3008,
+            "language": "Telugu",
+            "phrase": {
+                "content": "We are going to clean you with a sponge",
+                "id": 101,
+                "summary": "Clean with sponge"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a38eb0bb16a968048cbec1671c202479_tdrHTLw.mp3",
+            "content": "ఎడమవైపు తిరగండి",
+            "id": 3009,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Turn left",
+                "id": 102,
+                "summary": "​Turn left"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/486de8ea94d66ad7217bf288130a32d1_svXsZzB.mp3",
+            "content": "కుడివైపుకు తిరగండి",
+            "id": 3010,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Turn right",
+                "id": 103,
+                "summary": "Turn right"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/bd5a1778e05ddb8353f70a13f712c3ec_K85Mikn.mp3",
+            "content": "మేము మీ డైపర్లను మారుస్తాము",
+            "id": 3011,
+            "language": "Telugu",
+            "phrase": {
+                "content": "We will change your diapers",
+                "id": 104,
+                "summary": "We will change your diapers"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5dbbc13730f704fa1586fabcb27ca11e_ILpFYXa.mp3",
+            "content": "మీ కాలు పైకి ఎత్తండి",
+            "id": 3012,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Lift up your leg",
+                "id": 105,
+                "summary": "Lift up your leg"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/77697bdbea5b4340bb80bce69aade92b_FlQ9Axy.mp3",
+            "content": "మేము మిమ్మల్ని కూర్చునేలా చేస్తాము",
+            "id": 3013,
+            "language": "Telugu",
+            "phrase": {
+                "content": "We are going to sit you up",
+                "id": 106,
+                "summary": "We are going to sit you up"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3856526ff881309003deffda2ff25824_HkqjmlE.mp3",
+            "content": "మేము మిమ్మల్ని మంచం మీద పైకి జరుపుబోతున్నాము",
+            "id": 3014,
+            "language": "Telugu",
+            "phrase": {
+                "content": "We are going to shift you up the bed",
+                "id": 107,
+                "summary": "Shift head"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d51c567a9813436b9c18bbadbc394e15_0IJZM1t.mp3",
+            "content": "మేము మీ నోరు శుభ్రం చేయబోతున్నాం",
+            "id": 3015,
+            "language": "Telugu",
+            "phrase": {
+                "content": "We are going to clean your mouth",
+                "id": 108,
+                "summary": "Clean mouth"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/473f62d74f8a3ff1cbab3479f0dfe62c_aZ8mV69.mp3",
+            "content": "మీ నోటిలో ఉన్నదాన్ని మింగకండి",
+            "id": 3016,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Do not swallow the gargle",
+                "id": 109,
+                "summary": "Dont swallow"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5c9f9475b3ed823462f63076c34af691_LVTnX6e.mp3",
+            "content": "మీకు ఎక్కడైనా నొప్పి ఉందా?",
+            "id": 3017,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Are you in pain?",
+                "id": 110,
+                "summary": "Are you in pain?"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/2ca3202626cd8745d72af9c9b53d45aa_FHbuzwx.mp3",
+            "content": "నొప్పి ఎక్కడ ఉంది?",
+            "id": 3018,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Where is the pain?",
+                "id": 111,
+                "summary": "Where is the pain?"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/08540fdf56ad8b831b57ea96dc80a211_0uH89Sn.mp3",
+            "content": "కొOచెమా, మధ్యస్తమా, చాలా ఎక్కువగా వుOదా?",
+            "id": 3019,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Is it mild, moderate or severe?",
+                "id": 112,
+                "summary": "Is it mild, moderate or severe?"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/fa1a2d16116b5bb4ff10bc0dfc77dbdf_Nef4t70.mp3",
+            "content": "నొప్పి ఎక్కడ ఉందో చూపించండి",
+            "id": 3020,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Can you point to the pain?",
+                "id": 113,
+                "summary": "Can you point to the pain?"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/2923c880153fc9b7b68ee9de21d68bb6_bOaienR.mp3",
+            "content": "తల",
+            "id": 3021,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Head",
+                "id": 114,
+                "summary": "Head"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/896bb4cfaa6a1758dcd79dec6d846699_hD63b74.mp3",
+            "content": "కళ్ళు",
+            "id": 3022,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Eyes",
+                "id": 115,
+                "summary": "Eyes"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/dfb449218270452f0bdeae7e72d6ae5f_rqaV5Gb.mp3",
+            "content": "చెవులు",
+            "id": 3023,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Ears",
+                "id": 116,
+                "summary": "Ears"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d0b65e1d4020a27b4939af508454fedf_j10D18A.mp3",
+            "content": "ముక్కు",
+            "id": 3024,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Nose",
+                "id": 117,
+                "summary": "Nose"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/9390c52c4bbc51539d235837e150c9e9_2pM0rei.mp3",
+            "content": "నోటి",
+            "id": 3025,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Mouth",
+                "id": 118,
+                "summary": "Mouth"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c364fa995acc900f5a173e3240529128_E1ZvpaJ.mp3",
+            "content": "గొంతు",
+            "id": 3026,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Throat",
+                "id": 119,
+                "summary": "Throat"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a8e802124fe49a51cecb836ffa27e8fd_bqO34cj.mp3",
+            "content": "ఛాతి",
+            "id": 3027,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Chest",
+                "id": 120,
+                "summary": "Chest"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c909d8169a6bf6bb6e7dc50ea329bf7b_h1L8ofT.mp3",
+            "content": "కడుపు",
+            "id": 3028,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Abdomen",
+                "id": 121,
+                "summary": "Abdomen"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/324285225e1856fbac907111dee7814f_yLAijTV.mp3",
+            "content": "వీపు",
+            "id": 3029,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Back",
+                "id": 122,
+                "summary": "Back"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4a60a167d04ca7d993ffeb308c4761da_lvWziWG.mp3",
+            "content": "చేతులు",
+            "id": 3030,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Hand or Arm",
+                "id": 123,
+                "summary": "Arms"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a24469d3edd415223a31f52e6dd68745_3KeEXAn.mp3",
+            "content": "కాళ్ళు",
+            "id": 3031,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Legs",
+                "id": 124,
+                "summary": "Legs"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7ca426a364ac2dd965065f1211ed2b7b_n7qfuSX.mp3",
+            "content": "పాదములు",
+            "id": 3032,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Feet",
+                "id": 125,
+                "summary": "Feet"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a37da639751a99cba1c9927bd840f6df_1HbXoYQ.mp3",
+            "content": "1 - ఒకటి",
+            "id": 3033,
+            "language": "Telugu",
+            "phrase": {
+                "content": "1",
+                "id": 126,
+                "summary": "1"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a9458df0c558926dba7810b2619655b7_SYgTOTM.mp3",
+            "content": "2 - రెండు",
+            "id": 3034,
+            "language": "Telugu",
+            "phrase": {
+                "content": "2",
+                "id": 127,
+                "summary": "2"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/84387608d2436c1494a2f750317c255c_aIrkcal.mp3",
+            "content": "3- మూడు",
+            "id": 3035,
+            "language": "Telugu",
+            "phrase": {
+                "content": "3",
+                "id": 128,
+                "summary": "3"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4b73b8865fba60deb7b7d3edc00a3af4_xtcgE4L.mp3",
+            "content": "4 - నాలుగు",
+            "id": 3036,
+            "language": "Telugu",
+            "phrase": {
+                "content": "4",
+                "id": 129,
+                "summary": "4"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8f537b31fb5574ec29acd43c79a6b470_5dcwh6k.mp3",
+            "content": "5 - ఐదు",
+            "id": 3037,
+            "language": "Telugu",
+            "phrase": {
+                "content": "5",
+                "id": 130,
+                "summary": "5"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/777b5dfcec48cb117338bb4bd80323c9.mp3",
+            "content": "6 - ఆరు",
+            "id": 3038,
+            "language": "Telugu",
+            "phrase": {
+                "content": "6",
+                "id": 131,
+                "summary": "6"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/777e80487ecb2b939a4443fb713305fb.mp3",
+            "content": "7 - ఏడు",
+            "id": 3039,
+            "language": "Telugu",
+            "phrase": {
+                "content": "7",
+                "id": 132,
+                "summary": "7"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/07bf76f10998c960c12fdba87cd2fc6c.mp3",
+            "content": "8 - ఎనిమిది",
+            "id": 3040,
+            "language": "Telugu",
+            "phrase": {
+                "content": "8",
+                "id": 133,
+                "summary": "8"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/12560d8859f18dfe73d329f240e8bcd6.mp3",
+            "content": "9 - తొమ్మిది",
+            "id": 3041,
+            "language": "Telugu",
+            "phrase": {
+                "content": "9",
+                "id": 134,
+                "summary": "9"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ef504723a146824cd79c29eb467184b1.mp3",
+            "content": "0 - పది",
+            "id": 3042,
+            "language": "Telugu",
+            "phrase": {
+                "content": "10",
+                "id": 135,
+                "summary": "10"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ac63496849d95887561305e60cf06784.mp3",
+            "content": "సున్నా",
+            "id": 3043,
+            "language": "Telugu",
+            "phrase": {
+                "content": "0",
+                "id": 136,
+                "summary": "0"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/bff24331e4689d48e4acfab06a97132b.mp3",
+            "content": "జనవరి",
+            "id": 3044,
+            "language": "Telugu",
+            "phrase": {
+                "content": "January",
+                "id": 137,
+                "summary": "January"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6f3f181835940fb0d4cf6d597f8d3e36.mp3",
+            "content": "ఫిబ్రవరి",
+            "id": 3045,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Feb",
+                "id": 138,
+                "summary": "Feb"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/bdc519b7c4e24caa663c7387475c3940.mp3",
+            "content": "మార్చి",
+            "id": 3046,
+            "language": "Telugu",
+            "phrase": {
+                "content": "March",
+                "id": 139,
+                "summary": "March"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f53b41338867d7a658aab637e8e6bedf.mp3",
+            "content": "ఏప్రిల్",
+            "id": 3047,
+            "language": "Telugu",
+            "phrase": {
+                "content": "April",
+                "id": 140,
+                "summary": "April"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6c0fb163a66ea65fb581e8eb984ae05e.mp3",
+            "content": "మే",
+            "id": 3048,
+            "language": "Telugu",
+            "phrase": {
+                "content": "May",
+                "id": 141,
+                "summary": "May"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ab2815068372f02af138a708c51995f9.mp3",
+            "content": "జూన్",
+            "id": 3049,
+            "language": "Telugu",
+            "phrase": {
+                "content": "June",
+                "id": 142,
+                "summary": "June"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ecdbc1e03ee2cd4bd0207a8fd7ef00e4.mp3",
+            "content": "జూలై",
+            "id": 3050,
+            "language": "Telugu",
+            "phrase": {
+                "content": "July",
+                "id": 143,
+                "summary": "July"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ad9d26fa94acda14477edd2bd4c201a6.mp3",
+            "content": "ఆగస్టు",
+            "id": 3051,
+            "language": "Telugu",
+            "phrase": {
+                "content": "August",
+                "id": 144,
+                "summary": "August"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/062f5811074216136cda19c51515dd99.mp3",
+            "content": "సెప్టెంబర్",
+            "id": 3052,
+            "language": "Telugu",
+            "phrase": {
+                "content": "September",
+                "id": 145,
+                "summary": "September"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/823fad3e449540ddc279d0869746e717.mp3",
+            "content": "అక్టోబర్",
+            "id": 3053,
+            "language": "Telugu",
+            "phrase": {
+                "content": "October",
+                "id": 146,
+                "summary": "October"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/aec5a01c0b9042666045c4fb81a1abea.mp3",
+            "content": "నవంబర్",
+            "id": 3054,
+            "language": "Telugu",
+            "phrase": {
+                "content": "November",
+                "id": 147,
+                "summary": "November"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0079e2ca6c784619ce5165479717c0a5.mp3",
+            "content": "డిసెంబర్",
+            "id": 3055,
+            "language": "Telugu",
+            "phrase": {
+                "content": "December",
+                "id": 148,
+                "summary": "December"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0cac931d6971e9e4dace6dbbdbd7ac24.mp3",
+            "content": "ఇoటిలో వారితో కాంటాక్ట్ తగ్గించడానికి ఒక అట్టచేడ్ బాత్రూం వున్న ప్రత్యేక గది లో ఉండండి. మీరు ఒక కామన్ బాత్రూం వాడుతుంటే, మీరు వాడిన ముందు మరియు తర్వాత మీరు తాకిన ఆ ప్రదేశాలు శుభ్రపర్చాలి.",
+            "id": 3056,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Stay in a separate room at home. It is best if the room has an attached bathroom. This is to reduce contact with the other members of the house. If you are using a shared bathroom, the bathroom needs to be cleaned before or after you use it.",
+                "id": 176,
+                "summary": "Separate"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5955b6e150488c8947faad2e45f6ca89.mp3",
+            "content": "మీ రూమ్ బయట ఆహరం ,నీళ్లు, వస్తువులు పెట్టడానికి, అవి మీరు రూమ్ లోకి తెచ్చుకోడానికి వీలుగ ఆరెంజ చెయ్యండి",
+            "id": 3057,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Arrange for food, water, and other supplies to be placed outside your room. You yourself have to bring those items into your room.",
+                "id": 177,
+                "summary": "Arrange"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1ed0a7124d29bc647cb2f45f57fa9c4a.mp3",
+            "content": "మీకు కోవిడ్ 19 లేదు అని \nఫలితం వచ్చే వరకు, కుటుంబ సభ్యులతో, ముఖ్యంగా పెద్దలతో సంబంధాన్ని తగ్గించండి",
+            "id": 3058,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Until you know your swab test results, reduce your contact with family members. Especially, try not to get near older people.",
+                "id": 178,
+                "summary": "Elderly"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/98d35c0ac31ca239c30d30a8383c2473.mp3",
+            "content": "చ్లెఅఙ వున్దన్ది. చేతులు సబ్బుతో టి కడుక్కోండి. మోహము, ముక్కు ,కళ్ళు మరియు నోటిని ముట్టుకోకండి. తుమ్ము మరియు దగ్గు వచ్చినప్పుడు కర్చీఫ్ ను లేదా మోచేతిని అడ్డు పెట్టుకోండి",
+            "id": 3059,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Please maintain good personal hygiene. Wash your hands with soap and water frequently. Try not to touch your eyes, nose, and mouth. Always cover your mouth when coughing or sneezing.",
+                "id": 179,
+                "summary": "Hygine"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/04926c778465a68b59f2f819ca75ac32.mp3",
+            "content": "వ్యక్తిగత సామానులు అంటే పళ్లెం, చెంచా, ఫోర్క్, పాత్రలు వంటి వస్తువులను ఇంకొకరితో పంచు కొకండి.",
+            "id": 3060,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Please prevent others from using your spoon, fork, plates, bowls, food. Also do not share personal hygiene items like your towel.",
+                "id": 180,
+                "summary": "Sharing"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/765a5f797f2b14a1ad0431c3e3bd4cd4.mp3",
+            "content": "మీకు డాక్టర్ నిర్దేశించిన మందులు ఉంటే తీసుకోవడము కొనసాగించండి",
+            "id": 3061,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Continue to take the medications prescribed for you (if any).",
+                "id": 181,
+                "summary": "Medication"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5a0caeb05ad57562d2f00fa6e8707889.mp3",
+            "content": "రోజు కి రొండు లీటర్ కన్నా ఎక్కువ నీళ్లు తాగండి",
+            "id": 3062,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Please drink a lot of water.",
+                "id": 182,
+                "summary": "Drink"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/bdd65f62b2e00cd39eef876c4951cb94.mp3",
+            "content": "ఇంట్లో మీ ఉష్ణోగ్రత (టెంపరేచర్) మరియు లక్షణాలు మానిటర్ చేయండి",
+            "id": 3063,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Keep monitoring your temperature and symptoms at home.",
+                "id": 183,
+                "summary": "Monitor"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/55c28a218c5645a7a238e43c8d2889bd_NqFBpsE.mp3",
+            "content": "బస్సు, మెట్రో, లాంటి పబ్లిక్ ట్రాన్స్ పోర్ట్ లో వెళ్ళవద్దు",
+            "id": 2958,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Please avoid public transport.",
+                "id": 166,
+                "summary": "Transport"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/9c0ed1a1de4dfcfda28137c481a90609_ugyrZY8.mp3",
+            "content": "మీసొ0త బండి లో గాని టాక్సీలో గాని గ్రాబ్లో గాని ప్రయాణి0చగలరు.",
+            "id": 2959,
+            "language": "Telugu",
+            "phrase": {
+                "content": "You can take your own private transport, a taxi or a private hire car.",
+                "id": 167,
+                "summary": "Take Taxi"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f868a81d3a655ea742189755bb2c2467.mp3",
+            "content": "మీ దగ్గు తీవ్రత పెరిగినా, శ్వాసతీసుకోవడంలో ఇబ్బంది కలిగిన, జ్వరం 38 డిగ్రీల సెంటిగ్రేడ్ కన్నా ఎక్కువ అయినా వెంటనే మీ దగ్గరలో ఉన్న ఆసుపత్రికి వెళ్ళండి.",
+            "id": 3064,
+            "language": "Telugu",
+            "phrase": {
+                "content": "If your cough is getting worse and you feel breathless, or your fever is persistently above 38 degrees Celsius",
+                "id": 184,
+                "summary": "38C"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/19d464af1e0f3c9ca46b83ea884bc97f.mp3",
+            "content": "ఎమర్జెన్సీ డిపార్ట్మెంట్ లోపల సర్జికల్ మాస్క్ వేసుకోండి",
+            "id": 3065,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Wear a surgical mask and come to our Emergency Department.",
+                "id": 185,
+                "summary": "Mask"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/10e55a0197b121e8340bdba665fd5451.mp3",
+            "content": "అత్యవసర పరిస్థితుల్లో  అంబులెన్స్ కోసం 995 కు కాల్ చేయండి. మీరు ఇటీవల COVID-19 పరీక్షించబడినట్లు మరియు మీ ప్రయాణ చరిత్రను అంబులెన్స్ ఆపరేటర్‌కు తెలియజేయండి.",
+            "id": 3066,
+            "language": "Telugu",
+            "phrase": {
+                "content": "In an emergency situation, call 995 for an ambulance. Inform the ambulance operator that you were recently tested for COVID-19 and also tell them your travel history.",
+                "id": 187,
+                "summary": "Ambulance"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d17d8de19f7b8dc8c99eb3d2c84d8dec.mp3",
+            "content": "రక్తపోటు కఫ్‌ను రీడర్ మెషీన్‌కు కనెక్ట్ చేయండి",
+            "id": 3067,
+            "language": "Telugu",
+            "phrase": {
+                "content": "1) Connect the blood pressure cuff to the reader machine.",
+                "id": 188,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/373b8dc035e0a966175595289b5cca82.mp3",
+            "content": "2) కఫ్ మీడా ఉన్న \"అర్రౌ\" చేయి లోపల పక్క కింద వైపుకు పాయింట్ చెయ్యా",
+            "id": 3068,
+            "language": "Telugu",
+            "phrase": {
+                "content": "2) The “arrow” on the the cuff should be pointing downwards on the inside of your arm.",
+                "id": 189,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7cd0fc6c0570cc366cc33061b98e630b.mp3",
+            "content": "(!) కఫ్ ని మీ మోచేతి కి ఒకటి లేక పొతే 2 సెం.మీ. పైన ఉంచండి",
+            "id": 3069,
+            "language": "Telugu",
+            "phrase": {
+                "content": "(!) The cuff should be positioned 1 to 2 cm above your elbow joint.",
+                "id": 190,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/18544a01e067ba5ebd6decc33f53f265.mp3",
+            "content": "3) బిపి కఫ్ మీ చేతికి కుడివైపు కూర్చోవాలి. వేచి ఉండలేము .కాబట్టి ఒక వేలు సరిపోయే చోట వేలు వదిలివేయండి",
+            "id": 3070,
+            "language": "Telugu",
+            "phrase": {
+                "content": "3) The BP cuff should fit snugly onto your arm. It should not feel loose. Leave some space enough for 1 left finger to fit in (for good gauge)",
+                "id": 191,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/017a6e09aeed6e3a626bcad361bf50db.mp3",
+            "content": "4) మీ రక్తపోటు (బ్లడ్ ప్రెషర్) కొలిచేటప్పుడు ట్యూబ్ ని వంచవద్దు లేదా లాగవద్దు",
+            "id": 3071,
+            "language": "Telugu",
+            "phrase": {
+                "content": "4) Do not bend the tube during blood pressure measurement.",
+                "id": 192,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/199af78501f0a7f3115881afd48a0fad.mp3",
+            "content": "5) మీ రక్తపోటు (బ్లడ్ ప్రెషర్)  కొలిచేటప్పుడు మీ చేతిని టేబుల్ పైన విశ్రాంతి గ ఉంచండి.",
+            "id": 3072,
+            "language": "Telugu",
+            "phrase": {
+                "content": "5) Relax & Rest your entire arm on a table while measuring your blood pressure.",
+                "id": 193,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7a14b8ce6b2db01098fd2db499e66934.mp3",
+            "content": "6) \"Start / stop\" బటన్ నొక్కి మీ బిపి కొలత ప్రారంభించండి.1 నిమిషం మూడు సంఖ్యలు కనిపించే వరకు ఆగండి",
+            "id": 3073,
+            "language": "Telugu",
+            "phrase": {
+                "content": "6) Press the “Start/Stop” button to start measuring your BP. Wait for 1 minute until 3 numbers appear.",
+                "id": 194,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/deff3618e46b44ac38ba6f276bd65405.mp3",
+            "content": "7) అన్నిటి కన్నా పైన సంఖ్య మీ \"\"సిస్టోలిక్ BP\"\",\n మధ్య సంఖ్య మీ 'డయాస్టాలిక్ BP' మరియు క్రింద సంఖ్య మీ పల్స్ రేటు",
+            "id": 3074,
+            "language": "Telugu",
+            "phrase": {
+                "content": "7) The top number is your Systolic blood pressure. The middle number is your Diastolic blood pressure. The bottom number is your Pulse rate.",
+                "id": 195,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b78c4ca6c5bb72887e08e45eb0831f2c.mp3",
+            "content": "కోవిడ్ -19 అంటే ఏమిటి?\n\nకోవిడ్ -19 (మరింత ప్రత్యేకంగా, ఒక కరోనావైరస్) అనేది చైనాలోని వుహాన్ నగరం నుండి ప్రారంభమైన శ్వాసకోశ అనారోగ్యం.",
+            "id": 3075,
+            "language": "Telugu",
+            "phrase": {
+                "content": "What is COVID-19?\r\n\r\nCOVID-19 (more specifically, a coronavirus) is an illness that started from the Wuhan City in China, it is a respiratory illness.",
+                "id": 155,
+                "summary": "What COVID"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8e6ea3cdc5b70acf193ea7834ca8cb60.mp3",
+            "content": "కోవిడ్ -19 యొక్క లక్షణాలు ఏమిటి?\n\nఅత్యంత సాధారణ లక్షణాలు జ్వరం, అలసట మరియు పొడి దగ్గు. కొoత మందిలో ముక్కు  కారడం, గొంతు నొప్పి లేదా విరేచనాలు వంటి లక్షణాలు వుoడవచ్చు. ఇవి సాధారణంగా తక్కువ మోతాదులో ఉంటాయి.\n\nకొంతమందికి ఈ వ్యాధి సోకినప్పటికీ  పై లక్షణాలు వుoడవు.\n\nఅయితే, పైన చెప్పిన లక్షణాలు ఊపిరితిత్తుల ఇన్ఫెక్షన్ లేదా న్యుమోనియా వలన కూడా రావచ్చును.",
+            "id": 3076,
+            "language": "Telugu",
+            "phrase": {
+                "content": "What are the symptoms of COVID-19?\r\n\r\nThe most common symptoms are fever, tiredness and dry cough. Some patients also have a runny nose, sore throat or diarrhea. These symptoms are usually mild.\r\n\r\nSome people become infected but do not have any symptoms.\r\n\r\nHowever, it also can be caused by a lung infection or pneumonia.",
+                "id": 156,
+                "summary": "What are the symptoms of COVID-19?"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c908d1d73fd485e948855675302ca666.mp3",
+            "content": "కోవిడ్ -19 ఎలా వ్యాపిస్తుంది?\n\nఇప్పటికే కోవిడ్ -19 వున్న వారి నుoడి ఇతరులకు  సోకవచ్చు. ఈ వైరస్ సోకినవారి దగ్గు మరియు తుమ్మడం ద్వారా వెలువడిన తుoపరల నుoడి వ్యాపిస్తుంది. వారి  నోటి లాలాజలం ద్వారా కాని, వారు ఉపయోగించిన ప్లేట్లు, స్పూన్లు, మరియు ఫోర్కుల ద్వార కూడ వ్యాప్తి చెందుతుంది.",
+            "id": 3077,
+            "language": "Telugu",
+            "phrase": {
+                "content": "How does COVID-19 spread?\r\n\r\nPeople can be infected by other persons already infected with COVID-19. The virus spreads through cough and sneezing. The virus can also spread with saliva from the mouth, used plates, spoons, and forks.",
+                "id": 157,
+                "summary": "COVID Spread"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4a0561a8101e15706a70574b9508d3c4.mp3",
+            "content": "కోవిడ్ -19 పరీక్ష అంటే ఏమిటి?\n\nఇది ఒక శ్వాబ్ టెస్టు . ఒక  శ్వాబ్ మీ ముక్కు లేదా మీ గొంతు వెనుక భాగంలో కి అతిజాగ్రత్తగా పంపి చేస్తారు. ఇందుకు10 సెకన్లు పడుతుoది. కొద్దిగా ఇబ్బంది ఉండవచ్చు. అయితే, అది మరీ నొప్పిగా ఏమీ వుoడదు.",
+            "id": 3078,
+            "language": "Telugu",
+            "phrase": {
+                "content": "What is the test for COVID-19?\r\n\r\nIt is a swab test. A swab will be inserted in your nostrils or at the back of your throat. It will last about 10 seconds. There might be a slight discomfort, however, it is not too painful.",
+                "id": 158,
+                "summary": "COVID-19 Test"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5233b9108cc006564a3e87f0ef513f72.mp3",
+            "content": "నాకు కోవిడ్ -19 ఉంటే ఏంచేస్తారు?\n\nఅధికారులు మిమ్మల్ని అలాoటి వారికోసం ప్రత్యేకిoచిన చోటుకి గాని లేదా ఆసుపత్రికి గాని తరలిస్తారు. వారు మీ ఆరోగ్యం మెరుగుపడుతుoదా లేదా అని మానిటర్ చేస్తారు. ఎక్సరే లేదా రక్త పరీక్ష కూడా అవసరమవుతాయి.  సాధారణంగా, మీకు ప్రతి 24 గంటలకు ఒకసారి శ్వాబ్ టెస్ట్ చేస్తారు. మీ టెస్ట్ రిజల్ట్ వరుసగా రెండుసార్లు నెగటివ్ గా ఉంటే, మిమ్మల్ని విడుదల చేస్తారు. కానీ ఆతర్వాత, మీరు 2 వారాల వరకు విడిగా వుoడాలి.",
+            "id": 3079,
+            "language": "Telugu",
+            "phrase": {
+                "content": "What if I have COVID-19?\r\n\r\nAuthority will make separate living arrangements for you or admit you to a hospital. They will monitor your health, whether it is improving or not. X-ray or blood test may also be needed. Usually, they will test your swab every 24 hours. If your test is negative twice in a row, you will be released. But after going home, you have to stay separate from everyone for 2 weeks.",
+                "id": 159,
+                "summary": "COVID-19 Positive"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/924a476966ac8cc3d186894b02949af9.mp3",
+            "content": "నాకు కోవిడ్ -19 ఉంటే నేను చనిపోతానా?\n\nకోవిడ్ -19 అంటే మీరు,  మీ కుటుంబం భయపడవచ్చు. అయితే, 80% మందిలో, కోవిడ్ -19 ఇన్ఫెక్షన్ మైల్డ్ గా ఉంటుoది. వారికి వైద్యం కూడా ఏమీ అవసరం వుoడదు. వృధ్ధులు లేదా ఇతర ఆరోగ్య సమస్యలు ఉన్నవారికి  కొద్దిగా రిస్కు ఉంది. 5% మందికి శ్వాస సహాయం కోసం ICU అవసరం.",
+            "id": 3080,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Will I die if I have COVID-19?\r\n\r\nCOVID-19 may make you and your family worried. However, 80% of the time, COVID-19 infections are mild. They do not even need any treatment. There is a slight risk of damage to those who are old or have other health problems. Only 5% of patients need ICU for helping them breathe.",
+                "id": 160,
+                "summary": "Die COVID-19"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/e9df347c16fbcfd4e75fc4fb2bdf196b.mp3",
+            "content": "కోవిడ్ -19  నివారిoచడానికి చికిత్స ఉందా?\n\nకోవిడ్ -19  రోగులు చాలా మందికి ఏ చికిత్స అవసరం లేదు. వారికి దగ్గు, జ్వరం మరియు ఇతర లక్షణాల కోసం మాత్రమే మందు అవసరం. అయితే, బాగా అనారోగ్యానికి గురైన సుమారు 5% రోగులకోసం, ఏ రకమైన చికిత్సలు లేవు. అయితే, చాలా త్వరలోనే  చికిత్స కనిపెట్టబోతున్నారుభయపడవద్దు. మీకు శ్వాస సమస్యలు ఉంటే మీకు మెషీను పెడతారు. మీకు బిపికి కూడ మందు ఇస్తారు.",
+            "id": 3081,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Is there a treatment for COVID-19?\r\n\r\nMost patients of COVID-19 do not need any treatment. They only need medicine for cough, fever and other symptoms. However, for 5% of the patients who are very ill, there are no proven treatments. However, we are very near to discovering treatment. Do not be afraid. If you have problems breathing we will use a machine to help you breathe. We will give you medicine for blood pressure.",
+                "id": 161,
+                "summary": "COVID-19 Treatment"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/37da92a987802555b149a84c361c91b1.mp3",
+            "content": "నేను నా ట్రీట్మెంటుకి ఎంత డబ్బు  చెల్లించవలసి ఉంటుంది?\n\nసింగపూర్ ప్రభుత్వం యొక్క ప్రకటన ప్రకారం, మీరు సింగపూర్ సిటిజన్, లేదా పిఆర్, లేదా లాoగ్ టర్మ్ పాస్ హోల్డరు అయితే, ప్రభుత్వం చెల్లిస్తుoది. మీకు వర్కు పర్మిట్ వున్నా కూడా ప్రభుత్వం చెల్లిస్తుoది. కానీ, మీరు 27 మార్చి 2020 తరువాత సింగపూర్ బయటకు వెళ్లి తిరిగి వచ్చిన14 రోజుల లోపల అడ్మిట్ అయితే, ప్రభుత్వం మీ బిల్లులు చెల్లించదు.",
+            "id": 3082,
+            "language": "Telugu",
+            "phrase": {
+                "content": "How much will I have to pay for Treatment?\r\n\r\nAccording to the announcement of the Singapore Government, if you are a citizen of Singapore, or a permanent resident, or a long term pass holder, the government will pay. So even if you have a work permit, the government will pay. But, if you went out of Singapore after 27 March 2020 and get admitted within 14 days of returning, the government will not pay your bills.",
+                "id": 162,
+                "summary": "Treatment Cost"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/116c65f1a8b513190436d9393edb2817.mp3",
+            "content": "నేను నా ఉద్యోగం పోతుoదేమో అని భయపడుతున్నాను.\n\nచట్టప్రకారం మీ ఎంప్లాయరు మీ ట్రీట్ మెoటు కి పర్మిషన్ ఇవ్వాలి. మీరు ఇప్పుడు పని చెయ్యలేకపోయినప్పటికీ మీ ఎంప్లాయరు మీ జీతం చెల్లించాల్సి ఉంటుంది. మీ జీతం సకాలంలో చెల్లించకపోతే, సింగపూర్ ప్రభుత్వం మీ ఎంప్లాయరు మీద చర్య తీసుకుంటుంది.",
+            "id": 3083,
+            "language": "Telugu",
+            "phrase": {
+                "content": "I am worried about not working. Will I lose my job?\r\n\r\nYour employer has to allow your treatment by the law. The employer has to pay your salary even if you cannot work now.  If your salary is not paid timely, the Singapore Government can take action against the employer.",
+                "id": 163,
+                "summary": "Job Loss"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

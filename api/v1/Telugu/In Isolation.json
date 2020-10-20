@@ -1,0 +1,46 @@
+{
+    "count": 3,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0cac931d6971e9e4dace6dbbdbd7ac24.mp3",
+            "content": "ఇoటిలో వారితో కాంటాక్ట్ తగ్గించడానికి ఒక అట్టచేడ్ బాత్రూం వున్న ప్రత్యేక గది లో ఉండండి. మీరు ఒక కామన్ బాత్రూం వాడుతుంటే, మీరు వాడిన ముందు మరియు తర్వాత మీరు తాకిన ఆ ప్రదేశాలు శుభ్రపర్చాలి.",
+            "id": 3056,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Stay in a separate room at home. It is best if the room has an attached bathroom. This is to reduce contact with the other members of the house. If you are using a shared bathroom, the bathroom needs to be cleaned before or after you use it.",
+                "id": 176,
+                "summary": "Separate"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5955b6e150488c8947faad2e45f6ca89.mp3",
+            "content": "మీ రూమ్ బయట ఆహరం ,నీళ్లు, వస్తువులు పెట్టడానికి, అవి మీరు రూమ్ లోకి తెచ్చుకోడానికి వీలుగ ఆరెంజ చెయ్యండి",
+            "id": 3057,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Arrange for food, water, and other supplies to be placed outside your room. You yourself have to bring those items into your room.",
+                "id": 177,
+                "summary": "Arrange"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1ed0a7124d29bc647cb2f45f57fa9c4a.mp3",
+            "content": "మీకు కోవిడ్ 19 లేదు అని \nఫలితం వచ్చే వరకు, కుటుంబ సభ్యులతో, ముఖ్యంగా పెద్దలతో సంబంధాన్ని తగ్గించండి",
+            "id": 3058,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Until you know your swab test results, reduce your contact with family members. Especially, try not to get near older people.",
+                "id": 178,
+                "summary": "Elderly"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

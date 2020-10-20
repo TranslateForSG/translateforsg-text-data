@@ -1,0 +1,46 @@
+{
+    "count": 3,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/705b433e40625da3ed80fc2875905910.mp3",
+            "content": "Bạn đã thử nghiệm dương tính với coronavirus.",
+            "id": 1367,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "You have tested positive for coronavirus.",
+                "id": 60,
+                "summary": "Tested Positive"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/9c5fc63952f125da726c72e8d741f2d6.mp3",
+            "content": "Chúng tôi sẽ đưa bạn đến bệnh viện.",
+            "id": 1368,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "We will take you to the hospital.",
+                "id": 61,
+                "summary": "Hospital Admission"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b5938a841c28453642acd15a06161f3f.mp3",
+            "content": "Chúng tôi sẽ chuyển cho bạn một cơ sở cách ly.",
+            "id": 1369,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "We will transfer you to an isolation facility.",
+                "id": 62,
+                "summary": "Isolation Facility"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

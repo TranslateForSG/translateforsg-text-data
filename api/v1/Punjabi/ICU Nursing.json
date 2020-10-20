@@ -1,0 +1,111 @@
+{
+    "count": 8,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": null,
+            "content": "ਖੱਬੇ ਮੁੜੋ.",
+            "id": 3225,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Turn left",
+                "id": 102,
+                "summary": "​Turn left"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਸੱਜੇ ਮੁੜੋ.",
+            "id": 3226,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Turn right",
+                "id": 103,
+                "summary": "Turn right"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਅਸੀਂ ਤੁਹਾਡੇ ਡਾਇਪਰ ਬਦਲ ਦੇਵਾਂਗੇ.",
+            "id": 3227,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "We will change your diapers",
+                "id": 104,
+                "summary": "We will change your diapers"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਆਪਣੀ ਲੱਤ ਉੱਪਰ ਚੁੱਕੋ.",
+            "id": 3228,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Lift up your leg",
+                "id": 105,
+                "summary": "Lift up your leg"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਅਸੀਂ ਤੁਹਾਨੂੰ ਬਿਠਾਉਣ ਜਾ ਰਹੇ ਹਾਂ.",
+            "id": 3229,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "We are going to sit you up",
+                "id": 106,
+                "summary": "We are going to sit you up"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਅਸੀਂ ਤੁਹਾਨੂੰ ਬਿਸਤਰੇ 'ਤੇ ਲਿਜਾਣ ਜਾ ਰਹੇ ਹਾਂ.",
+            "id": 3230,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "We are going to shift you up the bed",
+                "id": 107,
+                "summary": "Shift head"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਅਸੀਂ ਤੁਹਾਡੇ ਮੂੰਹ ਨੂੰ ਸਾਫ ਕਰਨ ਜਾ ਰਹੇ ਹਾਂ.",
+            "id": 3231,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "We are going to clean your mouth",
+                "id": 108,
+                "summary": "Clean mouth"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਗਰਾਰੇਆਂ ਨੂੰ ਨਿਗਲਣਾ ਨਹੀਂ ਹੈ.",
+            "id": 3232,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Do not swallow the gargle",
+                "id": 109,
+                "summary": "Dont swallow"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

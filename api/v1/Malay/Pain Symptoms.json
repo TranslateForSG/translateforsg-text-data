@@ -1,0 +1,59 @@
+{
+    "count": 4,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/95a1418b774e4f5cf5aed9f15951c4c6.mp3",
+            "content": "Ada sakit sekarang?",
+            "id": 1050,
+            "language": "Malay",
+            "phrase": {
+                "content": "Are you in pain?",
+                "id": 110,
+                "summary": "Are you in pain?"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6feed714c035f5135d9860dbe4cb2421.mp3",
+            "content": "Di mana sakit?",
+            "id": 1051,
+            "language": "Malay",
+            "phrase": {
+                "content": "Where is the pain?",
+                "id": 111,
+                "summary": "Where is the pain?"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/95e41f236b7c2438f3e2e9c0f04d5a55.mp3",
+            "content": "Sakit sikit, sederhana atau teruk?",
+            "id": 1052,
+            "language": "Malay",
+            "phrase": {
+                "content": "Is it mild, moderate or severe?",
+                "id": 112,
+                "summary": "Is it mild, moderate or severe?"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/bda9a79fe3bbbe38827e2721e9d41460.mp3",
+            "content": "Boleh tunjukkan mana sakit?",
+            "id": 1053,
+            "language": "Malay",
+            "phrase": {
+                "content": "Can you point to the pain?",
+                "id": 113,
+                "summary": "Can you point to the pain?"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

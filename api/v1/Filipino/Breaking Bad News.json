@@ -1,0 +1,46 @@
+{
+    "count": 3,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1fa79229591ba2ff547437facfe86d4a_YPKVbs7.mp3",
+            "content": "Sinubukan mo ang positibo para sa coronavirus.",
+            "id": 784,
+            "language": "Filipino",
+            "phrase": {
+                "content": "You have tested positive for coronavirus.",
+                "id": 60,
+                "summary": "Tested Positive"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ae6361d23cb864f3599c7654805abc31_7YGJD1E.mp3",
+            "content": "Dadalhin ka namin sa ospital.",
+            "id": 785,
+            "language": "Filipino",
+            "phrase": {
+                "content": "We will take you to the hospital.",
+                "id": 61,
+                "summary": "Hospital Admission"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/05678e3fefde9c918643b21138242803_4XXwgZ3.mp3",
+            "content": "Ililipat namin sa iyo ang isang pasilidad ng paghihiwalay.",
+            "id": 786,
+            "language": "Filipino",
+            "phrase": {
+                "content": "We will transfer you to an isolation facility.",
+                "id": 62,
+                "summary": "Isolation Facility"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

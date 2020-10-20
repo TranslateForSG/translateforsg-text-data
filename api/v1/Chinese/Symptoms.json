@@ -1,0 +1,189 @@
+{
+    "count": 14,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a05ceb0dc14ccf5cd7afa3f3248ac07a.mp3",
+            "content": "你目前有没有发烧呢？",
+            "id": 1971,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Do you have a fever?",
+                "id": 14,
+                "summary": "Fever"
+            },
+            "romanized": "nǐ mù qián yǒu méi yǒu fā shāo ne？",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/63224346e348d3909e1f3f7077823352_wyDO3wJ.mp3",
+            "content": "发烧多久了？",
+            "id": 1972,
+            "language": "Chinese",
+            "phrase": {
+                "content": "How many days?",
+                "id": 15,
+                "summary": "Length"
+            },
+            "romanized": "fā shāo duō jiǔ le？",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/60459cd090026e6024232a651a8d6f82.mp3",
+            "content": "你有用温度计测量体温吗？最高体温是几度？",
+            "id": 1973,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Did you measure it with a thermometer? If you did, what was the highest reading?",
+                "id": 16,
+                "summary": "Reading"
+            },
+            "romanized": "nǐ yǒu yòng wēn dù jì cè liàng tǐ wēn ma？rú guǒ yǒu de huà，nǐ zùi gāo de tǐ wēn shì duō shǎo？",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/602be3e577b929bc2805816c72bfbd6e.mp3",
+            "content": "你有流鼻涕吗？",
+            "id": 1974,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Runny nose?",
+                "id": 17,
+                "summary": "Runny nose"
+            },
+            "romanized": "líu bí tì",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7f5285a34a263b9faadb65e749ae3f5a.mp3",
+            "content": "你有咳嗽吗？",
+            "id": 1975,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Cough?",
+                "id": 18,
+                "summary": "Cough"
+            },
+            "romanized": "ké sòu",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/e83acf57a8b73ce6b1c5e4883971c9c6_bw19k5j.mp3",
+            "content": "喉咙痛",
+            "id": 1976,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Sore throat?",
+                "id": 19,
+                "summary": "Sore throat"
+            },
+            "romanized": "hóu lóng tòng",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/568a113a99be14ac612c8ed6cbf3d4b4_e5qQ29A.mp3",
+            "content": "呼吸困难",
+            "id": 1977,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Difficulty breathing?",
+                "id": 20,
+                "summary": "Breathing"
+            },
+            "romanized": "hū xī kùn nán",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/abcc169f3174804e367ab41135ce41ab.mp3",
+            "content": "你的嗅觉有变差吗？",
+            "id": 1978,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Cannot smell properly?",
+                "id": 21,
+                "summary": "Anosmia"
+            },
+            "romanized": "nín de xìu jué yǒu biàn chà ma？",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3f95551d669b0019ae84b1771e6212cf.mp3",
+            "content": "你的味觉有变差吗？/ 你有没有发现最近吃的食物变得没味道吗?",
+            "id": 1979,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Do you feel less taste in the mouth?",
+                "id": 22,
+                "summary": "Ageusia"
+            },
+            "romanized": "nín de wèi jué yǒu biàn chà ma？/ ní yǒu méi yǒu fā xiàn zuì jìn chī de shí wù biàn dé méi wèi dào ma?",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/fbec2ba0661162eaaefadda3f91f1968.mp3",
+            "content": "你最近有没有泻肚子？一天泻几次？",
+            "id": 2142,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Do you have diarrhoea / diarrhea? How many times a day?",
+                "id": 23,
+                "summary": "diarrhoea"
+            },
+            "romanized": "nín zùi jìn yǒu méi yǒu lā dù zǐ？yī tiān lā jī cì？",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/069a46fab4e2ef4fb1145c3cab0e1b80.mp3",
+            "content": "你的皮肤有出疹子或发痒吗？",
+            "id": 1980,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Skin Rash or Itching?",
+                "id": 24,
+                "summary": "Rash"
+            },
+            "romanized": "pí zhěn huò sāo yǎng？",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1c193888a47958c92e10694057c4e157.mp3",
+            "content": "你的身体有哪里痛吗？",
+            "id": 1981,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Do you have any pain on your body?",
+                "id": 25,
+                "summary": "Pain"
+            },
+            "romanized": "nín de shēn tǐ yǒu nǎ lǐ tòng ma？",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/2728c3193b54d2017e5017a051eec7f6.mp3",
+            "content": "你的有胸口有疼痛吗？",
+            "id": 1982,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Specifically, any chest pain?",
+                "id": 26,
+                "summary": "Chest Pain"
+            },
+            "romanized": "yǒu xiōng bù téng tòng ma？",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/cb428f7da08ab4380463d583ec38ec97.mp3",
+            "content": "可以指出你的痛在哪里吗？",
+            "id": 1983,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Point to the place.",
+                "id": 27,
+                "summary": "Point Out"
+            },
+            "romanized": "kě yǐ zhǐ chū nǐ de tòng zài nǎ lǐ ma?",
+            "special_note": ""
+        }
+    ]
+}

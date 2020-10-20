@@ -1,0 +1,163 @@
+{
+    "count": 12,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/bff24331e4689d48e4acfab06a97132b.mp3",
+            "content": "జనవరి",
+            "id": 3044,
+            "language": "Telugu",
+            "phrase": {
+                "content": "January",
+                "id": 137,
+                "summary": "January"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6f3f181835940fb0d4cf6d597f8d3e36.mp3",
+            "content": "ఫిబ్రవరి",
+            "id": 3045,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Feb",
+                "id": 138,
+                "summary": "Feb"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/bdc519b7c4e24caa663c7387475c3940.mp3",
+            "content": "మార్చి",
+            "id": 3046,
+            "language": "Telugu",
+            "phrase": {
+                "content": "March",
+                "id": 139,
+                "summary": "March"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f53b41338867d7a658aab637e8e6bedf.mp3",
+            "content": "ఏప్రిల్",
+            "id": 3047,
+            "language": "Telugu",
+            "phrase": {
+                "content": "April",
+                "id": 140,
+                "summary": "April"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6c0fb163a66ea65fb581e8eb984ae05e.mp3",
+            "content": "మే",
+            "id": 3048,
+            "language": "Telugu",
+            "phrase": {
+                "content": "May",
+                "id": 141,
+                "summary": "May"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ab2815068372f02af138a708c51995f9.mp3",
+            "content": "జూన్",
+            "id": 3049,
+            "language": "Telugu",
+            "phrase": {
+                "content": "June",
+                "id": 142,
+                "summary": "June"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ecdbc1e03ee2cd4bd0207a8fd7ef00e4.mp3",
+            "content": "జూలై",
+            "id": 3050,
+            "language": "Telugu",
+            "phrase": {
+                "content": "July",
+                "id": 143,
+                "summary": "July"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ad9d26fa94acda14477edd2bd4c201a6.mp3",
+            "content": "ఆగస్టు",
+            "id": 3051,
+            "language": "Telugu",
+            "phrase": {
+                "content": "August",
+                "id": 144,
+                "summary": "August"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/062f5811074216136cda19c51515dd99.mp3",
+            "content": "సెప్టెంబర్",
+            "id": 3052,
+            "language": "Telugu",
+            "phrase": {
+                "content": "September",
+                "id": 145,
+                "summary": "September"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/823fad3e449540ddc279d0869746e717.mp3",
+            "content": "అక్టోబర్",
+            "id": 3053,
+            "language": "Telugu",
+            "phrase": {
+                "content": "October",
+                "id": 146,
+                "summary": "October"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/aec5a01c0b9042666045c4fb81a1abea.mp3",
+            "content": "నవంబర్",
+            "id": 3054,
+            "language": "Telugu",
+            "phrase": {
+                "content": "November",
+                "id": 147,
+                "summary": "November"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0079e2ca6c784619ce5165479717c0a5.mp3",
+            "content": "డిసెంబర్",
+            "id": 3055,
+            "language": "Telugu",
+            "phrase": {
+                "content": "December",
+                "id": 148,
+                "summary": "December"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

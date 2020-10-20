@@ -1,0 +1,2776 @@
+{
+    "count": 213,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/978c1affeb6db487d7213614f5d0d85c_RyJKj5W.mp3",
+            "content": "আমি ডাক্তার। আমি বাংলা বলতে পারি না। আমি আপনার সাথে এই ওয়েবসাইটের মাধ্যমে কথা বলব। যত সম্ভব তত আমাকে ইংরেজীতে উত্তর দেন।",
+            "id": 1,
+            "language": "Bengali",
+            "phrase": {
+                "content": "I am a doctor. I do not speak your language. I will communicate with you using this website. Answer me in English as much as possible. Thank you.",
+                "id": 1,
+                "summary": "Intro"
+            },
+            "romanized": "Aami Daktar. Ami Bangla Bolteh Paree Naa. Aami Apnar Sha-the Ei Website er maddho-me kotha bolbo.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_1.m4a",
+            "content": "আপনার নাম কি?",
+            "id": 2,
+            "language": "Bengali",
+            "phrase": {
+                "content": "What's your name?",
+                "id": 2,
+                "summary": "Name"
+            },
+            "romanized": "Apnar Naam Ki?",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1def234e9bf5cee88ea00a1192aff4e4.mp3",
+            "content": "আমাকে আপনার পরিচয়পত্র কিংবা ওয়ার্ক পারমিট দেন।",
+            "id": 3,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Please give me your Identity Card or Work Permit",
+                "id": 3,
+                "summary": "IC"
+            },
+            "romanized": "Amake apnar porichoy-potro kinba work permit den.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali.mp3",
+            "content": "আপনি কোন কোম্পানিতে কাজ করেন?",
+            "id": 4,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Which company are you employed under / work for?",
+                "id": 4,
+                "summary": "Company"
+            },
+            "romanized": "Apni kon company-te kaaj koren?",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_1.mp3",
+            "content": "আপনার সুপারভাইজারের নাম এবং ফোন নাম্বার কি?",
+            "id": 5,
+            "language": "Bengali",
+            "phrase": {
+                "content": "What is your supervisor’s name and contact number?",
+                "id": 5,
+                "summary": "Supervisor"
+            },
+            "romanized": "Apnar supervisor-er naam ebong phone number ki?",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_2.mp3",
+            "content": "আপনি সিঙ্গাপুরে যে জায়গাতে থাকেন তার নাম কি?",
+            "id": 6,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Where do you live in Singapore?",
+                "id": 6,
+                "summary": "Residence"
+            },
+            "romanized": "Apni Singapore-e jei jaegaate thaken taar naam ki?",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_3.mp3",
+            "content": "আপনার কি কোনো বন্ধু ওখানে থাকেন যার কোভিড সংক্রমণ হয়েছে?",
+            "id": 7,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Do you know if any infected patients are from your area?",
+                "id": 7,
+                "summary": "Cluster"
+            },
+            "romanized": "Apnar ki kono bondhu okhane thaken jaar COVID shong-kromon hoyeche?",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_3.m4a",
+            "content": "গত ১৪ দিনে, আপনি কি কারোর সাথে দেখা করেছেন যার কারোনাভাইরাস আছে?",
+            "id": 9,
+            "language": "Bengali",
+            "phrase": {
+                "content": "In the last 14 days, did you meet anyone who has coronavirus?",
+                "id": 9,
+                "summary": "People"
+            },
+            "romanized": "Goto choddo (14) dine, apni ki karor shathe dekha korechen jaar coronavirus aache?",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_4.mp3",
+            "content": "আপনারা কতজন মিলে এক রুমে থাকেন?",
+            "id": 8,
+            "language": "Bengali",
+            "phrase": {
+                "content": "How many people are staying in the same room as you?",
+                "id": 8,
+                "summary": "Room"
+            },
+            "romanized": "Apnara kotojon mile ek room-e thaken?",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_p64QJkw.m4a",
+            "content": "কে? আপনাদের কি সম্পর্ক?",
+            "id": 10,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Who? What is your relationship with them?",
+                "id": 10,
+                "summary": "People Meet"
+            },
+            "romanized": "Ke? Apnader ki shomporko?",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_awc1QkK.m4a",
+            "content": "কত দিন আগে দেখা হয়েছে?",
+            "id": 11,
+            "language": "Bengali",
+            "phrase": {
+                "content": "How many days ago did you meet them?",
+                "id": 11,
+                "summary": "People Meet"
+            },
+            "romanized": "Koto din age dekha hoyeche?",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_1_pg8WTqN.m4a",
+            "content": "আপনাদের দেখাসাক্ষাত কতক্ষন ধরে ছিল?",
+            "id": 12,
+            "language": "Bengali",
+            "phrase": {
+                "content": "How long were you with him/her?",
+                "id": 12,
+                "summary": "People Meet"
+            },
+            "romanized": "Apnader dekha-shakkhat kotokkhon dhore chilo?",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_2_jf22qAO.m4a",
+            "content": "গত ১৪ দিনে, আপনি কি সিঙ্গাপুরের বাইরে ভ্রমণ করেছেন? হয়ে থাকলে আমাকে ইংরেজীতে দেশগুলি বলেন।",
+            "id": 13,
+            "language": "Bengali",
+            "phrase": {
+                "content": "In the last 14 days, did you travel out of Singapore? If yes, tell us the countries in English.",
+                "id": 13,
+                "summary": "14 Days Travel"
+            },
+            "romanized": "Goto choddo (14) dine, apni ki Singapore-r baere bhromon korechen? Hoye thakle amake Ingrejite (English) deshguli bolen.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6fd68378db5414e82480809f063b0c08.mp3",
+            "content": "লক্ষণগুলি শুরুর আগে গত ৭ দিনে আপনি কি কি করেছেন?",
+            "id": 2379,
+            "language": "Bengali",
+            "phrase": {
+                "content": "What were your activities for last 7 days before onset of symptoms?",
+                "id": 196,
+                "summary": "Activities 7 Days"
+            },
+            "romanized": "Lokkhonguli shurur aage goto shaat (7) dine apni ki ki korechen?",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/edf86e25ab050a3029e1087522a7c26a_bpS0poJ.mp3",
+            "content": "ভর্তি হওয়ার আগে আপনি কি কি কাজ করেছেন , কোথায় বেড়িয়েছেন বা কাদের সাথে দেখা করেছেন  ?",
+            "id": 2380,
+            "language": "Bengali",
+            "phrase": {
+                "content": "What were your activities until admission?",
+                "id": 197,
+                "summary": "Activities Admit"
+            },
+            "romanized": "Bhorti howar age apni ki ki kaj korechen, kothae beriyechen ba kader shathe dekha korechen?",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/206f6470c9f9b021e1caefe32505a386_JVM0DMI.mp3",
+            "content": "আপনার কাছাকাছি থাকা লোকদের নাম ও ফোন নম্বর আমাদের প্রয়োজন।",
+            "id": 2381,
+            "language": "Bengali",
+            "phrase": {
+                "content": "We need the contacts of people who they were close to.",
+                "id": 198,
+                "summary": "Need Contacts"
+            },
+            "romanized": "Apnar kacha kachi thaka lokeder naam o phone number amader proyojon.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1568092d289800755beacfccb93f1276_ErUtRww.mp3",
+            "content": "আপনি কোথায় গিয়েছিলেন? (বা সম্ভবত সার্কিট ব্রেকারের পরে আর কোথাও না )",
+            "id": 2382,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Where have you visited recently? (or maybe nowhere after circuit breaker)",
+                "id": 199,
+                "summary": "Recent Visit"
+            },
+            "romanized": "Apni kothae giyechilen? (Ba shombhoboto circuit breaker-er pore aar kothao na.)",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0f41913407e1018bc6666e0968e82f68.mp3",
+            "content": "আপনি কোথায় খাবার কিনেন?",
+            "id": 2383,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Where do you buy food?",
+                "id": 200,
+                "summary": "Buy Food"
+            },
+            "romanized": "Apni kothae khabar kinen?",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_3_BmeL7sd.m4a",
+            "content": "আপনার কি জ্বর আছে?",
+            "id": 14,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Do you have a fever?",
+                "id": 14,
+                "summary": "Fever"
+            },
+            "romanized": "Apnar ki jor aache?",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_4.m4a",
+            "content": "কতদিন ধরে ?",
+            "id": 15,
+            "language": "Bengali",
+            "phrase": {
+                "content": "How many days?",
+                "id": 15,
+                "summary": "Length"
+            },
+            "romanized": "Kotodin dhore?",
+            "special_note": "(You may use this for multiple symptoms)"
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_5.m4a",
+            "content": "আপনি কি থার্মোমিটার দিয়ে জ্বর মেপেছেন? করে থাকলে সবচেয়ে বেশি তাপমাত্রা কত ছিল?",
+            "id": 16,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Did you measure it with a thermometer? If you did, what was the highest reading?",
+                "id": 16,
+                "summary": "Reading"
+            },
+            "romanized": "Apni ki thermometer diye jor mepechen? Kore thakle shob-cheye beshi taapmatra koto chilo?",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_6.m4a",
+            "content": "সর্দি আছে?",
+            "id": 17,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Runny nose?",
+                "id": 17,
+                "summary": "Runny nose"
+            },
+            "romanized": "Shordi aache?",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_7.m4a",
+            "content": "কাশি?",
+            "id": 18,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Cough?",
+                "id": 18,
+                "summary": "Cough"
+            },
+            "romanized": "Kashi?",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_8.m4a",
+            "content": "গলা ব্যথা?",
+            "id": 19,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Sore throat?",
+                "id": 19,
+                "summary": "Sore throat"
+            },
+            "romanized": "Gola betha?",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7186c7fe8c58097aaa8a743398332b95_4E9GnYM.mp3",
+            "content": "শ্বাস নিতে কষ্ট হচ্ছে?",
+            "id": 20,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Difficulty breathing?",
+                "id": 20,
+                "summary": "Breathing"
+            },
+            "romanized": "Shash nite koshto hocche?",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_D3yFx6M.mp3",
+            "content": "নাকে কি গন্ধ কম পাচ্ছেন?",
+            "id": 21,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Cannot smell properly?",
+                "id": 21,
+                "summary": "Anosmia"
+            },
+            "romanized": "Nake ki gondho kom pachchen?",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/33d4e88a5013589df8fb891200f31cd7_u5Rkxi6.mp3",
+            "content": "মুখে কি স্বাদ কম লাগছে?",
+            "id": 22,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Do you feel less taste in the mouth?",
+                "id": 22,
+                "summary": "Ageusia"
+            },
+            "romanized": "Mukhe ki shaad kom lagche?",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a1880f3fea34632701b6eaf9efc07166_GiFl3GA.mp3",
+            "content": "আপনার কি পেট খারাপ হচ্ছে? \nপেট খারাপ হলে এক দিনে কত বার হয়?",
+            "id": 23,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Do you have diarrhoea / diarrhea? How many times a day?",
+                "id": 23,
+                "summary": "diarrhoea"
+            },
+            "romanized": "Apnar ki pet kharap hocche?\nPet kharap hole ek dine koto bar hoy?",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/78b8cb76cac6004cd41ff21f0d87069d_RxQf7O7.mp3",
+            "content": "আপনার শরীরের কোথাও কি রেশ বা চুলকানি হচ্ছে?",
+            "id": 24,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Skin Rash or Itching?",
+                "id": 24,
+                "summary": "Rash"
+            },
+            "romanized": "Shorirer kothao ki rash ba chulkani hocche?",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/155d0d21fba3ed28a86437f879ea2705_T97P0je.mp3",
+            "content": "আপনার শরীরে কোথাও কি ব্যাথা করছে?",
+            "id": 25,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Do you have any pain on your body?",
+                "id": 25,
+                "summary": "Pain"
+            },
+            "romanized": "Apnar shorire kothao ki betha korche?",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/70663e2b503442ece3cbb7f630cc4893_P7Cj3FV.mp3",
+            "content": "বিশেষ করে, বুকে কি ব্যথা করছে?",
+            "id": 26,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Specifically, any chest pain?",
+                "id": 26,
+                "summary": "Chest Pain"
+            },
+            "romanized": "Bishesh kore, buke ki betha korche?",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_4_UVxHZWM.m4a",
+            "content": "আঙ্গুল দিয়ে দেখান কোথায়।",
+            "id": 27,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Point to the place.",
+                "id": 27,
+                "summary": "Point Out"
+            },
+            "romanized": "Angul diye dekhan kothae.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_5_jhrYlj6.m4a",
+            "content": "আপনার কি আগের থেকে কোনো শারীরিক সমস্যা আছে?",
+            "id": 28,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Do you have any past medical history?",
+                "id": 28,
+                "summary": "Medical History"
+            },
+            "romanized": "Apnar ki aager theke kono sharirik shomossha aache?",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Use_Finger_to_Show.m4a",
+            "content": "আঙ্গুল দিয়ে দেখান কোনটা।",
+            "id": 29,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Point to which ones.",
+                "id": 29,
+                "summary": "Symptoms"
+            },
+            "romanized": "Angul diye dekhan konta.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_6_ZOmuvqU.m4a",
+            "content": "হাঁপানি/অ্যাজমা",
+            "id": 30,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Asthma",
+                "id": 30,
+                "summary": "Asthma"
+            },
+            "romanized": "Hapani/asthma",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_7_fKECmeH.m4a",
+            "content": "নিউমোনিয়া",
+            "id": 31,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Pneumonia",
+                "id": 31,
+                "summary": "Pneumonia"
+            },
+            "romanized": "Pneumonia",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_8_9SKay3w.m4a",
+            "content": "ব্লাড প্রেসার",
+            "id": 32,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Hypertension",
+                "id": 32,
+                "summary": "Hypertension"
+            },
+            "romanized": "Blood pressure",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_9_Crp6CuY.m4a",
+            "content": "কল্সেটেরোল",
+            "id": 33,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Hyperlipidemia / Cholesterol",
+                "id": 33,
+                "summary": "Hyperlipidemia"
+            },
+            "romanized": "Cholesterol",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_10.m4a",
+            "content": "সুগার",
+            "id": 34,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Diabetes",
+                "id": 34,
+                "summary": "Diabetes"
+            },
+            "romanized": "Sugar",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_11.m4a",
+            "content": "হার্টের সমস্যা",
+            "id": 35,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Heart problems",
+                "id": 35,
+                "summary": "Heart problems"
+            },
+            "romanized": "Heart-er shomossha",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_12.m4a",
+            "content": "কিডনির সমস্যা",
+            "id": 36,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Kidney problems",
+                "id": 36,
+                "summary": "Kidney problems"
+            },
+            "romanized": "Kidney-r shomossha",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_13.m4a",
+            "content": "আপনার কি কোনো ওষুধের অ্যালার্জি আছে?",
+            "id": 37,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Do you have a drug allergy?",
+                "id": 37,
+                "summary": "Drug allergy"
+            },
+            "romanized": "Apnar ki kono oshudher allergy aache?",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_14.m4a",
+            "content": "আপনি কি ধুমপান করেন? করে থাকলে, এক দিনে আপনার কয়টা সিগারেট শেষ হয়?",
+            "id": 38,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Do you smoke? If yes, how many cigarettes a day?",
+                "id": 38,
+                "summary": "Smoke"
+            },
+            "romanized": "Apni ki dhumpaan koren? Kore thakle, ek dine apnar koyta cigarette shesh hoy?",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_15.m4a",
+            "content": "আপনি কি মাঝেমাঝে মদ্য পান করেন? তাহলে সপ্তাহে কতটুকু খান, কি ধরনের মদ, সম্ভব হলে ইংরেজীতে বলেন ।",
+            "id": 39,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Do you drink? If yes, how much (number of bottles a week, type of alcohol)?",
+                "id": 39,
+                "summary": "Drink Alcohol"
+            },
+            "romanized": "Apni ki majhe-majhe moddo paan koren? Tahole shoptahe kotoTuku khan, ki dhoroner mod - shombhob hole ingrejite bolen.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_1_cVIoV1A.mp3",
+            "content": "আপনার মনের অবস্থা কেমন?",
+            "id": 40,
+            "language": "Bengali",
+            "phrase": {
+                "content": "How do you feel emotionally?",
+                "id": 40,
+                "summary": "Emotion Feeling"
+            },
+            "romanized": "Apnar moner obostha ki?",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_gGce0mj.mp3",
+            "content": "আপনার কি আত্মহত্যার চিন্তা মাথায় আসে?",
+            "id": 41,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Do you have suicidal thoughts?",
+                "id": 41,
+                "summary": "Suicidal thoughts"
+            },
+            "romanized": "Apnar ki aatto-hottar chinta mathae ashe?",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_S8ZyDrO.m4a",
+            "content": "আপনার অন্য কোনো সমস্যা থাকলে আমাকে ইংরেজীতে বলুন।",
+            "id": 42,
+            "language": "Bengali",
+            "phrase": {
+                "content": "If you have any other problems, you can tell me in English.",
+                "id": 42,
+                "summary": "Other Problems"
+            },
+            "romanized": "Apnar onno kono shomossha thakle amake ingrejite bolun.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0621f4a18a9013a9cfa207bcb6d85718.mp3",
+            "content": "আমি এখন আপনাকে পরীক্ষা করবো।",
+            "id": 43,
+            "language": "Bengali",
+            "phrase": {
+                "content": "I’m going to examine you.",
+                "id": 43,
+                "summary": "Physical Exam Starts"
+            },
+            "romanized": "Ami ekhon apnake porikkha korbo.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c6252fceb66789c193a16a24d3b8946b.mp3",
+            "content": "বেশি বেদনা লাগলে বলুন।",
+            "id": 593,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Tell me if you feel more pain.",
+                "id": 149,
+                "summary": "Tell if Pain"
+            },
+            "romanized": "Beshi bedona lagle bolun.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7982a6a2ac09ff8e868b509d64651651.mp3",
+            "content": "দয়া করে আপনার শার্টটি সরিয়ে দিন।",
+            "id": 597,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Please remove your shirt.",
+                "id": 150,
+                "summary": "Remove Clothing"
+            },
+            "romanized": "Doya kore apnar shirt-ti shoriye din.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_2_4cJh9pj.m4a",
+            "content": "মুখ দিয়ে বড় শ্বাস নিতে থাকেন।",
+            "id": 44,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Keep taking deep breaths through your mouth.",
+                "id": 44,
+                "summary": "Deep Breath"
+            },
+            "romanized": "Mukh diye boro shaash nite thaken.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f9f70f91d3edc881ba36d973c9c6e5b1_eo6fnOz.mp3",
+            "content": "স্টেথো যখন বুকে দিব তখন “৯, ৯” বলবেন।",
+            "id": 45,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Say \"99\" when I listen with my stethoscope.",
+                "id": 45,
+                "summary": "99"
+            },
+            "romanized": "Stetho jokhon buke dibo tokhon \"noy, noy\" bolben.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f0bbaa32cf5d335f9d08d8df186566ec_p38JKb5.mp3",
+            "content": "আমি এই তুলাটা আপনার নাকের ভিতরে ঢুকিয়ে পরীক্ষা করব। আপনি একটু অস্বস্তি বোধ করবেন কিন্তু খুব বেশি ব্যথা হবে না।",
+            "id": 46,
+            "language": "Bengali",
+            "phrase": {
+                "content": "I'm going to put this cotton bud into your nostrils. You will feel strange but it is not painful.",
+                "id": 46,
+                "summary": "Swabbing"
+            },
+            "romanized": "Ami ei tulata apnar naker bhhitore dhukiye porikkha korbo. Apni ektu oshhosti bodh korben kintu khub beshi betha hobe na.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/bf13129b8339eb06c429c78afd0d4ce9.mp3",
+            "content": "যদি করোনাভাইরাস টেস্ট পজিটিভ হয়, আমরা আগামীকালের মধ্যে আপনাকে ফোন করব।",
+            "id": 49,
+            "language": "Bengali",
+            "phrase": {
+                "content": "If coronavirus positive, we call your phone by tomorrow.",
+                "id": 49,
+                "summary": "Result Collection"
+            },
+            "romanized": "Jodi coronavirus test positive hoy, amra agamikaler moddhe apnake phone korbo.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/e7c96b16a199ecb9c73e4f22c1690df1_GMMlvTR.mp3",
+            "content": "এটি করোনাভাইরাস পরীক্ষা জন্য।",
+            "id": 47,
+            "language": "Bengali",
+            "phrase": {
+                "content": "This is to test for coronavirus",
+                "id": 47,
+                "summary": "Covid"
+            },
+            "romanized": "Eta coronavirus porikkhar jonno.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ddb149fdf27074a43220b2bb0257c87d_n2fYt6Y.mp3",
+            "content": "যদি করোনভাইরাস টেস্ট নেগেটিভ হয়, আমরা আপনাকে তিন দিনের মধ্যে “এস এম এস” (SMS) করব।",
+            "id": 605,
+            "language": "Bengali",
+            "phrase": {
+                "content": "If coronavirus negative, we send you an SMS after 3 days.",
+                "id": 152,
+                "summary": "COVID Negative"
+            },
+            "romanized": "Jodi coronavirus test negative hoy, amra apnake tin (3) din er moddhe SMS korbo.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_6_PBBAymz.m4a",
+            "content": "আপনার মাথাটা অল্প পিছন দিকে কাত করুন।",
+            "id": 48,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Tilt your head back",
+                "id": 48,
+                "summary": "Tilt Head"
+            },
+            "romanized": "Apnar mathata olpo pichhon dike kat korun.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_8_H8WiW9N.m4a",
+            "content": "পরে আপনার এক্স-রে হবে।",
+            "id": 50,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Later, you will do an X-ray",
+                "id": 50,
+                "summary": "X-ray"
+            },
+            "romanized": "Pore apnar X-ray hobe.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_9_T3Y7XyZ.m4a",
+            "content": "আপনার এক্স-রেতে কোনও ইনফেকশন নেই।",
+            "id": 51,
+            "language": "Bengali",
+            "phrase": {
+                "content": "There is no sign of infection on your X-ray",
+                "id": 51,
+                "summary": "X-ray OK"
+            },
+            "romanized": "Apnar X-ray te kono infection nei.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b4eeb694e43565369cd78195f75243dc.mp3",
+            "content": "আপনার কোভিড সোয়াব পরীক্ষা নেগেটিভ আসলেও যদি আপনার সর্দি কাশি, জ্বর এর মত লক্ষণ থাকে, আপনাকে আলাদা জায়গায় রাখা হবে।",
+            "id": 2384,
+            "language": "Bengali",
+            "phrase": {
+                "content": "If your COVID Swab is negative but you have symptoms of fever, cough, runny nose, you have to remain in an isolation area.",
+                "id": 201,
+                "summary": "Negative w/ Symptoms"
+            },
+            "romanized": "Apnar covid swab porikkha negative ashle o jodi apnar shordi, kashi, jor-er moto lokkhon thake, apnake alada jaygae rakha hobe.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_10_P8VlsG5.m4a",
+            "content": "আপনি একটু পরেই ফিরে যেতে পারবেন।",
+            "id": 52,
+            "language": "Bengali",
+            "phrase": {
+                "content": "You can go back soon.",
+                "id": 52,
+                "summary": "Can go back"
+            },
+            "romanized": "Apni ektu porei fire jete parben.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_11_hJvX47z.m4a",
+            "content": "এখানে অপেক্ষা করুন, আপাতত এখান থেকে চলে যাবেন না",
+            "id": 53,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Wait here, do not leave this area",
+                "id": 53,
+                "summary": "Wait Patient"
+            },
+            "romanized": "Ekhane opekkha korun, apatoto ekhan theke chole jaben na.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_12_Ps3O57p.m4a",
+            "content": "আপনাকে কিছুদিন হাসপাতালে থাকতে হবে।",
+            "id": 54,
+            "language": "Bengali",
+            "phrase": {
+                "content": "You have to stay in the hospital for a few days",
+                "id": 54,
+                "summary": "Hospital Stay"
+            },
+            "romanized": "Apnake kichudin hashpatal/hospital e thakte hobe.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_13_oqbjBya.m4a",
+            "content": "আমি আপনাকে ওষুধ দেব। তাতে আপনি আরাম বোধ করবেন।",
+            "id": 55,
+            "language": "Bengali",
+            "phrase": {
+                "content": "I'll give you medicine to make you feel better",
+                "id": 55,
+                "summary": "Medicine"
+            },
+            "romanized": "Ami apnake oshudh dibo. Taate apni aaram bodh korben.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_14_Hf8Eqie.m4a",
+            "content": "পরবর্তী ৫ দিন আপনার কাজ করা উচিত নয়।",
+            "id": 56,
+            "language": "Bengali",
+            "phrase": {
+                "content": "You must not work for the next 5 days.",
+                "id": 56,
+                "summary": "No work 5 days"
+            },
+            "romanized": "Poroborti paach (5) din apnar kaaj kora uchit noy.",
+            "special_note": "(See sidebar for more translation on quarantine measures)"
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4c6a576f35718eb465d002d239b7848b.mp3",
+            "content": "আপনার শ্বাস কষ্ট হলে, আপনাকে অবশ্যই ফেরত আসতে হবে।",
+            "id": 57,
+            "language": "Bengali",
+            "phrase": {
+                "content": "You must come back if you have problems with breathing.",
+                "id": 57,
+                "summary": "Problem after 5 days"
+            },
+            "romanized": "Apnar shaash koshto hole, apnake obosshoy ferot aashte hobe.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d412da4e4ab6d4387e03b34b8641efe5.mp3",
+            "content": "৫ দিন পরেও যদি আপনি সম্পুর্ণ সুস্থ না হন তবে অবশ্যই ফেরত আসতে হবে।",
+            "id": 601,
+            "language": "Bengali",
+            "phrase": {
+                "content": "You must come back if you do not recover completely after 5 days.",
+                "id": 151,
+                "summary": "Come back 5 days"
+            },
+            "romanized": "Paach din poreo jodi apni shompurno shustho na hon tobe obosshoi ferot aashte hobe.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_16.m4a",
+            "content": "কাগজটা ভাল করে পড়ুন।",
+            "id": 58,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Read the handout carefully",
+                "id": 58,
+                "summary": "Handout"
+            },
+            "romanized": "Kogojta bhalo kore porun.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_17.m4a",
+            "content": "ধন্যবাদ, dhonnobad",
+            "id": 59,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Thank you",
+                "id": 59,
+                "summary": "Thank you"
+            },
+            "romanized": "Dhonnobaad",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3de4b906cb25cf288ccbd7661c356a46.mp3",
+            "content": "কোভিড-১৯ এর লক্ষণগুলো ১০ দিন পর্যন্ত থাকতে পারে।",
+            "id": 3104,
+            "language": "Bengali",
+            "phrase": {
+                "content": "COVID symptoms can last up to 10 days.",
+                "id": 214,
+                "summary": "Symptom 10D"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/dcefa3c0e539cd6269865602ae808a6f_jmigRU9.mp3",
+            "content": "গণপরিবহন না নেওয়ার চেষ্টা করুন।",
+            "id": 1297,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Please avoid public transport.",
+                "id": 166,
+                "summary": "Transport"
+            },
+            "romanized": "Gonoporibohon na newar cheshta korun.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/26b915a345a37df8241731f08be23d10_SxhQMjn.mp3",
+            "content": "আপনার নিজস্ব পরিবহণ, যেমন ট্যাক্সি বা একটি ভাড়া গাড়ি নিতে পারেন।",
+            "id": 1298,
+            "language": "Bengali",
+            "phrase": {
+                "content": "You can take your own private transport, a taxi or a private hire car.",
+                "id": 167,
+                "summary": "Take Taxi"
+            },
+            "romanized": "Apnar nijossho poribohon, jemon taxi ba ekti bhara gari nite paren.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d10f8f48dc504e8750396120ce9895b2.mp3",
+            "content": "একটি মাস্ক পরুন এবং গাড়ীর পিছনের সিটে একা বসে থাকুন।",
+            "id": 1299,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Wear a mask and sit alone in the back seat in the car.",
+                "id": 168,
+                "summary": "In Car"
+            },
+            "romanized": "Ekti mask porun ebong garir pichoner seat-e eka boshe thakun.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/edf8942ea3122ade60f042c6841551e2_RInp7jJ.mp3",
+            "content": "গাড়ির জানালা খুলুন এবং এ-সি বন্ধ করুন।",
+            "id": 1300,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Open car windows and turn off air-conditioning.",
+                "id": 169,
+                "summary": "No AC"
+            },
+            "romanized": "Garir janala khulun ebong A-C bondho korun.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6c52fc221d7c8623750539fe98086985.mp3",
+            "content": "ট্যাক্সি বা ব্যক্তিগত ভাড়া গাড়ি থেকে রশিদটি নিরাপদে রাখুন। যদি আপনার পরীক্ষার ফলাফলগুলি আপনাকে সংক্রামিত নির্দেশ করে তবে এটির প্রয়োজন হবে।",
+            "id": 1301,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Please safely keep the receipt from the taxi or private hire car. If your test results indicate you are infected, this will be needed.",
+                "id": 170,
+                "summary": "Receipt"
+            },
+            "romanized": "Taxi ba bektigoto bhaara gari theke roshidti nirapod rakhun. Jodi apnar porikkhar folafolguli apnake shongkramito nirdesh kore tobe etir proyojon hobe.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/9eee22a650c2e8b151dbf45fcd177875.mp3",
+            "content": "অন্যের থেকে দূরে থাকুন। আপনার অবশ্যই বাড়িতে থাকতে হবে এবং মেডিকেল ছুটিতে থাকার সময় বাইরে যেতে পারবেন না। আপনি কেবল স্বাস্থ্য বা চিকিত্সার কারণে বাইরে যেতে পারেন।",
+            "id": 1302,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Stay away from others. You must stay home and can not go outside while being on medical leave. You may only go out for health or medical reasons.",
+                "id": 171,
+                "summary": "Isolation"
+            },
+            "romanized": "Onner theke dure thakun. Apnar obosshoi barite thakte hobe ebong medical chuti-te thakar shomoye baere jete parben na. Apni kebol shastho ba chikitshar karone bayre jete parben.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b4bc15c2106532c6f37e3e1b7248efe1_gnrv5JC.mp3",
+            "content": "আপনার পরীক্ষার ফলাফল পাওয়ার আগে যদি আপনার কোনও মেডিকেল অ্যাপয়েন্টমেন্টের প্রয়োজন হয় তবে সাবধান হন। চিকিত্সক, নার্স বা অন্যান্য কর্মীদের বলুন যে আপনি সম্প্রতি COVID-19 এর জন্য পরীক্ষা করেছেন। এছাড়াও, তাদের আপনার লক্ষণগুলি সম্পর্কে বলুন। দিনের আগে, তাদের জানানোর জন্য আপনার কল করা উচিত 6344 8222।",
+            "id": 1303,
+            "language": "Bengali",
+            "phrase": {
+                "content": "If you need to go for any medical appointment before you get your test result, be careful. Tell the doctor, nurse, or other staff that you were recently tested for COVID-19. Also, tell them about your symptoms. Before the day, you should call 6344 8222 to inform them.",
+                "id": 172,
+                "summary": "Medical Appointment"
+            },
+            "romanized": "Apnar porikkhar folafol pawar aage jodi apnar kono medical appointment-er proyojon hoy , tobe shabdhaan hon. Chikitshok, nurse ba onnanno kormider bolun je apni shomproti COVID-19 er jonno porikkha korechen. Echarao, taader apnar lokkhonguli shomporke bolun. Diner aage, taader jananor jonno apnar call kora uchit \"choy-tin-char-char aat-dui-dui-dui\"",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_1_DwnY2pe.mp3",
+            "content": "আপনার কোভিড পরীক্ষা করা হয়েছে এবং আপনার কোভিড হয়েছে",
+            "id": 60,
+            "language": "Bengali",
+            "phrase": {
+                "content": "You have tested positive for coronavirus.",
+                "id": 60,
+                "summary": "Tested Positive"
+            },
+            "romanized": "Apnar COVID porikkha kora hoyeche ebong apnar COVID hoyeche.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/de0164f6096533e2443c3a8171adca6c_9Lv3qjP.mp3",
+            "content": "আমরা আপনাকে হাসপাতালে নিয়ে যাবো",
+            "id": 61,
+            "language": "Bengali",
+            "phrase": {
+                "content": "We will take you to the hospital.",
+                "id": 61,
+                "summary": "Hospital Admission"
+            },
+            "romanized": "Amra apnake haashpatale niye jabo.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_1_h3AFgRK.mp3",
+            "content": "আমরা আপনাকে আলাদা করে রাখতে অন্য এক জায়গায় নিয়ে যাবো",
+            "id": 62,
+            "language": "Bengali",
+            "phrase": {
+                "content": "We will transfer you to an isolation facility.",
+                "id": 62,
+                "summary": "Isolation Facility"
+            },
+            "romanized": "Amra apnake aalada kore rakhte onno jaegae niye jabo.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0f2ae9c254739475004f46232c670f53_RlIn86T.mp3",
+            "content": "গুড মর্নিং",
+            "id": 190,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Good morning",
+                "id": 64,
+                "summary": "Morning"
+            },
+            "romanized": "Good morning.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/cef49478bb82fb8cbbf4c6f45691641e_CG3E2cQ.mp3",
+            "content": "গুড ইভ্নিং",
+            "id": 1474,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Good Evening",
+                "id": 173,
+                "summary": "Evening"
+            },
+            "romanized": "Good evening.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/61ba3f1ccf7eddc4d55f3fb6962b7338_eTrTiuH.mp3",
+            "content": "গুড আফটার্নুন",
+            "id": 1481,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Good Afternoon",
+                "id": 174,
+                "summary": "Afternoon"
+            },
+            "romanized": "Good afternoon.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0b2695023a6057f3713106ae9befe566.mp3",
+            "content": "আমি নার্স",
+            "id": 191,
+            "language": "Bengali",
+            "phrase": {
+                "content": "I am the nurse",
+                "id": 65,
+                "summary": "Nurse"
+            },
+            "romanized": "Ami nurse.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7b8008b8e415dd2028f6531db5501bb9.mp3",
+            "content": "আমি ডাক্তার",
+            "id": 192,
+            "language": "Bengali",
+            "phrase": {
+                "content": "I am the doctor",
+                "id": 66,
+                "summary": "Doctor"
+            },
+            "romanized": "Ami dactar / doctor.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/728b54e46b135167d0a542e0d3a12509_loj2gPH.mp3",
+            "content": "আপনি এখন আইসিইউতে।",
+            "id": 193,
+            "language": "Bengali",
+            "phrase": {
+                "content": "You are in the intensive care unit.",
+                "id": 67,
+                "summary": "In ICU"
+            },
+            "romanized": "Apni ekhon ICU te.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b4f3e8f64ce5dea2ac7be53cefcf4f2e.mp3",
+            "content": "আজ সোমবার",
+            "id": 194,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Today is Monday",
+                "id": 68,
+                "summary": "Monday"
+            },
+            "romanized": "Aj shombar.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/da2c92e9a867f6220ec490e0a337c5a1.mp3",
+            "content": "আজ মঙ্গলবার",
+            "id": 195,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Today is Tuesday",
+                "id": 69,
+                "summary": "Tuesday"
+            },
+            "romanized": "Aj monggolbar.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/67692dbaf3f92e2840e82594acd01cc3.mp3",
+            "content": "আজ বুধবার",
+            "id": 196,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Today is Wednesday",
+                "id": 70,
+                "summary": "Wednesday"
+            },
+            "romanized": "Aj budhbar.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0f3b0f5969bf0df6aa3e4195f6999455.mp3",
+            "content": "আজ বৃহস্পতিবার",
+            "id": 197,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Today is Thursday",
+                "id": 71,
+                "summary": "Thursday"
+            },
+            "romanized": "Aj brihoshpotibar.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/70d5ba5eb0521d0e8bd921e2827f1bba.mp3",
+            "content": "আজ শুক্রবার",
+            "id": 198,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Today is Friday",
+                "id": 72,
+                "summary": "Friday"
+            },
+            "romanized": "Aj shukrobar.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/323438cf2f41cec3ec200e0b978fa4cb.mp3",
+            "content": "আজ শনিবার",
+            "id": 199,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Today is Saturday",
+                "id": 73,
+                "summary": "Saturday"
+            },
+            "romanized": "Aj shonibar.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7de8c8d3df4f01ad07f409955e4febff.mp3",
+            "content": "আজ রবিবার",
+            "id": 200,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Today is Sunday",
+                "id": 74,
+                "summary": "Sunday"
+            },
+            "romanized": "Aj robibar.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/829f75bb352f6c3ef604874ade80059c.mp3",
+            "content": "আপনি ভাল হয়ে উঠছেন",
+            "id": 609,
+            "language": "Bengali",
+            "phrase": {
+                "content": "You are getting better",
+                "id": 153,
+                "summary": "Getting Better"
+            },
+            "romanized": "Apni bhalo hoye uthchen.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/57b92508d9053732cc3cd781c24472f5_bwptFML.mp3",
+            "content": "আপনি যখন ভাল হবেন তখন আমরা শ্বাস নলটি সরিয়ে ফেলব",
+            "id": 201,
+            "language": "Bengali",
+            "phrase": {
+                "content": "We will remove the breathing tube when you are better",
+                "id": 75,
+                "summary": "Remove Tube Later"
+            },
+            "romanized": "Apni jokhon bhalo hoben tokhon amra shash nolti shoriye felbo.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f762a024f10c5d0d30f91bc9c1e8e1aa_U78Vtya.mp3",
+            "content": "শ্বাস নলটি বের করার পরে আপনি কথা বলতে পারেন",
+            "id": 202,
+            "language": "Bengali",
+            "phrase": {
+                "content": "You can talk after we remove the breathing tube",
+                "id": 76,
+                "summary": "Can Talk as Remove"
+            },
+            "romanized": "Shash nol ti ber korar pore apni kotha bolte paren.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/baca0f38e6b644b7703007f1fcb3f8e8.mp3",
+            "content": "একটা গভীর শ্বাস নাও",
+            "id": 203,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Take a deep breath",
+                "id": 77,
+                "summary": "Deep breath"
+            },
+            "romanized": "Ekta gobhir shash nao.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f3150dfa4597cdb0dc77cedb5a5e35eb.mp3",
+            "content": "আমাকে বড় কাশি দাও",
+            "id": 204,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Give me a big cough",
+                "id": 78,
+                "summary": "Big cough"
+            },
+            "romanized": "Amake boro kashi dao.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/68118b020245bc042600b9543c848848_ixpHO1Y.mp3",
+            "content": "বেশি নড়াচড়া করবেন না",
+            "id": 205,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Don’t struggle",
+                "id": 79,
+                "summary": "Don’t struggle"
+            },
+            "romanized": "Beshi norachora korben na",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/e1abaf96009cdda5128354a67110bdb2.mp3",
+            "content": "নড়বেন না",
+            "id": 206,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Don’t move",
+                "id": 80,
+                "summary": "Don’t move"
+            },
+            "romanized": "Norben na",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/9cc72f50039ac6f576b5344f6cb0855a_n8zywLC.mp3",
+            "content": "আপনার পুরো হাত তুলে দেন",
+            "id": 207,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Lift up your arm",
+                "id": 81,
+                "summary": "Lift up your arm"
+            },
+            "romanized": "Apnar puro haat tule den.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ecfddba1e4fb0211934b537dc422fdb6.mp3",
+            "content": "আপনার পা উপরে তুলুন",
+            "id": 208,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Lift up your leg",
+                "id": 82,
+                "summary": "Lift up your leg"
+            },
+            "romanized": "Apnar pa upore tulun.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/00e71c1aff8d904a7bc4ea15d5fd2179.mp3",
+            "content": "আমার হাত চেপে ধরুন",
+            "id": 209,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Squeeze my hand",
+                "id": 83,
+                "summary": "Squeeze my hand"
+            },
+            "romanized": "Amar haat chepe dhorun.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/bf77c4a4b729180b464d9db0af6c3c8b.mp3",
+            "content": "আমাকে দুটি আঙুল দেখান",
+            "id": 210,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Show me two fingers",
+                "id": 84,
+                "summary": "Show two fingers"
+            },
+            "romanized": "Amake duti angul dekhan.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/311ff0464f1eb8690b04170171d8a009.mp3",
+            "content": "আপনার মুখ খুলুন",
+            "id": 211,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Open your mouth",
+                "id": 85,
+                "summary": "Open mouth"
+            },
+            "romanized": "Apnar mukh khulun.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/40de1fa4f8efd1bdb8f40a6ee43ba0a4_fxCmQ6E.mp3",
+            "content": "আপনার জিহ্বা বার করেন",
+            "id": 212,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Stick out your tongue",
+                "id": 86,
+                "summary": "Stick out tongue"
+            },
+            "romanized": "Apnar jibba ber koren.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d7b17c1527946c450642f55bf912657c.mp3",
+            "content": "তোমার চোখ খোল",
+            "id": 213,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Open your eyes",
+                "id": 87,
+                "summary": "Open eyes"
+            },
+            "romanized": "Tomar chokh kholo.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/04fa57292deee588d53b6239d4997a53.mp3",
+            "content": "আমি আপনার চোখে একটি আলো জ্বলতে যাচ্ছি। উজ্জ্বল হবে।",
+            "id": 214,
+            "language": "Bengali",
+            "phrase": {
+                "content": "I’m going to shine a light into your eyes. It will be bright.",
+                "id": 88,
+                "summary": "Shine a light into your eyes"
+            },
+            "romanized": "Ami apnar chokhe ekti aalo jolte jaacchi. Ujjol hobe.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/820b659115ff95abaeccbe7ebb14a9f6.mp3",
+            "content": "আপনার ফুসফুস দুর্বল। আপনাকে শ্বাস নিতে সহায়তা করার জন্য আমরা একটি শ্বাস নল ব্যবহার করতে যাচ্ছি",
+            "id": 215,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Your lungs are weak. We are going to insert a breathing tube to help you breathe",
+                "id": 89,
+                "summary": "Insert a breathing tube"
+            },
+            "romanized": "Apnar fushfush durbol. Apnake shash nite shohayota korar jonno amra ekti shash nol bebohar korte jacchi.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/35b757535b31a9253a8b12b18e942f5c.mp3",
+            "content": "আপনি এখন ঘুমাতে যাচ্ছেন",
+            "id": 216,
+            "language": "Bengali",
+            "phrase": {
+                "content": "You are going to sleep now",
+                "id": 90,
+                "summary": "Sleep"
+            },
+            "romanized": "Apni ekhon ghumate jacchhen.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/66ae1d368affa50a62c1b940c19aab0b.mp3",
+            "content": "আপনার ফুসফুসগুলি প্রসারণে সহায়তা করতে আমরা আপনাকে আপনার পেটের দিকে ঝুঁকছি",
+            "id": 217,
+            "language": "Bengali",
+            "phrase": {
+                "content": "We are turning you onto your belly to help your lungs expand",
+                "id": 91,
+                "summary": "Turn onto belly"
+            },
+            "romanized": "Apnar fushfushguli prosharon shohaeta korte amra apnake peter dike jhukchi.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/53219019c961ae34ed634b05b892cad2_01t66mn.mp3",
+            "content": "আপনাকে প্রস্রাব করতে সহায়তা করার জন্য আমরা একটি নল ঢোকাচ্ছি ।",
+            "id": 218,
+            "language": "Bengali",
+            "phrase": {
+                "content": "We are inserting a tube to help you pass urine",
+                "id": 92,
+                "summary": "Insert tube urine"
+            },
+            "romanized": "Apnake prosrab korte shohaeta korar jonno amra ekti nol dhokhacchi.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8e71875f83831275e83bbb451f114611_njgACnT.mp3",
+            "content": "আমরা আপনার নাক দিয়ে একটি নল ঢোকাচ্ছি ।",
+            "id": 219,
+            "language": "Bengali",
+            "phrase": {
+                "content": "We are inserting a tube through your nose",
+                "id": 93,
+                "summary": "Insert tube nose"
+            },
+            "romanized": "Amra apnar naak diye ekti nol dhokhacchi.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0bda28066603783fafe59e9e6b814740.mp3",
+            "content": "আপনাকে ওষুধ দেওয়ার জন্য আমরা আপনাকে আপনার গলায় একটি ইঞ্জেকশন দিতে যাচ্ছি",
+            "id": 220,
+            "language": "Bengali",
+            "phrase": {
+                "content": "We are going to give you an injection in your neck to give you medications",
+                "id": 94,
+                "summary": "Injection in Neck"
+            },
+            "romanized": "Apnake oshudh dewar jonno amra apnake apnar golae ekti injectiondite jacchi.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/578c86a10c962c248a023fe8a676b6d0.mp3",
+            "content": "আপনার রক্তচাপ পরিমাপ করতে আমরা আপনাকে আপনার বাহুতে একটি ইঞ্জেকশন দিতে যাচ্ছি",
+            "id": 221,
+            "language": "Bengali",
+            "phrase": {
+                "content": "We are going to give you an injection in your arm to measure your blood pressure",
+                "id": 95,
+                "summary": "Measure Blood Pressure"
+            },
+            "romanized": "Apnar roktochaap porimap korte amra apnar bahute ekti injection dite jacchi.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/04bd721f59532b7de81fbcbd114da1f1.mp3",
+            "content": "আমরা আপনাকে ঘুমের ওষুধ দেব।",
+            "id": 222,
+            "language": "Bengali",
+            "phrase": {
+                "content": "We will give you sleeping medications.",
+                "id": 96,
+                "summary": "Sleeping Meds"
+            },
+            "romanized": "Amra apnake ghumer oshudh debo.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/fa3959731f7adb9bc5089f43bd7881bb_VIEVgXR.mp3",
+            "content": "আমরা আপনাকে ব্যাথা কমানোর ওষুধ দেব।",
+            "id": 223,
+            "language": "Bengali",
+            "phrase": {
+                "content": "We will give you painkillers.",
+                "id": 97,
+                "summary": "Painkillers"
+            },
+            "romanized": "Amra apnake betha komanor oshudh debo.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4a90254fece2da8f062ccbceffbf4b6c.mp3",
+            "content": "আপনার রক্তচাপ ধরে রাখার জন্য আমরা আপনাকে ওষুধ দিচ্ছি।",
+            "id": 224,
+            "language": "Bengali",
+            "phrase": {
+                "content": "We are giving you medication to keep your blood pressure up.",
+                "id": 98,
+                "summary": "Blood Pressure Medication"
+            },
+            "romanized": "Apnar roktochaap dhore rakhar jonno amra apnake oshudh dicchi.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/9a46cf29dd038bb30777f5117247c1e5_ehF3IAA.mp3",
+            "content": "আমরা শ্বাস নল বের করতে যাচ্ছি।",
+            "id": 225,
+            "language": "Bengali",
+            "phrase": {
+                "content": "We are going to remove the breathing tube.",
+                "id": 99,
+                "summary": "Remove Tube"
+            },
+            "romanized": "Amra shaash nol ber korte jacchi.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b3027c2e01fc4f436b3d0c1f6c8ca43a.mp3",
+            "content": "আমরা আপনার কফ চুষতে যাচ্ছি",
+            "id": 226,
+            "language": "Bengali",
+            "phrase": {
+                "content": "We are going to suck out your phlegm",
+                "id": 100,
+                "summary": "Phlegm suck out"
+            },
+            "romanized": "Amra apnar cough chushte jacchi",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ab869f12d5fa9d633e2711532b7ef115.mp3",
+            "content": "আমরা আপনাকে স্পঞ্জ দিয়ে পরিষ্কার করতে যাচ্ছি",
+            "id": 227,
+            "language": "Bengali",
+            "phrase": {
+                "content": "We are going to clean you with a sponge",
+                "id": 101,
+                "summary": "Clean with sponge"
+            },
+            "romanized": "Amra apnake sponge diye porishkar korte jacchi.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1_tsNuaBo.mp3",
+            "content": "বাম দিকে ঘুরুন",
+            "id": 228,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Turn left",
+                "id": 102,
+                "summary": "​Turn left"
+            },
+            "romanized": "Baam dike ghurun.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/2_L0na4D2.mp3",
+            "content": "ডান দিকে ঘুরুন",
+            "id": 229,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Turn right",
+                "id": 103,
+                "summary": "Turn right"
+            },
+            "romanized": "Daan dike ghurun.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3_CmOxNnf.mp3",
+            "content": "আমরা আপনার ডায়াপার পরিবর্তন করব",
+            "id": 230,
+            "language": "Bengali",
+            "phrase": {
+                "content": "We will change your diapers",
+                "id": 104,
+                "summary": "We will change your diapers"
+            },
+            "romanized": "Amra apnar diaper poriborton korbo.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4_n3sTPlX.mp3",
+            "content": "আপনার পা উপরে তুলুন",
+            "id": 231,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Lift up your leg",
+                "id": 105,
+                "summary": "Lift up your leg"
+            },
+            "romanized": "Apnar pa upore tulun.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5_tjOUYgZ.mp3",
+            "content": "আমরা আপনাকে বসতে যাচ্ছি",
+            "id": 232,
+            "language": "Bengali",
+            "phrase": {
+                "content": "We are going to sit you up",
+                "id": 106,
+                "summary": "We are going to sit you up"
+            },
+            "romanized": "Amra apnake boshate jacchi.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6_QbAZwBL.mp3",
+            "content": "আমরা আপনাকে বিছানার উপর দিকে সরাতে যাচ্ছি",
+            "id": 233,
+            "language": "Bengali",
+            "phrase": {
+                "content": "We are going to shift you up the bed",
+                "id": 107,
+                "summary": "Shift head"
+            },
+            "romanized": "Amra apnake bichhanar upor dike shorate jacchi.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7.mp3",
+            "content": "আমরা আপনার মুখ পরিষ্কার করতে যাচ্ছি",
+            "id": 234,
+            "language": "Bengali",
+            "phrase": {
+                "content": "We are going to clean your mouth",
+                "id": 108,
+                "summary": "Clean mouth"
+            },
+            "romanized": "Amra apnar mukh porishkar korte jacchi.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8.mp3",
+            "content": "গারগল গিলবেন না",
+            "id": 235,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Do not swallow the gargle",
+                "id": 109,
+                "summary": "Dont swallow"
+            },
+            "romanized": "Gargle gilben na.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1_KmhFtCs.mp3",
+            "content": "আপনার কি ব্যথা করছে?",
+            "id": 236,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Are you in pain?",
+                "id": 110,
+                "summary": "Are you in pain?"
+            },
+            "romanized": "Apnar ki betha korche?",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/2_gwWQIZY.mp3",
+            "content": "কোথায় ব্যথা লাগছে?",
+            "id": 237,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Where is the pain?",
+                "id": 111,
+                "summary": "Where is the pain?"
+            },
+            "romanized": "Kothae betha lagchhe?",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3_D7Ri3k7.mp3",
+            "content": "এটা কি হালকা, মাঝারি বা মারাত্মক?",
+            "id": 238,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Is it mild, moderate or severe?",
+                "id": 112,
+                "summary": "Is it mild, moderate or severe?"
+            },
+            "romanized": "Eta ki halka, majhari, ba marattok?",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4_bCKaYYk.mp3",
+            "content": "আপনার ব্যাথা কোথায় হাত দিয়ে দেখাতে পারবেন?",
+            "id": 239,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Can you point to the pain?",
+                "id": 113,
+                "summary": "Can you point to the pain?"
+            },
+            "romanized": "Apnar Bya-tha kothay, haat di-ye dekha-te parben?",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/26281ef696541cec8a86e43e587674f7.mp3",
+            "content": "মাথা",
+            "id": 240,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Head",
+                "id": 114,
+                "summary": "Head"
+            },
+            "romanized": "Matha",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/2fce6fde4eafd99d3d370ddbc63d846e.mp3",
+            "content": "চোখ",
+            "id": 241,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Eyes",
+                "id": 115,
+                "summary": "Eyes"
+            },
+            "romanized": "Chokh",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4ed6bc00809e443e6ec28e42acb7edfd.mp3",
+            "content": "কান",
+            "id": 242,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Ears",
+                "id": 116,
+                "summary": "Ears"
+            },
+            "romanized": "Kaan",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/66f701bb7effd637fc3098461bc1373e.mp3",
+            "content": "নাক",
+            "id": 243,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Nose",
+                "id": 117,
+                "summary": "Nose"
+            },
+            "romanized": "Naak",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a6dfdf6b2e84b115babba64eef22e679.mp3",
+            "content": "মুখ",
+            "id": 244,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Mouth",
+                "id": 118,
+                "summary": "Mouth"
+            },
+            "romanized": "Mukh",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3a63e60ae1c4feda147b29980d70ed79.mp3",
+            "content": "গলা",
+            "id": 245,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Throat",
+                "id": 119,
+                "summary": "Throat"
+            },
+            "romanized": "Gola",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1cc030fedd6c37070cd946880d88b730.mp3",
+            "content": "বুক",
+            "id": 246,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Chest",
+                "id": 120,
+                "summary": "Chest"
+            },
+            "romanized": "Book",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5d1288d4947e410c7587f0e6f7d21f18.mp3",
+            "content": "উদর",
+            "id": 247,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Abdomen",
+                "id": 121,
+                "summary": "Abdomen"
+            },
+            "romanized": "Oodor",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1a5d01f05e374b7016da86198e5b4c5d.mp3",
+            "content": "পেছনে",
+            "id": 248,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Back",
+                "id": 122,
+                "summary": "Back"
+            },
+            "romanized": "Pechone",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/60cf1321a7959bc2a6b664e6761b9d18.mp3",
+            "content": "হাত বা আর্ম",
+            "id": 249,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Hand or Arm",
+                "id": 123,
+                "summary": "Arms"
+            },
+            "romanized": "Haat / Arm",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/de5c34f305ee10dbb59b679e9f697fd3.mp3",
+            "content": "পাগুলো",
+            "id": 250,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Legs",
+                "id": 124,
+                "summary": "Legs"
+            },
+            "romanized": "Paa-gulo",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c243e3b782f7576a73347d82d65efd73.mp3",
+            "content": "পা দুটো",
+            "id": 251,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Feet",
+                "id": 125,
+                "summary": "Feet"
+            },
+            "romanized": "Pa duto",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/25e301a00a53a5fa645e113f4919017f_ZxUu916.mp3",
+            "content": "এক",
+            "id": 252,
+            "language": "Bengali",
+            "phrase": {
+                "content": "1",
+                "id": 126,
+                "summary": "1"
+            },
+            "romanized": "Ek",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b34d2b7ef5c39e81c9d7bd4aea3e243b_ZootpXv.mp3",
+            "content": "দুই",
+            "id": 253,
+            "language": "Bengali",
+            "phrase": {
+                "content": "2",
+                "id": 127,
+                "summary": "2"
+            },
+            "romanized": "Dui",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/af1bae251429f096f5967d92b9c76fc7_CBAnCE4.mp3",
+            "content": "তিন",
+            "id": 254,
+            "language": "Bengali",
+            "phrase": {
+                "content": "3",
+                "id": 128,
+                "summary": "3"
+            },
+            "romanized": "Tin",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/bdadaa9ba2a705e54a10f4e02636e03c_m6JK7rD.mp3",
+            "content": "চার",
+            "id": 255,
+            "language": "Bengali",
+            "phrase": {
+                "content": "4",
+                "id": 129,
+                "summary": "4"
+            },
+            "romanized": "Char",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3165822d41e76b0cf094005c3f0f32c3_d2imTOU.mp3",
+            "content": "পাঁচ",
+            "id": 256,
+            "language": "Bengali",
+            "phrase": {
+                "content": "5",
+                "id": 130,
+                "summary": "5"
+            },
+            "romanized": "Paach",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c67dcc176107ec492073bcd6bc7c2c31_xGla8he.mp3",
+            "content": "ছয়",
+            "id": 257,
+            "language": "Bengali",
+            "phrase": {
+                "content": "6",
+                "id": 131,
+                "summary": "6"
+            },
+            "romanized": "Choy",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/e1d095fe6568cefbd08c52cdf4421d4a_wK8cZyE.mp3",
+            "content": "সাত",
+            "id": 258,
+            "language": "Bengali",
+            "phrase": {
+                "content": "7",
+                "id": 132,
+                "summary": "7"
+            },
+            "romanized": "Shaat",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/2be79c681b83986aa7242f512ed3c201_6YE3Ibw.mp3",
+            "content": "আট",
+            "id": 259,
+            "language": "Bengali",
+            "phrase": {
+                "content": "8",
+                "id": 133,
+                "summary": "8"
+            },
+            "romanized": "Aat",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/fdea6a1ddadac6d444f2ae2ad05ff72b_QMwdP3i.mp3",
+            "content": "নয়",
+            "id": 260,
+            "language": "Bengali",
+            "phrase": {
+                "content": "9",
+                "id": 134,
+                "summary": "9"
+            },
+            "romanized": "Noy",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0f9b898498c3468dcefcbe50aa994026_upgLWtv.mp3",
+            "content": "দশ",
+            "id": 261,
+            "language": "Bengali",
+            "phrase": {
+                "content": "10",
+                "id": 135,
+                "summary": "10"
+            },
+            "romanized": "Dosh",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a6be8fd613d6b1631faf11d86f97e532_W2peURN.mp3",
+            "content": "শূন্য",
+            "id": 262,
+            "language": "Bengali",
+            "phrase": {
+                "content": "0",
+                "id": 136,
+                "summary": "0"
+            },
+            "romanized": "Shunno",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/704e0ea10fe4d6e06f550a77da90425a.mp3",
+            "content": "জানুয়ারী",
+            "id": 263,
+            "language": "Bengali",
+            "phrase": {
+                "content": "January",
+                "id": 137,
+                "summary": "January"
+            },
+            "romanized": "January",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/257fa9274779943102e93a10bb927cbc.mp3",
+            "content": "ফেব্রুয়ারী",
+            "id": 264,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Feb",
+                "id": 138,
+                "summary": "Feb"
+            },
+            "romanized": "February",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/55d56007563c82f265f084678e31229c.mp3",
+            "content": "মার্চ",
+            "id": 265,
+            "language": "Bengali",
+            "phrase": {
+                "content": "March",
+                "id": 139,
+                "summary": "March"
+            },
+            "romanized": "March",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/bc2498d80f62221843653dea6595e35d.mp3",
+            "content": "এপ্রিল",
+            "id": 266,
+            "language": "Bengali",
+            "phrase": {
+                "content": "April",
+                "id": 140,
+                "summary": "April"
+            },
+            "romanized": "April",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/87ec7fbfec8ad5dda6e8fa79cc47dfb0.mp3",
+            "content": "মে",
+            "id": 267,
+            "language": "Bengali",
+            "phrase": {
+                "content": "May",
+                "id": 141,
+                "summary": "May"
+            },
+            "romanized": "May",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c001a5307ffab77fdb3b2477dcd801bb.mp3",
+            "content": "জুন",
+            "id": 268,
+            "language": "Bengali",
+            "phrase": {
+                "content": "June",
+                "id": 142,
+                "summary": "June"
+            },
+            "romanized": "June",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c1045f20c35c6d15bcb1a10f4cdd9916.mp3",
+            "content": "জুলাই",
+            "id": 269,
+            "language": "Bengali",
+            "phrase": {
+                "content": "July",
+                "id": 143,
+                "summary": "July"
+            },
+            "romanized": "July",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c282543256c007e00373bc94035227ca.mp3",
+            "content": "অগাস্ট",
+            "id": 270,
+            "language": "Bengali",
+            "phrase": {
+                "content": "August",
+                "id": 144,
+                "summary": "August"
+            },
+            "romanized": "August",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/e63c1c23cb5d139c9844e85b554df50a.mp3",
+            "content": "সেপ্টেম্বর",
+            "id": 271,
+            "language": "Bengali",
+            "phrase": {
+                "content": "September",
+                "id": 145,
+                "summary": "September"
+            },
+            "romanized": "September",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/e68f1969ae97d2d07cc49f98f7d9e338.mp3",
+            "content": "অক্টোবর",
+            "id": 272,
+            "language": "Bengali",
+            "phrase": {
+                "content": "October",
+                "id": 146,
+                "summary": "October"
+            },
+            "romanized": "October",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/74256490b001515c12a8edd9fc9c244c.mp3",
+            "content": "নভেম্বর",
+            "id": 273,
+            "language": "Bengali",
+            "phrase": {
+                "content": "November",
+                "id": 147,
+                "summary": "November"
+            },
+            "romanized": "November",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c41aa9b8d66fb8804ba6d501bf746bb2.mp3",
+            "content": "ডিসেম্বর",
+            "id": 274,
+            "language": "Bengali",
+            "phrase": {
+                "content": "December",
+                "id": 148,
+                "summary": "December"
+            },
+            "romanized": "December",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/309cdce54278de548a0287c5bac0f708_XZKRepR.mp3",
+            "content": "বাড়িতে আলাদা ঘরে থাকুন। বাড়ির অন্যান্য সদস্যদের সাথে যোগাযোগ কমানোর জন্য রুমে একটি সংযুক্ত বাথরুম থাকলে এটি সবচেয়ে ভাল। যদি আপনি বাড়ির অন্যদের সাথে বাথরুম ব্যবহার করে থাকেন তাহলে আপনি বাথরুমটি ব্যবহার করার আগে ও পরে পরিষ্কার করা দরকার।",
+            "id": 1816,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Stay in a separate room at home. It is best if the room has an attached bathroom. This is to reduce contact with the other members of the house. If you are using a shared bathroom, the bathroom needs to be cleaned before or after you use it.",
+                "id": 176,
+                "summary": "Separate"
+            },
+            "romanized": "Barite alada ghore thakun. Barir onnanno shodosshoder shathe jogajog komanor jonno room e ekti shongjukto bathroom thakle eti shobcheye bhalo. Jodi apni barir onnoder shathe bebohar kore thaken tahole apni bathroomti bebohar korar aage o pore porishkar kora dorkar.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/25c85ba0a2184a66ecbe1109a65a3033_zmq5Htx.mp3",
+            "content": "খাবার, পানি এবং অন্যান্য সরবরাহ যেন আপনার ঘরের বাইরে রাখা হয় এটার ব্যবস্থা করে রাখুন। আপনাকে নিজেই সেই জিনিসগুলো আপনার ঘরে আনতে হবে।",
+            "id": 1817,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Arrange for food, water, and other supplies to be placed outside your room. You yourself have to bring those items into your room.",
+                "id": 177,
+                "summary": "Arrange"
+            },
+            "romanized": "Khabar, pani ebong onnanno shorboraho jeno apnar ghorer bayre rakha hoy, etar bebostha kore rakhun. Apnake nijei shei jinishgulo apnar ghore ante hobe.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/27dcaf0b29fa574dc60e9db985f35331_qQMYdmY.mp3",
+            "content": "যতক্ষণ আপনার সোয়াব টেস্ট-এর ফলাফল না জানেন, ততক্ষণ পর্যন্ত পরিবারের সদস্যদের সাথে আপনার যোগাযোগ কমাতে চেষ্টা করবেন। বিশেষ করে, বয়স্ক মানুষদের কাছে না যাওয়ার চেষ্টা করবেন।",
+            "id": 1818,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Until you know your swab test results, reduce your contact with family members. Especially, try not to get near older people.",
+                "id": 178,
+                "summary": "Elderly"
+            },
+            "romanized": "Jotokkhon apnar swab test er folafol na janen, totokkhon porjonto poribarer shodosshoder shathe apnar jogajog komate cheshta korben. Bishesh kore, boyoshko manushder kache na jawar cheshta korben.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4ec74c4df42f82a0e8807d6f9fa5aee0_FmuL9p8.mp3",
+            "content": "ভাল ব্যক্তিগত স্বাস্থ্যবিধি এবং পরিচ্ছন্নতার অভ্যাস রাখুন। নিয়মিতভাবে সাবান এবং পানি দিয়ে আপনার হাত ধুয়ে নিন। আপনার চোখ, নাক এবং মুখ না ধরার চেষ্টা করুন। কাশি বা হাঁচি দেওয়ার সময় অবশ্যই আপনার মুখটি ঢেকে রাখুন।",
+            "id": 1819,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Please maintain good personal hygiene. Wash your hands with soap and water frequently. Try not to touch your eyes, nose, and mouth. Always cover your mouth when coughing or sneezing.",
+                "id": 179,
+                "summary": "Hygine"
+            },
+            "romanized": "Bhalo bektigoto shasthobidhi ebong poricchhonotar obbhash rakhun. Niyomito bhabe shaban ebong pani diye apnar haat dhuye nin. Apnar chokh, nak, ebong mukh na dhorar cheshta korun. Kashi ba hachi dewar shomoy obosshhoi apnar mukhti dekhe rakhun.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/52bcdc46a65f4f40b6cd8b01daa8e029_iSTt72M.mp3",
+            "content": "দয়া করে অন্যদেরকে আপনার চামচ, কাঁটাচামচ, প্লেট, বাটি বা খাবার ব্যবহার করতে দিবেন না। আপনার তোয়ালের মতো নিজস্ব জিনিসপত্রও অন্যদের সাথে মিলাবেন না বা অন্যদের ব্যবহার করতে দিবেন না।",
+            "id": 1820,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Please prevent others from using your spoon, fork, plates, bowls, food. Also do not share personal hygiene items like your towel.",
+                "id": 180,
+                "summary": "Sharing"
+            },
+            "romanized": "Doya kore onnoderke apnar chamoch, katachamoch, plate, bati ba khabar bebohar korte diben na. Apnar towal er moto nijossho jinishpotro o onnoder shathe milaben na ba onnoder bebohar korte diben na.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/bf898a008bcf5c4cf7bbd6854a4d3a96_cEtzCsy.mp3",
+            "content": "আপনার জন্য নির্ধারিত ওষুধগুলো নিতে থাকুন (যদি দেওয়া হয়েছে)।",
+            "id": 1821,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Continue to take the medications prescribed for you (if any).",
+                "id": 181,
+                "summary": "Medication"
+            },
+            "romanized": "Apnar jonno nirdharito oshudhgulo nite thakun (jodi dewa hoyeche).",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ecd157328c4d2243e17554744e0d30d0_qioNNNX.mp3",
+            "content": "বেশী করে পানি পান করুন।",
+            "id": 1822,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Please drink a lot of water.",
+                "id": 182,
+                "summary": "Drink"
+            },
+            "romanized": "Beshi kore pani pan korun.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b026532151fb3be6f7feff00edfb80c7_gWX7CHG.mp3",
+            "content": "বাড়িতে আপনার তাপমাত্রা এবং লক্ষণগুলি পর্যবেক্ষণ করে থাকুন।",
+            "id": 1823,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Keep monitoring your temperature and symptoms at home.",
+                "id": 183,
+                "summary": "Monitor"
+            },
+            "romanized": "Barite apnar tapmatra ebong lokkhonguli porjobekkhon kore thakun.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/dcefa3c0e539cd6269865602ae808a6f_jmigRU9.mp3",
+            "content": "গণপরিবহন না নেওয়ার চেষ্টা করুন।",
+            "id": 1297,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Please avoid public transport.",
+                "id": 166,
+                "summary": "Transport"
+            },
+            "romanized": "Gonoporibohon na newar cheshta korun.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/26b915a345a37df8241731f08be23d10_SxhQMjn.mp3",
+            "content": "আপনার নিজস্ব পরিবহণ, যেমন ট্যাক্সি বা একটি ভাড়া গাড়ি নিতে পারেন।",
+            "id": 1298,
+            "language": "Bengali",
+            "phrase": {
+                "content": "You can take your own private transport, a taxi or a private hire car.",
+                "id": 167,
+                "summary": "Take Taxi"
+            },
+            "romanized": "Apnar nijossho poribohon, jemon taxi ba ekti bhara gari nite paren.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3164b63c9ad198de0e70ba848c9a89ae_idnEtZy.mp3",
+            "content": "যদি আপনার কাশি খারাপ হয়ে আসছে এবং শ্বাস নিতে কষ্ট হচ্ছে বা আপনার জ্বর অনবরত আটত্রিশ (৩৮) ডিগ্রি সেলসিয়াসের উপরেই রয়েছে",
+            "id": 1825,
+            "language": "Bengali",
+            "phrase": {
+                "content": "If your cough is getting worse and you feel breathless, or your fever is persistently above 38 degrees Celsius",
+                "id": 184,
+                "summary": "38C"
+            },
+            "romanized": "Jodi apnar kashi kharap hoye ashche ebong shash nite koshto hocche ba apnar jor onoboroto attrish (38) degrees celsius er uporey royeche",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7c062c4abee96c986b83bd7c19745e49.mp3",
+            "content": "একটি সার্জিক্যাল মাস্ক পরুন এবং আমাদের জরুরি বিভাগে আসুন।",
+            "id": 1824,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Wear a surgical mask and come to our Emergency Department.",
+                "id": 185,
+                "summary": "Mask"
+            },
+            "romanized": "Ekti surgical mask porun ebong amader joruri bibhage ashun.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f9d07214036293f82616a8f4970174de.mp3",
+            "content": "জরুরি পরিস্থিতিতে, অ্যাম্বুলেন্সের জন্য 995 এ কল করুন। অ্যাম্বুলেন্স অপারেটরকে জানান যে আপনাকে সম্প্রতি COVID-19 এর জন্য পরীক্ষা করা হয়েছিল এবং তাদের আপনার ভ্রমণের ইতিহাসও বলুন।",
+            "id": 1826,
+            "language": "Bengali",
+            "phrase": {
+                "content": "In an emergency situation, call 995 for an ambulance. Inform the ambulance operator that you were recently tested for COVID-19 and also tell them your travel history.",
+                "id": 187,
+                "summary": "Ambulance"
+            },
+            "romanized": "joruri poristhitite, ambulance-er jonno 995 call korun. Ambulance operator-ke janan je apnake shomproti COVID-19 er jonno porikkha kora hoyechilo ebong taderke apnar bhromon itihash-o bolun",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/997fb1123d2b0a0dc9819fd3b18e63b9_kLvlBCo.mp3",
+            "content": "1) রক্তচাপ কাফটি রিডার মেশিনের সাথে সংযুক্ত করুন।",
+            "id": 1827,
+            "language": "Bengali",
+            "phrase": {
+                "content": "1) Connect the blood pressure cuff to the reader machine.",
+                "id": 188,
+                "summary": ""
+            },
+            "romanized": "1) Roktochap cuff-ti reader machine-er shathe shongjukto korun",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4b11ef34576b5d96d35c9377a7bee39f_pdHltcF.mp3",
+            "content": "২) কাফের \"তীর\"টি আপনার বাহুর ভিতরের অংশে নীচের দিকে ইশারা করা উচিত।",
+            "id": 1828,
+            "language": "Bengali",
+            "phrase": {
+                "content": "2) The “arrow” on the the cuff should be pointing downwards on the inside of your arm.",
+                "id": 189,
+                "summary": ""
+            },
+            "romanized": "2) Cuff-er teer-ti apnar bahur bhitorer ongshe nicher dike ishara kora uchit.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d08f056570d07b15f0271ecbd8a254e8_BdnSxIY.mp3",
+            "content": "(!) কাফটি আপনার কনুইয়ের 1 থেকে 2 সেমি উপরে বসানো উচিত।",
+            "id": 1829,
+            "language": "Bengali",
+            "phrase": {
+                "content": "(!) The cuff should be positioned 1 to 2 cm above your elbow joint.",
+                "id": 190,
+                "summary": ""
+            },
+            "romanized": "(!) Cuff-ti apnar konuyer ek theke dui centimetre upore boshano uchit.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/9e5a33367dc573cc09705f46c19ef857_2gjt7Id.mp3",
+            "content": "3) বিপি কাফটি আপনার বাহুতে খুব সহজেই ফিট করা উচিত। এটি ঢিলা হওয়া উচিত নয়। ফিট করার জন্য বাম হাতের ১-টি আঙুলের জন্য যথেষ্ট জায়গা রেখে দিন (ভাল গেজের জন্য) ।",
+            "id": 1830,
+            "language": "Bengali",
+            "phrase": {
+                "content": "3) The BP cuff should fit snugly onto your arm. It should not feel loose. Leave some space enough for 1 left finger to fit in (for good gauge)",
+                "id": 191,
+                "summary": ""
+            },
+            "romanized": "3) B.P cuff-ti apnar bahute khub shohojei fit kora uchit. Eti dheela howa uchit noe. Fit korar jonno baam hater ek-ti anguler jonno jothesto jaega rekhe din (bhalo gajer jonno).",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1e680214b2da91918e257d3d8607a89f_zff1Qfk.mp3",
+            "content": "4) রক্তচাপ পরিমাপের সময় টিউবটি বাঁকা করবেন না।",
+            "id": 1831,
+            "language": "Bengali",
+            "phrase": {
+                "content": "4) Do not bend the tube during blood pressure measurement.",
+                "id": 192,
+                "summary": ""
+            },
+            "romanized": "4) Roktochaap porimaper shomoe tube-ti baka korben na.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/83840515c543a5929190944da8a52801.mp3",
+            "content": "5) আপনার রক্তচাপ পরিমাপ করার সময় একটি টেবিলের উপরে আপনার পুরো বাহুটি রিলাক্স এবং রেস্ট করুন।",
+            "id": 1832,
+            "language": "Bengali",
+            "phrase": {
+                "content": "5) Relax & Rest your entire arm on a table while measuring your blood pressure.",
+                "id": 193,
+                "summary": ""
+            },
+            "romanized": "5) Apnar roktochaap porimaap korar shomoe ekti tabiler upore apnar puro bahuti relax ebong rest korun.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/fb3769091a3eadaea0daef774c0a28ed_kgmiC93.mp3",
+            "content": "6) আপনার বিপি পরিমাপ শুরু করতে  \"স্টার্ট / স্টপ\"; বোতাম টিপুন। 3 নম্বর প্রদর্শিত না হওয়া পর্যন্ত 1 মিনিটের জন্য অপেক্ষা করুন।",
+            "id": 1833,
+            "language": "Bengali",
+            "phrase": {
+                "content": "6) Press the “Start/Stop” button to start measuring your BP. Wait for 1 minute until 3 numbers appear.",
+                "id": 194,
+                "summary": ""
+            },
+            "romanized": "6) Apnar B.P porimaap shuru korte \"Start/Stop\" botam tipun. Tin number prodorshito na howa porjonto ek minute-r jonno opekkha korun.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4c2fedf63eaff0ad0ca4da388bff8c94_iPJcmDu.mp3",
+            "content": "7) শীর্ষ নম্বরটি আপনার সিস্টোলিক রক্তচাপ। মাঝের সংখ্যাটি হল আপনার ডায়াস্টোলিক রক্তচাপ। নীচের সংখ্যাটি আপনার পালসের হার।",
+            "id": 1834,
+            "language": "Bengali",
+            "phrase": {
+                "content": "7) The top number is your Systolic blood pressure. The middle number is your Diastolic blood pressure. The bottom number is your Pulse rate.",
+                "id": 195,
+                "summary": ""
+            },
+            "romanized": "7) Shirsho number-ti apnar systolic roktochaap. Majher shongkhati holo apnar diastolic roktochaap. Nicher shongkhati apnar pulse-r haar.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1e36e279a6deab1d36fb6d867d102faa_CQyy8bC.mp3",
+            "content": "কোভিড -১৯ কি?\n\nকোভিড -১৯ (বা, করোনাভাইরাস) এমন একটি রোগ যার শুরু চিনের উহান শহর থেকে়। এটা একটা শ্বাসকষ্টজনিত রোগ।",
+            "id": 1241,
+            "language": "Bengali",
+            "phrase": {
+                "content": "What is COVID-19?\r\n\r\nCOVID-19 (more specifically, a coronavirus) is an illness that started from the Wuhan City in China, it is a respiratory illness.",
+                "id": 155,
+                "summary": "What COVID"
+            },
+            "romanized": "COVID-19 ki?\n\nCOVID-19 (ba coronavirus) emon ekti rog jar shuru cheener Wuhan shohor theke. Eta ekta shaashkoshto-jonito rog.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/73ca556219defadd97ef5b800a4ee7d6_g5ENuWC.mp3",
+            "content": "COVID-19 এর লক্ষণগুলি কী কী?\n\nসর্বাধিক সাধারণ লক্ষণগুলি হল জ্বর, ক্লান্তি এবং শুকনো কাশি। কিছু রোগীর নাক দিয়ে সর্দি, গলা ব্যথা বা ডায়রিয়াও থাকে। এই লক্ষণগুলি সাধারণত হালকা হয়। কিছু লোক সংক্রামিত হয় তবে তাদের কোনও লক্ষণ নেই। তবে এটি ফুসফুসের সংক্রমণ বা নিউমোনিয়ার কারণেও হতে পারে।",
+            "id": 1243,
+            "language": "Bengali",
+            "phrase": {
+                "content": "What are the symptoms of COVID-19?\r\n\r\nThe most common symptoms are fever, tiredness and dry cough. Some patients also have a runny nose, sore throat or diarrhea. These symptoms are usually mild.\r\n\r\nSome people become infected but do not have any symptoms.\r\n\r\nHowever, it also can be caused by a lung infection or pneumonia.",
+                "id": 156,
+                "summary": "What are the symptoms of COVID-19?"
+            },
+            "romanized": "COVID-19-er lokkhonguli ki ki?\n\nShorbadhik shadharon lokkhonguli holo jor, klanti ebong shukno kashi. Kichu rogir naak diye shordi, gola betha ba diarrhea-o thake. Ei lokkhonguli shadharonoto halka hoe. Kichu lok shongkramito hoe tobe tader kono lokkhon nei. Tobe eti fushfusher shongkromon ba pneumoniar karoneo hote pare.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/85a5a5a77b833a3e5971d1a9c61ff5cd_QYoezrS.mp3",
+            "content": "কোভিড-১৯ কীভাবে ছড়ায়?\n\nইতিমধ্যে কোভিড-১৯ এ সংক্রামিত অন্যান্য ব্যক্তিদের দ্বারা লোকেরা সংক্রামিত হতে পারে। কাশি এবং হাঁচি দিয়ে ভাইরাস ছড়িয়ে পড়ে। মুখ থেকে লালা, ব্যবহৃত প্লেট, চামচ এবং কাঁটাচামচ দিয়ে ভাইরাসটি ছড়িয়ে যেতে পারে।",
+            "id": 1244,
+            "language": "Bengali",
+            "phrase": {
+                "content": "How does COVID-19 spread?\r\n\r\nPeople can be infected by other persons already infected with COVID-19. The virus spreads through cough and sneezing. The virus can also spread with saliva from the mouth, used plates, spoons, and forks.",
+                "id": 157,
+                "summary": "COVID Spread"
+            },
+            "romanized": "COVID-19 kibhabe chorae?\n\nItimoddhe COVID-19-e shonkramito bektider dara lokera shongkramito hote pare. Kashi ebong hachi diye choriye pore. Mukh theke lala, beborito plate, chamoch ebong kata-chamoch diye virus-ti choriye jete pare.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/9b585bbc74558ef4840f1651d9c48424_G4TS7eF.mp3",
+            "content": "কোভিড-১৯ এর জন্য পরীক্ষা কী?\n\nএটি একটি সোয়াব পরীক্ষা। আপনার নাকের বা গলার পিছনে একটি সোয়াব  ঢোকানো হবে । এটি প্রায় 10 সেকেন্ড স্থায়ী হবে। কিছুটা অস্বস্তি হতে পারে, তবে এটি খুব বেদনাদায়ক নয়।",
+            "id": 1245,
+            "language": "Bengali",
+            "phrase": {
+                "content": "What is the test for COVID-19?\r\n\r\nIt is a swab test. A swab will be inserted in your nostrils or at the back of your throat. It will last about 10 seconds. There might be a slight discomfort, however, it is not too painful.",
+                "id": 158,
+                "summary": "COVID-19 Test"
+            },
+            "romanized": "COVID-19-er jonno porikkha ki?\n\nEti ekti swab porikkha. Apnar naaker ba golar pichone ekti swab dhokano hobe. Eti prae dosh second sthayee hobe. Kichuta osshosti hote pare, tobe eti khub bedonadayok noy.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7f6c0187ea444787b823d6d97ffb616e_78Staaf.mp3",
+            "content": "আমার যদি কভিড -১৯ থাকে?\n\nকর্তৃপক্ষ আপনার জন্য আলাদা থাকার ব্যবস্থা করবে বা আপনাকে কোনও হাসপাতালে ভর্তি করবে। তারা আপনার স্বাস্থ্যের উন্নতি করছে কিনা তা পর্যবেক্ষণ করবে। এক্স-রে বা রক্ত পরীক্ষারও প্রয়োজন হতে পারে। সাধারণত, তারা প্রতি 24 ঘন্টা আপনার ত্বক পরীক্ষা করবে। যদি আপনার পরীক্ষাটি পরপর দুবার নেগেটিভ হয় তবে আপনাকে মুক্তি দেওয়া হবে। তবে বাড়িতে যাওয়ার পরে, আপনাকে 2 সপ্তাহের জন্য সবার থেকে আলাদা থাকতে হবে।",
+            "id": 1246,
+            "language": "Bengali",
+            "phrase": {
+                "content": "What if I have COVID-19?\r\n\r\nAuthority will make separate living arrangements for you or admit you to a hospital. They will monitor your health, whether it is improving or not. X-ray or blood test may also be needed. Usually, they will test your swab every 24 hours. If your test is negative twice in a row, you will be released. But after going home, you have to stay separate from everyone for 2 weeks.",
+                "id": 159,
+                "summary": "COVID-19 Positive"
+            },
+            "romanized": "Amar jodi COVID-19 thake?\n\nKortripokkho apnar jonno alada thakar bebostha korbe ba apnake kono haashpatale bhorti korbe. Tara apnar shasther unnoti kina ta porjobekkhon korbe. X-ray ba rokto porikkharo proyojon hote pare. Shadharonoto, tara proti chobbish ghonta apnar tok porikkha korbe. Jodi apnar porikkhati porpor doobar negative hoy tobe apnake moktu dewa hobe. Tobe barite jawar pore apnake dui shoptaher jonno shobar theke alada thakte hobe.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/21a8ea648e9400cb8714e724c283bb69_KFCuX5W.mp3",
+            "content": "কোভিড -১৯ থাকলে আমি কি মারা যাব?\n\nকোভিড -১৯ কীভাবে আপনাকে বা আপনার প্রিয়জনকে প্রভাবিত করতে পারে তা নিয়ে চিন্তিত হওয়া স্বাভাবিক। ৮0% ক্ষেত্রে, কোভিড -১৯ থেকে সংক্রমণ সাধারণত হালকা হয় এবং এমনকি কোনও চিকিত্সার প্রয়োজন হয় না। ভাইরাসজনিত কারণে ক্ষয় হওয়ার সম্ভাবনা রয়েছে যারা বয়স্ক অথবা যাদের অন্যান্য শারীরিক সম্যস্যা আছে। শুধুমাত্র ৫% রোগীদের  আই সি উ এর প্রয়োজন হয় শ্বাস প্রশ্বাসের কষ্ট কমানোর আর রক্তচাপ নিয়ন্ত্রণ করার জন্য।",
+            "id": 1247,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Will I die if I have COVID-19?\r\n\r\nCOVID-19 may make you and your family worried. However, 80% of the time, COVID-19 infections are mild. They do not even need any treatment. There is a slight risk of damage to those who are old or have other health problems. Only 5% of patients need ICU for helping them breathe.",
+                "id": 160,
+                "summary": "Die COVID-19"
+            },
+            "romanized": "COVID-19 thakle ami ki mara jabo?\n\nCOVID-19 kibhabe apnake ba apnar priyojonke probhabhito korte pare ta niye chintito howa shabhabik. Aashi% khetre, COVID-19 theke shongkromon shadahronoto halka hoy abong amonki kono chikitshar proyojon hoy na. Virus-jonito karone khoe howar shombhabona royeche jara boyoshko othoba jader onnanno sharirik shomossha ache. Shudhumatro paach% rogider ICU-er proyojon hoe shaash prosshaasher koshto komanor ar roktochaap niyontron korar jonno.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/9ca3e9a00655afc8af6dd76267546bbc_eHkUIK3.mp3",
+            "content": "কোভিড-১৯ এর চিকিত্সা আছে?\n\nকোভিড-১৯ এর বেশিরভাগ রোগীদের কোনও চিকিত্সার প্রয়োজন হয় না। তাদের কেবল কাশি, জ্বর এবং অন্যান্য উপসর্গের জন্য ওষুধ প্রয়োজন। তবে, খুব অসুস্থ রোগীদের 5% এর জন্য, কোনও প্রমাণিত চিকিত্সা নেই। তবে আমরা চিকিত্সা আবিষ্কারের খুব কাছাকাছি। ভয় পাবেন না. আপনার শ্বাস নিতে সমস্যা হলে আমরা আপনাকে শ্বাস নিতে সহায়তা করার জন্য একটি মেশিন ব্যবহার করব। আমরা রক্তচাপের জন্য আপনাকে ওষুধ দেব।",
+            "id": 1248,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Is there a treatment for COVID-19?\r\n\r\nMost patients of COVID-19 do not need any treatment. They only need medicine for cough, fever and other symptoms. However, for 5% of the patients who are very ill, there are no proven treatments. However, we are very near to discovering treatment. Do not be afraid. If you have problems breathing we will use a machine to help you breathe. We will give you medicine for blood pressure.",
+                "id": 161,
+                "summary": "COVID-19 Treatment"
+            },
+            "romanized": "COVID-19-er chikitsha ache?\n\nCOVID-19-er beshirbhaag rogider kono chikitshar proyojon hoy na. Tader kebol kashi, jor ebong onnanno uposhorger jonno oshudh proyojon. Tobe, khub oshustho rogider paach%-er jonno kono promanito chikitsha nei. Tobe amra chikitsha aabishkarer khub kachakachi. Bhoe paben na, apnar shaash nite shomossha hole amra apnake shaash nite shohaeta korar jonno machine bebohar korbo. Amra roktochaper jonno apnake oshudh debo.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ff468a0f092fbf5adaa2b65216442d73_K23Ii81.mp3",
+            "content": "চিকিত্সার জন্য আমার কত টাকা দিতে হবে?\n\nসিঙ্গাপুর সরকারের ঘোষণাপত্রে আপনি সিঙ্গাপুরের নাগরিক বা স্থায়ী বাসিন্দা বা দীর্ঘমেয়াদী পাসধারী হলে সরকার অর্থ প্রদান করবে। সুতরাং আপনার কাছে ওয়ার্ক পারমিট থাকলেও সরকার প্রদান করবে। তবে, আপনি যদি 2020 সালের 27 শে মার্চের পরে সিঙ্গাপুরের বাইরে চলে যান এবং ফিরে আসার 14 দিনের মধ্যে ভর্তি হন, সরকার আপনার বিল পরিশোধ করবে না।",
+            "id": 1249,
+            "language": "Bengali",
+            "phrase": {
+                "content": "How much will I have to pay for Treatment?\r\n\r\nAccording to the announcement of the Singapore Government, if you are a citizen of Singapore, or a permanent resident, or a long term pass holder, the government will pay. So even if you have a work permit, the government will pay. But, if you went out of Singapore after 27 March 2020 and get admitted within 14 days of returning, the government will not pay your bills.",
+                "id": 162,
+                "summary": "Treatment Cost"
+            },
+            "romanized": "Chikitshar jonno amar koto taka dite hobe?\n\nSingapore shorkarer ghoshonapotre apni Singaporer nagorik ba sthayee bashinda ba dirghomeyadi pass-dhari hole shorkar ortho prodaan korbe. Shutoraang apnar kache work permit thakleo shorkar prodaan korbe. Tobe, apni jodi 2020 shaler shataish March-er pore Singaporer baere chole jaan ebong fire ashar choddo diner moddhe bhorti hon, shorkar apnar bill porishodh korbe na.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b006c376736473e07539f368e06e109b_xgRNHLK.mp3",
+            "content": "আমি কাজ না করার জন্য উদ্বিগ্ন। আমি কি চাকরি হারাবো?\n\nআপনার নিয়োগকর্তাকে আইন দ্বারা আপনার চিকিত্সার অনুমতি দিতে হবে। আপনি এখন কাজ করতে না পারলেও নিয়োগকর্তাকে আপনার বেতন দিতে হবে। আপনার বেতন যথাসময়ে প্রদান না করা হলে, সিঙ্গাপুর সরকার নিয়োগকর্তার বিরুদ্ধে ব্যবস্থা নিতে পারে।",
+            "id": 1250,
+            "language": "Bengali",
+            "phrase": {
+                "content": "I am worried about not working. Will I lose my job?\r\n\r\nYour employer has to allow your treatment by the law. The employer has to pay your salary even if you cannot work now.  If your salary is not paid timely, the Singapore Government can take action against the employer.",
+                "id": 163,
+                "summary": "Job Loss"
+            },
+            "romanized": "Ami kaj na korar jonno uddigno. Ami ki chakri harabo?\n\nApnar niyogkortake ayeen dara apnar chikitshar onumoti dite hobe. Apni ekhon kaj korte na parleo niyogkortake apnar dite hobe. Apnar beton jothashomoye prodaan na kora hole, Singapore shorkar niyogkortar biruddhe bebostha nite pare.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/fc24fc3390710aae6cae96ed08750c81_8KPL1wb.mp3",
+            "content": "আমি ভয় পাচ্ছি আর আমি বাড়ি যেতে চাই!\n\nএই সময়কালে ভয় পাওয়া এবং উদ্বেগ হওয়া স্বাভাবিক। আপনার পরিবারের নিরাপত্তার জন্য আপনাকে অবশ্যই ডাক্তার এবং সরকারের নির্দেশাবলী অনুসরণ করতে হবে। সিঙ্গাপুর সরকার ব্যবস্থা করেছে, তাই আমরা নিরাপদে আপনাকে চিকিত্সা দিতে পারি। সিঙ্গাপুরে ভাল হাসপাতাল এবং চিকিত্সা আছে। আমরা আপনাকে সর্বোত্তম চিকিত্সা দেওয়ার জন্য যথাসাধ্য চেষ্টা করব।",
+            "id": 1251,
+            "language": "Bengali",
+            "phrase": {
+                "content": "I am scared and I want to go home.\r\n\r\nIt is natural to be scared and anxious during this period.\r\n\r\nYou must follow the instructions of doctors and the Government for the safety of your family. The Singapore Government has made arrangements, so we can safely give you treatment. Singapore has good hospitals and treatment here. We will do our best to give you the best treatment possible.",
+                "id": 164,
+                "summary": "Scared"
+            },
+            "romanized": "Ami bhoe pacchi ar ami bari jete chai!\n\nEi shomoekale bhoe pawa ebong uddeg howa shabhabik. Apnar poribarer nirapottar jonno apnake obosshoi daktar ebong shorkarer nirdeshboli onushoron korte hobe. Singapore shorkar bebostha koreche, tai amra nirapod apnake chikitsha dite pari. Singapore-e bhalo hashpatal ebong chikitsha aache. Amra apnake shorbottom chikitsha dewar jonno jothashaddho cheshta korbo.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/12344a606d797c73b54a5e2e1bb9262c.mp3",
+            "content": "আমি কীভাবে কোভিড -১৯ সংক্রমণ রোধ করতে পারি?\n\nভাগ্যক্রমে, সংক্রমণের ঝুঁকি কমাতে আপনি কিছু প্রতিরোধমূলক ব্যবস্থা নিতে পারেন । তা হল:\n\n১. আপনার হাত সাবান এবং পানি দিয়ে কমপক্ষে ২০ সেকেন্ডের জন্য ভাল করে ধুয়ে নিন।\n২. চোখ, নাক এবং মুখ স্পর্শ করা এড়িয়ে চলুন।\n৩. আপনি কাশি বা হাঁচি দিলে আপনার কনুই বা টিস্যু দিয়ে আপনার মুখ এবং নাক ঢেকে ফেলুন।\n৪. নিজের এবং অন্য কারও মধ্যে কমপক্ষে ১ মিটার দূরত্ব বজায় রাখুন\n৫. আপনি যদি অসুস্থ বোধ করেন তবে বাড়ির ভিতরেই থাকুন এবং অন্যের থেকে দূরে থাকেন । যদি আপনার জ্বর, কাশি বা শ্বাসকষ্ট হয় তবে দয়া করে তাড়াতাড়ি চিকিত্সকের সহায়তা নিন।",
+            "id": 1252,
+            "language": "Bengali",
+            "phrase": {
+                "content": "How can I prevent COVID-19 Infection?\r\n\r\nFortunately, there are some actions you can take to minimize the risk of infection. They are:\r\n\r\n1. Thoroughly washing your hands with soap and water for at least 20 seconds.\r\n2. Do not touch eyes, nose, and mouth.\r\n3. Covering your mouth and nose with your elbow or tissue when you cough or sneeze.\r\n4. Maintaining at least 1 meter distance between yourself and anyone else.\r\n5. Staying home if you feel unwell and keep away from others. If you have a fever, cough or breathing problem, please seek medical attention early.",
+                "id": 165,
+                "summary": "Prevention"
+            },
+            "romanized": "Ami kibhabe COVID-19 shongkromon rodh korte pari?\n\nBhaggokrome, shongkromoner jhuki komate apni kichu protirodhmulok bebostha nite paren. Ta holo:\n\n1. Apnar haath shaban ebong pani diye kompokkhe bish second-er jonno bhalo kore dhuye nin.\n2. Chokh, naak ebong mukh sporsho kora eriye cholun.\n3. Apni kashi ba hachi dile apnar konui ba tissue diye apnar mukh ebong naak dheke felun.\n4. Nijer ebong onno karo moddhe kompokkhe ek metre durotto bojae rakhun\n5. Apni jodi oshustho bodh koren tobe barir bhitorei thakun abong onner theke dure thaken. Jodi apnar jor, kashi ba shashkoshto hoy tobe hoya kore taratari chikitshoker shohaeta nin.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1.mp3",
+            "content": "প্রাথমিক পরীক্ষা কেন্দ্র (মোবাইল র‍্যাপিড ট্রিয়াজ স্টেশন)",
+            "id": 3086,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Mobile Rapid Triage Station",
+                "id": 202,
+                "summary": "Name"
+            },
+            "romanized": "Praa-tho-mik Pori-kkha Kendro",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/2.mp3",
+            "content": "আমরা প্রাথমিক পরীক্ষা কেন্দ্রে (মোবাইল র‍্যাপিড ট্রিয়াজ স্টেশন) আপনার শরীরের তাপমাত্রা, এবং অন্যান্য লক্ষণগুলো পরীক্ষা করে দেখব।",
+            "id": 3087,
+            "language": "Bengali",
+            "phrase": {
+                "content": "At the mobile rapid triage station, we will be screening your temperature and taking your vital signs.",
+                "id": 203,
+                "summary": "Intro"
+            },
+            "romanized": "Aamra Praa-tho-mik Pori-kkha Kendre (Mobile Triage Station) Aapnar shorir-er tap-matra, ebong onna-nno lokkhon-gulo pori-kkha ko-re dekh-bo.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3.mp3",
+            "content": "প্রথমত, আপনার ওয়ার্ক পারমিট দেখান অথবা স্ক্যান করুন।",
+            "id": 3088,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Please show us/scan your work permit.",
+                "id": 204,
+                "summary": "WP"
+            },
+            "romanized": "Protho-moto, apnar work permit dekhan otho-ba scan korun.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4.mp3",
+            "content": "আপনি ডরমেটরিতে কোন ব্লকে থাকেন? কত নম্বর রুমে?",
+            "id": 3089,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Please tell us your block and room no. in your dorm.",
+                "id": 205,
+                "summary": "Block & Room"
+            },
+            "romanized": "apni dormitory te kon block e thaken? koto number room-e?",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5.mp3",
+            "content": "যদি দরকার পড়ে, তবে আমরা আপনাকে একজন ডাক্তারের কাছে পাঠাবো।",
+            "id": 3090,
+            "language": "Bengali",
+            "phrase": {
+                "content": "You may be referred to see a doctor where necessary.",
+                "id": 206,
+                "summary": "Doc Refer Can"
+            },
+            "romanized": "Zodi dorkar pore, tobe aamra apnake ek-jon doctor-er ka-che pathabo.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6.mp3",
+            "content": "ধন্যবাদ",
+            "id": 3091,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Thank you",
+                "id": 207,
+                "summary": "Thanks"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1_eYAk84X.mp3",
+            "content": "আপনার মাস্ক খুলবেন না। মাস্কটি পড়ে থাকুন।",
+            "id": 3302,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Do not remove your mask. Keep your mask on.",
+                "id": 215,
+                "summary": "Keep Mask"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/2_g26jjW7.mp3",
+            "content": "আপনার ব্যাথা করছে? কোথায়?",
+            "id": 3303,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Do you have any pain? Where is your pain?",
+                "id": 216,
+                "summary": "Pain"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3_3yFktZo.mp3",
+            "content": "আপনাকে এখন গভীর ভাবে নিশ্বাস নিয়ে ধরে রাখতে হবে. আমি পরের সিদ্ধান্ত না দেয়া পর্যন্ত দয়া করে নিশ্বাস ছাড়বেন না।",
+            "id": 3098,
+            "language": "Bengali",
+            "phrase": {
+                "content": "I would need you to inhale deeply and hold your breath. Please do not breathe out unless you’re instructed to do so.",
+                "id": 208,
+                "summary": "Inhale"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4_R00iP5o.mp3",
+            "content": "শার্ট টি খুলে ফেলুন",
+            "id": 3099,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Take off the shirt",
+                "id": 209,
+                "summary": "Shirt"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5_8qClFky.mp3",
+            "content": "এখানে রাখুন",
+            "id": 3100,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Put it there",
+                "id": 210,
+                "summary": "Put Shirt"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6_JjRgKPG.mp3",
+            "content": "শার্ট টি এখন পরিধান করুন",
+            "id": 3101,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Wear back your shirt",
+                "id": 211,
+                "summary": "Wear Shirt"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7_aTF3ZOL.mp3",
+            "content": "আমি একটা নির্দিস্ট জায়গাতে আপনার হাত রাখছি। এই জায়গা থেকে হাত সরাবেন না।",
+            "id": 3103,
+            "language": "Bengali",
+            "phrase": {
+                "content": "I will be adjusting your shoulders/arm. Please follow my positioning.",
+                "id": 213,
+                "summary": "Adjust"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

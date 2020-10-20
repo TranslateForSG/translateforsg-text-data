@@ -1,0 +1,124 @@
+{
+    "count": 9,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/558b1fc682d8da1d80a753c44087605b_ctWrpZA.mp3",
+            "content": "మీరు త్వరలో తిరిగి వెళ్ళవచ్చు.",
+            "id": 2949,
+            "language": "Telugu",
+            "phrase": {
+                "content": "You can go back soon.",
+                "id": 52,
+                "summary": "Can go back"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ce34cfeca20d6e219d1eaae13515811b_r3WlXTh.mp3",
+            "content": "ఇక్కడ ఉండండి, ఎక్కడికీ వెళ్లవద్దు",
+            "id": 2950,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Wait here, do not leave this area",
+                "id": 53,
+                "summary": "Wait Patient"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/117fa0b892644c82010f4f8474aa33aa_uaIiLMs.mp3",
+            "content": "మీరు కొన్ని రోజులు ఆసుపత్రిలో ఉండాలి",
+            "id": 2951,
+            "language": "Telugu",
+            "phrase": {
+                "content": "You have to stay in the hospital for a few days",
+                "id": 54,
+                "summary": "Hospital Stay"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/29674df821c3da6242797c9f2b6e70f9_M7sXcdX.mp3",
+            "content": "మీకు మేలు అవ్వడానికి మందులు ఇస్తాను",
+            "id": 2952,
+            "language": "Telugu",
+            "phrase": {
+                "content": "I'll give you medicine to make you feel better",
+                "id": 55,
+                "summary": "Medicine"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7d278b2c44b9797c559b933e04cb014f_nZAp3EJ.mp3",
+            "content": "మీరు వచ్చే 5 రోజులు పని చేయకూడదు",
+            "id": 2954,
+            "language": "Telugu",
+            "phrase": {
+                "content": "You must not work for the next 5 days.",
+                "id": 56,
+                "summary": "No work 5 days"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/cfdc834307c76ca2baa571e6cd2d8657_u3X9Aos.mp3",
+            "content": "మీకు ఊపిరి తీసుకోవడంలో సమస్య ఉంటే మీరు తప్పక తిరిగి రావాలి.",
+            "id": 2953,
+            "language": "Telugu",
+            "phrase": {
+                "content": "You must come back if you have problems with breathing.",
+                "id": 57,
+                "summary": "Problem after 5 days"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b3c1c775b76caa2006996ca60439e84c_mVFfYyW.mp3",
+            "content": "5 రోజుల తర్వాత మీరు పూర్తిగా కోలుకోకపోతే మీరు తిరిగి రావాలి",
+            "id": 2955,
+            "language": "Telugu",
+            "phrase": {
+                "content": "You must come back if you do not recover completely after 5 days.",
+                "id": 151,
+                "summary": "Come back 5 days"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d5d80ffad0e756670e0e9eab6aeee9e8_pJ9KqpW.mp3",
+            "content": "కాగితంపై ఉన్న సూచనలను జాగ్రత్తగా చదవండి",
+            "id": 2956,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Read the handout carefully",
+                "id": 58,
+                "summary": "Handout"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0e3fffa2227ee92f4c0af2640291f068_TvDPap9.mp3",
+            "content": "ధన్యవాదాలు.",
+            "id": 2957,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Thank you",
+                "id": 59,
+                "summary": "Thank you"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

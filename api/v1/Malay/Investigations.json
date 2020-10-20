@@ -1,0 +1,98 @@
+{
+    "count": 7,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a1f739f1fbbe1f187fe3b2a36581f982.mp3",
+            "content": "Saya akan masukkan putik kapas ini ke dalam hidung anda.. Rasa kurang selesa sikit tapi tak sakit.",
+            "id": 987,
+            "language": "Malay",
+            "phrase": {
+                "content": "I'm going to put this cotton bud into your nostrils. You will feel strange but it is not painful.",
+                "id": 46,
+                "summary": "Swabbing"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c23d58cdfeefd4154b4012fdae262b7f.mp3",
+            "content": "Ujian ini untuk mengesan koronavirus.",
+            "id": 989,
+            "language": "Malay",
+            "phrase": {
+                "content": "This is to test for coronavirus",
+                "id": 47,
+                "summary": "Covid"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b7700e8e6617735ff7271fbcb006c157.mp3",
+            "content": "Jika keputusan ujian coronavirus anda positif, kami akan menelefon anda pada esok hari.",
+            "id": 988,
+            "language": "Malay",
+            "phrase": {
+                "content": "If coronavirus positive, we call your phone by tomorrow.",
+                "id": 49,
+                "summary": "Result Collection"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f038773e2bba2cbf07a6ee87fe9fe814.mp3",
+            "content": "Jika keputusannya negatif, kami akan menghantar SMS kepada anda selepas 3 hari.",
+            "id": 990,
+            "language": "Malay",
+            "phrase": {
+                "content": "If coronavirus negative, we send you an SMS after 3 days.",
+                "id": 152,
+                "summary": "COVID Negative"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b4b64fa7599a42189c87023170423cba.mp3",
+            "content": "Tengok atas.",
+            "id": 991,
+            "language": "Malay",
+            "phrase": {
+                "content": "Tilt your head back",
+                "id": 48,
+                "summary": "Tilt Head"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b9770470f5a526a8eb4c6f75a9c06ea7.mp3",
+            "content": "Nanti, anda akan menjalani pemeriksaan X-ray.",
+            "id": 992,
+            "language": "Malay",
+            "phrase": {
+                "content": "Later, you will do an X-ray",
+                "id": 50,
+                "summary": "X-ray"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0d7f88e9dc3cb03653dbb585afb32e6e.mp3",
+            "content": "X-ray anda tiada tanda jangkitan.",
+            "id": 993,
+            "language": "Malay",
+            "phrase": {
+                "content": "There is no sign of infection on your X-ray",
+                "id": 51,
+                "summary": "X-ray OK"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

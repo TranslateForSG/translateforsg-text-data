@@ -1,0 +1,98 @@
+{
+    "count": 7,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": null,
+            "content": "ਮੈ ਇੱਕ ਡਾਕਟਰ ਹਾਂ. ਮੈਂ ਤੁਹਾਡੀ ਭਾਸ਼ਾ ਨਹੀਂ ਬੋਲਦਾ. ਮੈਂ ਇਸ ਵੈਬਸਾਈਟ ਦੀ ਸਹਾਇਤਾ ਨਾਲ ਤੁਹਾਡੇ ਨਾਲ ਸੰਪਰਕ ਕਰਾਂਗਾ. ਜਿੰਨਾ ਹੋ ਸਕੇ ਅੰਗਰੇਜ਼ੀ ਵਿਚ ਜਵਾਬ ਦਿਓ. ਤੁਹਾਡਾ ਧੰਨਵਾਦ.",
+            "id": 3105,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "I am a doctor. I do not speak your language. I will communicate with you using this website. Answer me in English as much as possible. Thank you.",
+                "id": 1,
+                "summary": "Intro"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਤੁਹਾਡਾ ਨਾਮ ਕੀ ਹੈ?",
+            "id": 3106,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "What's your name?",
+                "id": 2,
+                "summary": "Name"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਕਿਰਪਾ ਕਰਕੇ ਮੈਨੂੰ ਆਪਣਾ ਪਛਾਣ ਪੱਤਰ ਜਾਂ ਵਰਕ ਪਰਮਿਟ ਦਿਓ.",
+            "id": 3107,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Please give me your Identity Card or Work Permit",
+                "id": 3,
+                "summary": "IC"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਤੁਸੀਂ ਕਿਸ ਕੰਪਨੀ ਦੇ ਅਧੀਨ ਕੰਮ ਕਰ ਰਹੇ ਹੋ / ਕੰਮ ਕਰ ਰਹੇ ਹੋ?",
+            "id": 3108,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Which company are you employed under / work for?",
+                "id": 4,
+                "summary": "Company"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਤੁਹਾਡੇ ਸੁਪਰਵਾਈਜ਼ਰ ਦਾ ਨਾਮ ਅਤੇ ਸੰਪਰਕ ਨੰਬਰ ਕੀ ਹੈ?",
+            "id": 3109,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "What is your supervisor’s name and contact number?",
+                "id": 5,
+                "summary": "Supervisor"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਤੁਸੀਂ ਸਿੰਗਾਪੁਰ ਵਿੱਚ ਕਿੱਥੇ ਰਹਿੰਦੇ ਹੋ?",
+            "id": 3110,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Where do you live in Singapore?",
+                "id": 6,
+                "summary": "Residence"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਕੀ ਤੁਹਾਨੂੰ ਆਪਣੇ ਇਲਾਕੇ ਵਿਚੋਂ ਹੋਰ ਸੰਕ੍ਰਮਿਤ ਮਰੀਜ਼ਾਂ ਬਾਰੇ ਕੋਈ ਜਾਣਕਾਰੀ ਹੈ?",
+            "id": 3111,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Do you know if any infected patients are from your area?",
+                "id": 7,
+                "summary": "Cluster"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

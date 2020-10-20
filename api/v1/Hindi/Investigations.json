@@ -1,0 +1,98 @@
+{
+    "count": 7,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/002858a6dadce5c5e63abe0946009bd4.mp3",
+            "content": "मैं इस सूती कली को तुम्हारे नासिका में डालने जा रहा हूँ। आपको अजीब लगेगा लेकिन यह दर्दनाक नहीं है।",
+            "id": 169,
+            "language": "Hindi",
+            "phrase": {
+                "content": "I'm going to put this cotton bud into your nostrils. You will feel strange but it is not painful.",
+                "id": 46,
+                "summary": "Swabbing"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/daeb8e557d110c1cead06329a2fd10f0.mp3",
+            "content": "यह कोरोनावायरस के लिए परीक्षण करना है",
+            "id": 170,
+            "language": "Hindi",
+            "phrase": {
+                "content": "This is to test for coronavirus",
+                "id": 47,
+                "summary": "Covid"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f809a76da739978c44a8d5112aafa613.mp3",
+            "content": "यदि कोरोनोवायरस पॉजिटिव है, तो हम आपके फोन को कल तक कॉल करते हैं।",
+            "id": 172,
+            "language": "Hindi",
+            "phrase": {
+                "content": "If coronavirus positive, we call your phone by tomorrow.",
+                "id": 49,
+                "summary": "Result Collection"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/20b71c8d20a6a36a8e443e308417c24b.mp3",
+            "content": "यदि कोरोनावायरस नकारात्मक है, तो हम आपको 3 दिनों के बाद एक एसएमएस भेजते हैं।",
+            "id": 607,
+            "language": "Hindi",
+            "phrase": {
+                "content": "If coronavirus negative, we send you an SMS after 3 days.",
+                "id": 152,
+                "summary": "COVID Negative"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b6221ef59ecd7a33e2a7376605f84897.mp3",
+            "content": "अपने सिर को पीछे झुकाएं",
+            "id": 171,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Tilt your head back",
+                "id": 48,
+                "summary": "Tilt Head"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/382ed3bf4529e8aee0c10a7c843299b9.mp3",
+            "content": "बाद में, आप एक एक्स-रे करेंगे",
+            "id": 173,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Later, you will do an X-ray",
+                "id": 50,
+                "summary": "X-ray"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/2da669d30d9220777fde2792be4f292a.mp3",
+            "content": "आपके एक्स-रे पर संक्रमण का कोई संकेत नहीं है",
+            "id": 174,
+            "language": "Hindi",
+            "phrase": {
+                "content": "There is no sign of infection on your X-ray",
+                "id": 51,
+                "summary": "X-ray OK"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

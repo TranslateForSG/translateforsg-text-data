@@ -1,0 +1,163 @@
+{
+    "count": 12,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/2923c880153fc9b7b68ee9de21d68bb6_bOaienR.mp3",
+            "content": "తల",
+            "id": 3021,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Head",
+                "id": 114,
+                "summary": "Head"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/896bb4cfaa6a1758dcd79dec6d846699_hD63b74.mp3",
+            "content": "కళ్ళు",
+            "id": 3022,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Eyes",
+                "id": 115,
+                "summary": "Eyes"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/dfb449218270452f0bdeae7e72d6ae5f_rqaV5Gb.mp3",
+            "content": "చెవులు",
+            "id": 3023,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Ears",
+                "id": 116,
+                "summary": "Ears"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d0b65e1d4020a27b4939af508454fedf_j10D18A.mp3",
+            "content": "ముక్కు",
+            "id": 3024,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Nose",
+                "id": 117,
+                "summary": "Nose"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/9390c52c4bbc51539d235837e150c9e9_2pM0rei.mp3",
+            "content": "నోటి",
+            "id": 3025,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Mouth",
+                "id": 118,
+                "summary": "Mouth"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c364fa995acc900f5a173e3240529128_E1ZvpaJ.mp3",
+            "content": "గొంతు",
+            "id": 3026,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Throat",
+                "id": 119,
+                "summary": "Throat"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a8e802124fe49a51cecb836ffa27e8fd_bqO34cj.mp3",
+            "content": "ఛాతి",
+            "id": 3027,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Chest",
+                "id": 120,
+                "summary": "Chest"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c909d8169a6bf6bb6e7dc50ea329bf7b_h1L8ofT.mp3",
+            "content": "కడుపు",
+            "id": 3028,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Abdomen",
+                "id": 121,
+                "summary": "Abdomen"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/324285225e1856fbac907111dee7814f_yLAijTV.mp3",
+            "content": "వీపు",
+            "id": 3029,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Back",
+                "id": 122,
+                "summary": "Back"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4a60a167d04ca7d993ffeb308c4761da_lvWziWG.mp3",
+            "content": "చేతులు",
+            "id": 3030,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Hand or Arm",
+                "id": 123,
+                "summary": "Arms"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a24469d3edd415223a31f52e6dd68745_3KeEXAn.mp3",
+            "content": "కాళ్ళు",
+            "id": 3031,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Legs",
+                "id": 124,
+                "summary": "Legs"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7ca426a364ac2dd965065f1211ed2b7b_n7qfuSX.mp3",
+            "content": "పాదములు",
+            "id": 3032,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Feet",
+                "id": 125,
+                "summary": "Feet"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

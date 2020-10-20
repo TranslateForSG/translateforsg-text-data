@@ -1,0 +1,85 @@
+{
+    "count": 6,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/773a4becb4d0a7d10cb1d609808198ed_dF8BICM.mp3",
+            "content": "Sa nakaraang labing-apat na araw, ikaw ba ay nakipagkita sa taong na nag positibo sa coronavirus?",
+            "id": 647,
+            "language": "Filipino",
+            "phrase": {
+                "content": "In the last 14 days, did you meet anyone who has coronavirus?",
+                "id": 9,
+                "summary": "People"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a1667dad273839545fb287aaaedad005_lsHEPHX.mp3",
+            "content": "Gaano karaming mga tao ang nananatili sa parehong silid tulad mo?",
+            "id": 779,
+            "language": "Filipino",
+            "phrase": {
+                "content": "How many people are staying in the same room as you?",
+                "id": 8,
+                "summary": "Room"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/80cba50019401edd207282de08f3b04f_MgBlpo6.mp3",
+            "content": "Sino sila at ano ang relasyon mo sa kanila?",
+            "id": 648,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Who? What is your relationship with them?",
+                "id": 10,
+                "summary": "People Meet"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/65e4de12d9e4f7bdfa1e31f6e46667b4_z8Z7N0D.mp3",
+            "content": "Ilang araw na ang nakaraan simula ng huli mo silang nakita?",
+            "id": 649,
+            "language": "Filipino",
+            "phrase": {
+                "content": "How many days ago did you meet them?",
+                "id": 11,
+                "summary": "People Meet"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/e3fdb5f6c8cdcd62e4d1f423aa95619b_6rrhedX.mp3",
+            "content": "Gaano katagal mo silang nakasama?",
+            "id": 650,
+            "language": "Filipino",
+            "phrase": {
+                "content": "How long were you with him/her?",
+                "id": 12,
+                "summary": "People Meet"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/61f9c70e42fc33221cae5fe8248081e3_PXDbPDZ.mp3",
+            "content": "Sa nakaraang labing-apat na araw, ikaw ba ay bumiyahe palabas ng bansa? Kung oo, sabihin mo sa amin sa wikang Ingles ang mga bansang pinuntahan mo.",
+            "id": 651,
+            "language": "Filipino",
+            "phrase": {
+                "content": "In the last 14 days, did you travel out of Singapore? If yes, tell us the countries in English.",
+                "id": 13,
+                "summary": "14 Days Travel"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

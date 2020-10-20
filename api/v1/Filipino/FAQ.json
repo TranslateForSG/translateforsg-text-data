@@ -1,0 +1,150 @@
+{
+    "count": 11,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/27d8d9131130adb8d32c2d9ddbeaa2c2.mp3",
+            "content": "Ano ang COVID-19? Ang COVID-19 (mas partikular, isang coronavirus) ay isang sakit na nagsimula mula sa Wuhan City sa China, ito ay isang sakit sa paghinga.",
+            "id": 1265,
+            "language": "Filipino",
+            "phrase": {
+                "content": "What is COVID-19?\r\n\r\nCOVID-19 (more specifically, a coronavirus) is an illness that started from the Wuhan City in China, it is a respiratory illness.",
+                "id": 155,
+                "summary": "What COVID"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3423586ec0f0e18905332552db9a7948.mp3",
+            "content": "Ano ang mga sintomas ng COVID-19? Ang pinakakaraniwang sintomas ay lagnat, pagkapagod at tuyong ubo. Ang ilang mga pasyente ay mayroon ding tumatakbo ilong, namamagang lalamunan o pagtatae. Ang mga sintomas na ito ay karaniwang banayad. Ang ilang mga tao ay nahawahan ngunit walang mga sintomas. Gayunpaman, maaari rin itong sanhi ng impeksyon sa baga o pneumonia.",
+            "id": 1266,
+            "language": "Filipino",
+            "phrase": {
+                "content": "What are the symptoms of COVID-19?\r\n\r\nThe most common symptoms are fever, tiredness and dry cough. Some patients also have a runny nose, sore throat or diarrhea. These symptoms are usually mild.\r\n\r\nSome people become infected but do not have any symptoms.\r\n\r\nHowever, it also can be caused by a lung infection or pneumonia.",
+                "id": 156,
+                "summary": "What are the symptoms of COVID-19?"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/10e84ac038e5857546af32a63f5453d7.mp3",
+            "content": "Paano kumalat ang COVID-19? Ang mga tao ay maaaring mahawahan ng ibang mga tao na nahawahan na ng COVID-19. Ang virus ay kumakalat sa pamamagitan ng ubo at pagbahing. Ang virus ay maaari ring kumalat gamit ang laway mula sa bibig, ginamit na mga plato, kutsara, at tinidor.",
+            "id": 1267,
+            "language": "Filipino",
+            "phrase": {
+                "content": "How does COVID-19 spread?\r\n\r\nPeople can be infected by other persons already infected with COVID-19. The virus spreads through cough and sneezing. The virus can also spread with saliva from the mouth, used plates, spoons, and forks.",
+                "id": 157,
+                "summary": "COVID Spread"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/e08ec53fb83f99dc2cd2dccdfabfc7e2.mp3",
+            "content": "Ano ang pagsubok para sa COVID-19? Ito ay isang swab test. Ang isang pamunas ay ipapasok sa iyong butas ng ilong o sa likod ng iyong lalamunan. Ito ay tatagal ng mga 10 segundo. Maaaring mayroong isang bahagyang kakulangan sa ginhawa, gayunpaman, hindi ito masyadong masakit.",
+            "id": 1268,
+            "language": "Filipino",
+            "phrase": {
+                "content": "What is the test for COVID-19?\r\n\r\nIt is a swab test. A swab will be inserted in your nostrils or at the back of your throat. It will last about 10 seconds. There might be a slight discomfort, however, it is not too painful.",
+                "id": 158,
+                "summary": "COVID-19 Test"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8e846dc99f0577d4f623e4ce392c0b62.mp3",
+            "content": "Paano kung mayroon akong COVID-19? Ang awtoridad ay gagawa ng magkahiwalay na pag-aayos ng pamumuhay para sa iyo o aminin ka sa isang ospital. Masusubaybayan nila ang iyong kalusugan, mapabuti man o hindi. Ang X-ray o pagsusuri ng dugo ay maaaring kailanganin. Karaniwan, susubukan nila ang iyong pamalo tuwing 24 na oras. Kung negatibo ang iyong pagsubok nang dalawang beses sa isang hilera, ilalabas ka. Ngunit pagkatapos ng pag-uwi, kailangan mong manatiling hiwalay sa lahat sa loob ng 2 linggo.",
+            "id": 1269,
+            "language": "Filipino",
+            "phrase": {
+                "content": "What if I have COVID-19?\r\n\r\nAuthority will make separate living arrangements for you or admit you to a hospital. They will monitor your health, whether it is improving or not. X-ray or blood test may also be needed. Usually, they will test your swab every 24 hours. If your test is negative twice in a row, you will be released. But after going home, you have to stay separate from everyone for 2 weeks.",
+                "id": 159,
+                "summary": "COVID-19 Positive"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ed9ab4b6f3510864cca268813ba022f3.mp3",
+            "content": "Mamamatay ba ako kung mayroon akong COVID-19? Maaaring pag-alala ka ng COVID-19 at ng iyong pamilya. Gayunpaman, 80% ng oras, ang mga impeksyon sa COVID-19 ay banayad. Hindi man nila kailangan ng anumang paggamot. May kaunting panganib na mapinsala sa mga may edad o may iba pang mga problema sa kalusugan. 5% lamang ng mga pasyente ang nangangailangan ng ICU para matulungan silang makahinga.",
+            "id": 1270,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Will I die if I have COVID-19?\r\n\r\nCOVID-19 may make you and your family worried. However, 80% of the time, COVID-19 infections are mild. They do not even need any treatment. There is a slight risk of damage to those who are old or have other health problems. Only 5% of patients need ICU for helping them breathe.",
+                "id": 160,
+                "summary": "Die COVID-19"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/08ddcec9dcef9266ceb607be388b8f9e.mp3",
+            "content": "Mayroon bang paggamot para sa COVID-19? Karamihan sa mga pasyente ng COVID-19 ay hindi nangangailangan ng anumang paggamot. Kailangan lang nila ng gamot para sa ubo, lagnat at iba pang mga sintomas. Gayunpaman, para sa 5% ng mga pasyente na may sakit, walang mga napatunayan na paggamot. Gayunpaman, malapit na kami upang matuklasan ang paggamot. Huwag kang matakot. Kung mayroon kang mga problema sa paghinga ay gumagamit kami ng isang makina upang matulungan kang huminga. Bibigyan ka namin ng gamot para sa presyon ng dugo.",
+            "id": 1271,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Is there a treatment for COVID-19?\r\n\r\nMost patients of COVID-19 do not need any treatment. They only need medicine for cough, fever and other symptoms. However, for 5% of the patients who are very ill, there are no proven treatments. However, we are very near to discovering treatment. Do not be afraid. If you have problems breathing we will use a machine to help you breathe. We will give you medicine for blood pressure.",
+                "id": 161,
+                "summary": "COVID-19 Treatment"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6dcb1b7a9415b6ad313b2d5bd97bc9e7.mp3",
+            "content": "Magkano ang babayaran ko para sa Paggamot? Ayon sa anunsyo ng Pamahalaang Singapore, kung ikaw ay isang mamamayan ng Singapore, o isang permanenteng residente, o isang long term pass holder, babayaran ng gobyerno. Kaya&#39;t kung mayroon kang isang permit sa trabaho, babayaran ng gobyerno. Ngunit, kung lumabas ka sa Singapore pagkatapos ng 27 Marso 2020 at nakakuha sa loob ng 14 na araw ng pagbabalik, hindi babayaran ng gobyerno ang iyong mga bayarin.",
+            "id": 1272,
+            "language": "Filipino",
+            "phrase": {
+                "content": "How much will I have to pay for Treatment?\r\n\r\nAccording to the announcement of the Singapore Government, if you are a citizen of Singapore, or a permanent resident, or a long term pass holder, the government will pay. So even if you have a work permit, the government will pay. But, if you went out of Singapore after 27 March 2020 and get admitted within 14 days of returning, the government will not pay your bills.",
+                "id": 162,
+                "summary": "Treatment Cost"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/2fde9372192d094306889ec495c0e2de.mp3",
+            "content": "Nag-aalala ako tungkol sa hindi gumana. Mawawalan ba ako ng trabaho? Dapat pahintulutan ng iyong employer ang iyong paggamot sa batas. Kailangang bayaran ng employer ang iyong suweldo kahit na hindi ka makatrabaho ngayon. Kung ang iyong suweldo ay hindi nababayaran nang napapanahon, ang Pamahalaang Singapore ay maaaring kumilos laban sa employer.",
+            "id": 1273,
+            "language": "Filipino",
+            "phrase": {
+                "content": "I am worried about not working. Will I lose my job?\r\n\r\nYour employer has to allow your treatment by the law. The employer has to pay your salary even if you cannot work now.  If your salary is not paid timely, the Singapore Government can take action against the employer.",
+                "id": 163,
+                "summary": "Job Loss"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/85473f799ae78fd73456563b52a792a2.mp3",
+            "content": "Natatakot ako at gusto kong umuwi. Ito ay natural na matakot at balisa sa panahong ito. Dapat mong sundin ang mga tagubilin ng mga doktor at Pamahalaan para sa kaligtasan ng iyong pamilya. Ang Pamahalaang ng Singapore ay gumawa ng mga pag-aayos, kaya maaari naming ligtas na mabigyan ka ng paggamot. Ang Singapore ay may magagandang ospital at paggamot dito. Gagawin namin ang aming makakaya upang mabigyan ka ng pinakamahusay na paggamot sa maaari.",
+            "id": 1274,
+            "language": "Filipino",
+            "phrase": {
+                "content": "I am scared and I want to go home.\r\n\r\nIt is natural to be scared and anxious during this period.\r\n\r\nYou must follow the instructions of doctors and the Government for the safety of your family. The Singapore Government has made arrangements, so we can safely give you treatment. Singapore has good hospitals and treatment here. We will do our best to give you the best treatment possible.",
+                "id": 164,
+                "summary": "Scared"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3394b162cf4cd645db4c73a09a823771.mp3",
+            "content": "Paano ko maiiwasan ang COVID-19 Infection? Sa kabutihang palad, may ilang mga pagkilos na maaari mong gawin upang mabawasan ang panganib ng impeksyon. Ang mga ito ay: 1. Malinis na hugasan ang iyong mga kamay gamit ang sabon at tubig nang hindi bababa sa 20 segundo. 2. Huwag hawakan ang mga mata, ilong, at bibig. 3. Takpan ang iyong bibig at ilong gamit ang iyong siko o tisyu kapag umubo ka o bumahin. 4. Pagpapanatili ng hindi bababa sa 1 metro ang distansya sa pagitan ng iyong sarili at sa sinumang iba pa. 5. Manatili sa bahay kung sa tingin mo ay hindi maayos at umiwas sa iba. Kung mayroon kang isang lagnat, ubo o problema sa paghinga, mangyaring humingi ng medikal na atensyon nang maaga.",
+            "id": 1275,
+            "language": "Filipino",
+            "phrase": {
+                "content": "How can I prevent COVID-19 Infection?\r\n\r\nFortunately, there are some actions you can take to minimize the risk of infection. They are:\r\n\r\n1. Thoroughly washing your hands with soap and water for at least 20 seconds.\r\n2. Do not touch eyes, nose, and mouth.\r\n3. Covering your mouth and nose with your elbow or tissue when you cough or sneeze.\r\n4. Maintaining at least 1 meter distance between yourself and anyone else.\r\n5. Staying home if you feel unwell and keep away from others. If you have a fever, cough or breathing problem, please seek medical attention early.",
+                "id": 165,
+                "summary": "Prevention"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

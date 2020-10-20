@@ -1,0 +1,215 @@
+{
+    "count": 16,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/385b8a266881e5a0dad3c8ea693816f0.mp3",
+            "content": "Buổi sáng tốt lành",
+            "id": 1370,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Good morning",
+                "id": 64,
+                "summary": "Morning"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/088b77f09d6e9a91cb4f9638cb76c41a.mp3",
+            "content": "Chào buổi tối",
+            "id": 1480,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Good Evening",
+                "id": 173,
+                "summary": "Evening"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4c1306e2ffbd7399dcaa04ee551216ff.mp3",
+            "content": "Chào buổi trưa",
+            "id": 1487,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Good Afternoon",
+                "id": 174,
+                "summary": "Afternoon"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3b37c1ac67cdeba83d7084d10eb845b6.mp3",
+            "content": "Tôi là y tá",
+            "id": 1371,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "I am the nurse",
+                "id": 65,
+                "summary": "Nurse"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/bbff7b0a66aa9ef4f916c828711a1ccc.mp3",
+            "content": "tôi là bác sĩ",
+            "id": 1372,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "I am the doctor",
+                "id": 66,
+                "summary": "Doctor"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b01d11ec215cb1c59da5d2acb04a75b9.mp3",
+            "content": "Bạn đang ở trong phòng chăm sóc đặc biệt.",
+            "id": 1373,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "You are in the intensive care unit.",
+                "id": 67,
+                "summary": "In ICU"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4ca4885d3d227f8324aceb52c461be08.mp3",
+            "content": "Hôm nay là thứ hai",
+            "id": 1374,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Today is Monday",
+                "id": 68,
+                "summary": "Monday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c338d862a54c72db6eec3956094133b5.mp3",
+            "content": "Hôm nay là thứ ba",
+            "id": 1375,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Today is Tuesday",
+                "id": 69,
+                "summary": "Tuesday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c2178e12e18d23bb951dc3328469761e.mp3",
+            "content": "Hôm nay là thứ tư",
+            "id": 1376,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Today is Wednesday",
+                "id": 70,
+                "summary": "Wednesday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b3d04b99b36049d55dd8808acb0f669d.mp3",
+            "content": "Hôm nay là thứ năm",
+            "id": 1377,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Today is Thursday",
+                "id": 71,
+                "summary": "Thursday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/fff058a04d6df30e624a82e86ea14401.mp3",
+            "content": "Hôm nay là thứ sáu",
+            "id": 1378,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Today is Friday",
+                "id": 72,
+                "summary": "Friday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d6859292e194936f7dd1b21550b76c6e.mp3",
+            "content": "Hôm nay là thứ bảy",
+            "id": 1379,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Today is Saturday",
+                "id": 73,
+                "summary": "Saturday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/fc2abafeb1e6ab39b777a796e2e7ee34.mp3",
+            "content": "Hôm nay là chủ nhật",
+            "id": 1380,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Today is Sunday",
+                "id": 74,
+                "summary": "Sunday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3a65dc85ecbea7ecd83090ec6e291cf3.mp3",
+            "content": "Bạn tốt hơn rồi đấy",
+            "id": 1381,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "You are getting better",
+                "id": 153,
+                "summary": "Getting Better"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0d4bf6b3052ad053c01d97078b2897d0.mp3",
+            "content": "Chúng tôi sẽ loại bỏ ống thở khi bạn tốt hơn",
+            "id": 1382,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "We will remove the breathing tube when you are better",
+                "id": 75,
+                "summary": "Remove Tube Later"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/715558a023d3d757054f6b783582d02f.mp3",
+            "content": "Bạn có thể nói chuyện sau khi chúng tôi tháo ống thở",
+            "id": 1383,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "You can talk after we remove the breathing tube",
+                "id": 76,
+                "summary": "Can Talk as Remove"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

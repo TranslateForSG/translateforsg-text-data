@@ -1,0 +1,98 @@
+{
+    "count": 7,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7e1b2fb1c810b5e943492f55eb2a1fd6.mp3",
+            "content": "我是一位医生。我不会说华语。我会用这篇网页来与您沟通。希望您能尽量用英语回答。 谢谢。",
+            "id": 1958,
+            "language": "Chinese",
+            "phrase": {
+                "content": "I am a doctor. I do not speak your language. I will communicate with you using this website. Answer me in English as much as possible. Thank you.",
+                "id": 1,
+                "summary": "Intro"
+            },
+            "romanized": "wǒ shì yī wèi yì shēng. wǒ bù hùi shuō huá yǔ. wǒ hùi yòng zhè piān wǎng yè lái yǔ nín gōu tōng. xī wàng nín néng jǐn liàng yòng yīng yǔ húi dá. xiè xiè .",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/11f6c9ba1b2e8c88a50cc48c7d6b9621_PuK1SOj.mp3",
+            "content": "请问, 怎么称呼您呢？",
+            "id": 1959,
+            "language": "Chinese",
+            "phrase": {
+                "content": "What's your name?",
+                "id": 2,
+                "summary": "Name"
+            },
+            "romanized": "qǐng wèn, zěn me chēng hū nín nē?",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/cd53dbb1a1c45877673ea29a33732478.mp3",
+            "content": "请把你的身份证或工作准证交给我。",
+            "id": 1960,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Please give me your Identity Card or Work Permit",
+                "id": 3,
+                "summary": "IC"
+            },
+            "romanized": "qǐng bǎ nǐ de shēn fèn zhèng huò gōng zuò zhǔn zhèng jiāo gěi wǒ.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a8e5afcf75515cd588c54a1b2bb2ef13.mp3",
+            "content": "请问你在哪间公司工作/上班？",
+            "id": 1961,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Which company are you employed under / work for?",
+                "id": 4,
+                "summary": "Company"
+            },
+            "romanized": "qǐng wèn ní zài nǎ jiān gōng sī gōng zuò / shàng bān？",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/339938ec7179290a2d106ae3bd2c7969.mp3",
+            "content": "请问你的主管的名字和联系方式是什么？",
+            "id": 1962,
+            "language": "Chinese",
+            "phrase": {
+                "content": "What is your supervisor’s name and contact number?",
+                "id": 5,
+                "summary": "Supervisor"
+            },
+            "romanized": "qǐng wèn ní de zhǔ guǎn de míng zì hé lián xì fāng shì shì shěn me？",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/180ccf16a72718af36dce307405bb46e.mp3",
+            "content": "请问你住在新加坡的哪个地区？",
+            "id": 1963,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Where do you live in Singapore?",
+                "id": 6,
+                "summary": "Residence"
+            },
+            "romanized": "qǐng wèn ní zhù zài xīn jiā pō de nǎ gè dì qū？",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/aa28d726ccba3f6c3c16eaaab36bb751.mp3",
+            "content": "你知道你的地区是否有任何感染的患者吗？",
+            "id": 1964,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Do you know if any infected patients are from your area?",
+                "id": 7,
+                "summary": "Cluster"
+            },
+            "romanized": "nín zhī dào ní de dì qū shì fǒu yǒu rèn hé gǎn rǎn de huàn zhě ma？",
+            "special_note": ""
+        }
+    ]
+}

@@ -1,0 +1,150 @@
+{
+    "count": 11,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3b8df34a4c3a07bbc3a51f5a9cca4f4e.mp3",
+            "content": "COVID-19 क्या है?\r\n\r\nCOVID-19 (विशेष रूप से, एक कोरोनावायरस) एक बीमारी है जो चीन के वुहान शहर से शुरू हुई, यह एक श्वसन बीमारी है।",
+            "id": 1242,
+            "language": "Hindi",
+            "phrase": {
+                "content": "What is COVID-19?\r\n\r\nCOVID-19 (more specifically, a coronavirus) is an illness that started from the Wuhan City in China, it is a respiratory illness.",
+                "id": 155,
+                "summary": "What COVID"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/e9084f55d3fa21ef91db260fca111d25.mp3",
+            "content": "COVID-19 के लक्षण क्या हैं? सबसे आम लक्षण बुखार, थकान और सूखी खांसी हैं। कुछ रोगियों में नाक बहना, गले में खराश या दस्त भी होता है। ये लक्षण आमतौर पर हल्के होते हैं। कुछ लोग संक्रमित हो जाते हैं लेकिन उनमें कोई लक्षण नहीं होते हैं। हालाँकि, यह फेफड़ों में संक्रमण या निमोनिया के कारण भी हो सकता है।",
+            "id": 1276,
+            "language": "Hindi",
+            "phrase": {
+                "content": "What are the symptoms of COVID-19?\r\n\r\nThe most common symptoms are fever, tiredness and dry cough. Some patients also have a runny nose, sore throat or diarrhea. These symptoms are usually mild.\r\n\r\nSome people become infected but do not have any symptoms.\r\n\r\nHowever, it also can be caused by a lung infection or pneumonia.",
+                "id": 156,
+                "summary": "What are the symptoms of COVID-19?"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d97033530f3a72a07892926685a3b11d.mp3",
+            "content": "COVID-19 कैसे फैलता है? लोग COVID-19 से पहले से संक्रमित अन्य व्यक्तियों द्वारा संक्रमित हो सकते हैं। वायरस खांसी और छींकने से फैलता है। वायरस मुंह से लार, प्लेट्स, चम्मच और कांटे से भी फैल सकता है।",
+            "id": 1277,
+            "language": "Hindi",
+            "phrase": {
+                "content": "How does COVID-19 spread?\r\n\r\nPeople can be infected by other persons already infected with COVID-19. The virus spreads through cough and sneezing. The virus can also spread with saliva from the mouth, used plates, spoons, and forks.",
+                "id": 157,
+                "summary": "COVID Spread"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/908fa1586e7ff21d7b58b12076bbfe19.mp3",
+            "content": "COVID-19 के लिए परीक्षण क्या है? यह एक स्वैब परीक्षण है। आपके नाक के छिद्रों में या आपके गले के पीछे एक स्वाब डाला जाएगा। यह लगभग 10 सेकंड तक चलेगा। थोड़ी सी असुविधा हो सकती है, हालांकि, यह बहुत दर्दनाक नहीं है।",
+            "id": 1278,
+            "language": "Hindi",
+            "phrase": {
+                "content": "What is the test for COVID-19?\r\n\r\nIt is a swab test. A swab will be inserted in your nostrils or at the back of your throat. It will last about 10 seconds. There might be a slight discomfort, however, it is not too painful.",
+                "id": 158,
+                "summary": "COVID-19 Test"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/826bcb82e3fa31be7c0daaa2b967d51c.mp3",
+            "content": "यदि मेरे पास COVID-19 है तो क्या होगा? प्राधिकरण आपके लिए अलग रहने की व्यवस्था करेगा या आपको अस्पताल में भर्ती करेगा। वे आपके स्वास्थ्य की निगरानी करेंगे, कि इसमें सुधार हो रहा है या नहीं। एक्स-रे या रक्त परीक्षण की भी आवश्यकता हो सकती है। आमतौर पर, वे हर 24 घंटे में आपके स्वाब का परीक्षण करेंगे। यदि आपका परीक्षण लगातार दो बार नकारात्मक है, तो आपको छोड़ दिया जाएगा। लेकिन घर जाने के बाद, आपको 2 सप्ताह के लिए सभी से अलग रहना होगा।",
+            "id": 1279,
+            "language": "Hindi",
+            "phrase": {
+                "content": "What if I have COVID-19?\r\n\r\nAuthority will make separate living arrangements for you or admit you to a hospital. They will monitor your health, whether it is improving or not. X-ray or blood test may also be needed. Usually, they will test your swab every 24 hours. If your test is negative twice in a row, you will be released. But after going home, you have to stay separate from everyone for 2 weeks.",
+                "id": 159,
+                "summary": "COVID-19 Positive"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/e2fc5b06e8edf73c0cf57a54f2651634.mp3",
+            "content": "अगर मेरे पास COVID-19 है तो क्या मैं मर जाऊंगा? COVID-19 आपको और आपके परिवार को चिंतित कर सकता है। हालांकि, 80% समय, COVID-19 संक्रमण हल्के होते हैं। उन्हें किसी भी उपचार की आवश्यकता नहीं है। जो लोग बूढ़े हैं या स्वास्थ्य संबंधी अन्य समस्याएं हैं, उनके नुकसान का थोड़ा जोखिम है। सांस लेने में मदद के लिए केवल 5% रोगियों को आईसीयू की आवश्यकता होती है।",
+            "id": 1280,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Will I die if I have COVID-19?\r\n\r\nCOVID-19 may make you and your family worried. However, 80% of the time, COVID-19 infections are mild. They do not even need any treatment. There is a slight risk of damage to those who are old or have other health problems. Only 5% of patients need ICU for helping them breathe.",
+                "id": 160,
+                "summary": "Die COVID-19"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/9920759649f5f2137ceb7e9a4475c77f.mp3",
+            "content": "क्या COVID-19 का कोई इलाज है? COVID-19 के अधिकांश रोगियों को किसी भी उपचार की आवश्यकता नहीं होती है। उन्हें केवल खांसी, बुखार और अन्य लक्षणों के लिए दवा की आवश्यकता होती है। हालांकि, 5% रोगियों के लिए जो बहुत बीमार हैं, कोई सिद्ध उपचार नहीं हैं। हालांकि, हम इलाज की खोज के बहुत करीब हैं। डरो नहीं। यदि आपको सांस लेने में समस्या है तो हम आपको सांस लेने में मदद करने के लिए एक मशीन का उपयोग करेंगे। हम आपको रक्तचाप की दवा देंगे।",
+            "id": 1281,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Is there a treatment for COVID-19?\r\n\r\nMost patients of COVID-19 do not need any treatment. They only need medicine for cough, fever and other symptoms. However, for 5% of the patients who are very ill, there are no proven treatments. However, we are very near to discovering treatment. Do not be afraid. If you have problems breathing we will use a machine to help you breathe. We will give you medicine for blood pressure.",
+                "id": 161,
+                "summary": "COVID-19 Treatment"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/181e3aaba4503d6c0ea597c4f6bb5543.mp3",
+            "content": "मुझे उपचार के लिए कितना भुगतान करना होगा? सिंगापुर सरकार की घोषणा के अनुसार, यदि आप सिंगापुर के नागरिक हैं, या एक स्थायी निवासी, या दीर्घकालिक पास धारक हैं, तो सरकार भुगतान करेगी। इसलिए अगर आपके पास वर्क परमिट है तो भी सरकार भुगतान करेगी। लेकिन, यदि आप 27 मार्च 2020 के बाद सिंगापुर से बाहर चले गए और लौटने के 14 दिनों के भीतर भर्ती हो गए, तो सरकार आपके बिलों का भुगतान नहीं करेगी।",
+            "id": 1282,
+            "language": "Hindi",
+            "phrase": {
+                "content": "How much will I have to pay for Treatment?\r\n\r\nAccording to the announcement of the Singapore Government, if you are a citizen of Singapore, or a permanent resident, or a long term pass holder, the government will pay. So even if you have a work permit, the government will pay. But, if you went out of Singapore after 27 March 2020 and get admitted within 14 days of returning, the government will not pay your bills.",
+                "id": 162,
+                "summary": "Treatment Cost"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/98d6acf17069f79afec0740870027562.mp3",
+            "content": "मुझे काम नहीं करने की चिंता है। क्या मेरे द्वारा अपनी नौकरी गवां दी जाएगी? आपके नियोक्ता को कानून द्वारा आपके उपचार की अनुमति है। अगर आपको अभी काम नहीं करना है तो भी नियोक्ता को आपका वेतन देना होगा। यदि आपके वेतन का समय पर भुगतान नहीं किया जाता है, तो सिंगापुर सरकार नियोक्ता के खिलाफ कार्रवाई कर सकती है।",
+            "id": 1283,
+            "language": "Hindi",
+            "phrase": {
+                "content": "I am worried about not working. Will I lose my job?\r\n\r\nYour employer has to allow your treatment by the law. The employer has to pay your salary even if you cannot work now.  If your salary is not paid timely, the Singapore Government can take action against the employer.",
+                "id": 163,
+                "summary": "Job Loss"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/69194aab7163699dfdf78f4c349a2dc1.mp3",
+            "content": "मैं डरा हुआ हूं और मैं घर जाना चाहता हूं। इस अवधि के दौरान डर और चिंता होना स्वाभाविक है। आपको अपने परिवार की सुरक्षा के लिए डॉक्टरों और सरकार के निर्देशों का पालन करना चाहिए। सिंगापुर सरकार ने व्यवस्था की है, इसलिए हम आपको सुरक्षित उपचार दे सकते हैं। सिंगापुर में यहां अच्छे अस्पताल और इलाज हैं। हम आपको यथासंभव सर्वोत्तम उपचार देने की पूरी कोशिश करेंगे।",
+            "id": 1284,
+            "language": "Hindi",
+            "phrase": {
+                "content": "I am scared and I want to go home.\r\n\r\nIt is natural to be scared and anxious during this period.\r\n\r\nYou must follow the instructions of doctors and the Government for the safety of your family. The Singapore Government has made arrangements, so we can safely give you treatment. Singapore has good hospitals and treatment here. We will do our best to give you the best treatment possible.",
+                "id": 164,
+                "summary": "Scared"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/29829c04740989ee3388e49ea30a0d09.mp3",
+            "content": "मैं COVID-19 संक्रमण को कैसे रोक सकता हूं? सौभाग्य से, संक्रमण के जोखिम को कम करने के लिए आप कुछ क्रियाएं कर सकते हैं। वे हैं: 1. कम से कम 20 सेकंड के लिए साबुन और पानी से अपने हाथों को धोना। 2. आंख, नाक और मुंह न छुएं। 3. जब आप खांसते या छींकते हैं तो अपने मुंह और नाक को अपनी कोहनी या ऊतक से ढक लेते हैं। 4. अपने और किसी और के बीच कम से कम 1 मीटर की दूरी बनाए रखना। 5. अगर आप अस्वस्थ महसूस करते हैं और दूसरों से दूर रहते हैं तो घर पर रहें। अगर आपको बुखार, खांसी या सांस लेने की समस्या है, तो कृपया जल्दी से चिकित्सा की तलाश करें।",
+            "id": 1285,
+            "language": "Hindi",
+            "phrase": {
+                "content": "How can I prevent COVID-19 Infection?\r\n\r\nFortunately, there are some actions you can take to minimize the risk of infection. They are:\r\n\r\n1. Thoroughly washing your hands with soap and water for at least 20 seconds.\r\n2. Do not touch eyes, nose, and mouth.\r\n3. Covering your mouth and nose with your elbow or tissue when you cough or sneeze.\r\n4. Maintaining at least 1 meter distance between yourself and anyone else.\r\n5. Staying home if you feel unwell and keep away from others. If you have a fever, cough or breathing problem, please seek medical attention early.",
+                "id": 165,
+                "summary": "Prevention"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

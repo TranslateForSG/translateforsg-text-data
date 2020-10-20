@@ -1,0 +1,189 @@
+{
+    "count": 14,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4acb267c930cdc385ab0d52e8cc3eb0f_gt5T6ZB.mp3",
+            "content": "အဖျားရှိပါသလား။",
+            "id": 1681,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Do you have a fever?",
+                "id": 14,
+                "summary": "Fever"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/185ec9524ee3e5bde9bf54eee4a20674_8qwSFTK.mp3",
+            "content": "ဘယ်နှစ်ရက်ခန့်‌ဖျားနာ‌နေခဲ့ပါသလဲ။ အခြား‌သော‌‌ဝေဒနာများခံစားရပါကလည်း ပြောပြပေးပါ။",
+            "id": 1682,
+            "language": "Burmese",
+            "phrase": {
+                "content": "How many days?",
+                "id": 15,
+                "summary": "Length"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/49e774776960a995c4940c94e2104c1b_PnDEuFf.mp3",
+            "content": "အဖျားကိုသာမိုမီတာ သုံး၍တိုင်းတာခဲ့ပါသလား။ သင့်ရဲ့ အမြင့်ဆုံးအပူချိန်ကို ‌ဖော်ပြပေးပါ။",
+            "id": 1683,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Did you measure it with a thermometer? If you did, what was the highest reading?",
+                "id": 16,
+                "summary": "Reading"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c8ef5e81d3182fc8a665edf72349078a_nu8H5N0.mp3",
+            "content": "နှာ‌စေး‌နေပါသလား။",
+            "id": 1684,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Runny nose?",
+                "id": 17,
+                "summary": "Runny nose"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a868bfcd357acbe55f4da1fd13ef696f_q4K3qnD.mp3",
+            "content": "ချောင်းဆိုးနေပါသလား။",
+            "id": 1685,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Cough?",
+                "id": 18,
+                "summary": "Cough"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/03f8f4659d41c55ae5c54412ba421b8b_hwG6DDm.mp3",
+            "content": "လည်ပင်းနာ‌နေပါသလား။",
+            "id": 1686,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Sore throat?",
+                "id": 19,
+                "summary": "Sore throat"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/bb49486e65f259de7a432e2d84d27b51_A2byDOt.mp3",
+            "content": "အသက်ရှုကြပ်‌နေပါသလား။",
+            "id": 1687,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Difficulty breathing?",
+                "id": 20,
+                "summary": "Breathing"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5b277270a1ee77b2a5ddbc9a1d186cb8_2XUURet.mp3",
+            "content": "အနံ့မရခြင်း ပျောက်ဆုံးခြင်း ရှိပါသလား?",
+            "id": 1688,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Cannot smell properly?",
+                "id": 21,
+                "summary": "Anosmia"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f35901396f3857a775cf5f42e9ab15b8_ti6ubSZ.mp3",
+            "content": "အရသာခံစားမှုပျောက်ဆုံးခြင်း ခံစားရပါသလား?",
+            "id": 1689,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Do you feel less taste in the mouth?",
+                "id": 22,
+                "summary": "Ageusia"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1c2cf0da88e37c7c7d4f4978282c448b_8vdw36x.mp3",
+            "content": "ဝမ်းပျက်နေပါသလား။ တစ်ရက်ဘယ်နှစ်ကြိမ်သွားပါသလဲ။",
+            "id": 1690,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Do you have diarrhoea / diarrhea? How many times a day?",
+                "id": 23,
+                "summary": "diarrhoea"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/18685d81c5a639d9c7f46ec6c28f6947.m4a",
+            "content": "အရေပြားယားယံတာ အကွက်တွေထွက်လာတာ ဖြစ်ပါသလား",
+            "id": 2348,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Skin Rash or Itching?",
+                "id": 24,
+                "summary": "Rash"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/df12edda0c5cca3e8ba976e2ced73df7.m4a",
+            "content": "ကိုယ်ပေါ်မှာ နာကျင်တဲ့နေရာ ရှိပါသလား",
+            "id": 2349,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Do you have any pain on your body?",
+                "id": 25,
+                "summary": "Pain"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d8a314ae2f78c197d08b5d73aa890265_L2R9gYl.mp3",
+            "content": "အထူးသဖြင်ရင်ဘတ်အောင်.ခြင်းနာခြင်းများဖြစ်ပါသလား။",
+            "id": 1691,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Specifically, any chest pain?",
+                "id": 26,
+                "summary": "Chest Pain"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/109e954d4ee6671c854ead27b22f717d_KuQQOIM.mp3",
+            "content": "နာကျင်သော ‌နေရာကိုညွှန်ပြ ‌ပေးပါ။",
+            "id": 1692,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Point to the place.",
+                "id": 27,
+                "summary": "Point Out"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

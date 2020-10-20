@@ -1,0 +1,98 @@
+{
+    "count": 7,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f955f658b53ac82003a8384dbe1f3aca.mp3",
+            "content": "நான் இந்த காட்டன் ஸ்வாப்-ஐ உங்களின் மூக்கில் வைக்கப்போகின்றேன். இது சற்று சிரமமாக  இருக்கலாம். ஆனால் எந்த வலியையும் உண்டாக்காது.",
+            "id": 2211,
+            "language": "Tamil",
+            "phrase": {
+                "content": "I'm going to put this cotton bud into your nostrils. You will feel strange but it is not painful.",
+                "id": 46,
+                "summary": "Swabbing"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm41.m4a",
+            "content": "இது, உங்களுக்கு கொரோனா வைரஸ் உள்ளதா என்பதை தீர்மானிக்க உதவும்.",
+            "id": 2213,
+            "language": "Tamil",
+            "phrase": {
+                "content": "This is to test for coronavirus",
+                "id": 47,
+                "summary": "Covid"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm43.m4a",
+            "content": "உங்களுக்குக் கொரோனா  வைரஸ்  இருப்பது உறுதிப்படுத்தப்பட்டால், நாளைக்குள் உங்களைத் தொலைபேசி மூலமாக தொடர்புகொண்டு அதைத் தெரிவிப்போம்.",
+            "id": 2212,
+            "language": "Tamil",
+            "phrase": {
+                "content": "If coronavirus positive, we call your phone by tomorrow.",
+                "id": 49,
+                "summary": "Result Collection"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm44.m4a",
+            "content": "உங்களுக்கு கொரோணா வைரஸ் இல்லாவிட்டால், மூன்று நாட்களில் குருஞ்செய்தி (SMS) மூலம் தெரிவிப்போம்",
+            "id": 2214,
+            "language": "Tamil",
+            "phrase": {
+                "content": "If coronavirus negative, we send you an SMS after 3 days.",
+                "id": 152,
+                "summary": "COVID Negative"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm42.m4a",
+            "content": "உங்களுடைய தலையை சற்று பின்னால் சாய்க்கவும்.",
+            "id": 2215,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Tilt your head back",
+                "id": 48,
+                "summary": "Tilt Head"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm45.m4a",
+            "content": "பிறகு, உங்களுக்கு ஒரு எக்ஸ்ரே(X-ray) எடுக்கப்படும்.",
+            "id": 2216,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Later, you will do an X-ray",
+                "id": 50,
+                "summary": "X-ray"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm46.m4a",
+            "content": "​உங்களுடைய எக்ஸ்ரேயில் (X-Ray) தொற்றுநோய் இருப்பதற்க்கான எந்த அறிகுறியும் தென்படவில்லை.",
+            "id": 2217,
+            "language": "Tamil",
+            "phrase": {
+                "content": "There is no sign of infection on your X-ray",
+                "id": 51,
+                "summary": "X-ray OK"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

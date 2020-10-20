@@ -1,0 +1,85 @@
+{
+    "count": 6,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm4.m4a",
+            "content": "கடந்த 14 நாட்களில், கொரோனா வைரஸ்-இனால் பாதிக்கப்பட்ட யாருடனாவது நீங்கள் தொடர்பு கொண்டீர்களா?",
+            "id": 2173,
+            "language": "Tamil",
+            "phrase": {
+                "content": "In the last 14 days, did you meet anyone who has coronavirus?",
+                "id": 9,
+                "summary": "People"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ad8fd93aa20033eecb0c000c2b5740a3_LOyzzkb.mp3",
+            "content": "உங்களுடைய அறையில் உங்களையும் சேர்த்து எத்தனை பேர் தங்கியுள்ளனர்?",
+            "id": 2174,
+            "language": "Tamil",
+            "phrase": {
+                "content": "How many people are staying in the same room as you?",
+                "id": 8,
+                "summary": "Room"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm5%20.m4a",
+            "content": "எவருடன் தொடர்பு கொண்டீர்கள்? அவர்களுக்கும் உங்களுக்குமான உறவுமுறை என்ன?",
+            "id": 2175,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Who? What is your relationship with them?",
+                "id": 10,
+                "summary": "People Meet"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm6.m4a",
+            "content": "நீங்கள் எத்தனை நாட்களுக்கு முன்பு அவ்ரகளை சந்தித்தீர்கள்?",
+            "id": 2176,
+            "language": "Tamil",
+            "phrase": {
+                "content": "How many days ago did you meet them?",
+                "id": 11,
+                "summary": "People Meet"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm7.m4a",
+            "content": "எவ்வளவு நேரம் நீங்கள் அவர்களுடன் இருந்தீர்கள்?",
+            "id": 2177,
+            "language": "Tamil",
+            "phrase": {
+                "content": "How long were you with him/her?",
+                "id": 12,
+                "summary": "People Meet"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm8.m4a",
+            "content": "கடந்த 14 நாட்களில், சிங்கப்பூரை விட்டு வெளிநாட்டிற்கு ஏதேனும் பயணம் செய்தீர்களா? அப்படி பயணம் செய்திருந்தால், நீங்கள் சென்றுவந்த நாடுகளின் பெயர்களை ஆங்கிலத்தில் குறிப்பிடவும்.",
+            "id": 2178,
+            "language": "Tamil",
+            "phrase": {
+                "content": "In the last 14 days, did you travel out of Singapore? If yes, tell us the countries in English.",
+                "id": 13,
+                "summary": "14 Days Travel"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

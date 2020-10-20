@@ -1,0 +1,46 @@
+{
+    "count": 3,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm227.m4a",
+            "content": "உங்களுக்கு கொரோனா கிருமித்தொற்று  இருப்பதாக உறுதி செய்யப்பட்டுள்ளது. ",
+            "id": 2234,
+            "language": "Tamil",
+            "phrase": {
+                "content": "You have tested positive for coronavirus.",
+                "id": 60,
+                "summary": "Tested Positive"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm228.m4a",
+            "content": "நாங்கள் உங்களை மருத்துவமனைக்கு அழைத்துச் செல்லவிருக்கிறோம். ",
+            "id": 2235,
+            "language": "Tamil",
+            "phrase": {
+                "content": "We will take you to the hospital.",
+                "id": 61,
+                "summary": "Hospital Admission"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm229.m4a",
+            "content": "நாங்கள் உங்களை தனிமைப் படுத்தும் இடத்துக்கு இடமாற்றம் செய்ய போகிறோம்",
+            "id": 2236,
+            "language": "Tamil",
+            "phrase": {
+                "content": "We will transfer you to an isolation facility.",
+                "id": 62,
+                "summary": "Isolation Facility"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

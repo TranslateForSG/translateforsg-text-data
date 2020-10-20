@@ -1,0 +1,150 @@
+{
+    "count": 11,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a37da639751a99cba1c9927bd840f6df_1HbXoYQ.mp3",
+            "content": "1 - ఒకటి",
+            "id": 3033,
+            "language": "Telugu",
+            "phrase": {
+                "content": "1",
+                "id": 126,
+                "summary": "1"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a9458df0c558926dba7810b2619655b7_SYgTOTM.mp3",
+            "content": "2 - రెండు",
+            "id": 3034,
+            "language": "Telugu",
+            "phrase": {
+                "content": "2",
+                "id": 127,
+                "summary": "2"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/84387608d2436c1494a2f750317c255c_aIrkcal.mp3",
+            "content": "3- మూడు",
+            "id": 3035,
+            "language": "Telugu",
+            "phrase": {
+                "content": "3",
+                "id": 128,
+                "summary": "3"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4b73b8865fba60deb7b7d3edc00a3af4_xtcgE4L.mp3",
+            "content": "4 - నాలుగు",
+            "id": 3036,
+            "language": "Telugu",
+            "phrase": {
+                "content": "4",
+                "id": 129,
+                "summary": "4"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8f537b31fb5574ec29acd43c79a6b470_5dcwh6k.mp3",
+            "content": "5 - ఐదు",
+            "id": 3037,
+            "language": "Telugu",
+            "phrase": {
+                "content": "5",
+                "id": 130,
+                "summary": "5"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/777b5dfcec48cb117338bb4bd80323c9.mp3",
+            "content": "6 - ఆరు",
+            "id": 3038,
+            "language": "Telugu",
+            "phrase": {
+                "content": "6",
+                "id": 131,
+                "summary": "6"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/777e80487ecb2b939a4443fb713305fb.mp3",
+            "content": "7 - ఏడు",
+            "id": 3039,
+            "language": "Telugu",
+            "phrase": {
+                "content": "7",
+                "id": 132,
+                "summary": "7"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/07bf76f10998c960c12fdba87cd2fc6c.mp3",
+            "content": "8 - ఎనిమిది",
+            "id": 3040,
+            "language": "Telugu",
+            "phrase": {
+                "content": "8",
+                "id": 133,
+                "summary": "8"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/12560d8859f18dfe73d329f240e8bcd6.mp3",
+            "content": "9 - తొమ్మిది",
+            "id": 3041,
+            "language": "Telugu",
+            "phrase": {
+                "content": "9",
+                "id": 134,
+                "summary": "9"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ef504723a146824cd79c29eb467184b1.mp3",
+            "content": "0 - పది",
+            "id": 3042,
+            "language": "Telugu",
+            "phrase": {
+                "content": "10",
+                "id": 135,
+                "summary": "10"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ac63496849d95887561305e60cf06784.mp3",
+            "content": "సున్నా",
+            "id": 3043,
+            "language": "Telugu",
+            "phrase": {
+                "content": "0",
+                "id": 136,
+                "summary": "0"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

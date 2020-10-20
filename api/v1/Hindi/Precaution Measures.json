@@ -1,0 +1,98 @@
+{
+    "count": 7,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/801756381dfa2072d5292ddbb9189190.mp3",
+            "content": "कृपया सार्वजनिक परिवहन से बचें।",
+            "id": 1861,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Please avoid public transport.",
+                "id": 166,
+                "summary": "Transport"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d008583019d5639da8346261b7c511bc.mp3",
+            "content": "आप अपना निजी परिवहन, टैक्सी या निजी किराए की कार ले सकते हैं।",
+            "id": 1862,
+            "language": "Hindi",
+            "phrase": {
+                "content": "You can take your own private transport, a taxi or a private hire car.",
+                "id": 167,
+                "summary": "Take Taxi"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b29fe2f0574eacb5c85bbfbb33ee2101.mp3",
+            "content": "मास्क पहनें और कार में पीछे की सीट पर अकेले बैठें।",
+            "id": 1863,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Wear a mask and sit alone in the back seat in the car.",
+                "id": 168,
+                "summary": "In Car"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8eeaee7181be1a4b2b3088736f6bd3dd.mp3",
+            "content": "कार की खिड़कियां खोलें और एयर कंडीशनिंग बंद करें।",
+            "id": 1864,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Open car windows and turn off air-conditioning.",
+                "id": 169,
+                "summary": "No AC"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/742bad1c4aa4647faa3924698309636f.mp3",
+            "content": "कृपया टैक्सी या निजी भाड़े की कार से रसीद सुरक्षित रखें। यदि आपके परीक्षा परिणाम आपको संक्रमित होने का संकेत देते हैं, तो इसकी आवश्यकता होगी।",
+            "id": 1865,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Please safely keep the receipt from the taxi or private hire car. If your test results indicate you are infected, this will be needed.",
+                "id": 170,
+                "summary": "Receipt"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ed336f1f95c082d1b78f989a3826b3bd.mp3",
+            "content": "दूसरों से दूर रहें। आपको चिकित्सा अवकाश पर रहने के दौरान घर रहना चाहिए और बाहर नहीं जा सकते। आप केवल स्वास्थ्य या चिकित्सा कारणों से बाहर जा सकते हैं।",
+            "id": 1866,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Stay away from others. You must stay home and can not go outside while being on medical leave. You may only go out for health or medical reasons.",
+                "id": 171,
+                "summary": "Isolation"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4902d84ed11ef07f06c548f3814dc432.mp3",
+            "content": "यदि आपको अपना परीक्षण परिणाम प्राप्त करने से पहले किसी भी चिकित्सा नियुक्ति के लिए जाने की आवश्यकता है, तो सावधान रहें। डॉक्टर, नर्स या अन्य कर्मचारियों को बताएं कि आपको हाल ही में COVID-19 के लिए परीक्षण किया गया था। इसके अलावा, उन्हें अपने लक्षणों के बारे में बताएं। दिन से पहले, आपको उन्हें सूचित करने के लिए 6344 8222 पर कॉल करना चाहिए।",
+            "id": 1867,
+            "language": "Hindi",
+            "phrase": {
+                "content": "If you need to go for any medical appointment before you get your test result, be careful. Tell the doctor, nurse, or other staff that you were recently tested for COVID-19. Also, tell them about your symptoms. Before the day, you should call 6344 8222 to inform them.",
+                "id": 172,
+                "summary": "Medical Appointment"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

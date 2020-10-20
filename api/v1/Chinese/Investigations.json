@@ -1,0 +1,98 @@
+{
+    "count": 7,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c8cd1658d43e1e38e58b7ec4a8b12c0a.mp3",
+            "content": "我会把这个棉花棒放进您的鼻子。你会感到不舒服，请忍一下。",
+            "id": 2003,
+            "language": "Chinese",
+            "phrase": {
+                "content": "I'm going to put this cotton bud into your nostrils. You will feel strange but it is not painful.",
+                "id": 46,
+                "summary": "Swabbing"
+            },
+            "romanized": "Wǒ huì bǎ zhè ge mián huā bàng fàng jìn nín de bí zi. Nǐ huì gǎn dào bú shū fú, qǐng rěn yī xià.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/323645f0860cfa7ac4072701bed2ded5.mp3",
+            "content": "这是用来检测冠状病毒。",
+            "id": 2144,
+            "language": "Chinese",
+            "phrase": {
+                "content": "This is to test for coronavirus",
+                "id": 47,
+                "summary": "Covid"
+            },
+            "romanized": "zhè shì yòng lái jiǎn cè guān zhuàng bìng dú 。",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d88cd9b6a045a507b87a0c300bfbd826.mp3",
+            "content": "如果您的冠状病毒检测报告为阳性, 我们明天会再打电话给你。",
+            "id": 2004,
+            "language": "Chinese",
+            "phrase": {
+                "content": "If coronavirus positive, we call your phone by tomorrow.",
+                "id": 49,
+                "summary": "Result Collection"
+            },
+            "romanized": "rú guǒ nín de guàn zhuàng bìng dú jiǎn cè bào gào wei yáng xìng, wǒ men míng tiān huì zài dǎ diàn huà gěi nín。",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0e9987f74973efb2f6ed027824b1c928.mp3",
+            "content": "如果冠状病毒检测报告为阴性，我们3天后会向你发送简讯。",
+            "id": 2005,
+            "language": "Chinese",
+            "phrase": {
+                "content": "If coronavirus negative, we send you an SMS after 3 days.",
+                "id": 152,
+                "summary": "COVID Negative"
+            },
+            "romanized": "Rú guǒ guān zhuàng bìng dú jiǎn cè bào gào wei yīn xìng, wǒ men sān tiān hòu huì xiàng nǐ fā sòng jiǎn xùn。",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/317caa7584907573f96fbefdca566608.mp3",
+            "content": "请把头往后仰 / 请抬头向上",
+            "id": 2006,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Tilt your head back",
+                "id": 48,
+                "summary": "Tilt Head"
+            },
+            "romanized": "qǐng bǎ tóu wǎng hòu yǎng / qǐng tái tóu xiàng shàng",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3ac860dd7242eb6ad3cb571804525adf.mp3",
+            "content": "待会儿给你照X光",
+            "id": 2007,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Later, you will do an X-ray",
+                "id": 50,
+                "summary": "X-ray"
+            },
+            "romanized": "dài hùi ér gěi nǐ zhào X guāng",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/23466cde4c968ac5eb007ac418cd9349.mp3",
+            "content": "你的X光报告显示肺部没有发炎的迹象。",
+            "id": 2008,
+            "language": "Chinese",
+            "phrase": {
+                "content": "There is no sign of infection on your X-ray",
+                "id": 51,
+                "summary": "X-ray OK"
+            },
+            "romanized": "nǐ de X guāng bào gào xiǎn shì fèi bù méi yǒu fā yán de jī xiàng 。",
+            "special_note": ""
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "count": 6,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/542e658173ce850e65c14c2e3388ff3c.mp3",
+            "content": "移动快速分类站",
+            "id": 3092,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Mobile Rapid Triage Station",
+                "id": 202,
+                "summary": "Name"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5627afde0233a93d0bfbbd7a31869e03.mp3",
+            "content": "在移动快速分诊站，我们将检查您的体温并记录您的生命体征。",
+            "id": 3093,
+            "language": "Chinese",
+            "phrase": {
+                "content": "At the mobile rapid triage station, we will be screening your temperature and taking your vital signs.",
+                "id": 203,
+                "summary": "Intro"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/dce542138728dae0247f70976d99a9ba.mp3",
+            "content": "请出示我们/扫描您的工作许可证。",
+            "id": 3094,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Please show us/scan your work permit.",
+                "id": 204,
+                "summary": "WP"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/cd8b9430d352a5ef7ed8d85316906db9.mp3",
+            "content": "请告诉我们您在宿舍里的楼号和房号。",
+            "id": 3095,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Please tell us your block and room no. in your dorm.",
+                "id": 205,
+                "summary": "Block & Room"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7b43e447bb2ce5d2161282336ef106ed.mp3",
+            "content": "必要时，您可能会被转介去看医生。",
+            "id": 3096,
+            "language": "Chinese",
+            "phrase": {
+                "content": "You may be referred to see a doctor where necessary.",
+                "id": 206,
+                "summary": "Doc Refer Can"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a34490b593cdc390c77104721ba7eb39.mp3",
+            "content": "谢谢",
+            "id": 3097,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Thank you",
+                "id": 207,
+                "summary": "Thanks"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

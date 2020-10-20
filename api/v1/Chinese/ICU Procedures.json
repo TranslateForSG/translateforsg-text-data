@@ -1,0 +1,189 @@
+{
+    "count": 14,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/075c1585a24d5992bc7698cccbd4ed4f.mp3",
+            "content": "我现在要用灯光来检查你的眼睛，会有点不舒服，请忍耐一下",
+            "id": 2073,
+            "language": "Chinese",
+            "phrase": {
+                "content": "I’m going to shine a light into your eyes. It will be bright.",
+                "id": 88,
+                "summary": "Shine a light into your eyes"
+            },
+            "romanized": "wǒ xiàn zài yào yòng dēng guāng lái jiǎn chá nǐ de yǎn jīng, hùi yǒu diǎn bù shū fú, qǐng rěn nài yī xià",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f414a410b2313bed567d284e9eb0d2c8.mp3",
+            "content": "你的肺部目前衰弱，我们需要放一条呼吸管，帮助您呼吸。",
+            "id": 2074,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Your lungs are weak. We are going to insert a breathing tube to help you breathe",
+                "id": 89,
+                "summary": "Insert a breathing tube"
+            },
+            "romanized": "Nǐ de fèi bù mù qián shuāi ruò, wǒ men xū yào fàng yī tiáo hū xī guǎn, bāng zhù nín hū xī",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/97c04d9c1029c0b99f62dbcd019d8c77.mp3",
+            "content": "你现在会进入睡眠状态",
+            "id": 2075,
+            "language": "Chinese",
+            "phrase": {
+                "content": "You are going to sleep now",
+                "id": 90,
+                "summary": "Sleep"
+            },
+            "romanized": "nín xiàn zài hùi jìn rù shùi mián zhuàng tài",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/881059ae107242d3611fb78ca4eac569.mp3",
+            "content": "我们要帮你躺在腹部。这样能让您的肺部更好的扩张。",
+            "id": 2076,
+            "language": "Chinese",
+            "phrase": {
+                "content": "We are turning you onto your belly to help your lungs expand",
+                "id": 91,
+                "summary": "Turn onto belly"
+            },
+            "romanized": "Wǒ men yào bāng nǐ tǎng zài fù bù. Zhè yàng néng ràng nín de fèi bù gèng hǎo de kuò zhāng.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/2f6887cf3166441947949cd58019bfdd.mp3",
+            "content": "我们需要帮你插入尿管，帮助您排尿。",
+            "id": 2077,
+            "language": "Chinese",
+            "phrase": {
+                "content": "We are inserting a tube to help you pass urine",
+                "id": 92,
+                "summary": "Insert tube urine"
+            },
+            "romanized": "wǒ men xū yào bāng nín chā rù niào guǎn ， bāng zhù nín pái niào 。",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/fdad64bbeebe83582d7fc9b1ab5a992a.mp3",
+            "content": "我们正在通过你的鼻子插入一条管子",
+            "id": 2078,
+            "language": "Chinese",
+            "phrase": {
+                "content": "We are inserting a tube through your nose",
+                "id": 93,
+                "summary": "Insert tube nose"
+            },
+            "romanized": "wǒ men zhèng zài tōng guò nín de bí zǐ chā rù yī tiáo guǎn zǐ",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3ec15c6a13b967dcdea4bf3428a9f7c9.mp3",
+            "content": "现在我们要在你的颈部插入一条输药管，好让我们输药。",
+            "id": 2079,
+            "language": "Chinese",
+            "phrase": {
+                "content": "We are going to give you an injection in your neck to give you medications",
+                "id": 94,
+                "summary": "Injection in Neck"
+            },
+            "romanized": "xiàn zài wǒ men yào zài nín de jǐng bù chā rù yī tiáo shū yào guǎn, hǎo ràng wǒ men shū yào 。",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6a0afc54e46c3ab163e936ac82b2acd3.mp3",
+            "content": "我们会在你的手上插入一条线，让我们\n直接量你的血压。",
+            "id": 2080,
+            "language": "Chinese",
+            "phrase": {
+                "content": "We are going to give you an injection in your arm to measure your blood pressure",
+                "id": 95,
+                "summary": "Measure Blood Pressure"
+            },
+            "romanized": "Wǒ men huì zài nǐ de shǒu shàng chā rù yī tiáo xiàn, ràng wǒ men zhí jiē liàng ní de xiě yā.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f409c1bf0503f33bf63491c47f01715f.mp3",
+            "content": "我们会给你吃药，让你睡得比较舒服",
+            "id": 2081,
+            "language": "Chinese",
+            "phrase": {
+                "content": "We will give you sleeping medications.",
+                "id": 96,
+                "summary": "Sleeping Meds"
+            },
+            "romanized": "wǒ men hùi gěi nǐ chī yào, ràng nǐ shùi dé bǐ jiào shū fú",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/caed706aac50030c8a1e7d41e944a590.mp3",
+            "content": "我们会给你一些止痛药",
+            "id": 2082,
+            "language": "Chinese",
+            "phrase": {
+                "content": "We will give you painkillers.",
+                "id": 97,
+                "summary": "Painkillers"
+            },
+            "romanized": "wǒ men hùi gěi nǐ yī xiē zhǐ tòng yào",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a3933a05790946e4dfc8dde30d2d2662.mp3",
+            "content": "我们会给你药来维持你的血压",
+            "id": 2083,
+            "language": "Chinese",
+            "phrase": {
+                "content": "We are giving you medication to keep your blood pressure up.",
+                "id": 98,
+                "summary": "Blood Pressure Medication"
+            },
+            "romanized": "wǒ men hùi gěi nǐ  yào lái wéi chí nǐ de xiě yā",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/214e4232910a2c9b04161fadea40360f.mp3",
+            "content": "我们要取出你的呼吸管",
+            "id": 2084,
+            "language": "Chinese",
+            "phrase": {
+                "content": "We are going to remove the breathing tube.",
+                "id": 99,
+                "summary": "Remove Tube"
+            },
+            "romanized": "wǒ men yào qǔ chū nǐ de hū xī guǎn",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/85e06ad7715e854c03f8e2564e74f242.mp3",
+            "content": "我们要吸掉你的痰",
+            "id": 2085,
+            "language": "Chinese",
+            "phrase": {
+                "content": "We are going to suck out your phlegm",
+                "id": 100,
+                "summary": "Phlegm suck out"
+            },
+            "romanized": "wǒ men yào xī diào nǐ de tán",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7ef8df1d352fd88590f8c7c96bc68bfb.mp3",
+            "content": "我们会用海绵帮你擦身体",
+            "id": 2086,
+            "language": "Chinese",
+            "phrase": {
+                "content": "We are going to clean you with a sponge",
+                "id": 101,
+                "summary": "Clean with sponge"
+            },
+            "romanized": "wǒ men hùi yòng hǎi mián bāng nǐ cā shēn tǐ",
+            "special_note": ""
+        }
+    ]
+}

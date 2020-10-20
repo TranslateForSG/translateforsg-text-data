@@ -1,0 +1,150 @@
+{
+    "count": 11,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/baca0f38e6b644b7703007f1fcb3f8e8.mp3",
+            "content": "একটা গভীর শ্বাস নাও",
+            "id": 203,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Take a deep breath",
+                "id": 77,
+                "summary": "Deep breath"
+            },
+            "romanized": "Ekta gobhir shash nao.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f3150dfa4597cdb0dc77cedb5a5e35eb.mp3",
+            "content": "আমাকে বড় কাশি দাও",
+            "id": 204,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Give me a big cough",
+                "id": 78,
+                "summary": "Big cough"
+            },
+            "romanized": "Amake boro kashi dao.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/68118b020245bc042600b9543c848848_ixpHO1Y.mp3",
+            "content": "বেশি নড়াচড়া করবেন না",
+            "id": 205,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Don’t struggle",
+                "id": 79,
+                "summary": "Don’t struggle"
+            },
+            "romanized": "Beshi norachora korben na",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/e1abaf96009cdda5128354a67110bdb2.mp3",
+            "content": "নড়বেন না",
+            "id": 206,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Don’t move",
+                "id": 80,
+                "summary": "Don’t move"
+            },
+            "romanized": "Norben na",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/9cc72f50039ac6f576b5344f6cb0855a_n8zywLC.mp3",
+            "content": "আপনার পুরো হাত তুলে দেন",
+            "id": 207,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Lift up your arm",
+                "id": 81,
+                "summary": "Lift up your arm"
+            },
+            "romanized": "Apnar puro haat tule den.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ecfddba1e4fb0211934b537dc422fdb6.mp3",
+            "content": "আপনার পা উপরে তুলুন",
+            "id": 208,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Lift up your leg",
+                "id": 82,
+                "summary": "Lift up your leg"
+            },
+            "romanized": "Apnar pa upore tulun.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/00e71c1aff8d904a7bc4ea15d5fd2179.mp3",
+            "content": "আমার হাত চেপে ধরুন",
+            "id": 209,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Squeeze my hand",
+                "id": 83,
+                "summary": "Squeeze my hand"
+            },
+            "romanized": "Amar haat chepe dhorun.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/bf77c4a4b729180b464d9db0af6c3c8b.mp3",
+            "content": "আমাকে দুটি আঙুল দেখান",
+            "id": 210,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Show me two fingers",
+                "id": 84,
+                "summary": "Show two fingers"
+            },
+            "romanized": "Amake duti angul dekhan.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/311ff0464f1eb8690b04170171d8a009.mp3",
+            "content": "আপনার মুখ খুলুন",
+            "id": 211,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Open your mouth",
+                "id": 85,
+                "summary": "Open mouth"
+            },
+            "romanized": "Apnar mukh khulun.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/40de1fa4f8efd1bdb8f40a6ee43ba0a4_fxCmQ6E.mp3",
+            "content": "আপনার জিহ্বা বার করেন",
+            "id": 212,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Stick out your tongue",
+                "id": 86,
+                "summary": "Stick out tongue"
+            },
+            "romanized": "Apnar jibba ber koren.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d7b17c1527946c450642f55bf912657c.mp3",
+            "content": "তোমার চোখ খোল",
+            "id": 213,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Open your eyes",
+                "id": 87,
+                "summary": "Open eyes"
+            },
+            "romanized": "Tomar chokh kholo.",
+            "special_note": ""
+        }
+    ]
+}

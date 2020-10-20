@@ -1,0 +1,202 @@
+{
+    "count": 15,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_5_jhrYlj6.m4a",
+            "content": "আপনার কি আগের থেকে কোনো শারীরিক সমস্যা আছে?",
+            "id": 28,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Do you have any past medical history?",
+                "id": 28,
+                "summary": "Medical History"
+            },
+            "romanized": "Apnar ki aager theke kono sharirik shomossha aache?",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Use_Finger_to_Show.m4a",
+            "content": "আঙ্গুল দিয়ে দেখান কোনটা।",
+            "id": 29,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Point to which ones.",
+                "id": 29,
+                "summary": "Symptoms"
+            },
+            "romanized": "Angul diye dekhan konta.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_6_ZOmuvqU.m4a",
+            "content": "হাঁপানি/অ্যাজমা",
+            "id": 30,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Asthma",
+                "id": 30,
+                "summary": "Asthma"
+            },
+            "romanized": "Hapani/asthma",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_7_fKECmeH.m4a",
+            "content": "নিউমোনিয়া",
+            "id": 31,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Pneumonia",
+                "id": 31,
+                "summary": "Pneumonia"
+            },
+            "romanized": "Pneumonia",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_8_9SKay3w.m4a",
+            "content": "ব্লাড প্রেসার",
+            "id": 32,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Hypertension",
+                "id": 32,
+                "summary": "Hypertension"
+            },
+            "romanized": "Blood pressure",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_9_Crp6CuY.m4a",
+            "content": "কল্সেটেরোল",
+            "id": 33,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Hyperlipidemia / Cholesterol",
+                "id": 33,
+                "summary": "Hyperlipidemia"
+            },
+            "romanized": "Cholesterol",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_10.m4a",
+            "content": "সুগার",
+            "id": 34,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Diabetes",
+                "id": 34,
+                "summary": "Diabetes"
+            },
+            "romanized": "Sugar",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_11.m4a",
+            "content": "হার্টের সমস্যা",
+            "id": 35,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Heart problems",
+                "id": 35,
+                "summary": "Heart problems"
+            },
+            "romanized": "Heart-er shomossha",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_12.m4a",
+            "content": "কিডনির সমস্যা",
+            "id": 36,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Kidney problems",
+                "id": 36,
+                "summary": "Kidney problems"
+            },
+            "romanized": "Kidney-r shomossha",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_13.m4a",
+            "content": "আপনার কি কোনো ওষুধের অ্যালার্জি আছে?",
+            "id": 37,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Do you have a drug allergy?",
+                "id": 37,
+                "summary": "Drug allergy"
+            },
+            "romanized": "Apnar ki kono oshudher allergy aache?",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_14.m4a",
+            "content": "আপনি কি ধুমপান করেন? করে থাকলে, এক দিনে আপনার কয়টা সিগারেট শেষ হয়?",
+            "id": 38,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Do you smoke? If yes, how many cigarettes a day?",
+                "id": 38,
+                "summary": "Smoke"
+            },
+            "romanized": "Apni ki dhumpaan koren? Kore thakle, ek dine apnar koyta cigarette shesh hoy?",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_15.m4a",
+            "content": "আপনি কি মাঝেমাঝে মদ্য পান করেন? তাহলে সপ্তাহে কতটুকু খান, কি ধরনের মদ, সম্ভব হলে ইংরেজীতে বলেন ।",
+            "id": 39,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Do you drink? If yes, how much (number of bottles a week, type of alcohol)?",
+                "id": 39,
+                "summary": "Drink Alcohol"
+            },
+            "romanized": "Apni ki majhe-majhe moddo paan koren? Tahole shoptahe kotoTuku khan, ki dhoroner mod - shombhob hole ingrejite bolen.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_1_cVIoV1A.mp3",
+            "content": "আপনার মনের অবস্থা কেমন?",
+            "id": 40,
+            "language": "Bengali",
+            "phrase": {
+                "content": "How do you feel emotionally?",
+                "id": 40,
+                "summary": "Emotion Feeling"
+            },
+            "romanized": "Apnar moner obostha ki?",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_gGce0mj.mp3",
+            "content": "আপনার কি আত্মহত্যার চিন্তা মাথায় আসে?",
+            "id": 41,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Do you have suicidal thoughts?",
+                "id": 41,
+                "summary": "Suicidal thoughts"
+            },
+            "romanized": "Apnar ki aatto-hottar chinta mathae ashe?",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_S8ZyDrO.m4a",
+            "content": "আপনার অন্য কোনো সমস্যা থাকলে আমাকে ইংরেজীতে বলুন।",
+            "id": 42,
+            "language": "Bengali",
+            "phrase": {
+                "content": "If you have any other problems, you can tell me in English.",
+                "id": 42,
+                "summary": "Other Problems"
+            },
+            "romanized": "Apnar onno kono shomossha thakle amake ingrejite bolun.",
+            "special_note": ""
+        }
+    ]
+}

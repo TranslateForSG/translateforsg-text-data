@@ -1,0 +1,72 @@
+{
+    "count": 5,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/dcefa3c0e539cd6269865602ae808a6f_jmigRU9.mp3",
+            "content": "গণপরিবহন না নেওয়ার চেষ্টা করুন।",
+            "id": 1297,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Please avoid public transport.",
+                "id": 166,
+                "summary": "Transport"
+            },
+            "romanized": "Gonoporibohon na newar cheshta korun.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/26b915a345a37df8241731f08be23d10_SxhQMjn.mp3",
+            "content": "আপনার নিজস্ব পরিবহণ, যেমন ট্যাক্সি বা একটি ভাড়া গাড়ি নিতে পারেন।",
+            "id": 1298,
+            "language": "Bengali",
+            "phrase": {
+                "content": "You can take your own private transport, a taxi or a private hire car.",
+                "id": 167,
+                "summary": "Take Taxi"
+            },
+            "romanized": "Apnar nijossho poribohon, jemon taxi ba ekti bhara gari nite paren.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3164b63c9ad198de0e70ba848c9a89ae_idnEtZy.mp3",
+            "content": "যদি আপনার কাশি খারাপ হয়ে আসছে এবং শ্বাস নিতে কষ্ট হচ্ছে বা আপনার জ্বর অনবরত আটত্রিশ (৩৮) ডিগ্রি সেলসিয়াসের উপরেই রয়েছে",
+            "id": 1825,
+            "language": "Bengali",
+            "phrase": {
+                "content": "If your cough is getting worse and you feel breathless, or your fever is persistently above 38 degrees Celsius",
+                "id": 184,
+                "summary": "38C"
+            },
+            "romanized": "Jodi apnar kashi kharap hoye ashche ebong shash nite koshto hocche ba apnar jor onoboroto attrish (38) degrees celsius er uporey royeche",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7c062c4abee96c986b83bd7c19745e49.mp3",
+            "content": "একটি সার্জিক্যাল মাস্ক পরুন এবং আমাদের জরুরি বিভাগে আসুন।",
+            "id": 1824,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Wear a surgical mask and come to our Emergency Department.",
+                "id": 185,
+                "summary": "Mask"
+            },
+            "romanized": "Ekti surgical mask porun ebong amader joruri bibhage ashun.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f9d07214036293f82616a8f4970174de.mp3",
+            "content": "জরুরি পরিস্থিতিতে, অ্যাম্বুলেন্সের জন্য 995 এ কল করুন। অ্যাম্বুলেন্স অপারেটরকে জানান যে আপনাকে সম্প্রতি COVID-19 এর জন্য পরীক্ষা করা হয়েছিল এবং তাদের আপনার ভ্রমণের ইতিহাসও বলুন।",
+            "id": 1826,
+            "language": "Bengali",
+            "phrase": {
+                "content": "In an emergency situation, call 995 for an ambulance. Inform the ambulance operator that you were recently tested for COVID-19 and also tell them your travel history.",
+                "id": 187,
+                "summary": "Ambulance"
+            },
+            "romanized": "joruri poristhitite, ambulance-er jonno 995 call korun. Ambulance operator-ke janan je apnake shomproti COVID-19 er jonno porikkha kora hoyechilo ebong taderke apnar bhromon itihash-o bolun",
+            "special_note": ""
+        }
+    ]
+}

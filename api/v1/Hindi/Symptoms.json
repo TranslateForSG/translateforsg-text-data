@@ -1,0 +1,189 @@
+{
+    "count": 14,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f13a7fc261e2d51fd7f9b385078b547c.mp3",
+            "content": "क्या आप को बुखार है?",
+            "id": 134,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Do you have a fever?",
+                "id": 14,
+                "summary": "Fever"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/502c1a46969153be7232f49475dfb72e.mp3",
+            "content": "कितने दिन?",
+            "id": 135,
+            "language": "Hindi",
+            "phrase": {
+                "content": "How many days?",
+                "id": 15,
+                "summary": "Length"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6ba1008a52a8cda2e229d7e7bb8daa47.mp3",
+            "content": "क्या आपने इसे थर्मामीटर से मापा? यदि आपने किया, तो सबसे अधिक पढ़ने वाला क्या था?",
+            "id": 136,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Did you measure it with a thermometer? If you did, what was the highest reading?",
+                "id": 16,
+                "summary": "Reading"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/72f45817f4a8c005c64f53bee220323b.mp3",
+            "content": "बहती नाक?",
+            "id": 137,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Runny nose?",
+                "id": 17,
+                "summary": "Runny nose"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6af06903f2f844948eac1308f63b6505.mp3",
+            "content": "खांसी?",
+            "id": 138,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Cough?",
+                "id": 18,
+                "summary": "Cough"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/70775774e020864beb938f5855cf650d.mp3",
+            "content": "गले में खरास?",
+            "id": 142,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Sore throat?",
+                "id": 19,
+                "summary": "Sore throat"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7313c8fef0924ab2c758bcded3eb37e1.mp3",
+            "content": "सांस लेने मे तकलीफ?",
+            "id": 143,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Difficulty breathing?",
+                "id": 20,
+                "summary": "Breathing"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/da6a356e8caa2e7ec3cab286ec4ea266.mp3",
+            "content": "ठीक से बदबू नहीं आ रही?",
+            "id": 144,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Cannot smell properly?",
+                "id": 21,
+                "summary": "Anosmia"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a73e0f5dc517fa5d5bb2a045b7ed7fbf.mp3",
+            "content": "क्या आपको मुंह में कम स्वाद महसूस होता है?",
+            "id": 145,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Do you feel less taste in the mouth?",
+                "id": 22,
+                "summary": "Ageusia"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/fce7975a38c6fece168c1b4964625c98.mp3",
+            "content": "क्या आपको दस्त / डायरिया है? दिन मे कितने बार?",
+            "id": 146,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Do you have diarrhoea / diarrhea? How many times a day?",
+                "id": 23,
+                "summary": "diarrhoea"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/2764aedc42c42fc20bcdafc3321f59ec.mp3",
+            "content": "त्वचा लाल चकत्ते या खुजली?",
+            "id": 147,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Skin Rash or Itching?",
+                "id": 24,
+                "summary": "Rash"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/141a10c33935aa6d60b28991e7b1e6dd.mp3",
+            "content": "क्या आपके शरीर पर कोई दर्द है?",
+            "id": 148,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Do you have any pain on your body?",
+                "id": 25,
+                "summary": "Pain"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5c9e679cc1f41d888ccc558baa07b19d.mp3",
+            "content": "विशेष रूप से, किसी भी सीने में दर्द?",
+            "id": 149,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Specifically, any chest pain?",
+                "id": 26,
+                "summary": "Chest Pain"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d67b4e6dc1e6eedfa768ae60edede8c5.mp3",
+            "content": "जगह की ओर इशारा करते हैं।",
+            "id": 150,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Point to the place.",
+                "id": 27,
+                "summary": "Point Out"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

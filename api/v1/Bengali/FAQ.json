@@ -1,0 +1,150 @@
+{
+    "count": 11,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1e36e279a6deab1d36fb6d867d102faa_CQyy8bC.mp3",
+            "content": "কোভিড -১৯ কি?\n\nকোভিড -১৯ (বা, করোনাভাইরাস) এমন একটি রোগ যার শুরু চিনের উহান শহর থেকে়। এটা একটা শ্বাসকষ্টজনিত রোগ।",
+            "id": 1241,
+            "language": "Bengali",
+            "phrase": {
+                "content": "What is COVID-19?\r\n\r\nCOVID-19 (more specifically, a coronavirus) is an illness that started from the Wuhan City in China, it is a respiratory illness.",
+                "id": 155,
+                "summary": "What COVID"
+            },
+            "romanized": "COVID-19 ki?\n\nCOVID-19 (ba coronavirus) emon ekti rog jar shuru cheener Wuhan shohor theke. Eta ekta shaashkoshto-jonito rog.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/73ca556219defadd97ef5b800a4ee7d6_g5ENuWC.mp3",
+            "content": "COVID-19 এর লক্ষণগুলি কী কী?\n\nসর্বাধিক সাধারণ লক্ষণগুলি হল জ্বর, ক্লান্তি এবং শুকনো কাশি। কিছু রোগীর নাক দিয়ে সর্দি, গলা ব্যথা বা ডায়রিয়াও থাকে। এই লক্ষণগুলি সাধারণত হালকা হয়। কিছু লোক সংক্রামিত হয় তবে তাদের কোনও লক্ষণ নেই। তবে এটি ফুসফুসের সংক্রমণ বা নিউমোনিয়ার কারণেও হতে পারে।",
+            "id": 1243,
+            "language": "Bengali",
+            "phrase": {
+                "content": "What are the symptoms of COVID-19?\r\n\r\nThe most common symptoms are fever, tiredness and dry cough. Some patients also have a runny nose, sore throat or diarrhea. These symptoms are usually mild.\r\n\r\nSome people become infected but do not have any symptoms.\r\n\r\nHowever, it also can be caused by a lung infection or pneumonia.",
+                "id": 156,
+                "summary": "What are the symptoms of COVID-19?"
+            },
+            "romanized": "COVID-19-er lokkhonguli ki ki?\n\nShorbadhik shadharon lokkhonguli holo jor, klanti ebong shukno kashi. Kichu rogir naak diye shordi, gola betha ba diarrhea-o thake. Ei lokkhonguli shadharonoto halka hoe. Kichu lok shongkramito hoe tobe tader kono lokkhon nei. Tobe eti fushfusher shongkromon ba pneumoniar karoneo hote pare.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/85a5a5a77b833a3e5971d1a9c61ff5cd_QYoezrS.mp3",
+            "content": "কোভিড-১৯ কীভাবে ছড়ায়?\n\nইতিমধ্যে কোভিড-১৯ এ সংক্রামিত অন্যান্য ব্যক্তিদের দ্বারা লোকেরা সংক্রামিত হতে পারে। কাশি এবং হাঁচি দিয়ে ভাইরাস ছড়িয়ে পড়ে। মুখ থেকে লালা, ব্যবহৃত প্লেট, চামচ এবং কাঁটাচামচ দিয়ে ভাইরাসটি ছড়িয়ে যেতে পারে।",
+            "id": 1244,
+            "language": "Bengali",
+            "phrase": {
+                "content": "How does COVID-19 spread?\r\n\r\nPeople can be infected by other persons already infected with COVID-19. The virus spreads through cough and sneezing. The virus can also spread with saliva from the mouth, used plates, spoons, and forks.",
+                "id": 157,
+                "summary": "COVID Spread"
+            },
+            "romanized": "COVID-19 kibhabe chorae?\n\nItimoddhe COVID-19-e shonkramito bektider dara lokera shongkramito hote pare. Kashi ebong hachi diye choriye pore. Mukh theke lala, beborito plate, chamoch ebong kata-chamoch diye virus-ti choriye jete pare.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/9b585bbc74558ef4840f1651d9c48424_G4TS7eF.mp3",
+            "content": "কোভিড-১৯ এর জন্য পরীক্ষা কী?\n\nএটি একটি সোয়াব পরীক্ষা। আপনার নাকের বা গলার পিছনে একটি সোয়াব  ঢোকানো হবে । এটি প্রায় 10 সেকেন্ড স্থায়ী হবে। কিছুটা অস্বস্তি হতে পারে, তবে এটি খুব বেদনাদায়ক নয়।",
+            "id": 1245,
+            "language": "Bengali",
+            "phrase": {
+                "content": "What is the test for COVID-19?\r\n\r\nIt is a swab test. A swab will be inserted in your nostrils or at the back of your throat. It will last about 10 seconds. There might be a slight discomfort, however, it is not too painful.",
+                "id": 158,
+                "summary": "COVID-19 Test"
+            },
+            "romanized": "COVID-19-er jonno porikkha ki?\n\nEti ekti swab porikkha. Apnar naaker ba golar pichone ekti swab dhokano hobe. Eti prae dosh second sthayee hobe. Kichuta osshosti hote pare, tobe eti khub bedonadayok noy.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7f6c0187ea444787b823d6d97ffb616e_78Staaf.mp3",
+            "content": "আমার যদি কভিড -১৯ থাকে?\n\nকর্তৃপক্ষ আপনার জন্য আলাদা থাকার ব্যবস্থা করবে বা আপনাকে কোনও হাসপাতালে ভর্তি করবে। তারা আপনার স্বাস্থ্যের উন্নতি করছে কিনা তা পর্যবেক্ষণ করবে। এক্স-রে বা রক্ত পরীক্ষারও প্রয়োজন হতে পারে। সাধারণত, তারা প্রতি 24 ঘন্টা আপনার ত্বক পরীক্ষা করবে। যদি আপনার পরীক্ষাটি পরপর দুবার নেগেটিভ হয় তবে আপনাকে মুক্তি দেওয়া হবে। তবে বাড়িতে যাওয়ার পরে, আপনাকে 2 সপ্তাহের জন্য সবার থেকে আলাদা থাকতে হবে।",
+            "id": 1246,
+            "language": "Bengali",
+            "phrase": {
+                "content": "What if I have COVID-19?\r\n\r\nAuthority will make separate living arrangements for you or admit you to a hospital. They will monitor your health, whether it is improving or not. X-ray or blood test may also be needed. Usually, they will test your swab every 24 hours. If your test is negative twice in a row, you will be released. But after going home, you have to stay separate from everyone for 2 weeks.",
+                "id": 159,
+                "summary": "COVID-19 Positive"
+            },
+            "romanized": "Amar jodi COVID-19 thake?\n\nKortripokkho apnar jonno alada thakar bebostha korbe ba apnake kono haashpatale bhorti korbe. Tara apnar shasther unnoti kina ta porjobekkhon korbe. X-ray ba rokto porikkharo proyojon hote pare. Shadharonoto, tara proti chobbish ghonta apnar tok porikkha korbe. Jodi apnar porikkhati porpor doobar negative hoy tobe apnake moktu dewa hobe. Tobe barite jawar pore apnake dui shoptaher jonno shobar theke alada thakte hobe.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/21a8ea648e9400cb8714e724c283bb69_KFCuX5W.mp3",
+            "content": "কোভিড -১৯ থাকলে আমি কি মারা যাব?\n\nকোভিড -১৯ কীভাবে আপনাকে বা আপনার প্রিয়জনকে প্রভাবিত করতে পারে তা নিয়ে চিন্তিত হওয়া স্বাভাবিক। ৮0% ক্ষেত্রে, কোভিড -১৯ থেকে সংক্রমণ সাধারণত হালকা হয় এবং এমনকি কোনও চিকিত্সার প্রয়োজন হয় না। ভাইরাসজনিত কারণে ক্ষয় হওয়ার সম্ভাবনা রয়েছে যারা বয়স্ক অথবা যাদের অন্যান্য শারীরিক সম্যস্যা আছে। শুধুমাত্র ৫% রোগীদের  আই সি উ এর প্রয়োজন হয় শ্বাস প্রশ্বাসের কষ্ট কমানোর আর রক্তচাপ নিয়ন্ত্রণ করার জন্য।",
+            "id": 1247,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Will I die if I have COVID-19?\r\n\r\nCOVID-19 may make you and your family worried. However, 80% of the time, COVID-19 infections are mild. They do not even need any treatment. There is a slight risk of damage to those who are old or have other health problems. Only 5% of patients need ICU for helping them breathe.",
+                "id": 160,
+                "summary": "Die COVID-19"
+            },
+            "romanized": "COVID-19 thakle ami ki mara jabo?\n\nCOVID-19 kibhabe apnake ba apnar priyojonke probhabhito korte pare ta niye chintito howa shabhabik. Aashi% khetre, COVID-19 theke shongkromon shadahronoto halka hoy abong amonki kono chikitshar proyojon hoy na. Virus-jonito karone khoe howar shombhabona royeche jara boyoshko othoba jader onnanno sharirik shomossha ache. Shudhumatro paach% rogider ICU-er proyojon hoe shaash prosshaasher koshto komanor ar roktochaap niyontron korar jonno.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/9ca3e9a00655afc8af6dd76267546bbc_eHkUIK3.mp3",
+            "content": "কোভিড-১৯ এর চিকিত্সা আছে?\n\nকোভিড-১৯ এর বেশিরভাগ রোগীদের কোনও চিকিত্সার প্রয়োজন হয় না। তাদের কেবল কাশি, জ্বর এবং অন্যান্য উপসর্গের জন্য ওষুধ প্রয়োজন। তবে, খুব অসুস্থ রোগীদের 5% এর জন্য, কোনও প্রমাণিত চিকিত্সা নেই। তবে আমরা চিকিত্সা আবিষ্কারের খুব কাছাকাছি। ভয় পাবেন না. আপনার শ্বাস নিতে সমস্যা হলে আমরা আপনাকে শ্বাস নিতে সহায়তা করার জন্য একটি মেশিন ব্যবহার করব। আমরা রক্তচাপের জন্য আপনাকে ওষুধ দেব।",
+            "id": 1248,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Is there a treatment for COVID-19?\r\n\r\nMost patients of COVID-19 do not need any treatment. They only need medicine for cough, fever and other symptoms. However, for 5% of the patients who are very ill, there are no proven treatments. However, we are very near to discovering treatment. Do not be afraid. If you have problems breathing we will use a machine to help you breathe. We will give you medicine for blood pressure.",
+                "id": 161,
+                "summary": "COVID-19 Treatment"
+            },
+            "romanized": "COVID-19-er chikitsha ache?\n\nCOVID-19-er beshirbhaag rogider kono chikitshar proyojon hoy na. Tader kebol kashi, jor ebong onnanno uposhorger jonno oshudh proyojon. Tobe, khub oshustho rogider paach%-er jonno kono promanito chikitsha nei. Tobe amra chikitsha aabishkarer khub kachakachi. Bhoe paben na, apnar shaash nite shomossha hole amra apnake shaash nite shohaeta korar jonno machine bebohar korbo. Amra roktochaper jonno apnake oshudh debo.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ff468a0f092fbf5adaa2b65216442d73_K23Ii81.mp3",
+            "content": "চিকিত্সার জন্য আমার কত টাকা দিতে হবে?\n\nসিঙ্গাপুর সরকারের ঘোষণাপত্রে আপনি সিঙ্গাপুরের নাগরিক বা স্থায়ী বাসিন্দা বা দীর্ঘমেয়াদী পাসধারী হলে সরকার অর্থ প্রদান করবে। সুতরাং আপনার কাছে ওয়ার্ক পারমিট থাকলেও সরকার প্রদান করবে। তবে, আপনি যদি 2020 সালের 27 শে মার্চের পরে সিঙ্গাপুরের বাইরে চলে যান এবং ফিরে আসার 14 দিনের মধ্যে ভর্তি হন, সরকার আপনার বিল পরিশোধ করবে না।",
+            "id": 1249,
+            "language": "Bengali",
+            "phrase": {
+                "content": "How much will I have to pay for Treatment?\r\n\r\nAccording to the announcement of the Singapore Government, if you are a citizen of Singapore, or a permanent resident, or a long term pass holder, the government will pay. So even if you have a work permit, the government will pay. But, if you went out of Singapore after 27 March 2020 and get admitted within 14 days of returning, the government will not pay your bills.",
+                "id": 162,
+                "summary": "Treatment Cost"
+            },
+            "romanized": "Chikitshar jonno amar koto taka dite hobe?\n\nSingapore shorkarer ghoshonapotre apni Singaporer nagorik ba sthayee bashinda ba dirghomeyadi pass-dhari hole shorkar ortho prodaan korbe. Shutoraang apnar kache work permit thakleo shorkar prodaan korbe. Tobe, apni jodi 2020 shaler shataish March-er pore Singaporer baere chole jaan ebong fire ashar choddo diner moddhe bhorti hon, shorkar apnar bill porishodh korbe na.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b006c376736473e07539f368e06e109b_xgRNHLK.mp3",
+            "content": "আমি কাজ না করার জন্য উদ্বিগ্ন। আমি কি চাকরি হারাবো?\n\nআপনার নিয়োগকর্তাকে আইন দ্বারা আপনার চিকিত্সার অনুমতি দিতে হবে। আপনি এখন কাজ করতে না পারলেও নিয়োগকর্তাকে আপনার বেতন দিতে হবে। আপনার বেতন যথাসময়ে প্রদান না করা হলে, সিঙ্গাপুর সরকার নিয়োগকর্তার বিরুদ্ধে ব্যবস্থা নিতে পারে।",
+            "id": 1250,
+            "language": "Bengali",
+            "phrase": {
+                "content": "I am worried about not working. Will I lose my job?\r\n\r\nYour employer has to allow your treatment by the law. The employer has to pay your salary even if you cannot work now.  If your salary is not paid timely, the Singapore Government can take action against the employer.",
+                "id": 163,
+                "summary": "Job Loss"
+            },
+            "romanized": "Ami kaj na korar jonno uddigno. Ami ki chakri harabo?\n\nApnar niyogkortake ayeen dara apnar chikitshar onumoti dite hobe. Apni ekhon kaj korte na parleo niyogkortake apnar dite hobe. Apnar beton jothashomoye prodaan na kora hole, Singapore shorkar niyogkortar biruddhe bebostha nite pare.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/fc24fc3390710aae6cae96ed08750c81_8KPL1wb.mp3",
+            "content": "আমি ভয় পাচ্ছি আর আমি বাড়ি যেতে চাই!\n\nএই সময়কালে ভয় পাওয়া এবং উদ্বেগ হওয়া স্বাভাবিক। আপনার পরিবারের নিরাপত্তার জন্য আপনাকে অবশ্যই ডাক্তার এবং সরকারের নির্দেশাবলী অনুসরণ করতে হবে। সিঙ্গাপুর সরকার ব্যবস্থা করেছে, তাই আমরা নিরাপদে আপনাকে চিকিত্সা দিতে পারি। সিঙ্গাপুরে ভাল হাসপাতাল এবং চিকিত্সা আছে। আমরা আপনাকে সর্বোত্তম চিকিত্সা দেওয়ার জন্য যথাসাধ্য চেষ্টা করব।",
+            "id": 1251,
+            "language": "Bengali",
+            "phrase": {
+                "content": "I am scared and I want to go home.\r\n\r\nIt is natural to be scared and anxious during this period.\r\n\r\nYou must follow the instructions of doctors and the Government for the safety of your family. The Singapore Government has made arrangements, so we can safely give you treatment. Singapore has good hospitals and treatment here. We will do our best to give you the best treatment possible.",
+                "id": 164,
+                "summary": "Scared"
+            },
+            "romanized": "Ami bhoe pacchi ar ami bari jete chai!\n\nEi shomoekale bhoe pawa ebong uddeg howa shabhabik. Apnar poribarer nirapottar jonno apnake obosshoi daktar ebong shorkarer nirdeshboli onushoron korte hobe. Singapore shorkar bebostha koreche, tai amra nirapod apnake chikitsha dite pari. Singapore-e bhalo hashpatal ebong chikitsha aache. Amra apnake shorbottom chikitsha dewar jonno jothashaddho cheshta korbo.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/12344a606d797c73b54a5e2e1bb9262c.mp3",
+            "content": "আমি কীভাবে কোভিড -১৯ সংক্রমণ রোধ করতে পারি?\n\nভাগ্যক্রমে, সংক্রমণের ঝুঁকি কমাতে আপনি কিছু প্রতিরোধমূলক ব্যবস্থা নিতে পারেন । তা হল:\n\n১. আপনার হাত সাবান এবং পানি দিয়ে কমপক্ষে ২০ সেকেন্ডের জন্য ভাল করে ধুয়ে নিন।\n২. চোখ, নাক এবং মুখ স্পর্শ করা এড়িয়ে চলুন।\n৩. আপনি কাশি বা হাঁচি দিলে আপনার কনুই বা টিস্যু দিয়ে আপনার মুখ এবং নাক ঢেকে ফেলুন।\n৪. নিজের এবং অন্য কারও মধ্যে কমপক্ষে ১ মিটার দূরত্ব বজায় রাখুন\n৫. আপনি যদি অসুস্থ বোধ করেন তবে বাড়ির ভিতরেই থাকুন এবং অন্যের থেকে দূরে থাকেন । যদি আপনার জ্বর, কাশি বা শ্বাসকষ্ট হয় তবে দয়া করে তাড়াতাড়ি চিকিত্সকের সহায়তা নিন।",
+            "id": 1252,
+            "language": "Bengali",
+            "phrase": {
+                "content": "How can I prevent COVID-19 Infection?\r\n\r\nFortunately, there are some actions you can take to minimize the risk of infection. They are:\r\n\r\n1. Thoroughly washing your hands with soap and water for at least 20 seconds.\r\n2. Do not touch eyes, nose, and mouth.\r\n3. Covering your mouth and nose with your elbow or tissue when you cough or sneeze.\r\n4. Maintaining at least 1 meter distance between yourself and anyone else.\r\n5. Staying home if you feel unwell and keep away from others. If you have a fever, cough or breathing problem, please seek medical attention early.",
+                "id": 165,
+                "summary": "Prevention"
+            },
+            "romanized": "Ami kibhabe COVID-19 shongkromon rodh korte pari?\n\nBhaggokrome, shongkromoner jhuki komate apni kichu protirodhmulok bebostha nite paren. Ta holo:\n\n1. Apnar haath shaban ebong pani diye kompokkhe bish second-er jonno bhalo kore dhuye nin.\n2. Chokh, naak ebong mukh sporsho kora eriye cholun.\n3. Apni kashi ba hachi dile apnar konui ba tissue diye apnar mukh ebong naak dheke felun.\n4. Nijer ebong onno karo moddhe kompokkhe ek metre durotto bojae rakhun\n5. Apni jodi oshustho bodh koren tobe barir bhitorei thakun abong onner theke dure thaken. Jodi apnar jor, kashi ba shashkoshto hoy tobe hoya kore taratari chikitshoker shohaeta nin.",
+            "special_note": ""
+        }
+    ]
+}

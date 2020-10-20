@@ -1,0 +1,72 @@
+{
+    "count": 5,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/81f0b20d33fadd2775320326384e9d09.mp3",
+            "content": "Tôi sẽ kiểm tra bạn.",
+            "id": 1346,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "I’m going to examine you.",
+                "id": 43,
+                "summary": "Physical Exam Starts"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/eb443d0caaa2507d3d2568ec8565bb24.mp3",
+            "content": "Hãy nói cho tôi nếu bạn cảm thấy đau hơn.",
+            "id": 1347,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Tell me if you feel more pain.",
+                "id": 149,
+                "summary": "Tell if Pain"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d23ff7751089a98331fca1bb198e993d.mp3",
+            "content": "Hãy cởi áo ra.",
+            "id": 1348,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Please remove your shirt.",
+                "id": 150,
+                "summary": "Remove Clothing"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b72c1a423fbb18c6e7350c4d20589ae8.mp3",
+            "content": "Tiếp tục hít thở sâu bằng miệng.",
+            "id": 1349,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Keep taking deep breaths through your mouth.",
+                "id": 44,
+                "summary": "Deep Breath"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ddd5f6681633a4f7efe30124d0dc4dd7.mp3",
+            "content": "Nói &quot;99&quot; khi tôi nghe bằng ống nghe.",
+            "id": 1350,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Say \"99\" when I listen with my stethoscope.",
+                "id": 45,
+                "summary": "99"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

@@ -1,0 +1,2347 @@
+{
+    "count": 180,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm1.m4a",
+            "content": "நான் ஒரு மருத்துவர். எனக்கு தமிழ் பேசத் தெரியாது. நான் இந்த இணையப்பக்கத்தின் மூலம் உங்களுடன் பேச போகிறேன். உங்களால் முடிந்த அளவிற்க்கு ஆங்கிலத்தில் பதில் சொல்லுங்கள்.",
+            "id": 2166,
+            "language": "Tamil",
+            "phrase": {
+                "content": "I am a doctor. I do not speak your language. I will communicate with you using this website. Answer me in English as much as possible. Thank you.",
+                "id": 1,
+                "summary": "Intro"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm2.m4a",
+            "content": "உங்களுடைய பெயர் என்ன?",
+            "id": 2167,
+            "language": "Tamil",
+            "phrase": {
+                "content": "What's your name?",
+                "id": 2,
+                "summary": "Name"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm3.m4a",
+            "content": "தயவுசெய்து உங்களுடைய வேலை அனுமதி (Work Permit) அட்டையைக் காட்டுங்கள்.",
+            "id": 2168,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Please give me your Identity Card or Work Permit",
+                "id": 3,
+                "summary": "IC"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/2bc36a1bfca0e680af023c29350e8444_GlOukTO.mp3",
+            "content": "நீங்கள் வேலை செய்யும் கம்பேனியின்/நிறுவனத்தின் பெயர் என்ன?",
+            "id": 2169,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Which company are you employed under / work for?",
+                "id": 4,
+                "summary": "Company"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8f0a11e4c44052b7c93c472b8813ba9c_njoxA0D.mp3",
+            "content": "உங்களுடைய சூப்பர்வைசர் அல்லது முதலாளியின் பெயர் என்ன?  அவருடைய தொடர்பு எண் என்ன?",
+            "id": 2170,
+            "language": "Tamil",
+            "phrase": {
+                "content": "What is your supervisor’s name and contact number?",
+                "id": 5,
+                "summary": "Supervisor"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/53b89250df3f0b9c7f1f303013430e3b_y810fGb.mp3",
+            "content": "சிங்கப்பூரில் நீங்கள் எங்கே வசிக்கிறீர்கள்? நீங்கள் தங்கியிருக்கும் இடம் (டோர்ம்) பெயர் என்ன?",
+            "id": 2171,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Where do you live in Singapore?",
+                "id": 6,
+                "summary": "Residence"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4ed1440654f382dc6944037b66256156_fJepUYg.mp3",
+            "content": "பாதிக்கப்பட்ட நோயாளிகள் யாராவது நீங்கள் வசிக்கும் இடத்தைச் சேர்ந்தவர்களா என்பது உங்களுக்குத் தெரியுமா?",
+            "id": 2172,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Do you know if any infected patients are from your area?",
+                "id": 7,
+                "summary": "Cluster"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm4.m4a",
+            "content": "கடந்த 14 நாட்களில், கொரோனா வைரஸ்-இனால் பாதிக்கப்பட்ட யாருடனாவது நீங்கள் தொடர்பு கொண்டீர்களா?",
+            "id": 2173,
+            "language": "Tamil",
+            "phrase": {
+                "content": "In the last 14 days, did you meet anyone who has coronavirus?",
+                "id": 9,
+                "summary": "People"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ad8fd93aa20033eecb0c000c2b5740a3_LOyzzkb.mp3",
+            "content": "உங்களுடைய அறையில் உங்களையும் சேர்த்து எத்தனை பேர் தங்கியுள்ளனர்?",
+            "id": 2174,
+            "language": "Tamil",
+            "phrase": {
+                "content": "How many people are staying in the same room as you?",
+                "id": 8,
+                "summary": "Room"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm5%20.m4a",
+            "content": "எவருடன் தொடர்பு கொண்டீர்கள்? அவர்களுக்கும் உங்களுக்குமான உறவுமுறை என்ன?",
+            "id": 2175,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Who? What is your relationship with them?",
+                "id": 10,
+                "summary": "People Meet"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm6.m4a",
+            "content": "நீங்கள் எத்தனை நாட்களுக்கு முன்பு அவ்ரகளை சந்தித்தீர்கள்?",
+            "id": 2176,
+            "language": "Tamil",
+            "phrase": {
+                "content": "How many days ago did you meet them?",
+                "id": 11,
+                "summary": "People Meet"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm7.m4a",
+            "content": "எவ்வளவு நேரம் நீங்கள் அவர்களுடன் இருந்தீர்கள்?",
+            "id": 2177,
+            "language": "Tamil",
+            "phrase": {
+                "content": "How long were you with him/her?",
+                "id": 12,
+                "summary": "People Meet"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm8.m4a",
+            "content": "கடந்த 14 நாட்களில், சிங்கப்பூரை விட்டு வெளிநாட்டிற்கு ஏதேனும் பயணம் செய்தீர்களா? அப்படி பயணம் செய்திருந்தால், நீங்கள் சென்றுவந்த நாடுகளின் பெயர்களை ஆங்கிலத்தில் குறிப்பிடவும்.",
+            "id": 2178,
+            "language": "Tamil",
+            "phrase": {
+                "content": "In the last 14 days, did you travel out of Singapore? If yes, tell us the countries in English.",
+                "id": 13,
+                "summary": "14 Days Travel"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm9.m4a",
+            "content": "உங்களுக்கு காய்ச்சல் உள்ளதா?",
+            "id": 2179,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Do you have a fever?",
+                "id": 14,
+                "summary": "Fever"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm10.m4a",
+            "content": "எவ்வளவு நாட்களாக உள்ளது?",
+            "id": 2180,
+            "language": "Tamil",
+            "phrase": {
+                "content": "How many days?",
+                "id": 15,
+                "summary": "Length"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm11.m4a",
+            "content": "நீங்கள் உங்களுடைய வெப்பமானியைப் (அதாவது தெர்மோமீட்டரை)  பயன்படுத்துகிறீர்களா? இதுவரையிலும் உங்களுக்கு இருந்த ஆக அதிகமான உடல் வெப்பநிலை என்ன?",
+            "id": 2181,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Did you measure it with a thermometer? If you did, what was the highest reading?",
+                "id": 16,
+                "summary": "Reading"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm12.m4a",
+            "content": "​மூக்கு சலி உள்ளதா?",
+            "id": 2182,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Runny nose?",
+                "id": 17,
+                "summary": "Runny nose"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm13.m4a",
+            "content": "இருமல் உள்ளதா?",
+            "id": 2183,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Cough?",
+                "id": 18,
+                "summary": "Cough"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm14.m4a",
+            "content": "தொண்டை வலி உள்ளதா?",
+            "id": 2184,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Sore throat?",
+                "id": 19,
+                "summary": "Sore throat"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm15.m4a",
+            "content": "மூச்சுத் திணறல் அல்லது மூச்சுவிடுவதில் சிரமம் உள்ளதா?",
+            "id": 2185,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Difficulty breathing?",
+                "id": 20,
+                "summary": "Breathing"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm33.m4a",
+            "content": "வாசனை தெரியாமல்போவது",
+            "id": 2344,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Cannot smell properly?",
+                "id": 21,
+                "summary": "Anosmia"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm29.m4a",
+            "content": "சுவை தெரியாமல் போவது",
+            "id": 2186,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Do you feel less taste in the mouth?",
+                "id": 22,
+                "summary": "Ageusia"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm16.m4a",
+            "content": "உங்களுக்கு வயிற்றுப் போக்கு இருக்கிறதா? ஒரு நாளில் எத்தனை முறை?",
+            "id": 2187,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Do you have diarrhoea / diarrhea? How many times a day?",
+                "id": 23,
+                "summary": "diarrhoea"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm17.m4a",
+            "content": "உடலில் சொறி/அரிப்பு  அல்லது ஏதாவது தடிப்புகள் இருக்கிறதா?",
+            "id": 2188,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Skin Rash or Itching?",
+                "id": 24,
+                "summary": "Rash"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/351ae058cd2dc806a3f12ce5bfe7561d_lx80tnZ.mp3",
+            "content": "உங்களுக்கு ஏதேனும் வலி இருக்கிறதா?",
+            "id": 2345,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Do you have any pain on your body?",
+                "id": 25,
+                "summary": "Pain"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ba04617d2134af186a59d78d2e05111d_fg6HLVb.mp3",
+            "content": "குறிப்பாக நெஞ்சுவலி இருக்கிறதா?",
+            "id": 2189,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Specifically, any chest pain?",
+                "id": 26,
+                "summary": "Chest Pain"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm19.m4a",
+            "content": "எங்கே வலி இருக்கிறது என்று காட்டுங்கள்.",
+            "id": 2190,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Point to the place.",
+                "id": 27,
+                "summary": "Point Out"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm20.m4a",
+            "content": "இதற்கு முன் உங்களுக்கு ஏதேனும் மருத்துவ ரீதியான பிரச்சனைகள் இருந்திருக்கிறதா?",
+            "id": 2191,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Do you have any past medical history?",
+                "id": 28,
+                "summary": "Medical History"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm21.m4a",
+            "content": "உங்களுக்கு இவற்றுள் ஏதேனும் இருந்தால் என்னிடம் கூறுங்கள்.",
+            "id": 2192,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Point to which ones.",
+                "id": 29,
+                "summary": "Symptoms"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm22.m4a",
+            "content": "ஆஸ்துமா",
+            "id": 2193,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Asthma",
+                "id": 30,
+                "summary": "Asthma"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm23.m4a",
+            "content": "நிமோனியா",
+            "id": 2194,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Pneumonia",
+                "id": 31,
+                "summary": "Pneumonia"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm24.m4a",
+            "content": "உயர் இரத்த அழுத்தம் (ஹைப்பர்டென்ஷன்)",
+            "id": 2195,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Hypertension",
+                "id": 32,
+                "summary": "Hypertension"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm25.m4a",
+            "content": "(ஹைப்பர்லிபிடெமியா எனப்படும் ரத்தத்தில் அதிகமாக கொழுப்பு இருக்கும் நோய்)",
+            "id": 2196,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Hyperlipidemia / Cholesterol",
+                "id": 33,
+                "summary": "Hyperlipidemia"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm26.m4a",
+            "content": "நீரிழிவு நோய் (டையபீட்டிஸ்/இனிப்பு நீர்/சர்க்கரை வியாதி/ஷுகர்)",
+            "id": 2197,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Diabetes",
+                "id": 34,
+                "summary": "Diabetes"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm27.m4a",
+            "content": "இதய கோளாறு",
+            "id": 2198,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Heart problems",
+                "id": 35,
+                "summary": "Heart problems"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm28.m4a",
+            "content": "சிறுநீரகத்தில் (கிட்ணி) பிரச்சினை",
+            "id": 2199,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Kidney problems",
+                "id": 36,
+                "summary": "Kidney problems"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm31.m4a",
+            "content": "நீங்கள் தவிர்க்க வேண்டிய மருந்து மாத்திரைகள் ஏதேனும் உண்டா? அதாவது உங்களுக்கு ஏதேனும் மருந்து அலர்ஜி (allergy) உண்டா?",
+            "id": 2200,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Do you have a drug allergy?",
+                "id": 37,
+                "summary": "Drug allergy"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm32.m4a",
+            "content": "நீங்கள் புகை பிடிப்பீர்களா? ஒரு நாளில் எத்தனை சிகரெட்டுகள் புகைபிடிப்பீர்கள்?",
+            "id": 2201,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Do you smoke? If yes, how many cigarettes a day?",
+                "id": 38,
+                "summary": "Smoke"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm33.m4a",
+            "content": "உங்களுக்கு மது அருந்துதல்/ குடி பழக்கம் இருக்கிறதா? ஒரு வாரத்தில் எவ்வளவு மது அருந்துவீர்கள்?",
+            "id": 2202,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Do you drink? If yes, how much (number of bottles a week, type of alcohol)?",
+                "id": 39,
+                "summary": "Drink Alcohol"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/04d40afce0c21274490b52245a04dfee_Q8Wk0dA.mp3",
+            "content": "பொதுவாக உங்களுடைய மன நிலை எப்படியுள்ளது? விரலை மேல் அல்லது கீழ் காட்டுங்கள்",
+            "id": 2203,
+            "language": "Tamil",
+            "phrase": {
+                "content": "How do you feel emotionally?",
+                "id": 40,
+                "summary": "Emotion Feeling"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/66c594cbe8315377ea97b16cb4814f67_SxlHi4t.mp3",
+            "content": "எப்போதாவது உங்களுக்குத் தற்கொலை செய்துகொள்ள வேண்டும் என்ற எண்ணம் தோன்றியுள்ளதா?",
+            "id": 2204,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Do you have suicidal thoughts?",
+                "id": 41,
+                "summary": "Suicidal thoughts"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm34.m4a",
+            "content": "உங்களுக்கு வேறு ஏதாவது மருத்துவ/உடல் நலம் சார்ந்த பிரச்சனைகள் இருந்தால், என்னிடம் ஆங்கிலத்தில் சொல்லுங்கள்",
+            "id": 2205,
+            "language": "Tamil",
+            "phrase": {
+                "content": "If you have any other problems, you can tell me in English.",
+                "id": 42,
+                "summary": "Other Problems"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm35.m4a",
+            "content": "நான் உங்களை பரிசோதிக்க போகிறேன்",
+            "id": 2206,
+            "language": "Tamil",
+            "phrase": {
+                "content": "I’m going to examine you.",
+                "id": 43,
+                "summary": "Physical Exam Starts"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm36.m4a",
+            "content": "ஏதேனும் வலியுண்டானால் என்னிடம் தெரியப்படுத்தவும்.",
+            "id": 2207,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Tell me if you feel more pain.",
+                "id": 149,
+                "summary": "Tell if Pain"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm37.m4a",
+            "content": "தயவுசெய்து உங்களுடைய சட்டையை அகற்றுங்கள்",
+            "id": 2208,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Please remove your shirt.",
+                "id": 150,
+                "summary": "Remove Clothing"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm38.m4a",
+            "content": "உங்களுடைய வாய் மூலம் ஆழமாக மூச்சு விடுங்கள்.",
+            "id": 2209,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Keep taking deep breaths through your mouth.",
+                "id": 44,
+                "summary": "Deep Breath"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm39.m4a",
+            "content": "நான் இந்த ஸ்டெதஸ்கோப்-ஐ உங்கள் மீது வைக்கும்போது ”99” (நைன் நைன்) என்று மீண்டும் மீண்டும் சொல்லவும்.",
+            "id": 2210,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Say \"99\" when I listen with my stethoscope.",
+                "id": 45,
+                "summary": "99"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f955f658b53ac82003a8384dbe1f3aca.mp3",
+            "content": "நான் இந்த காட்டன் ஸ்வாப்-ஐ உங்களின் மூக்கில் வைக்கப்போகின்றேன். இது சற்று சிரமமாக  இருக்கலாம். ஆனால் எந்த வலியையும் உண்டாக்காது.",
+            "id": 2211,
+            "language": "Tamil",
+            "phrase": {
+                "content": "I'm going to put this cotton bud into your nostrils. You will feel strange but it is not painful.",
+                "id": 46,
+                "summary": "Swabbing"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm43.m4a",
+            "content": "உங்களுக்குக் கொரோனா  வைரஸ்  இருப்பது உறுதிப்படுத்தப்பட்டால், நாளைக்குள் உங்களைத் தொலைபேசி மூலமாக தொடர்புகொண்டு அதைத் தெரிவிப்போம்.",
+            "id": 2212,
+            "language": "Tamil",
+            "phrase": {
+                "content": "If coronavirus positive, we call your phone by tomorrow.",
+                "id": 49,
+                "summary": "Result Collection"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm41.m4a",
+            "content": "இது, உங்களுக்கு கொரோனா வைரஸ் உள்ளதா என்பதை தீர்மானிக்க உதவும்.",
+            "id": 2213,
+            "language": "Tamil",
+            "phrase": {
+                "content": "This is to test for coronavirus",
+                "id": 47,
+                "summary": "Covid"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm44.m4a",
+            "content": "உங்களுக்கு கொரோணா வைரஸ் இல்லாவிட்டால், மூன்று நாட்களில் குருஞ்செய்தி (SMS) மூலம் தெரிவிப்போம்",
+            "id": 2214,
+            "language": "Tamil",
+            "phrase": {
+                "content": "If coronavirus negative, we send you an SMS after 3 days.",
+                "id": 152,
+                "summary": "COVID Negative"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm42.m4a",
+            "content": "உங்களுடைய தலையை சற்று பின்னால் சாய்க்கவும்.",
+            "id": 2215,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Tilt your head back",
+                "id": 48,
+                "summary": "Tilt Head"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm45.m4a",
+            "content": "பிறகு, உங்களுக்கு ஒரு எக்ஸ்ரே(X-ray) எடுக்கப்படும்.",
+            "id": 2216,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Later, you will do an X-ray",
+                "id": 50,
+                "summary": "X-ray"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm46.m4a",
+            "content": "​உங்களுடைய எக்ஸ்ரேயில் (X-Ray) தொற்றுநோய் இருப்பதற்க்கான எந்த அறிகுறியும் தென்படவில்லை.",
+            "id": 2217,
+            "language": "Tamil",
+            "phrase": {
+                "content": "There is no sign of infection on your X-ray",
+                "id": 51,
+                "summary": "X-ray OK"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm47.m4a",
+            "content": "நீங்கள் விரைவில் வீட்டிற்கு திரும்பலாம்.",
+            "id": 2218,
+            "language": "Tamil",
+            "phrase": {
+                "content": "You can go back soon.",
+                "id": 52,
+                "summary": "Can go back"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm48.m4a",
+            "content": "இங்கேயே காத்திருங்கள். இந்த இடத்தை விட்டு எங்கும் செல்லாதீர்கள்.",
+            "id": 2219,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Wait here, do not leave this area",
+                "id": 53,
+                "summary": "Wait Patient"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm49.m4a",
+            "content": "நீங்கள் மருத்துவமனையில் சில நாட்கள் தங்கியிருக்க வேண்டும்.",
+            "id": 2220,
+            "language": "Tamil",
+            "phrase": {
+                "content": "You have to stay in the hospital for a few days",
+                "id": 54,
+                "summary": "Hospital Stay"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm51.m4a",
+            "content": "உடல் நிலை சீராக நான் சில மருந்துகளை தரப்போகிறேன்",
+            "id": 2221,
+            "language": "Tamil",
+            "phrase": {
+                "content": "I'll give you medicine to make you feel better",
+                "id": 55,
+                "summary": "Medicine"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm53.m4a",
+            "content": "உங்களுக்கு சுவாசிப்பதில் ஏதேனும் பிரச்சனை ஏற்பட்டால், எங்களிடம் திரும்பி வரவும் ",
+            "id": 2222,
+            "language": "Tamil",
+            "phrase": {
+                "content": "You must come back if you have problems with breathing.",
+                "id": 57,
+                "summary": "Problem after 5 days"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm52.m4a",
+            "content": "நீஙகள் அடுத்த ஐந்து (5) நாட்களுக்கு வேலைக்கு செல்ல கூடாது  ",
+            "id": 2223,
+            "language": "Tamil",
+            "phrase": {
+                "content": "You must not work for the next 5 days.",
+                "id": 56,
+                "summary": "No work 5 days"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm54.m4a",
+            "content": "நீங்கள் 5 நாட்களுக்குப் பிறகு முழுமையாக குணமடையவில்லை என்றால் நீங்கள் திரும்பி வர வேண்டும்",
+            "id": 2224,
+            "language": "Tamil",
+            "phrase": {
+                "content": "You must come back if you do not recover completely after 5 days.",
+                "id": 151,
+                "summary": "Come back 5 days"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm55.m4a",
+            "content": "\nதகவல் கையேட்டை கவனமாகப் படியுங்கள்",
+            "id": 2225,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Read the handout carefully",
+                "id": 58,
+                "summary": "Handout"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm56.m4a",
+            "content": "நன்றி, nandri",
+            "id": 2226,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Thank you",
+                "id": 59,
+                "summary": "Thank you"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm244.m4a",
+            "content": "பொது போக்குவரத்தைத் தவிர்த்துவிடுங்கள். ",
+            "id": 2227,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Please avoid public transport.",
+                "id": 166,
+                "summary": "Transport"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm245.m4a",
+            "content": "உங்கள் சொந்த தனியார் போக்குவரத்து வாகனம், வாடகை உந்து வண்டி அதாவது டாக்ஸி அல்லது தனியார் வாடகை உந்துவண்டி, இவற்றில் நீங்கள் பயணம் செய்யலாம்.",
+            "id": 2228,
+            "language": "Tamil",
+            "phrase": {
+                "content": "You can take your own private transport, a taxi or a private hire car.",
+                "id": 167,
+                "summary": "Take Taxi"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm222.m4a",
+            "content": "முகக்கவசம் அதாவது மாஸ்க் அணிந்துகொண்டு, வாகனத்தின் பின் இருக்கையில் தனியாக உட்கார்ந்து கொள்ளுங்கள்.",
+            "id": 2229,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Wear a mask and sit alone in the back seat in the car.",
+                "id": 168,
+                "summary": "In Car"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm223.m4a",
+            "content": "வாகனத்தின் ஜன்னல்களைத் திறந்துகொள்ளுங்கள்; குளிர்சாதனத்தை அதாவது ஏ.சி.யை அடைத்துவிடுங்கள். ",
+            "id": 2230,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Open car windows and turn off air-conditioning.",
+                "id": 169,
+                "summary": "No AC"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm224.m4a",
+            "content": "வாடகை உந்துவண்டி அதாவது டாக்ஸி அல்லது தனியார் வாடகை உந்துவண்டி இவற்றில் பயணம் செய்த ரசீதை பாதுகாப்பாக வைத்திருங்கள். உங்களுக்கு  COVID-19 கிருமித்தொற்று இருப்பதாக சோதனையில் உறுதி செய்யப்பட்டால், அந்த ரசீது தேவைப்படும்.",
+            "id": 2231,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Please safely keep the receipt from the taxi or private hire car. If your test results indicate you are infected, this will be needed.",
+                "id": 170,
+                "summary": "Receipt"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm225.m4a",
+            "content": "மற்றவர்களிடமிருந்து விலகி இருங்கள். நீங்கள் வீட்டிலேயே இருக்க வேண்டும், மருத்துவ விடுப்பில் இருக்கும்போது நீங்கள் அறவே வெளியே செல்லக்கூடாது. உடல் நலம் சரியில்லாமல் இருந்தாலோ, மற்ற மருத்துவ காரணங்களுக்காகவோ மருத்துவ உதவி பெற மட்டும்தான் நீங்கள் வெளியே செல்லலாம். ",
+            "id": 2232,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Stay away from others. You must stay home and can not go outside while being on medical leave. You may only go out for health or medical reasons.",
+                "id": 171,
+                "summary": "Isolation"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm226.m4a",
+            "content": "உங்கள் COVID-19 கிருமித்தொற்று சோதனை முடிவைப் பெறுவதற்கு முன்பு, நீங்கள் எந்த காரணத்துக்காகவும் மருத்துவரைப் பார்க்க வேண்டியிருந்தால், கவனமாக இருங்கள். சமீபத்தில் COVID-19 கிருமித்தொற்றுக்கு நீங்கள் பரிசோதிக்கப்பட்டீர்கள் என்பதை மருத்துவர், தாதியர் அல்லது பிற மருத்துவ ஊழியர்களிடம் சொல்லுங்கள். மேலும், உங்களுக்கு ஏற்பட்டிருக்கும் நோய் அறிகுறிகளைப் பற்றி அவர்களிடம் தெரிவியுங்கள். மருத்துவரைப் பார்க்கச் செல்லும் தினத்திற்கு முன்பாகவே, நீங்கள் அவர்களுக்கு அழைத்துத் தகவலைத் தெரிவிக்க வேண்டும். அழைக்க வேண்டிய எண் 6344 8222. ",
+            "id": 2233,
+            "language": "Tamil",
+            "phrase": {
+                "content": "If you need to go for any medical appointment before you get your test result, be careful. Tell the doctor, nurse, or other staff that you were recently tested for COVID-19. Also, tell them about your symptoms. Before the day, you should call 6344 8222 to inform them.",
+                "id": 172,
+                "summary": "Medical Appointment"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm227.m4a",
+            "content": "உங்களுக்கு கொரோனா கிருமித்தொற்று  இருப்பதாக உறுதி செய்யப்பட்டுள்ளது. ",
+            "id": 2234,
+            "language": "Tamil",
+            "phrase": {
+                "content": "You have tested positive for coronavirus.",
+                "id": 60,
+                "summary": "Tested Positive"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm228.m4a",
+            "content": "நாங்கள் உங்களை மருத்துவமனைக்கு அழைத்துச் செல்லவிருக்கிறோம். ",
+            "id": 2235,
+            "language": "Tamil",
+            "phrase": {
+                "content": "We will take you to the hospital.",
+                "id": 61,
+                "summary": "Hospital Admission"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm229.m4a",
+            "content": "நாங்கள் உங்களை தனிமைப் படுத்தும் இடத்துக்கு இடமாற்றம் செய்ய போகிறோம்",
+            "id": 2236,
+            "language": "Tamil",
+            "phrase": {
+                "content": "We will transfer you to an isolation facility.",
+                "id": 62,
+                "summary": "Isolation Facility"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm230.m4a",
+            "content": "காலை வணக்கம்",
+            "id": 2237,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Good morning",
+                "id": 64,
+                "summary": "Morning"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm231.m4a",
+            "content": "மாலை வணக்கம்",
+            "id": 2238,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Good Evening",
+                "id": 173,
+                "summary": "Evening"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm232.m4a",
+            "content": "மதிய வணக்கம்",
+            "id": 2239,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Good Afternoon",
+                "id": 174,
+                "summary": "Afternoon"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm233.m4a",
+            "content": "நான் ஒரு தாதி.",
+            "id": 2240,
+            "language": "Tamil",
+            "phrase": {
+                "content": "I am the nurse",
+                "id": 65,
+                "summary": "Nurse"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm234.m4a",
+            "content": "நான் ஒரு மருத்துவர்",
+            "id": 2241,
+            "language": "Tamil",
+            "phrase": {
+                "content": "I am the doctor",
+                "id": 66,
+                "summary": "Doctor"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm60.m4a",
+            "content": "நீங்கள் தீவிர சிகிச்சை பிரிவில் இருக்கிறீர்கள்",
+            "id": 2242,
+            "language": "Tamil",
+            "phrase": {
+                "content": "You are in the intensive care unit.",
+                "id": 67,
+                "summary": "In ICU"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm61.m4a",
+            "content": "இன்று திங்கட்கிழமை",
+            "id": 2243,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Today is Monday",
+                "id": 68,
+                "summary": "Monday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm62.m4a",
+            "content": "இன்று செவ்வாய்க்கிழமை",
+            "id": 2244,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Today is Tuesday",
+                "id": 69,
+                "summary": "Tuesday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm63.m4a",
+            "content": "இன்று புதன்கிழமை",
+            "id": 2245,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Today is Wednesday",
+                "id": 70,
+                "summary": "Wednesday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm64.m4a",
+            "content": "\nஇன்று வியாழக்கிழமை",
+            "id": 2246,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Today is Thursday",
+                "id": 71,
+                "summary": "Thursday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm65.m4a",
+            "content": "\nஇன்று வெள்ளிக்கிழமை",
+            "id": 2247,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Today is Friday",
+                "id": 72,
+                "summary": "Friday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm66.m4a",
+            "content": "\nஇன்று சனிக்கிழமை",
+            "id": 2248,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Today is Saturday",
+                "id": 73,
+                "summary": "Saturday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm67.m4a",
+            "content": "\nஇன்று ஞாயிற்று கிழமை",
+            "id": 2249,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Today is Sunday",
+                "id": 74,
+                "summary": "Sunday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm68.m4a",
+            "content": "நீங்கள் குணமடைந்து வருகிறீர்கள்",
+            "id": 2250,
+            "language": "Tamil",
+            "phrase": {
+                "content": "You are getting better",
+                "id": 153,
+                "summary": "Getting Better"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm69.m4a",
+            "content": "நீங்கள் குணம் அடைந்தப்பின் சுவாசக் குழாயை அகற்றுவோம்",
+            "id": 2251,
+            "language": "Tamil",
+            "phrase": {
+                "content": "We will remove the breathing tube when you are better",
+                "id": 75,
+                "summary": "Remove Tube Later"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm70.m4a",
+            "content": "சுவாசக் குழாயை அகற்றியப்பின் நீங்கள் பேசலாம்",
+            "id": 2252,
+            "language": "Tamil",
+            "phrase": {
+                "content": "You can talk after we remove the breathing tube",
+                "id": 76,
+                "summary": "Can Talk as Remove"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm71.m4a",
+            "content": "ஆழமாக மூச்சை இழுத்துவிடுங்கள்",
+            "id": 2253,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Take a deep breath",
+                "id": 77,
+                "summary": "Deep breath"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm72.m4a",
+            "content": "பெரிதாக இருமல் விடுங்கள்",
+            "id": 2254,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Give me a big cough",
+                "id": 78,
+                "summary": "Big cough"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm73.m4a",
+            "content": "முரண்டுபிடிக்காதீர்கள்",
+            "id": 2255,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Don’t struggle",
+                "id": 79,
+                "summary": "Don’t struggle"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm74.m4a",
+            "content": "அசையாமல் இருங்கள்",
+            "id": 2256,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Don’t move",
+                "id": 80,
+                "summary": "Don’t move"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm75.m4a",
+            "content": "உங்களது கையை தூக்கவும்",
+            "id": 2257,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Lift up your arm",
+                "id": 81,
+                "summary": "Lift up your arm"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm99.m4a",
+            "content": "உங்களது காலை தூக்கவும்",
+            "id": 2258,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Lift up your leg",
+                "id": 82,
+                "summary": "Lift up your leg"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm77.m4a",
+            "content": "என் கையை இறுக்கமாக பிடியுங்கள் ",
+            "id": 2260,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Squeeze my hand",
+                "id": 83,
+                "summary": "Squeeze my hand"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm78.m4a",
+            "content": "என்னிடம் இரு விரல்களை காட்டவும்    ",
+            "id": 2261,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Show me two fingers",
+                "id": 84,
+                "summary": "Show two fingers"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm79.m4a",
+            "content": "உங்களின் வாயை திறக்கவும்",
+            "id": 2262,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Open your mouth",
+                "id": 85,
+                "summary": "Open mouth"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm80.m4a",
+            "content": "உங்களின் நாக்கை நீட்டவும்",
+            "id": 2263,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Stick out your tongue",
+                "id": 86,
+                "summary": "Stick out tongue"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm81.m4a",
+            "content": "உங்களின் கண்களை திறக்கவும்",
+            "id": 2264,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Open your eyes",
+                "id": 87,
+                "summary": "Open eyes"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm82.m4a",
+            "content": "உங்களின் கண்களில் நான் ஒரு ஒளியை காட்டப்போகின்றேன். அது சற்று வெளிச்சமாக இருக்கும்",
+            "id": 2265,
+            "language": "Tamil",
+            "phrase": {
+                "content": "I’m going to shine a light into your eyes. It will be bright.",
+                "id": 88,
+                "summary": "Shine a light into your eyes"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm83.m4a",
+            "content": "உங்களது நுரையீரல் பாதிக்கப்பட்டிருக்கிறது. நீங்கள் சுலபமாக மூச்சு விட நாங்கள் ஒரு சுவாசக் குழாயை பொறுத்தப்போகின்றோம்.",
+            "id": 2266,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Your lungs are weak. We are going to insert a breathing tube to help you breathe",
+                "id": 89,
+                "summary": "Insert a breathing tube"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm84.m4a",
+            "content": "நீங்கள் இப்போது தூங்கப் போகிறீர்கள்.",
+            "id": 2267,
+            "language": "Tamil",
+            "phrase": {
+                "content": "You are going to sleep now",
+                "id": 90,
+                "summary": "Sleep"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm85.m4a",
+            "content": "நீங்கள் சுலபமாக மூச்சு விட (அதாவது உங்களின் நுரையீரலை விரிவாக்க) உங்களை குப்புற படுக்க வைக்கின்றோம் ",
+            "id": 2268,
+            "language": "Tamil",
+            "phrase": {
+                "content": "We are turning you onto your belly to help your lungs expand",
+                "id": 91,
+                "summary": "Turn onto belly"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm86.m4a",
+            "content": "நீங்கள் சிறுநீர் கழிக்க ஒரு குழாயை நாங்கள் பொறுத்தபோகின்றோம்",
+            "id": 2269,
+            "language": "Tamil",
+            "phrase": {
+                "content": "We are inserting a tube to help you pass urine",
+                "id": 92,
+                "summary": "Insert tube urine"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm87.m4a",
+            "content": "நாங்கள் உங்களது மூக்கின் வாயிலாக ஒரு குழாயை நுழைக்க போகின்றோம் ",
+            "id": 2270,
+            "language": "Tamil",
+            "phrase": {
+                "content": "We are inserting a tube through your nose",
+                "id": 93,
+                "summary": "Insert tube nose"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm88.m4a",
+            "content": "உங்களுக்கு மருந்தளிக்க உங்களது கழுத்து பகுதியில் நாங்கள் ஒரு ஊசியை பொறுத்தப்போகின்றோம் ",
+            "id": 2271,
+            "language": "Tamil",
+            "phrase": {
+                "content": "We are going to give you an injection in your neck to give you medications",
+                "id": 94,
+                "summary": "Injection in Neck"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm89.m4a",
+            "content": "உங்களுடைய இரத்த அழுத்தத்தை உறுதிசெய்ய உங்களது கையில் நாங்கள் ஒரு ஊசியை பொறுத்தப்போகின்றோம் ",
+            "id": 2272,
+            "language": "Tamil",
+            "phrase": {
+                "content": "We are going to give you an injection in your arm to measure your blood pressure",
+                "id": 95,
+                "summary": "Measure Blood Pressure"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm90.m4a",
+            "content": "நீங்கள் தூங்குவதற்கு  நாங்கள் உங்களுக்கு தூக்க மருந்தை கொடுக்க போகிறோம்",
+            "id": 2273,
+            "language": "Tamil",
+            "phrase": {
+                "content": "We will give you sleeping medications.",
+                "id": 96,
+                "summary": "Sleeping Meds"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm91.m4a",
+            "content": "நாங்கள் உங்களின் வலியை  நீக்க மருந்து கொடுக்க போகிறோம். ",
+            "id": 2274,
+            "language": "Tamil",
+            "phrase": {
+                "content": "We will give you painkillers.",
+                "id": 97,
+                "summary": "Painkillers"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm92.m4a",
+            "content": "உங்களின் இரத்த அழுத்தத்தை நிலைக்காக்க நாங்கள் இந்த மருந்தை கொடுக்கிறோம் ",
+            "id": 2275,
+            "language": "Tamil",
+            "phrase": {
+                "content": "We are giving you medication to keep your blood pressure up.",
+                "id": 98,
+                "summary": "Blood Pressure Medication"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm93.m4a",
+            "content": "நாங்கள் உங்களுக்கு பொருத்தப்பட்டுள்ள சுவாசக்குழாயை அகற்றப் போகிறோம் ",
+            "id": 2276,
+            "language": "Tamil",
+            "phrase": {
+                "content": "We are going to remove the breathing tube.",
+                "id": 99,
+                "summary": "Remove Tube"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm94.m4a",
+            "content": "நாங்கள் உங்களின் சுவாசக்குழாயிலிருக்கும் சலியை நீக்க போகிறோம்",
+            "id": 2277,
+            "language": "Tamil",
+            "phrase": {
+                "content": "We are going to suck out your phlegm",
+                "id": 100,
+                "summary": "Phlegm suck out"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm95.m4a",
+            "content": "நாங்கள் உங்களது உடலை ஒரு ஸ்பான்ஜ்-ஆல் துடைக்கப்போகிறோம் ",
+            "id": 2278,
+            "language": "Tamil",
+            "phrase": {
+                "content": "We are going to clean you with a sponge",
+                "id": 101,
+                "summary": "Clean with sponge"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm96.m4a",
+            "content": "இடது பக்கம் திரும்பவும்",
+            "id": 2279,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Turn left",
+                "id": 102,
+                "summary": "​Turn left"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm97.m4a",
+            "content": "வலது பக்கம் திரும்பவும்",
+            "id": 2280,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Turn right",
+                "id": 103,
+                "summary": "Turn right"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm98.m4a",
+            "content": "நாங்கள் உங்களுடைய டயப்பரை இப்போது மாற்றப்போகிறோம்",
+            "id": 2281,
+            "language": "Tamil",
+            "phrase": {
+                "content": "We will change your diapers",
+                "id": 104,
+                "summary": "We will change your diapers"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm99.m4a",
+            "content": "உங்களது காலை தூக்கவும்",
+            "id": 2259,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Lift up your leg",
+                "id": 105,
+                "summary": "Lift up your leg"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm100.m4a",
+            "content": "நாங்கள் உங்களை உட்கார வைக்கப்போகின்றோம்.",
+            "id": 2282,
+            "language": "Tamil",
+            "phrase": {
+                "content": "We are going to sit you up",
+                "id": 106,
+                "summary": "We are going to sit you up"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm101.m4a",
+            "content": "நாங்கள் உங்களது படுக்கையை உயர்த்தப்போகின்றோம்.",
+            "id": 2283,
+            "language": "Tamil",
+            "phrase": {
+                "content": "We are going to shift you up the bed",
+                "id": 107,
+                "summary": "Shift head"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm102.m4a",
+            "content": "நாங்கள் உங்களது வாயை சுத்தம் செய்யப்போகின்றோம்.",
+            "id": 2284,
+            "language": "Tamil",
+            "phrase": {
+                "content": "We are going to clean your mouth",
+                "id": 108,
+                "summary": "Clean mouth"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm103.m4a",
+            "content": "நீங்கள் கொப்பிளித்ததை முழுங்க வேண்டாம்.",
+            "id": 2285,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Do not swallow the gargle",
+                "id": 109,
+                "summary": "Dont swallow"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm104.m4a",
+            "content": "உடலில் ஏதேனும் வலியுண்டா?",
+            "id": 2286,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Are you in pain?",
+                "id": 110,
+                "summary": "Are you in pain?"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm105.m4a",
+            "content": "உடலில் எங்கு வலிக்கின்றது?",
+            "id": 2287,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Where is the pain?",
+                "id": 111,
+                "summary": "Where is the pain?"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm106.m4a",
+            "content": "எவ்வளவு வலிக்கின்றது? கொஞ்சமாகவா? மிதமாகவா? இல்லை அதிகமாகவா?",
+            "id": 2288,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Is it mild, moderate or severe?",
+                "id": 112,
+                "summary": "Is it mild, moderate or severe?"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm107.m4a",
+            "content": "வலிக்கின்ற இடத்தை சுட்டிக்காட்ட முடியுமா?",
+            "id": 2289,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Can you point to the pain?",
+                "id": 113,
+                "summary": "Can you point to the pain?"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm108.m4a",
+            "content": "தலை",
+            "id": 2290,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Head",
+                "id": 114,
+                "summary": "Head"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm109.m4a",
+            "content": "கண்கள்",
+            "id": 2291,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Eyes",
+                "id": 115,
+                "summary": "Eyes"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm110.m4a",
+            "content": "காதுகள்",
+            "id": 2292,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Ears",
+                "id": 116,
+                "summary": "Ears"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm111.m4a",
+            "content": "மூக்கு",
+            "id": 2293,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Nose",
+                "id": 117,
+                "summary": "Nose"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm112.m4a",
+            "content": "வாய்",
+            "id": 2294,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Mouth",
+                "id": 118,
+                "summary": "Mouth"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm113.m4a",
+            "content": "தொண்டை",
+            "id": 2295,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Throat",
+                "id": 119,
+                "summary": "Throat"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm114.m4a",
+            "content": "மார்பு",
+            "id": 2296,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Chest",
+                "id": 120,
+                "summary": "Chest"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm115.m4a",
+            "content": "வயிற்றுப்பகுதி",
+            "id": 2297,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Abdomen",
+                "id": 121,
+                "summary": "Abdomen"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm116.m4a",
+            "content": "முதுகு",
+            "id": 2298,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Back",
+                "id": 122,
+                "summary": "Back"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7fe099f35587d8006caa035de4d298c5_httsIf7.mp3",
+            "content": "கை",
+            "id": 2299,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Hand or Arm",
+                "id": 123,
+                "summary": "Arms"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm118.m4a",
+            "content": "கால்கள்",
+            "id": 2300,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Legs",
+                "id": 124,
+                "summary": "Legs"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm119.m4a",
+            "content": "பாதங்கள்",
+            "id": 2301,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Feet",
+                "id": 125,
+                "summary": "Feet"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm120.m4a",
+            "content": "1 - ஒன்று",
+            "id": 2302,
+            "language": "Tamil",
+            "phrase": {
+                "content": "1",
+                "id": 126,
+                "summary": "1"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm121.m4a",
+            "content": "2 - இரண்டு",
+            "id": 2303,
+            "language": "Tamil",
+            "phrase": {
+                "content": "2",
+                "id": 127,
+                "summary": "2"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm122.m4a",
+            "content": "3 - மூன்று",
+            "id": 2304,
+            "language": "Tamil",
+            "phrase": {
+                "content": "3",
+                "id": 128,
+                "summary": "3"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm123.m4a",
+            "content": "4 - நான்கு",
+            "id": 2305,
+            "language": "Tamil",
+            "phrase": {
+                "content": "4",
+                "id": 129,
+                "summary": "4"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm124.m4a",
+            "content": "5 - ஐந்து",
+            "id": 2306,
+            "language": "Tamil",
+            "phrase": {
+                "content": "5",
+                "id": 130,
+                "summary": "5"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm125.m4a",
+            "content": "6 - ஆறு",
+            "id": 2307,
+            "language": "Tamil",
+            "phrase": {
+                "content": "6",
+                "id": 131,
+                "summary": "6"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm126.m4a",
+            "content": "7 - ஏழு",
+            "id": 2308,
+            "language": "Tamil",
+            "phrase": {
+                "content": "7",
+                "id": 132,
+                "summary": "7"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm127.m4a",
+            "content": "8 - எட்டு",
+            "id": 2309,
+            "language": "Tamil",
+            "phrase": {
+                "content": "8",
+                "id": 133,
+                "summary": "8"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm128.m4a",
+            "content": "9 - ஒன்பது",
+            "id": 2310,
+            "language": "Tamil",
+            "phrase": {
+                "content": "9",
+                "id": 134,
+                "summary": "9"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm129.m4a",
+            "content": "10 - பத்து",
+            "id": 2311,
+            "language": "Tamil",
+            "phrase": {
+                "content": "10",
+                "id": 135,
+                "summary": "10"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm130.m4a",
+            "content": "0 - பூஜ்யம்",
+            "id": 2312,
+            "language": "Tamil",
+            "phrase": {
+                "content": "0",
+                "id": 136,
+                "summary": "0"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm131.m4a",
+            "content": "ஜனவரி",
+            "id": 2313,
+            "language": "Tamil",
+            "phrase": {
+                "content": "January",
+                "id": 137,
+                "summary": "January"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm132.m4a",
+            "content": "பிப்ரவரி",
+            "id": 2314,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Feb",
+                "id": 138,
+                "summary": "Feb"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm133.m4a",
+            "content": "மார்ச்",
+            "id": 2315,
+            "language": "Tamil",
+            "phrase": {
+                "content": "March",
+                "id": 139,
+                "summary": "March"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm134.m4a",
+            "content": "ஏப்ரல்",
+            "id": 2316,
+            "language": "Tamil",
+            "phrase": {
+                "content": "April",
+                "id": 140,
+                "summary": "April"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm135.m4a",
+            "content": "மே",
+            "id": 2317,
+            "language": "Tamil",
+            "phrase": {
+                "content": "May",
+                "id": 141,
+                "summary": "May"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm136.m4a",
+            "content": "ஜூன்",
+            "id": 2318,
+            "language": "Tamil",
+            "phrase": {
+                "content": "June",
+                "id": 142,
+                "summary": "June"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm137.m4a",
+            "content": "ஜூலை",
+            "id": 2319,
+            "language": "Tamil",
+            "phrase": {
+                "content": "July",
+                "id": 143,
+                "summary": "July"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm138.m4a",
+            "content": "ஆகஸ்ட்",
+            "id": 2320,
+            "language": "Tamil",
+            "phrase": {
+                "content": "August",
+                "id": 144,
+                "summary": "August"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm139.m4a",
+            "content": "செப்டம்பர்",
+            "id": 2321,
+            "language": "Tamil",
+            "phrase": {
+                "content": "September",
+                "id": 145,
+                "summary": "September"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm140.m4a",
+            "content": "அக்டோபர்",
+            "id": 2322,
+            "language": "Tamil",
+            "phrase": {
+                "content": "October",
+                "id": 146,
+                "summary": "October"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm141.m4a",
+            "content": "நவம்பர்",
+            "id": 2323,
+            "language": "Tamil",
+            "phrase": {
+                "content": "November",
+                "id": 147,
+                "summary": "November"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm142.m4a",
+            "content": "டிசம்பர்",
+            "id": 2324,
+            "language": "Tamil",
+            "phrase": {
+                "content": "December",
+                "id": 148,
+                "summary": "December"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm236.m4a",
+            "content": "வீட்டில் ஒரு தனி அறையில் தங்குங்கள். கழிவறையோடு இணைந்த அறையாக இருந்தால் சிறப்பு. இவ்வாறு இருப்பது, ஒரே வீட்டில் உங்களோடு தங்கியிருப்போருடனான உங்களுடைய தொடர்பைக் குறைத்துக்கொள்ள உதவும். அவர்கள் பயன்படுத்தும் அதே கழிவறையை நீங்களும் பயன்படுத்தவேண்டும் என்றால், கழிவறையை நீங்கள் பயன்படுத்துவதற்கு முன்பும் பயன்படுத்திய பின்பும் அதை சுத்தம் செய்ய வேண்டும்.",
+            "id": 2325,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Stay in a separate room at home. It is best if the room has an attached bathroom. This is to reduce contact with the other members of the house. If you are using a shared bathroom, the bathroom needs to be cleaned before or after you use it.",
+                "id": 176,
+                "summary": "Separate"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm237.m4a",
+            "content": "உணவு, தண்ணீர் போன்ற தேவையான பொருட்களை உங்கள் அறையின் கதவுக்கு வெளியிலேயே வைத்துவிட்டுச் செல்ல ஏற்பாடு செய்யுங்கள். நீங்களே அவற்றை உங்கள் அறைக்குள் எடுத்துக்கொண்டு வர வேண்டும்.",
+            "id": 2326,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Arrange for food, water, and other supplies to be placed outside your room. You yourself have to bring those items into your room.",
+                "id": 177,
+                "summary": "Arrange"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm238.m4a",
+            "content": "உங்கள் சுவாப் பரிசோதனை அதாவது பருத்திப் பஞ்சை வைத்து செய்யுப் பரிசோதனையின் முடிவுகள் தெரிவிக்கப்படும் வரை, உங்கள் குடும்ப உறுப்பினர்களுடனான தொடர்பைக் குறைத்துக்கொள்ளுங்கள். குறிப்பாக, மூத்தவர்களிடமிருந்து விலகியே இருங்கள்.",
+            "id": 2327,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Until you know your swab test results, reduce your contact with family members. Especially, try not to get near older people.",
+                "id": 178,
+                "summary": "Elderly"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm239.m4a",
+            "content": "சுகாதாரத்தையும் சுத்தத்தையும் பின்பற்றுங்கள். உங்கள் கைகளை சவர்க்காரம் மற்றும் தண்ணீர் பயன்படுத்தி அடிக்கடி கழுவுங்கள். உங்கள் கைகளால் உங்கள் கண்கள், மூக்கு, வாய் இவற்றைத் தொடாமல் பார்த்துக்கொள்ளுங்கள். இருமும்போதும் தும்மும்போதும் வாயை மூடிக்கொள்ளுங்கள். ",
+            "id": 2328,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Please maintain good personal hygiene. Wash your hands with soap and water frequently. Try not to touch your eyes, nose, and mouth. Always cover your mouth when coughing or sneezing.",
+                "id": 179,
+                "summary": "Hygine"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm240.m4a",
+            "content": "நீங்கள் பயன்படுத்தும் கரண்டி, முள்கரண்டி, தட்டுகள், கிண்ணங்கள் மற்றும் நீங்கள் உட்கொள்ளும் உணவுப்பொருட்கள் இவற்றை வேறு யாரும் பயன்படுத்தாமல் பார்த்துக்கொள்ளுங்கள். நீங்கள் பயன்படுத்தும் உங்கள் துண்டு போன்ற தனிப்பட்ட பொருட்களைப் பிறருடன் பகிர்ந்துகொள்ள வேண்டாம்.",
+            "id": 2329,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Please prevent others from using your spoon, fork, plates, bowls, food. Also do not share personal hygiene items like your towel.",
+                "id": 180,
+                "summary": "Sharing"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm241.m4a",
+            "content": "உங்களுக்கென ஏற்கனவே பரிந்துரைக்கப்பட்ட மருந்துகள் ஏதேனும் இருந்தால் அவற்றைத் தொடர்ந்து உட்கொண்டு வாருங்கள். ",
+            "id": 2330,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Continue to take the medications prescribed for you (if any).",
+                "id": 181,
+                "summary": "Medication"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm242.m4a",
+            "content": "தயவுசெய்து நிறைய தண்ணீர் குடியுங்கள். ",
+            "id": 2331,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Please drink a lot of water.",
+                "id": 182,
+                "summary": "Drink"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm243.m4a",
+            "content": "உங்கள் உடல் வெப்பநிலை, அதோடு நோய்க்கான மற்ற அறிகுறிகள் இவற்றை வீட்டில் இருந்தபடியே கண்காணியுங்கள். ",
+            "id": 2332,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Keep monitoring your temperature and symptoms at home.",
+                "id": 183,
+                "summary": "Monitor"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm244.m4a",
+            "content": "பொது போக்குவரத்தைத் தவிர்த்துவிடுங்கள். ",
+            "id": 2227,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Please avoid public transport.",
+                "id": 166,
+                "summary": "Transport"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm245.m4a",
+            "content": "உங்கள் சொந்த தனியார் போக்குவரத்து வாகனம், வாடகை உந்து வண்டி அதாவது டாக்ஸி அல்லது தனியார் வாடகை உந்துவண்டி, இவற்றில் நீங்கள் பயணம் செய்யலாம்.",
+            "id": 2228,
+            "language": "Tamil",
+            "phrase": {
+                "content": "You can take your own private transport, a taxi or a private hire car.",
+                "id": 167,
+                "summary": "Take Taxi"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm246.m4a",
+            "content": "உங்கள் இருமல் மோசமடைந்து மூச்சுத் திணறல் ஏற்பட்டாலோ, அல்லது உங்களுக்குத் தொடர்ந்து 38 degree celsius -க்கு மேலான காய்ச்சல் இருந்தாலோ ",
+            "id": 2333,
+            "language": "Tamil",
+            "phrase": {
+                "content": "If your cough is getting worse and you feel breathless, or your fever is persistently above 38 degrees Celsius",
+                "id": 184,
+                "summary": "38C"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm247.m4a",
+            "content": "மருத்துவர்கள் பயன்படுத்தும் அறுவை சிகிச்சை முகக்கவசம் அதாவது surgical mask இதை அணிந்துகொண்டு எங்கள் அவசர சிகிச்சை பிரிவுக்கு வந்துவிடுங்கள். ",
+            "id": 2334,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Wear a surgical mask and come to our Emergency Department.",
+                "id": 185,
+                "summary": "Mask"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm248.m4a",
+            "content": "அவசரகாலத்தில், மருத்துவ ஊர்தியை அழைக்க (ambulance) 995 என்ற எண்ணை தொடர்புக்கொள்ளவும். நீங்கள் COVID-19 யோடு  சோதிக்கப்பட்டிருந்தால், மருத்துவ ஊர்தியை இயக்குபவரிடம் தெரிவிக்கவும். நீங்கள் சமீபத்தில் வெளிநாட்டு பயணம் மேற்கொண்டிருந்தால், அதையும் அவரிடம் குறிப்பிடவும்.",
+            "id": 2335,
+            "language": "Tamil",
+            "phrase": {
+                "content": "In an emergency situation, call 995 for an ambulance. Inform the ambulance operator that you were recently tested for COVID-19 and also tell them your travel history.",
+                "id": 187,
+                "summary": "Ambulance"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm249.m4a",
+            "content": "1) சுற்றுப்பட்டையை இரத்த அழுத்த இயந்திரத்துடன் இணைக்கவும்.",
+            "id": 2336,
+            "language": "Tamil",
+            "phrase": {
+                "content": "1) Connect the blood pressure cuff to the reader machine.",
+                "id": 188,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm250.m4a",
+            "content": "2) சுற்றுப்பட்டையில் குறிக்கப்பட்டுள்ள “அம்பு” உங்கள் சுற்றுப்பட்டையின் உட்புறத்தில் கீழ்நோக்கி இருக்க வேண்டும்.",
+            "id": 2337,
+            "language": "Tamil",
+            "phrase": {
+                "content": "2) The “arrow” on the the cuff should be pointing downwards on the inside of your arm.",
+                "id": 189,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm251.m4a",
+            "content": "(!) சுற்றுப்பட்டை உங்கள் முழங்கைக்கு மேல், 1-இலிருந்து 2 சீம் (cm)-குள் வைக்கப்பட வேண்டும்.",
+            "id": 2338,
+            "language": "Tamil",
+            "phrase": {
+                "content": "(!) The cuff should be positioned 1 to 2 cm above your elbow joint.",
+                "id": 190,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm252.m4a",
+            "content": "3) பிபி சுற்றுப்பட்டை உங்கள் கையளவுக்கு பொருத்தமாகவும், இறுக்கமாகவும் இருக்க வேண்டும். இடது கையின் ஒரு விரலை விடுமளவிற்கு போதுமான இடத்தை விட்டுவையுங்கள். ",
+            "id": 2339,
+            "language": "Tamil",
+            "phrase": {
+                "content": "3) The BP cuff should fit snugly onto your arm. It should not feel loose. Leave some space enough for 1 left finger to fit in (for good gauge)",
+                "id": 191,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm253.m4a",
+            "content": "4) இரத்த அழுத்த அளவீட்டின் போது, தயவுசெய்து குழாயை வளைக்காதீர்கள். ",
+            "id": 2340,
+            "language": "Tamil",
+            "phrase": {
+                "content": "4) Do not bend the tube during blood pressure measurement.",
+                "id": 192,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm254.m4a",
+            "content": "5) நீங்கள் உங்களது இரத்த அழுத்தத்தை அளவிடும்போது, உங்களுடைய முழு கையையும் அசைக்காமல் ஒரு மேசையின் மீது வைத்து அளவிடவும். ",
+            "id": 2341,
+            "language": "Tamil",
+            "phrase": {
+                "content": "5) Relax & Rest your entire arm on a table while measuring your blood pressure.",
+                "id": 193,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

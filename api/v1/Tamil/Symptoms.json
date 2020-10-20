@@ -1,0 +1,189 @@
+{
+    "count": 14,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm9.m4a",
+            "content": "உங்களுக்கு காய்ச்சல் உள்ளதா?",
+            "id": 2179,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Do you have a fever?",
+                "id": 14,
+                "summary": "Fever"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm10.m4a",
+            "content": "எவ்வளவு நாட்களாக உள்ளது?",
+            "id": 2180,
+            "language": "Tamil",
+            "phrase": {
+                "content": "How many days?",
+                "id": 15,
+                "summary": "Length"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm11.m4a",
+            "content": "நீங்கள் உங்களுடைய வெப்பமானியைப் (அதாவது தெர்மோமீட்டரை)  பயன்படுத்துகிறீர்களா? இதுவரையிலும் உங்களுக்கு இருந்த ஆக அதிகமான உடல் வெப்பநிலை என்ன?",
+            "id": 2181,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Did you measure it with a thermometer? If you did, what was the highest reading?",
+                "id": 16,
+                "summary": "Reading"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm12.m4a",
+            "content": "​மூக்கு சலி உள்ளதா?",
+            "id": 2182,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Runny nose?",
+                "id": 17,
+                "summary": "Runny nose"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm13.m4a",
+            "content": "இருமல் உள்ளதா?",
+            "id": 2183,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Cough?",
+                "id": 18,
+                "summary": "Cough"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm14.m4a",
+            "content": "தொண்டை வலி உள்ளதா?",
+            "id": 2184,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Sore throat?",
+                "id": 19,
+                "summary": "Sore throat"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm15.m4a",
+            "content": "மூச்சுத் திணறல் அல்லது மூச்சுவிடுவதில் சிரமம் உள்ளதா?",
+            "id": 2185,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Difficulty breathing?",
+                "id": 20,
+                "summary": "Breathing"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm33.m4a",
+            "content": "வாசனை தெரியாமல்போவது",
+            "id": 2344,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Cannot smell properly?",
+                "id": 21,
+                "summary": "Anosmia"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm29.m4a",
+            "content": "சுவை தெரியாமல் போவது",
+            "id": 2186,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Do you feel less taste in the mouth?",
+                "id": 22,
+                "summary": "Ageusia"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm16.m4a",
+            "content": "உங்களுக்கு வயிற்றுப் போக்கு இருக்கிறதா? ஒரு நாளில் எத்தனை முறை?",
+            "id": 2187,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Do you have diarrhoea / diarrhea? How many times a day?",
+                "id": 23,
+                "summary": "diarrhoea"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm17.m4a",
+            "content": "உடலில் சொறி/அரிப்பு  அல்லது ஏதாவது தடிப்புகள் இருக்கிறதா?",
+            "id": 2188,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Skin Rash or Itching?",
+                "id": 24,
+                "summary": "Rash"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/351ae058cd2dc806a3f12ce5bfe7561d_lx80tnZ.mp3",
+            "content": "உங்களுக்கு ஏதேனும் வலி இருக்கிறதா?",
+            "id": 2345,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Do you have any pain on your body?",
+                "id": 25,
+                "summary": "Pain"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ba04617d2134af186a59d78d2e05111d_fg6HLVb.mp3",
+            "content": "குறிப்பாக நெஞ்சுவலி இருக்கிறதா?",
+            "id": 2189,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Specifically, any chest pain?",
+                "id": 26,
+                "summary": "Chest Pain"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm19.m4a",
+            "content": "எங்கே வலி இருக்கிறது என்று காட்டுங்கள்.",
+            "id": 2190,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Point to the place.",
+                "id": 27,
+                "summary": "Point Out"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

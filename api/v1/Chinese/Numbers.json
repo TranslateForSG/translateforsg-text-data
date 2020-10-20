@@ -1,0 +1,150 @@
+{
+    "count": 11,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7941da94db2a83c04d0d85ee45ecb1e3_S038ssg.mp3",
+            "content": "一",
+            "id": 2110,
+            "language": "Chinese",
+            "phrase": {
+                "content": "1",
+                "id": 126,
+                "summary": "1"
+            },
+            "romanized": "yī",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/2d8be272c9e78713e31e5c0c165422bb_Y9r8Lv1.mp3",
+            "content": "二",
+            "id": 2111,
+            "language": "Chinese",
+            "phrase": {
+                "content": "2",
+                "id": 127,
+                "summary": "2"
+            },
+            "romanized": "èr",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/e662ff59a0da04db4f9323b6b6197015_2F4X4kz.mp3",
+            "content": "三",
+            "id": 2112,
+            "language": "Chinese",
+            "phrase": {
+                "content": "3",
+                "id": 128,
+                "summary": "3"
+            },
+            "romanized": "sān",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/21716cf311071e8d339b611c8bdce9e4_SuM1tMf.mp3",
+            "content": "四",
+            "id": 2113,
+            "language": "Chinese",
+            "phrase": {
+                "content": "4",
+                "id": 129,
+                "summary": "4"
+            },
+            "romanized": "sì",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1fcc29d077c043016d325c68d328187f_YtMZevd.mp3",
+            "content": "五",
+            "id": 2114,
+            "language": "Chinese",
+            "phrase": {
+                "content": "5",
+                "id": 130,
+                "summary": "5"
+            },
+            "romanized": "wǔ",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/61b453523d86ac98afd3c98bdf1b0f9d_gcaYYRf.mp3",
+            "content": "六",
+            "id": 2115,
+            "language": "Chinese",
+            "phrase": {
+                "content": "6",
+                "id": 131,
+                "summary": "6"
+            },
+            "romanized": "lìu",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/aad6914f8f4e0871030b7c6814f752e6_yeQrTpx.mp3",
+            "content": "七",
+            "id": 2116,
+            "language": "Chinese",
+            "phrase": {
+                "content": "7",
+                "id": 132,
+                "summary": "7"
+            },
+            "romanized": "qī",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/edf1acd5c6576c6d0eac12a8127b3830_d6CAgeN.mp3",
+            "content": "八",
+            "id": 2117,
+            "language": "Chinese",
+            "phrase": {
+                "content": "8",
+                "id": 133,
+                "summary": "8"
+            },
+            "romanized": "bā",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/9b4851f85d53f5b6117f5ad823d1e18c_eLzYJCR.mp3",
+            "content": "九",
+            "id": 2118,
+            "language": "Chinese",
+            "phrase": {
+                "content": "9",
+                "id": 134,
+                "summary": "9"
+            },
+            "romanized": "jǐu",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/181245720b7774e764cf1000e569d5d2_uneJa03.mp3",
+            "content": "十",
+            "id": 2119,
+            "language": "Chinese",
+            "phrase": {
+                "content": "10",
+                "id": 135,
+                "summary": "10"
+            },
+            "romanized": "shí",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/777fda6c519cd062e6d8414e96a4605e_KXtJK3Y.mp3",
+            "content": "零",
+            "id": 2120,
+            "language": "Chinese",
+            "phrase": {
+                "content": "0",
+                "id": 136,
+                "summary": "0"
+            },
+            "romanized": "líng",
+            "special_note": ""
+        }
+    ]
+}

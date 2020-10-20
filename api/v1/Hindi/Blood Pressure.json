@@ -1,0 +1,111 @@
+{
+    "count": 8,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/675563418f3174cd62d94f2783e9baaf.mp3",
+            "content": "1) ब्लड प्रेशर कफ को रीडर मशीन से कनेक्ट करें।",
+            "id": 1879,
+            "language": "Hindi",
+            "phrase": {
+                "content": "1) Connect the blood pressure cuff to the reader machine.",
+                "id": 188,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/55be1bb8ca5fd0e4fe7e2733ebe971cb.mp3",
+            "content": "2) कफ पर &quot;तीर&quot; आपकी बांह के अंदर की तरफ नीचे की ओर होना चाहिए।",
+            "id": 1880,
+            "language": "Hindi",
+            "phrase": {
+                "content": "2) The “arrow” on the the cuff should be pointing downwards on the inside of your arm.",
+                "id": 189,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1990093f7e62b1f74242dab9483603cb.mp3",
+            "content": "(!) कफ को आपकी कोहनी के जोड़ से 1 से 2 सेमी ऊपर होना चाहिए।",
+            "id": 1881,
+            "language": "Hindi",
+            "phrase": {
+                "content": "(!) The cuff should be positioned 1 to 2 cm above your elbow joint.",
+                "id": 190,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8be782644f6bdde9ece4807e6b742b0a.mp3",
+            "content": "3) बीपी कफ अपने हाथ पर snugly फिट होना चाहिए। यह ढीला महसूस नहीं करना चाहिए। 1 बाईं उंगली के लिए (अच्छे गेज के लिए) फिट होने के लिए कुछ जगह छोड़ दें",
+            "id": 1882,
+            "language": "Hindi",
+            "phrase": {
+                "content": "3) The BP cuff should fit snugly onto your arm. It should not feel loose. Leave some space enough for 1 left finger to fit in (for good gauge)",
+                "id": 191,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7e6565e0f8ad4a50e3afd41d5627bf8d.mp3",
+            "content": "4) ब्लड प्रेशर मापने के दौरान ट्यूब को न मोड़ें।",
+            "id": 1883,
+            "language": "Hindi",
+            "phrase": {
+                "content": "4) Do not bend the tube during blood pressure measurement.",
+                "id": 192,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/375b1c45a5df7684d5f9e530512ea4eb.mp3",
+            "content": "5) अपने रक्तचाप को मापते हुए अपनी पूरी बांह को एक मेज पर रखें और आराम करें।",
+            "id": 1884,
+            "language": "Hindi",
+            "phrase": {
+                "content": "5) Relax & Rest your entire arm on a table while measuring your blood pressure.",
+                "id": 193,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/761389fe329d603c895437cad58a7e54.mp3",
+            "content": "6) अपने बीपी को मापने के लिए &quot;स्टार्ट / स्टॉप&quot; बटन दबाएं। 1 मिनट तक प्रतीक्षा करें जब तक कि 3 नंबर दिखाई न दें।",
+            "id": 1885,
+            "language": "Hindi",
+            "phrase": {
+                "content": "6) Press the “Start/Stop” button to start measuring your BP. Wait for 1 minute until 3 numbers appear.",
+                "id": 194,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7b51fa63381e0a3517b64aeafbe709d6.mp3",
+            "content": "7) शीर्ष नंबर आपका सिस्टोलिक रक्तचाप है। मध्य संख्या आपका डायस्टोलिक रक्तचाप है। नीचे की संख्या आपकी पल्स दर है।",
+            "id": 1886,
+            "language": "Hindi",
+            "phrase": {
+                "content": "7) The top number is your Systolic blood pressure. The middle number is your Diastolic blood pressure. The bottom number is your Pulse rate.",
+                "id": 195,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

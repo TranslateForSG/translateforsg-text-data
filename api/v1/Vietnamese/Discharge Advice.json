@@ -1,0 +1,124 @@
+{
+    "count": 9,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/52596b5ab96702ede3e789dd488c9d28.mp3",
+            "content": "Bạn có thể quay lại sớm.",
+            "id": 1358,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "You can go back soon.",
+                "id": 52,
+                "summary": "Can go back"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/43ef14e8e0831a7d65f432d27a0bb701.mp3",
+            "content": "Đợi ở đây, đừng rời khỏi khu vực này",
+            "id": 1359,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Wait here, do not leave this area",
+                "id": 53,
+                "summary": "Wait Patient"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5f858a3cdcf15f464d060d4c1f34a5a7.mp3",
+            "content": "Bạn phải ở lại bệnh viện vài ngày",
+            "id": 1360,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "You have to stay in the hospital for a few days",
+                "id": 54,
+                "summary": "Hospital Stay"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7ca54d93bbace8d6bfa4e687116ae8dc.mp3",
+            "content": "Tôi sẽ cho bạn thuốc để bạn cảm thấy tốt hơn",
+            "id": 1361,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "I'll give you medicine to make you feel better",
+                "id": 55,
+                "summary": "Medicine"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/06065a75fcaea083b5f292231dce6cfd.mp3",
+            "content": "Bạn không được làm việc trong 5 ngày tới.",
+            "id": 1362,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "You must not work for the next 5 days.",
+                "id": 56,
+                "summary": "No work 5 days"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/2aeae3d7e7972d0c50e16ab82e1aefef.mp3",
+            "content": "Bạn phải quay lại nếu bạn có vấn đề với hô hấp.",
+            "id": 1363,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "You must come back if you have problems with breathing.",
+                "id": 57,
+                "summary": "Problem after 5 days"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a03b320af5460047be4e3965ba708e1f.mp3",
+            "content": "Bạn phải quay lại nếu bạn không hồi phục hoàn toàn sau 5 ngày.",
+            "id": 1364,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "You must come back if you do not recover completely after 5 days.",
+                "id": 151,
+                "summary": "Come back 5 days"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f14752cd3e954d542776d100e79c3b1d.mp3",
+            "content": "Đọc kỹ tài liệu",
+            "id": 1365,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Read the handout carefully",
+                "id": 58,
+                "summary": "Handout"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/009d992d35b0feedc801f06e684ab312.mp3",
+            "content": "Cảm ơn bạn",
+            "id": 1366,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Thank you",
+                "id": 59,
+                "summary": "Thank you"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

@@ -1,0 +1,189 @@
+{
+    "count": 14,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/04fa57292deee588d53b6239d4997a53.mp3",
+            "content": "আমি আপনার চোখে একটি আলো জ্বলতে যাচ্ছি। উজ্জ্বল হবে।",
+            "id": 214,
+            "language": "Bengali",
+            "phrase": {
+                "content": "I’m going to shine a light into your eyes. It will be bright.",
+                "id": 88,
+                "summary": "Shine a light into your eyes"
+            },
+            "romanized": "Ami apnar chokhe ekti aalo jolte jaacchi. Ujjol hobe.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/820b659115ff95abaeccbe7ebb14a9f6.mp3",
+            "content": "আপনার ফুসফুস দুর্বল। আপনাকে শ্বাস নিতে সহায়তা করার জন্য আমরা একটি শ্বাস নল ব্যবহার করতে যাচ্ছি",
+            "id": 215,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Your lungs are weak. We are going to insert a breathing tube to help you breathe",
+                "id": 89,
+                "summary": "Insert a breathing tube"
+            },
+            "romanized": "Apnar fushfush durbol. Apnake shash nite shohayota korar jonno amra ekti shash nol bebohar korte jacchi.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/35b757535b31a9253a8b12b18e942f5c.mp3",
+            "content": "আপনি এখন ঘুমাতে যাচ্ছেন",
+            "id": 216,
+            "language": "Bengali",
+            "phrase": {
+                "content": "You are going to sleep now",
+                "id": 90,
+                "summary": "Sleep"
+            },
+            "romanized": "Apni ekhon ghumate jacchhen.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/66ae1d368affa50a62c1b940c19aab0b.mp3",
+            "content": "আপনার ফুসফুসগুলি প্রসারণে সহায়তা করতে আমরা আপনাকে আপনার পেটের দিকে ঝুঁকছি",
+            "id": 217,
+            "language": "Bengali",
+            "phrase": {
+                "content": "We are turning you onto your belly to help your lungs expand",
+                "id": 91,
+                "summary": "Turn onto belly"
+            },
+            "romanized": "Apnar fushfushguli prosharon shohaeta korte amra apnake peter dike jhukchi.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/53219019c961ae34ed634b05b892cad2_01t66mn.mp3",
+            "content": "আপনাকে প্রস্রাব করতে সহায়তা করার জন্য আমরা একটি নল ঢোকাচ্ছি ।",
+            "id": 218,
+            "language": "Bengali",
+            "phrase": {
+                "content": "We are inserting a tube to help you pass urine",
+                "id": 92,
+                "summary": "Insert tube urine"
+            },
+            "romanized": "Apnake prosrab korte shohaeta korar jonno amra ekti nol dhokhacchi.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8e71875f83831275e83bbb451f114611_njgACnT.mp3",
+            "content": "আমরা আপনার নাক দিয়ে একটি নল ঢোকাচ্ছি ।",
+            "id": 219,
+            "language": "Bengali",
+            "phrase": {
+                "content": "We are inserting a tube through your nose",
+                "id": 93,
+                "summary": "Insert tube nose"
+            },
+            "romanized": "Amra apnar naak diye ekti nol dhokhacchi.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0bda28066603783fafe59e9e6b814740.mp3",
+            "content": "আপনাকে ওষুধ দেওয়ার জন্য আমরা আপনাকে আপনার গলায় একটি ইঞ্জেকশন দিতে যাচ্ছি",
+            "id": 220,
+            "language": "Bengali",
+            "phrase": {
+                "content": "We are going to give you an injection in your neck to give you medications",
+                "id": 94,
+                "summary": "Injection in Neck"
+            },
+            "romanized": "Apnake oshudh dewar jonno amra apnake apnar golae ekti injectiondite jacchi.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/578c86a10c962c248a023fe8a676b6d0.mp3",
+            "content": "আপনার রক্তচাপ পরিমাপ করতে আমরা আপনাকে আপনার বাহুতে একটি ইঞ্জেকশন দিতে যাচ্ছি",
+            "id": 221,
+            "language": "Bengali",
+            "phrase": {
+                "content": "We are going to give you an injection in your arm to measure your blood pressure",
+                "id": 95,
+                "summary": "Measure Blood Pressure"
+            },
+            "romanized": "Apnar roktochaap porimap korte amra apnar bahute ekti injection dite jacchi.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/04bd721f59532b7de81fbcbd114da1f1.mp3",
+            "content": "আমরা আপনাকে ঘুমের ওষুধ দেব।",
+            "id": 222,
+            "language": "Bengali",
+            "phrase": {
+                "content": "We will give you sleeping medications.",
+                "id": 96,
+                "summary": "Sleeping Meds"
+            },
+            "romanized": "Amra apnake ghumer oshudh debo.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/fa3959731f7adb9bc5089f43bd7881bb_VIEVgXR.mp3",
+            "content": "আমরা আপনাকে ব্যাথা কমানোর ওষুধ দেব।",
+            "id": 223,
+            "language": "Bengali",
+            "phrase": {
+                "content": "We will give you painkillers.",
+                "id": 97,
+                "summary": "Painkillers"
+            },
+            "romanized": "Amra apnake betha komanor oshudh debo.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4a90254fece2da8f062ccbceffbf4b6c.mp3",
+            "content": "আপনার রক্তচাপ ধরে রাখার জন্য আমরা আপনাকে ওষুধ দিচ্ছি।",
+            "id": 224,
+            "language": "Bengali",
+            "phrase": {
+                "content": "We are giving you medication to keep your blood pressure up.",
+                "id": 98,
+                "summary": "Blood Pressure Medication"
+            },
+            "romanized": "Apnar roktochaap dhore rakhar jonno amra apnake oshudh dicchi.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/9a46cf29dd038bb30777f5117247c1e5_ehF3IAA.mp3",
+            "content": "আমরা শ্বাস নল বের করতে যাচ্ছি।",
+            "id": 225,
+            "language": "Bengali",
+            "phrase": {
+                "content": "We are going to remove the breathing tube.",
+                "id": 99,
+                "summary": "Remove Tube"
+            },
+            "romanized": "Amra shaash nol ber korte jacchi.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b3027c2e01fc4f436b3d0c1f6c8ca43a.mp3",
+            "content": "আমরা আপনার কফ চুষতে যাচ্ছি",
+            "id": 226,
+            "language": "Bengali",
+            "phrase": {
+                "content": "We are going to suck out your phlegm",
+                "id": 100,
+                "summary": "Phlegm suck out"
+            },
+            "romanized": "Amra apnar cough chushte jacchi",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ab869f12d5fa9d633e2711532b7ef115.mp3",
+            "content": "আমরা আপনাকে স্পঞ্জ দিয়ে পরিষ্কার করতে যাচ্ছি",
+            "id": 227,
+            "language": "Bengali",
+            "phrase": {
+                "content": "We are going to clean you with a sponge",
+                "id": 101,
+                "summary": "Clean with sponge"
+            },
+            "romanized": "Amra apnake sponge diye porishkar korte jacchi.",
+            "special_note": ""
+        }
+    ]
+}

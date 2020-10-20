@@ -1,0 +1,150 @@
+{
+    "count": 11,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/68239a73757f8c5ebd9c0c75f1b90c47_VNznYEo.mp3",
+            "content": "တစ်",
+            "id": 1792,
+            "language": "Burmese",
+            "phrase": {
+                "content": "1",
+                "id": 126,
+                "summary": "1"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d794f5d57729600557ec522d1fda95f8_62Sqi2X.mp3",
+            "content": "နှစ်",
+            "id": 1793,
+            "language": "Burmese",
+            "phrase": {
+                "content": "2",
+                "id": 127,
+                "summary": "2"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/01cb85b8e270b81ee06de0eb309c13d1_8ajMVp5.mp3",
+            "content": "သုံး",
+            "id": 1794,
+            "language": "Burmese",
+            "phrase": {
+                "content": "3",
+                "id": 128,
+                "summary": "3"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5643e0bdb3936ea8d1128ad54b086fde_0W7Zloe.mp3",
+            "content": "လေး",
+            "id": 1795,
+            "language": "Burmese",
+            "phrase": {
+                "content": "4",
+                "id": 129,
+                "summary": "4"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4a496d3738102a7bbe37df020b283f79_dKgIYYh.mp3",
+            "content": "ငါး",
+            "id": 1796,
+            "language": "Burmese",
+            "phrase": {
+                "content": "5",
+                "id": 130,
+                "summary": "5"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/dd880fb64609fb13d85ca15c534a01df_xNngZy4.mp3",
+            "content": "ခြောက်",
+            "id": 1797,
+            "language": "Burmese",
+            "phrase": {
+                "content": "6",
+                "id": 131,
+                "summary": "6"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1d05a04569db32037c592fa81b1b5b14_0Fumnxb.mp3",
+            "content": "ခုနှစ်",
+            "id": 1798,
+            "language": "Burmese",
+            "phrase": {
+                "content": "7",
+                "id": 132,
+                "summary": "7"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/106159af69861c1197920fb2e7bae7c5_9WhfXcw.mp3",
+            "content": "ရှစ်",
+            "id": 1799,
+            "language": "Burmese",
+            "phrase": {
+                "content": "8",
+                "id": 133,
+                "summary": "8"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f9748f355bead837608b0f7383f62fcf_4GX5Nhr.mp3",
+            "content": "ကိုး",
+            "id": 1800,
+            "language": "Burmese",
+            "phrase": {
+                "content": "9",
+                "id": 134,
+                "summary": "9"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/85f7cd5880116607c599c9db19bc649b_z82KIFb.mp3",
+            "content": "တစ်ဆယ်",
+            "id": 1801,
+            "language": "Burmese",
+            "phrase": {
+                "content": "10",
+                "id": 135,
+                "summary": "10"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/681ff26f3197fa833a82d2bea8ff3466_38Q6kxq.mp3",
+            "content": "သုံည",
+            "id": 1802,
+            "language": "Burmese",
+            "phrase": {
+                "content": "0",
+                "id": 136,
+                "summary": "0"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

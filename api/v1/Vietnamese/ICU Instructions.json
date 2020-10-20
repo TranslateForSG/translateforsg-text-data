@@ -1,0 +1,150 @@
+{
+    "count": 11,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/68daa771b5ac299ce6d222100033a3c6.mp3",
+            "content": "Hít thật sâu",
+            "id": 1384,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Take a deep breath",
+                "id": 77,
+                "summary": "Deep breath"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/228586225d592b0208244d4d230ee11d.mp3",
+            "content": "Cho tôi một tiếng ho lớn",
+            "id": 1385,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Give me a big cough",
+                "id": 78,
+                "summary": "Big cough"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a05bdc49e454ff8097164ac193d0db9e.mp3",
+            "content": "Đừng đấu tranh",
+            "id": 1386,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Don’t struggle",
+                "id": 79,
+                "summary": "Don’t struggle"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/cda30e93b5e427e318803e5bf0a195c8.mp3",
+            "content": "Đừng di chuyển",
+            "id": 1387,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Don’t move",
+                "id": 80,
+                "summary": "Don’t move"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/73eadd8452d68fbc3168552b3e8773ef.mp3",
+            "content": "Nâng cánh tay của bạn lên",
+            "id": 1388,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Lift up your arm",
+                "id": 81,
+                "summary": "Lift up your arm"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f333b394e32177cc772ef0f0b5fe492a.mp3",
+            "content": "Nâng chân của bạn lên",
+            "id": 1389,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Lift up your leg",
+                "id": 82,
+                "summary": "Lift up your leg"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3e0aa3fcd1a2d2185926e9367a21e458.mp3",
+            "content": "Bóp tay tôi",
+            "id": 1390,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Squeeze my hand",
+                "id": 83,
+                "summary": "Squeeze my hand"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/34c7e947150db99f440208db8ce2c21d.mp3",
+            "content": "Cho tôi xem hai ngón tay",
+            "id": 1391,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Show me two fingers",
+                "id": 84,
+                "summary": "Show two fingers"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7ddf414e1dab7036b769e42547d51220.mp3",
+            "content": "Mở miệng",
+            "id": 1392,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Open your mouth",
+                "id": 85,
+                "summary": "Open mouth"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4ae7e27f5ea23c35ab85757455ef6dc4.mp3",
+            "content": "Thè lưỡi",
+            "id": 1393,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Stick out your tongue",
+                "id": 86,
+                "summary": "Stick out tongue"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d21e01d2aa3a170dbfe98d2452c62618.mp3",
+            "content": "Mở mắt ra",
+            "id": 1394,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Open your eyes",
+                "id": 87,
+                "summary": "Open eyes"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

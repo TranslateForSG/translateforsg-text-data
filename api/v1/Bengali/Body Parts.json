@@ -1,0 +1,163 @@
+{
+    "count": 12,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/26281ef696541cec8a86e43e587674f7.mp3",
+            "content": "মাথা",
+            "id": 240,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Head",
+                "id": 114,
+                "summary": "Head"
+            },
+            "romanized": "Matha",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/2fce6fde4eafd99d3d370ddbc63d846e.mp3",
+            "content": "চোখ",
+            "id": 241,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Eyes",
+                "id": 115,
+                "summary": "Eyes"
+            },
+            "romanized": "Chokh",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4ed6bc00809e443e6ec28e42acb7edfd.mp3",
+            "content": "কান",
+            "id": 242,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Ears",
+                "id": 116,
+                "summary": "Ears"
+            },
+            "romanized": "Kaan",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/66f701bb7effd637fc3098461bc1373e.mp3",
+            "content": "নাক",
+            "id": 243,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Nose",
+                "id": 117,
+                "summary": "Nose"
+            },
+            "romanized": "Naak",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a6dfdf6b2e84b115babba64eef22e679.mp3",
+            "content": "মুখ",
+            "id": 244,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Mouth",
+                "id": 118,
+                "summary": "Mouth"
+            },
+            "romanized": "Mukh",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3a63e60ae1c4feda147b29980d70ed79.mp3",
+            "content": "গলা",
+            "id": 245,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Throat",
+                "id": 119,
+                "summary": "Throat"
+            },
+            "romanized": "Gola",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1cc030fedd6c37070cd946880d88b730.mp3",
+            "content": "বুক",
+            "id": 246,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Chest",
+                "id": 120,
+                "summary": "Chest"
+            },
+            "romanized": "Book",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5d1288d4947e410c7587f0e6f7d21f18.mp3",
+            "content": "উদর",
+            "id": 247,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Abdomen",
+                "id": 121,
+                "summary": "Abdomen"
+            },
+            "romanized": "Oodor",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1a5d01f05e374b7016da86198e5b4c5d.mp3",
+            "content": "পেছনে",
+            "id": 248,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Back",
+                "id": 122,
+                "summary": "Back"
+            },
+            "romanized": "Pechone",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/60cf1321a7959bc2a6b664e6761b9d18.mp3",
+            "content": "হাত বা আর্ম",
+            "id": 249,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Hand or Arm",
+                "id": 123,
+                "summary": "Arms"
+            },
+            "romanized": "Haat / Arm",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/de5c34f305ee10dbb59b679e9f697fd3.mp3",
+            "content": "পাগুলো",
+            "id": 250,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Legs",
+                "id": 124,
+                "summary": "Legs"
+            },
+            "romanized": "Paa-gulo",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c243e3b782f7576a73347d82d65efd73.mp3",
+            "content": "পা দুটো",
+            "id": 251,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Feet",
+                "id": 125,
+                "summary": "Feet"
+            },
+            "romanized": "Pa duto",
+            "special_note": ""
+        }
+    ]
+}

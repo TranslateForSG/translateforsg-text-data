@@ -1,0 +1,72 @@
+{
+    "count": 5,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/34446695e5e40a0592ef8c452c62b2d3.mp3",
+            "content": "Vui lòng tránh giao thông công cộng.",
+            "id": 1467,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Please avoid public transport.",
+                "id": 166,
+                "summary": "Transport"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/691a1cfb6b8546de18d347c3db631179.mp3",
+            "content": "Bạn có thể đi phương tiện giao thông cá nhân của riêng bạn, một chiếc taxi hoặc một chiếc xe cho thuê tư nhân.",
+            "id": 1468,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "You can take your own private transport, a taxi or a private hire car.",
+                "id": 167,
+                "summary": "Take Taxi"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d015afaa472b1f44cc1b86b262059f26.mp3",
+            "content": "Nếu ho của bạn trở nên tồi tệ hơn và bạn cảm thấy khó thở, hoặc sốt của bạn kéo dài trên 38 độ C",
+            "id": 1947,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "If your cough is getting worse and you feel breathless, or your fever is persistently above 38 degrees Celsius",
+                "id": 184,
+                "summary": "38C"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6d0dc4dcd7d1db010af2b68487de3d15.mp3",
+            "content": "Đeo mặt nạ phẫu thuật và đến Khoa Cấp cứu của chúng tôi.",
+            "id": 1948,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Wear a surgical mask and come to our Emergency Department.",
+                "id": 185,
+                "summary": "Mask"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7a83722f0829c4215fd25832e9252591.mp3",
+            "content": "Trong tình huống khẩn cấp, hãy gọi 995 cho xe cứu thương. Thông báo cho nhân viên cứu thương rằng gần đây bạn đã được thử nghiệm COVID-19 và cũng cho họ biết lịch sử du lịch của bạn.",
+            "id": 1949,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "In an emergency situation, call 995 for an ambulance. Inform the ambulance operator that you were recently tested for COVID-19 and also tell them your travel history.",
+                "id": 187,
+                "summary": "Ambulance"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

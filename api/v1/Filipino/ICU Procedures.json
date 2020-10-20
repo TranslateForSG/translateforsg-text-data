@@ -1,0 +1,189 @@
+{
+    "count": 14,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1c23cb30f62e7095caff1f6568034dd6_6oTHMjk.mp3",
+            "content": "Iilawan ko lang ang iyong mga mata. Makakasilaw lang saglit. ",
+            "id": 715,
+            "language": "Filipino",
+            "phrase": {
+                "content": "I’m going to shine a light into your eyes. It will be bright.",
+                "id": 88,
+                "summary": "Shine a light into your eyes"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f423f8f9614eaba9ba71c17d8e50fa97_jbVmRWm.mp3",
+            "content": "Mahina na ang iyong baga. Kailangan naming magpasok ng tubo para tulungan kang huminga",
+            "id": 716,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Your lungs are weak. We are going to insert a breathing tube to help you breathe",
+                "id": 89,
+                "summary": "Insert a breathing tube"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/486f769b6581da47f67d4cc744af4f6e_teM338T.mp3",
+            "content": "Makakatulog ka na",
+            "id": 717,
+            "language": "Filipino",
+            "phrase": {
+                "content": "You are going to sleep now",
+                "id": 90,
+                "summary": "Sleep"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/90237829fd1f2dc8efa1aaed21a597ef_kMKI32Z.mp3",
+            "content": "Ipapadapa ka lang namin para tulungang lumuwag ang iyong baga",
+            "id": 718,
+            "language": "Filipino",
+            "phrase": {
+                "content": "We are turning you onto your belly to help your lungs expand",
+                "id": 91,
+                "summary": "Turn onto belly"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b1b9759f9d33ed0014f1faf966fd33bb_qVeaHDU.mp3",
+            "content": "Magpapasok lang kami ng sonda/tubo sa pantog para tulungan kang maka-ihi",
+            "id": 719,
+            "language": "Filipino",
+            "phrase": {
+                "content": "We are inserting a tube to help you pass urine",
+                "id": 92,
+                "summary": "Insert tube urine"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/742e028f48bbbaef37affce1ac812176_SUWQZKf.mp3",
+            "content": "Magpapasok lang kami ng tubo sa loob ng ilong",
+            "id": 720,
+            "language": "Filipino",
+            "phrase": {
+                "content": "We are inserting a tube through your nose",
+                "id": 93,
+                "summary": "Insert tube nose"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/63e272e32ef70f260001ba2345f2d46b_UF3fRVS.mp3",
+            "content": "Mag-injeksyon lang kami sa leeg para magbigay ng gamot",
+            "id": 721,
+            "language": "Filipino",
+            "phrase": {
+                "content": "We are going to give you an injection in your neck to give you medications",
+                "id": 94,
+                "summary": "Injection in Neck"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/dfa9eb2dc1a45ee91393a19eb2bf1273_dFELtPS.mp3",
+            "content": "(Injection for giving medication) Tutusok lang kami sa braso para magbigay ng gamot",
+            "id": 722,
+            "language": "Filipino",
+            "phrase": {
+                "content": "We are going to give you an injection in your arm to measure your blood pressure",
+                "id": 95,
+                "summary": "Measure Blood Pressure"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/e5d9e904f967d6b6303b156eb350e2d9_mYiPcq9.mp3",
+            "content": "Bibigyan ka namin ng gamot pampatulog",
+            "id": 723,
+            "language": "Filipino",
+            "phrase": {
+                "content": "We will give you sleeping medications.",
+                "id": 96,
+                "summary": "Sleeping Meds"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/fd1c49ac833b3b01942ae9f1af7b28eb_G4UnjgS.mp3",
+            "content": "Bibigyan ka namin ng gamot para sa kirot",
+            "id": 724,
+            "language": "Filipino",
+            "phrase": {
+                "content": "We will give you painkillers.",
+                "id": 97,
+                "summary": "Painkillers"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/90a3b2653c29bc1f13be8cf512e20ee7_xf4jGvs.mp3",
+            "content": "Binibigyan ka namin ng gamot para mapataas ang blood pressure",
+            "id": 725,
+            "language": "Filipino",
+            "phrase": {
+                "content": "We are giving you medication to keep your blood pressure up.",
+                "id": 98,
+                "summary": "Blood Pressure Medication"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a7868ddd8266a0acfcf4646398e2f71e_ExszkA0.mp3",
+            "content": "Tatanggalin na namin ang tubo sa baga",
+            "id": 726,
+            "language": "Filipino",
+            "phrase": {
+                "content": "We are going to remove the breathing tube.",
+                "id": 99,
+                "summary": "Remove Tube"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/526043d00b14a36afe1a758bc73b39f1_UQYH6zt.mp3",
+            "content": "I-suction lang namin ang iyong plema ",
+            "id": 727,
+            "language": "Filipino",
+            "phrase": {
+                "content": "We are going to suck out your phlegm",
+                "id": 100,
+                "summary": "Phlegm suck out"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0f824b07349c98032a6924d94bc59e58_fTVCUzi.mp3",
+            "content": "Papaliguan ka namin",
+            "id": 728,
+            "language": "Filipino",
+            "phrase": {
+                "content": "We are going to clean you with a sponge",
+                "id": 101,
+                "summary": "Clean with sponge"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

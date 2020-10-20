@@ -1,0 +1,72 @@
+{
+    "count": 5,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/be030e3d1b1928c1bf2f47c09f14dc32_2722F1N.mp3",
+            "content": "నేను మిమ్మల్ని పరిశీలించబోతున్నాను",
+            "id": 2936,
+            "language": "Telugu",
+            "phrase": {
+                "content": "I’m going to examine you.",
+                "id": 43,
+                "summary": "Physical Exam Starts"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5ce2642f30248ab3bd717a99fa613fd2_iZ4FDDm.mp3",
+            "content": "మీకు నొప్పిగా ఉంటే చెప్పండి",
+            "id": 2937,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Tell me if you feel more pain.",
+                "id": 149,
+                "summary": "Tell if Pain"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c75a19099737289b963c4fbfba34dbea_gIlxFPy.mp3",
+            "content": "దయచేసి మీ చొక్కా తొలగించండి.",
+            "id": 2938,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Please remove your shirt.",
+                "id": 150,
+                "summary": "Remove Clothing"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/de0161b3fb6a9fefe1ae8d842d00d962_rqcnItQ.mp3",
+            "content": "మీరు నోటితో గట్టిగ స్వాస పీలుస్తూ ఉండండి",
+            "id": 2939,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Keep taking deep breaths through your mouth.",
+                "id": 44,
+                "summary": "Deep Breath"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/350a209b33863315a719f9f76cc5868f_fJphl5d.mp3",
+            "content": "నేను స్టెతస్కోప్‌తో పరీక్షిస్తున్నప్పుడు, మీరు ఆంగ్లంలో నైన్టీ-నైన్ చెప్పండి.",
+            "id": 2940,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Say \"99\" when I listen with my stethoscope.",
+                "id": 45,
+                "summary": "99"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

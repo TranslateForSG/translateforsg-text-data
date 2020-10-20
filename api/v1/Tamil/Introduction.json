@@ -1,0 +1,98 @@
+{
+    "count": 7,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm1.m4a",
+            "content": "நான் ஒரு மருத்துவர். எனக்கு தமிழ் பேசத் தெரியாது. நான் இந்த இணையப்பக்கத்தின் மூலம் உங்களுடன் பேச போகிறேன். உங்களால் முடிந்த அளவிற்க்கு ஆங்கிலத்தில் பதில் சொல்லுங்கள்.",
+            "id": 2166,
+            "language": "Tamil",
+            "phrase": {
+                "content": "I am a doctor. I do not speak your language. I will communicate with you using this website. Answer me in English as much as possible. Thank you.",
+                "id": 1,
+                "summary": "Intro"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm2.m4a",
+            "content": "உங்களுடைய பெயர் என்ன?",
+            "id": 2167,
+            "language": "Tamil",
+            "phrase": {
+                "content": "What's your name?",
+                "id": 2,
+                "summary": "Name"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm3.m4a",
+            "content": "தயவுசெய்து உங்களுடைய வேலை அனுமதி (Work Permit) அட்டையைக் காட்டுங்கள்.",
+            "id": 2168,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Please give me your Identity Card or Work Permit",
+                "id": 3,
+                "summary": "IC"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/2bc36a1bfca0e680af023c29350e8444_GlOukTO.mp3",
+            "content": "நீங்கள் வேலை செய்யும் கம்பேனியின்/நிறுவனத்தின் பெயர் என்ன?",
+            "id": 2169,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Which company are you employed under / work for?",
+                "id": 4,
+                "summary": "Company"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8f0a11e4c44052b7c93c472b8813ba9c_njoxA0D.mp3",
+            "content": "உங்களுடைய சூப்பர்வைசர் அல்லது முதலாளியின் பெயர் என்ன?  அவருடைய தொடர்பு எண் என்ன?",
+            "id": 2170,
+            "language": "Tamil",
+            "phrase": {
+                "content": "What is your supervisor’s name and contact number?",
+                "id": 5,
+                "summary": "Supervisor"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/53b89250df3f0b9c7f1f303013430e3b_y810fGb.mp3",
+            "content": "சிங்கப்பூரில் நீங்கள் எங்கே வசிக்கிறீர்கள்? நீங்கள் தங்கியிருக்கும் இடம் (டோர்ம்) பெயர் என்ன?",
+            "id": 2171,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Where do you live in Singapore?",
+                "id": 6,
+                "summary": "Residence"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4ed1440654f382dc6944037b66256156_fJepUYg.mp3",
+            "content": "பாதிக்கப்பட்ட நோயாளிகள் யாராவது நீங்கள் வசிக்கும் இடத்தைச் சேர்ந்தவர்களா என்பது உங்களுக்குத் தெரியுமா?",
+            "id": 2172,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Do you know if any infected patients are from your area?",
+                "id": 7,
+                "summary": "Cluster"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

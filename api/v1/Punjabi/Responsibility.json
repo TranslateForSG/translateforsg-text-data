@@ -1,0 +1,72 @@
+{
+    "count": 5,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": null,
+            "content": "ਕਿਰਪਾ ਕਰਕੇ ਚੰਗੀ ਨਿੱਜੀ ਸਫਾਈ ਬਣਾਈ ਰੱਖੋ. ਆਪਣੇ ਹੱਥ ਸਾਬਣ ਅਤੇ ਪਾਣੀ ਨਾਲ ਬਾਰ ਬਾਰ ਧੋਵੋ. ਬਾਰ ਬਾਰ ਆਪਣੀਆਂ ਅੱਖਾਂ, ਨੱਕ ਅਤੇ ਮੂੰਹ ਨੂੰ ਹੱਥ ਨਾ ਲਾਓ. ਖੰਘ ਜਾਂ ਛਿੱਕ ਆਉਣ ਵੇਲੇ ਹਮੇਸ਼ਾ ਆਪਣੇ ਮੂੰਹ ਨੂੰ ਢੱਕੋ.",
+            "id": 3275,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Please maintain good personal hygiene. Wash your hands with soap and water frequently. Try not to touch your eyes, nose, and mouth. Always cover your mouth when coughing or sneezing.",
+                "id": 179,
+                "summary": "Hygine"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਕਿਰਪਾ ਕਰਕੇ ਆਪਣਾ ਜੂਠਾ ਭੋਜਨ, ਚੱਮਚ, ਕਾਂਟਾ, ਕੌਲੀ ਦੂਜਿਆਂ ਨਾਲ ਸਾਂਝਾ ਨਾ ਕਰੋ. ਆਪਣੀਆਂ ਨਿਜੀ ਚੀਜ਼ਾਂ ਜਿਵੇਂ ਕਿ ਤੁਹਾਡਾ ਤੌਲਿਆ ਵੀ ਕਿਸੇ ਨਾਲ ਸਾਂਝਾ ਨਾ ਕਰੋ.",
+            "id": 3276,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Please prevent others from using your spoon, fork, plates, bowls, food. Also do not share personal hygiene items like your towel.",
+                "id": 180,
+                "summary": "Sharing"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਜੋ ਦਵਾਈਆਂ ਤੁਹਾਨੂੰ ਦਿੱਤੀਆਂ ਗਈਆਂ ਹਨ ਉਹਨਾਂ ਦਾ ਸੇਵਨ ਜਾਰੀ ਰੱਖੋ.",
+            "id": 3277,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Continue to take the medications prescribed for you (if any).",
+                "id": 181,
+                "summary": "Medication"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਕਿਰਪਾ ਕਰਕੇ ਪਾਣੀ ਜ਼ਿਆਦਾ ਪੀਓ.",
+            "id": 3278,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Please drink a lot of water.",
+                "id": 182,
+                "summary": "Drink"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਘਰ ਵਿਚ ਰਹਿ ਕੇ ਹੀ ਆਪਣੇ ਤਾਪਮਾਨ ਅਤੇ ਲੱਛਣਾਂ ਤੇ ਨਜ਼ਰ ਰੱਖੋ.",
+            "id": 3279,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Keep monitoring your temperature and symptoms at home.",
+                "id": 183,
+                "summary": "Monitor"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

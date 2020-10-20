@@ -1,0 +1,59 @@
+{
+    "count": 4,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f946ea5e7f6f8ba5c198122d797d81c2.mp3",
+            "content": "Bạn có đau không?",
+            "id": 1417,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Are you in pain?",
+                "id": 110,
+                "summary": "Are you in pain?"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4e767df2b9953a55a9e3609b8a088f2d.mp3",
+            "content": "Nơi là nỗi đau?",
+            "id": 1418,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Where is the pain?",
+                "id": 111,
+                "summary": "Where is the pain?"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/53262729276b40365a73fb194a3c240c.mp3",
+            "content": "Là nhẹ, vừa hay nặng?",
+            "id": 1419,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Is it mild, moderate or severe?",
+                "id": 112,
+                "summary": "Is it mild, moderate or severe?"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0fcfeba5387fa3e1571dd0d187b9ca60.mp3",
+            "content": "Bạn có thể chỉ ra nỗi đau?",
+            "id": 1420,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Can you point to the pain?",
+                "id": 113,
+                "summary": "Can you point to the pain?"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

@@ -1,0 +1,2568 @@
+{
+    "count": 197,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": null,
+            "content": "ਮੈ ਇੱਕ ਡਾਕਟਰ ਹਾਂ. ਮੈਂ ਤੁਹਾਡੀ ਭਾਸ਼ਾ ਨਹੀਂ ਬੋਲਦਾ. ਮੈਂ ਇਸ ਵੈਬਸਾਈਟ ਦੀ ਸਹਾਇਤਾ ਨਾਲ ਤੁਹਾਡੇ ਨਾਲ ਸੰਪਰਕ ਕਰਾਂਗਾ. ਜਿੰਨਾ ਹੋ ਸਕੇ ਅੰਗਰੇਜ਼ੀ ਵਿਚ ਜਵਾਬ ਦਿਓ. ਤੁਹਾਡਾ ਧੰਨਵਾਦ.",
+            "id": 3105,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "I am a doctor. I do not speak your language. I will communicate with you using this website. Answer me in English as much as possible. Thank you.",
+                "id": 1,
+                "summary": "Intro"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਤੁਹਾਡਾ ਨਾਮ ਕੀ ਹੈ?",
+            "id": 3106,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "What's your name?",
+                "id": 2,
+                "summary": "Name"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਕਿਰਪਾ ਕਰਕੇ ਮੈਨੂੰ ਆਪਣਾ ਪਛਾਣ ਪੱਤਰ ਜਾਂ ਵਰਕ ਪਰਮਿਟ ਦਿਓ.",
+            "id": 3107,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Please give me your Identity Card or Work Permit",
+                "id": 3,
+                "summary": "IC"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਤੁਸੀਂ ਕਿਸ ਕੰਪਨੀ ਦੇ ਅਧੀਨ ਕੰਮ ਕਰ ਰਹੇ ਹੋ / ਕੰਮ ਕਰ ਰਹੇ ਹੋ?",
+            "id": 3108,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Which company are you employed under / work for?",
+                "id": 4,
+                "summary": "Company"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਤੁਹਾਡੇ ਸੁਪਰਵਾਈਜ਼ਰ ਦਾ ਨਾਮ ਅਤੇ ਸੰਪਰਕ ਨੰਬਰ ਕੀ ਹੈ?",
+            "id": 3109,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "What is your supervisor’s name and contact number?",
+                "id": 5,
+                "summary": "Supervisor"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਤੁਸੀਂ ਸਿੰਗਾਪੁਰ ਵਿੱਚ ਕਿੱਥੇ ਰਹਿੰਦੇ ਹੋ?",
+            "id": 3110,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Where do you live in Singapore?",
+                "id": 6,
+                "summary": "Residence"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਕੀ ਤੁਹਾਨੂੰ ਆਪਣੇ ਇਲਾਕੇ ਵਿਚੋਂ ਹੋਰ ਸੰਕ੍ਰਮਿਤ ਮਰੀਜ਼ਾਂ ਬਾਰੇ ਕੋਈ ਜਾਣਕਾਰੀ ਹੈ?",
+            "id": 3111,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Do you know if any infected patients are from your area?",
+                "id": 7,
+                "summary": "Cluster"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਪਿਛਲੇ 14 ਦਿਨਾਂ ਵਿੱਚ, ਕੀ ਤੁਸੀਂ ਕਿਸੇ ਨੂੰ ਮਿਲੇ ਜਿਸ ਨੂੰ ਕੋਰੋਨਾਵਾਇਰਸ ਹੈ?",
+            "id": 3112,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "In the last 14 days, did you meet anyone who has coronavirus?",
+                "id": 9,
+                "summary": "People"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਤੁਹਾਡੇ ਨਾਲ ਇੱਕੋ ਕਮਰੇ ਵਿਚ ਕਿੰਨੇ ਲੋਗ ਰਹਿੰਦੇ ਹਨ?",
+            "id": 3113,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "How many people are staying in the same room as you?",
+                "id": 8,
+                "summary": "Room"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਕੌਣ ਕੌਣ? ਉਨ੍ਹਾਂ ਨਾਲ ਤੁਹਾਡਾ ਕੀ ਸੰਬੰਧ ਹੈ?",
+            "id": 3114,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Who? What is your relationship with them?",
+                "id": 10,
+                "summary": "People Meet"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਤੁਸੀਂ ਉਹਨਾਂ ਨੂੰ ਕਿੰਨੇ ਦਿਨ ਪਹਿਲਾਂ ਮਿਲੇ ਸੀ?",
+            "id": 3115,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "How many days ago did you meet them?",
+                "id": 11,
+                "summary": "People Meet"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਕਿੰਨੀ ਦੇਰ ਤੁਸੀਂ ਓਹਨਾ ਦੇ ਨਾਲ ਸੀ?",
+            "id": 3116,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "How long were you with him/her?",
+                "id": 12,
+                "summary": "People Meet"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਪਿਛਲੇ 14 ਦਿਨਾਂ ਵਿੱਚ, ਕੀ ਤੁਸੀਂ ਸਿੰਗਾਪੁਰ ਤੋਂ ਬਾਹਰ ਕੋਈ ਯਾਤਰਾ ਕੀਤੀ ਸੀ? ਜੇ ਕੀਤੀ ਸੀ ਤਾਂ ਅੰਗ੍ਰੇਜ਼ੀ ਵਿਚ ਉਹਨਾਂ ਦੇਸ਼ਾਂ ਦੇ ਨਾਮ ਦੱਸੋ.",
+            "id": 3117,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "In the last 14 days, did you travel out of Singapore? If yes, tell us the countries in English.",
+                "id": 13,
+                "summary": "14 Days Travel"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਲੱਛਣਾਂ ਦੇ ਸ਼ੁਰੂ ਹੋਣ ਤੋਂ 7 ਦਿਨ ਪਹਿਲਾਂ ਤੁਹਾਡੀਆਂ ਕੀ ਗਤੀਵਿਧੀਆਂ ਸਨ?",
+            "id": 3118,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "What were your activities for last 7 days before onset of symptoms?",
+                "id": 196,
+                "summary": "Activities 7 Days"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਦਾਖਲ ਹੋਣ ਤੋਂ ਪਹਿਲਾਂ ਤੁਹਾਡੀਆਂ ਗਤੀਵਿਧੀਆਂ ਕੀ ਸਨ?",
+            "id": 3119,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "What were your activities until admission?",
+                "id": 197,
+                "summary": "Activities Admit"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਉਹ ਜਿਨ੍ਹਾਂ ਲੋਕਾਂ ਦੇ ਨਜ਼ਦੀਕ ਸਨ ਸਾਨੂੰ ਉਨ੍ਹਾਂ ਲੋਕਾਂ ਦੇ ਸੰਪਰਕ ਦੀ ਜ਼ਰੂਰਤ ਹੈ.",
+            "id": 3120,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "We need the contacts of people who they were close to.",
+                "id": 198,
+                "summary": "Need Contacts"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਤੁਸੀਂ ਹਾਲ ਹੀ ਵਿੱਚ ਕਿੱਥੇ-ਕਿੱਥੇ ਗਏ ਸੀ? (ਜਾਂ ਇਹ ਵੀ ਹੋ ਸਕਦਾ ਹੈ ਕਿ ਸਰਕਟ ਬ੍ਰੈਕਰ ਸ਼ੁਰੂ ਹੋਣ ਤੋਂ ਬਾਅਦ ਤੁਸੀਂ ਕਿਤੇ ਵੀ ਨਾ ਗਏ ਹੋਵੋ)",
+            "id": 3121,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Where have you visited recently? (or maybe nowhere after circuit breaker)",
+                "id": 199,
+                "summary": "Recent Visit"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਤੁਸੀਂ ਖਾਣਾ ਕਿਥੋਂ ਖਰੀਦਦੇ ਹੋ?",
+            "id": 3122,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Where do you buy food?",
+                "id": 200,
+                "summary": "Buy Food"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਕੀ ਤੁਹਾਨੂੰ ਬੁਖਾਰ ਹੈ?",
+            "id": 3123,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Do you have a fever?",
+                "id": 14,
+                "summary": "Fever"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਕਿੰਨੇ ਦਿਨਾਂ ਤੋਂ?",
+            "id": 3124,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "How many days?",
+                "id": 15,
+                "summary": "Length"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਕੀ ਤੁਸੀਂ ਥਰਮਾਮੀਟਰ ਨਾਲ ਆਪਣਾ ਬੁਖਾਰ ਮਾਪਿਆ ਸੀ? ਜੇ ਮਾਪਿਆ ਸੀ, ਤਾਂ ਵੱਧ ਤੋਂ ਵੱਧ ਕਿੰਨਾ ਬੁਖਾਰ ਸੀ?",
+            "id": 3125,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Did you measure it with a thermometer? If you did, what was the highest reading?",
+                "id": 16,
+                "summary": "Reading"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਨੱਕ ਵਗਦਾ ਹੈ?",
+            "id": 3126,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Runny nose?",
+                "id": 17,
+                "summary": "Runny nose"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਖੰਘ ਆਉਂਦੀ ਹੈ?",
+            "id": 3127,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Cough?",
+                "id": 18,
+                "summary": "Cough"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਗਲਾ ਦੁਖਦਾ ਹੈ?",
+            "id": 3128,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Sore throat?",
+                "id": 19,
+                "summary": "Sore throat"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਸਾਹ ਲੈਣ ਵਿਚ ਮੁਸ਼ਕਲ ਹੁੰਦੀ ਹੈ?",
+            "id": 3129,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Difficulty breathing?",
+                "id": 20,
+                "summary": "Breathing"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਕੀ ਚੰਗੀ ਤਰ੍ਹਾਂ ਸੁੰਘ ਨਹੀਂ ਸਕਦੇ?",
+            "id": 3130,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Cannot smell properly?",
+                "id": 21,
+                "summary": "Anosmia"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਕੀ ਤੁਹਾਨੂੰ ਮੂੰਹ ਦਾ ਸਵਾਦ ਘੱਟ ਮਹਿਸੂਸ ਹੁੰਦਾ ਹੈ?",
+            "id": 3131,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Do you feel less taste in the mouth?",
+                "id": 22,
+                "summary": "Ageusia"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਕੀ ਤੁਹਾਨੂੰ ਦਸਤ ਹੋ ਰਹੇ ਹਨ? ਇੱਕ ਦਿਨ ਵਿੱਚ ਕਿੰਨੀ ਵਾਰ?",
+            "id": 3132,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Do you have diarrhoea / diarrhea? How many times a day?",
+                "id": 23,
+                "summary": "diarrhoea"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਚਮੜੀ ਉਪਰ ਧੱਫੜ ਜਾਂ ਖੁਜਲੀ?",
+            "id": 3133,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Skin Rash or Itching?",
+                "id": 24,
+                "summary": "Rash"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਕੀ ਤੁਹਾਨੂੰ ਕੋਈ ਸ਼ਰੀਰਿਕ ਦਰਦ ਮਹਿਸੂਸ ਹੋ ਰਿਹਾ ਹੈ?",
+            "id": 3134,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Do you have any pain on your body?",
+                "id": 25,
+                "summary": "Pain"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਖ਼ਾਸਕਰ ਕੇ, ਛਾਤੀ ਵਿਚ ਕੋਈ ਦਰਦ?",
+            "id": 3135,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Specifically, any chest pain?",
+                "id": 26,
+                "summary": "Chest Pain"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਉਸ ਅੰਗ ਵੱਲ ਇਸ਼ਾਰਾ ਕਰਕੇ ਦੱਸੋ ਕਿੱਥੇ",
+            "id": 3136,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Point to the place.",
+                "id": 27,
+                "summary": "Point Out"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਕਿ ਤੁਹਾਨੂੰ ਪਹਿਲਾਂ ਤੋਂ ਕੋਈ ਸ਼ਾਰੀਰਿਕ ਸਮਸਿਆ ਹੈ?",
+            "id": 3137,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Do you have any past medical history?",
+                "id": 28,
+                "summary": "Medical History"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਇਸ਼ਾਰਾ ਕਰਕੇ ਦੱਸੋ ਕਿੱਥੇ",
+            "id": 3138,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Point to which ones.",
+                "id": 29,
+                "summary": "Symptoms"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਦਮਾ",
+            "id": 3139,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Asthma",
+                "id": 30,
+                "summary": "Asthma"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਨਿਮੋਨੀਆ",
+            "id": 3140,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Pneumonia",
+                "id": 31,
+                "summary": "Pneumonia"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਬਲੱਡ ਪ੍ਰੈਸ਼ਰ",
+            "id": 3141,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Hypertension",
+                "id": 32,
+                "summary": "Hypertension"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਕੋਲੇਸਟ੍ਰੋਲ",
+            "id": 3142,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Hyperlipidemia / Cholesterol",
+                "id": 33,
+                "summary": "Hyperlipidemia"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਸ਼ੂਗਰ",
+            "id": 3143,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Diabetes",
+                "id": 34,
+                "summary": "Diabetes"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਦਿਲ ਦੀ ਤਕਲੀਫ",
+            "id": 3144,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Heart problems",
+                "id": 35,
+                "summary": "Heart problems"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਗੁਰਦੇ ਦੀ ਤਕਲੀਫ",
+            "id": 3145,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Kidney problems",
+                "id": 36,
+                "summary": "Kidney problems"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਕਿ ਤੁਹਾਨੂੰ ਕਿਸੇ ਦਵਾਈ ਤੋਂ ਐਲਰਜੀ ਹੈ?",
+            "id": 3146,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Do you have a drug allergy?",
+                "id": 37,
+                "summary": "Drug allergy"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਕਿ ਤੁਸੀ ਸਿਗਰਟ ਪੀਂਦੇ ਹੋ? ਜੇ ਹਾਂ, ਫੇਰ ਇੱਕ ਦਿਨ ਵਿਚ ਕਿੰਨੇ ਸਿਗਰਟ ਪੀਂਦੇ ਹੋ?",
+            "id": 3147,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Do you smoke? If yes, how many cigarettes a day?",
+                "id": 38,
+                "summary": "Smoke"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਕੀ ਤੁਸੀਂ ਸ਼ਰਾਬ ਪੀਂਦੇ ਹੋ? ਜੇ ਪੀਂਦੇ ਹੋ ਤਾਂ ਇੱਕ ਹਫ਼ਤੇ ਦੀਆਂ ਕਿੰਨੀਆਂ ਬੋਤਲਾਂ ਪੀਂਦੇ ਹੋ ਤੇ ਕਿਸ ਕਿਸਮ ਦੀ ਸ਼ਰਾਬ ਪੀਂਦੇ ਹੋ?",
+            "id": 3148,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Do you drink? If yes, how much (number of bottles a week, type of alcohol)?",
+                "id": 39,
+                "summary": "Drink Alcohol"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਤੁਹਾਡੀ ਮਨੋਸਥਿਤੀ ਕਿ ਹੈ?",
+            "id": 3149,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "How do you feel emotionally?",
+                "id": 40,
+                "summary": "Emotion Feeling"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਕਿ ਤੁਹਾਨੂੰ ਆਤਮਹੱਤਿਆ ਕਰਨ ਦੇ ਵਿਚਾਰ ਆਉਂਦੇ ਹਨ?",
+            "id": 3150,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Do you have suicidal thoughts?",
+                "id": 41,
+                "summary": "Suicidal thoughts"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਜੇ ਤੁਹਾਨੂੰ ਕੋਈ ਹੋਰ ਤਕਲੀਫ ਹੈ ਤਾਂ , ਤੁਸੀਂ ਮੈਨੂੰ ਅੰਗਰੇਜ਼ੀ ਵਿਚ ਦੱਸ ਸਕਦੇ ਹੋ.",
+            "id": 3151,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "If you have any other problems, you can tell me in English.",
+                "id": 42,
+                "summary": "Other Problems"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਮੈਂ ਤੁਹਾਡੀ ਜਾਂਚ ਕਰਨ ਜਾ ਰਿਹਾ ਹਾਂ.",
+            "id": 3152,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "I’m going to examine you.",
+                "id": 43,
+                "summary": "Physical Exam Starts"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਜੇ ਤੁਹਾਨੂੰ ਜ਼ਿਆਦਾ ਦਰਦ ਮਹਿਸੂਸ ਹੁੰਦਾ ਹੈ ਤਾਂ ਮੈਨੂੰ ਦੱਸੋ.",
+            "id": 3153,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Tell me if you feel more pain.",
+                "id": 149,
+                "summary": "Tell if Pain"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੀ ਕਮੀਜ਼ ਨੂੰ ਉਤਾਰ ਦਿਓ.",
+            "id": 3155,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Please remove your shirt.",
+                "id": 150,
+                "summary": "Remove Clothing"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਆਪਣੇ ਮੂੰਹ ਰਾਹੀਂ ਲੰਬੀ ਸਾਹ ਲੈਂਦੇ ਰਹੋ.",
+            "id": 3154,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Keep taking deep breaths through your mouth.",
+                "id": 44,
+                "summary": "Deep Breath"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਜਦੋਂ ਮੈਂ ਆਪਣੇ ਸਟੈਥੋਸਕੋਪ ਨਾਲ ਸੁਣਾ, ਓਦੋਂ ਤੁਸੀਂ \"99\" ਕਹੋ.",
+            "id": 3156,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Say \"99\" when I listen with my stethoscope.",
+                "id": 45,
+                "summary": "99"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਮੈਂ ਇਸ ਰੂੰ ਨੂੰ ਤੁਹਾਡੀ ਨੱਕ ਵਿਚ ਪਾਵਾਂਗਾ ਅਤੇ ਇਸ ਦੀ ਜਾਂਚ ਕਰਾਂਗਾ. ਤੁਸੀਂ ਥੋੜ੍ਹੀ ਜਿਹੀ ਬੇਅਰਾਮੀ ਮਹਿਸੂਸ ਕਰੋਗੇ ਪਰ ਇਸ ਨਾਲ ਦਰਦ ਨਹੀਂ ਹੋਵੇਗਾ",
+            "id": 3157,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "I'm going to put this cotton bud into your nostrils. You will feel strange but it is not painful.",
+                "id": 46,
+                "summary": "Swabbing"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਜੇ ਕੋਰੋਨਾਵਾਇਰਸ ਪੋਸਿਟਿਵ ਹੋਇਆ ਤਾਂ ਅਸੀਂ ਕੱਲ੍ਹ ਤੱਕ ਤੁਹਾਡੇ ਫੋਨ ਤੇ ਕਾਲ ਕਰਾਂਗੇ.",
+            "id": 3158,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "If coronavirus positive, we call your phone by tomorrow.",
+                "id": 49,
+                "summary": "Result Collection"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਇਹ ਕੋਰੋਨਾਵਾਇਰਸ ਦੀ ਟੈਸਟਿੰਗ ਲਈ ਹੈ.",
+            "id": 3159,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "This is to test for coronavirus",
+                "id": 47,
+                "summary": "Covid"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਜੇ ਕੋਰੋਨਾਵਾਇਰਸ ਟੈਸਟ ਨੈਗੇਟਿਵ ਹੋਇਆ, ਤਾਂ ਤੁਹਾਨੂੰ ਤਿੰਨ ਦਿਨਾਂ ਦੇ ਅੰਦਰ ਇੱਕ \"ਐਸ ਐਮ ਐਸ\" ਭੇਜਿਆ ਜਾਵੇਗਾ.",
+            "id": 3160,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "If coronavirus negative, we send you an SMS after 3 days.",
+                "id": 152,
+                "summary": "COVID Negative"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਆਪਣੇ ਸਿਰ ਨੂੰ ਥੋੜਾ ਪਿੱਛੇ ਵੱਲ ਝੁਕਾਓ.",
+            "id": 3161,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Tilt your head back",
+                "id": 48,
+                "summary": "Tilt Head"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਬਾਅਦ ਵਿੱਚ ਤੁਹਾਡਾ ਇੱਕ ਐਕਸਰੇ ਹੋਏਗਾ.",
+            "id": 3162,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Later, you will do an X-ray",
+                "id": 50,
+                "summary": "X-ray"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਤੁਹਾਡੇ ਐਕਸ-ਰੇ ਵਿੱਚ ਕੋਈ ਇਨਫੈਕਸ਼ਨ ਨਹੀਂ ਹੈ.",
+            "id": 3163,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "There is no sign of infection on your X-ray",
+                "id": 51,
+                "summary": "X-ray OK"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਜੇ ਤੁਹਾਡਾ ਕੋਵਿਡ ਸਵੈਬ ਟੈਸਟ ਨੇਗਟਿਵ ਹੈ ਪਰ ਤੁਹਾਨੂੰ ਬੁਖਾਰ ਤੇ ਖਾਂਸੀ ਹੈ ਅਤੇ ਨੱਕ ਵੀ ਵਗਦਾ ਹੈ ਤਾਂ ਤੁਹਾਨੂੰ ਵੱਖਰੇ ਖੇਤਰ ਵਿੱਚ ਰਹਿਣਾ ਪਏਗਾ.",
+            "id": 3164,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "If your COVID Swab is negative but you have symptoms of fever, cough, runny nose, you have to remain in an isolation area.",
+                "id": 201,
+                "summary": "Negative w/ Symptoms"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਤੁਸੀਂ ਥੋੜ੍ਹੀ ਦੇਰ ਬਾਅਦ ਵਾਪਸ ਜਾ ਸਕਦੇ ਹੋ.",
+            "id": 3165,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "You can go back soon.",
+                "id": 52,
+                "summary": "Can go back"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਅਜੇ ਤੁਸੀਂ ਇਥੇ ਰੁਕੋ, ਇਸ ਜਗ੍ਹਾ ਨੂੰ ਛੱਡ ਕੇ ਨਾ ਜਾਓ.",
+            "id": 3166,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Wait here, do not leave this area",
+                "id": 53,
+                "summary": "Wait Patient"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਤੁਹਾਨੂੰ ਕੁਝ ਦਿਨ ਹਸਪਤਾਲ ਵਿਚ ਰਹਿਣਾ ਪਏਗਾ.",
+            "id": 3167,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "You have to stay in the hospital for a few days",
+                "id": 54,
+                "summary": "Hospital Stay"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਮੈਂ ਤੁਹਾਨੂੰ ਦਵਾਈ ਦੇਵਾਂਗਾ ਜਿਸ ਨਾਲ ਤੁਹਾਨੂੰ ਬਿਹਤਰ ਮਹਿਸੂਸ ਹੋਵੇਗਾ.",
+            "id": 3168,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "I'll give you medicine to make you feel better",
+                "id": 55,
+                "summary": "Medicine"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਜੇ ਤੁਹਾਨੂੰ ਸਾਹ ਲੈਣ ਵਿੱਚ ਮੁਸ਼ਕਿਲ ਹੋਵੇ ਤਾਂ ਤੁਹਾਨੂੰ ਵਾਪਿਸ ਆਉਣਾ ਪਵੇਗਾ.",
+            "id": 3169,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "You must come back if you have problems with breathing.",
+                "id": 57,
+                "summary": "Problem after 5 days"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਤੁਹਾਨੂੰ ਅਗਲੇ 5 ਦਿਨਾਂ ਲਈ ਕੰਮ ਨਹੀਂ ਕਰਨਾ ਚਾਹੀਦਾ.",
+            "id": 3170,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "You must not work for the next 5 days.",
+                "id": 56,
+                "summary": "No work 5 days"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਜੇ ਤੁਸੀਂ 5 ਦਿਨਾਂ ਬਾਅਦ ਪੂਰੀ ਤਰ੍ਹਾਂ ਠੀਕ ਨਹੀਂ ਹੁੰਦੇ ਤਾਂ ਤੁਹਾਨੂੰ ਵਾਪਸ ਆਉਣਾ ਪਵੇਗਾ.",
+            "id": 3171,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "You must come back if you do not recover completely after 5 days.",
+                "id": 151,
+                "summary": "Come back 5 days"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਕਾਗਜ਼ ਨੂੰ ਧਿਆਨ ਨਾਲ ਪੜ੍ਹੋ.",
+            "id": 3172,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Read the handout carefully",
+                "id": 58,
+                "summary": "Handout"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਤੁਹਾਡਾ ਧੰਨਵਾਦ.",
+            "id": 3173,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Thank you",
+                "id": 59,
+                "summary": "Thank you"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਕਿਰਪਾ ਕਰਕੇ ਜਨਤਕ ਆਵਾਜਾਈ ਦੀ ਵਰਤੋਂ ਨਾ ਕਰੋ.",
+            "id": 3174,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Please avoid public transport.",
+                "id": 166,
+                "summary": "Transport"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਤੁਸੀਂ ਆਪਣੀ ਨਿੱਜੀ ਟ੍ਰਾਂਸਪੋਰਟ, ਟੈਕਸੀ ਜਾਂ ਨਿੱਜੀ ਕਿਰਾਏ ਦੀ ਕਾਰ ਲੈ ਸਕਦੇ ਹੋ.",
+            "id": 3175,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "You can take your own private transport, a taxi or a private hire car.",
+                "id": 167,
+                "summary": "Take Taxi"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਮੂੰਹ ਤੇ ਇੱਕ ਮਾਸਕ ਪਹਿਨੋ ਅਤੇ ਕਾਰ ਵਿੱਚ ਪਿਛਲੀ ਸੀਟ ਤੇ ਇਕੱਲੇ ਬੈਠੋ.",
+            "id": 3176,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Wear a mask and sit alone in the back seat in the car.",
+                "id": 168,
+                "summary": "In Car"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਕਾਰ ਦੀਆਂ ਖਿੜਕੀਆਂ ਖੋਲ੍ਹੋ ਅਤੇ ਏਅਰ-ਕੰਡੀਸ਼ਨਰ ਬੰਦ ਕਰੋ.",
+            "id": 3177,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Open car windows and turn off air-conditioning.",
+                "id": 169,
+                "summary": "No AC"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਕਿਰਪਾ ਕਰਕੇ ਟੈਕਸੀ ਦੀ ਰਸੀਦ ਨੂੰ ਸੰਭਾਲ ਕੇ ਰੱਖੋ. ਜੇ ਤੁਹਾਡੇ ਟੈਸਟ ਦੇ ਨਤੀਜੇ ਪੋਸਿਟਿਵ ਆਓਂਦੇ ਹਨ ਤਾਂ ਇਸ ਦੀ ਜ਼ਰੂਰਤ ਪਵੇਗੀ.",
+            "id": 3178,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Please safely keep the receipt from the taxi or private hire car. If your test results indicate you are infected, this will be needed.",
+                "id": 170,
+                "summary": "Receipt"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਦੂਜਿਆਂ ਤੋਂ ਦੂਰ ਰਹੋ. ਤੁਹਾਨੂੰ ਲਾਜ਼ਮੀ ਤੌਰ 'ਤੇ ਘਰ ਰਹਿਣਾ ਚਾਹੀਦਾ ਹੈ ਅਤੇ ਡਾਕਟਰੀ ਛੁੱਟੀ' ਤੇ ਹੁੰਦੇ ਹੋਏ ਬਾਹਰ ਨਹੀਂ ਜਾ ਸਕਦੇ. ਤੁਸੀਂ ਸਿਰਫ ਸਿਹਤ ਜਾਂ ਡਾਕਟਰੀ ਕਾਰਨਾਂ ਕਰਕੇ ਬਾਹਰ ਜਾ ਸਕਦੇ ਹੋ.",
+            "id": 3179,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Stay away from others. You must stay home and can not go outside while being on medical leave. You may only go out for health or medical reasons.",
+                "id": 171,
+                "summary": "Isolation"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਟੈਸਟ ਦੇ ਨਤੀਜੇ ਆਉਣ ਤੋਂ ਪਹਿਲਾਂ ਜੇ ਤੁਹਾਨੂੰ ਡਾਕਟਰ ਕੋਲ ਜਾਣ ਦੀ ਲੋੜ ਪਵੇ ਤਾਂ ਤੁਸੀ ਸਾਵਧਾਨ ਰਹੋ. ਡਾਕਟਰ, ਨਰਸ ਜਾਂ ਹੋਰ ਸਟਾਫ ਨੂੰ ਦੱਸੋ ਕਿ ਤੁਹਾਡਾ ਹਾਲ ਹੀ ਵਿੱਚ ਕੋਵਿਡ -19 ਲਈ ਟੈਸਟ ਕੀਤਾ ਗਿਆ ਸੀ. ਨਾਲ ਹੀ ਉਨ੍ਹਾਂ ਨੂੰ ਆਪਣੇ ਲੱਛਣਾਂ ਬਾਰੇ ਵੀ ਦੱਸੋ. ਜਾਣ ਤੋਂ ਇੱਕ ਦਿਨ ਪਹਿਲਾਂ ਇਸ ਨੰਬਰ 6344 8222 ਤੇ ਕਾਲ ਕਰਕੇ ਉਹਨਾਂ ਨੂੰ ਪਹਿਲਾਂ ਤੋਂ ਹੀ ਆਉਣ ਬਾਰੇ ਸੂਚਿਤ ਕਰੋ.",
+            "id": 3180,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "If you need to go for any medical appointment before you get your test result, be careful. Tell the doctor, nurse, or other staff that you were recently tested for COVID-19. Also, tell them about your symptoms. Before the day, you should call 6344 8222 to inform them.",
+                "id": 172,
+                "summary": "Medical Appointment"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਤੁਹਾਡੀ ਕੋਰੋਨਾਵਾਇਰਸ ਲਈ ਜਾਂਚ ਕੀਤੀ ਗਈ ਹੈ ਤੇ ਤੁਹਾਨੂੰ ਕੋਰੋਨਾਵਾਇਰਸ ਹੈ.",
+            "id": 3181,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "You have tested positive for coronavirus.",
+                "id": 60,
+                "summary": "Tested Positive"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਅਸੀਂ ਤੁਹਾਨੂੰ ਹਸਪਤਾਲ ਲੈ ਜਾਵਾਂਗੇ.",
+            "id": 3182,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "We will take you to the hospital.",
+                "id": 61,
+                "summary": "Hospital Admission"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਤੁਹਾਨੂੰ ਅਲੱਗ ਰੱਖਣ ਲਈ ਅਸੀਂ ਤੁਹਾਨੂੰ ਕਿਸੇ ਹੋਰ ਵੱਖਰੀ ਜਗ੍ਹਾ ਤੇ ਲੈ ਜਾਵਾਂਗੇ",
+            "id": 3183,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "We will transfer you to an isolation facility.",
+                "id": 62,
+                "summary": "Isolation Facility"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਸਤਿ ਸ਼੍ਰੀ ਅਕਾਲ",
+            "id": 3184,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Good morning",
+                "id": 64,
+                "summary": "Morning"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਸਤਿ ਸ਼੍ਰੀ ਅਕਾਲ",
+            "id": 3185,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Good Evening",
+                "id": 173,
+                "summary": "Evening"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਸਤਿ ਸ਼੍ਰੀ ਅਕਾਲ",
+            "id": 3186,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Good Afternoon",
+                "id": 174,
+                "summary": "Afternoon"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਮੈਂ ਨਰਸ ਹਾਂ",
+            "id": 3187,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "I am the nurse",
+                "id": 65,
+                "summary": "Nurse"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਮੈਂ ਡਾਕਟਰ ਹਾਂ",
+            "id": 3188,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "I am the doctor",
+                "id": 66,
+                "summary": "Doctor"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਤੁਸੀਂ ICU ਵਿੱਚ ਹੋ.",
+            "id": 3189,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "You are in the intensive care unit.",
+                "id": 67,
+                "summary": "In ICU"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਅੱਜ ਸੋਮਵਾਰ ਹੈ",
+            "id": 3190,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Today is Monday",
+                "id": 68,
+                "summary": "Monday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਅੱਜ ਮੰਗਲਵਾਰ ਹੈ",
+            "id": 3191,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Today is Tuesday",
+                "id": 69,
+                "summary": "Tuesday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਅੱਜ ਬੁੱਧਵਾਰ ਹੈ",
+            "id": 3192,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Today is Wednesday",
+                "id": 70,
+                "summary": "Wednesday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਅੱਜ ਵੀਰਵਾਰ ਹੈ",
+            "id": 3193,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Today is Thursday",
+                "id": 71,
+                "summary": "Thursday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਅੱਜ ਸ਼ੁੱਕਰਵਾਰ ਹੈ",
+            "id": 3194,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Today is Friday",
+                "id": 72,
+                "summary": "Friday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਅੱਜ ਸ਼ਨੀਵਾਰ ਹੈ",
+            "id": 3195,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Today is Saturday",
+                "id": 73,
+                "summary": "Saturday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਅੱਜ ਐਤਵਾਰ ਹੈ",
+            "id": 3196,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Today is Sunday",
+                "id": 74,
+                "summary": "Sunday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਤੁਸੀਂ ਠੀਕ ਹੋ ਰਹੇ ਹੋ.",
+            "id": 3197,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "You are getting better",
+                "id": 153,
+                "summary": "Getting Better"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਜਦੋਂ ਤੁਸੀਂ ਠੀਕ ਹੋ ਜਾਓਗੇ ਤਾਂ ਅਸੀਂ ਸਾਹ ਲੈਣ ਵਾਲੀ ਨਾਲੀ ਨੂੰ ਹਟਾ ਦੇਵਾਂਗੇ.",
+            "id": 3198,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "We will remove the breathing tube when you are better",
+                "id": 75,
+                "summary": "Remove Tube Later"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਸਾਡੇ ਦੁਆਰਾ ਸਾਹ ਲੈਣ ਵਾਲੀ ਨਾਲੀ ਨੂੰ ਹਟਾਉਣ ਤੋਂ ਬਾਅਦ ਤੁਸੀਂ ਗੱਲ ਕਰ ਸਕਦੇ ਹੋ.",
+            "id": 3199,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "You can talk after we remove the breathing tube",
+                "id": 76,
+                "summary": "Can Talk as Remove"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਲੰਬਾ ਸਾਹ ਲਵੋ.",
+            "id": 3200,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Take a deep breath",
+                "id": 77,
+                "summary": "Deep breath"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਜ਼ੋਰ ਨਾਲ ਖੰਘੋ.",
+            "id": 3201,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Give me a big cough",
+                "id": 78,
+                "summary": "Big cough"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਜ਼ੋਰ ਨਾਂ ਲਾਓ.",
+            "id": 3202,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Don’t struggle",
+                "id": 79,
+                "summary": "Don’t struggle"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਹਿਲੋ ਨਾ",
+            "id": 3203,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Don’t move",
+                "id": 80,
+                "summary": "Don’t move"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਆਪਣੀ ਬਾਂਹ ਉੱਪਰ ਚੁੱਕੋ.",
+            "id": 3204,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Lift up your arm",
+                "id": 81,
+                "summary": "Lift up your arm"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਆਪਣੀ ਲੱਤ ਉੱਪਰ ਚੁੱਕੋ.",
+            "id": 3205,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Lift up your leg",
+                "id": 82,
+                "summary": "Lift up your leg"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਮੇਰਾ ਹੱਥ ਦਬਾਓ.",
+            "id": 3206,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Squeeze my hand",
+                "id": 83,
+                "summary": "Squeeze my hand"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਮੈਨੂੰ ਦੋ ਉਂਗਲੀਆਂ ਦਿਖਾਓ.",
+            "id": 3207,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Show me two fingers",
+                "id": 84,
+                "summary": "Show two fingers"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਆਪਣਾ ਮੂੰਹ ਖੋਲ੍ਹੋ.",
+            "id": 3208,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Open your mouth",
+                "id": 85,
+                "summary": "Open mouth"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਆਪਣੀ ਜੀਭ ਬਾਹਰ ਕੱਢੋ.",
+            "id": 3209,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Stick out your tongue",
+                "id": 86,
+                "summary": "Stick out tongue"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਆਪਣੀਆਂ ਅੱਖਾਂ ਖੋਲੋ.",
+            "id": 3210,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Open your eyes",
+                "id": 87,
+                "summary": "Open eyes"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਮੈਂ ਤੁਹਾਡੀਆਂ ਅੱਖਾਂ ਵਿਚ ਇਕ ਰੋਸ਼ਨੀ ਚਮਕਾਉਣ ਜਾ ਰਿਹਾ ਹਾਂ. ਇਹ ਚਮਕਦਾਰ ਹੋਵੇਗੀ.",
+            "id": 3211,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "I’m going to shine a light into your eyes. It will be bright.",
+                "id": 88,
+                "summary": "Shine a light into your eyes"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਤੁਹਾਡੇ ਫੇਫੜੇ ਕਮਜ਼ੋਰ ਹਨ. ਤੁਹਾਨੂੰ ਸਾਹ ਲੈਣ ਵਿੱਚ ਆਸਾਨੀ ਹੋਵੇ ਇਸ ਲਈ ਅਸੀਂ ਇੱਕ ਸਾਹ ਵਾਲੀ ਟਿਯੂਬ ਲਗਾਉਣ ਜਾ ਰਹੇ ਹਾਂ.",
+            "id": 3212,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Your lungs are weak. We are going to insert a breathing tube to help you breathe",
+                "id": 89,
+                "summary": "Insert a breathing tube"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਤੁਸੀਂ ਹੁਣ ਸੌਂ ਜਾਓ.",
+            "id": 3213,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "You are going to sleep now",
+                "id": 90,
+                "summary": "Sleep"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਅਸੀਂ ਤੁਹਾਨੂੰ ਪੇਟ ਵੱਲ ਮੋੜ ਰਹੇ ਹਾਂ ਜੋ ਕਿ ਤੁਹਾਡੇ ਫੇਫੜਿਆਂ ਨੂੰ ਫੁੱਲਾਉਂਣ ਵਿੱਚ ਸਹਾਇਤਾ ਕਰੇਗਾ.",
+            "id": 3214,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "We are turning you onto your belly to help your lungs expand",
+                "id": 91,
+                "summary": "Turn onto belly"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਤੁਹਾਨੂੰ ਪਿਸ਼ਾਬ ਕਰਨ ਵਿੱਚ ਆਸਾਨੀ ਹੋਵੇ ਇਸ ਲਈ ਅਸੀਂ ਤੁਹਾਨੂੰ ਪਿਸ਼ਾਬ ਵਾਲੀ ਨਾਲੀ ਲਗਾ ਰਹੇ ਹਾਂ.",
+            "id": 3215,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "We are inserting a tube to help you pass urine",
+                "id": 92,
+                "summary": "Insert tube urine"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਅਸੀਂ ਤੁਹਾਡੀ ਨੱਕ ਰਾਹੀਂ ਇੱਕ ਟਿਊਬ ਪਾ ਰਹੇ ਹਾਂ.",
+            "id": 3216,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "We are inserting a tube through your nose",
+                "id": 93,
+                "summary": "Insert tube nose"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਅਸੀਂ ਤੁਹਾਨੂੰ ਦਵਾਈ ਦੇਣ ਲਈ ਤੁਹਾਡੀ ਗਰਦਨ ਵਿੱਚ ਟੀਕਾ ਲਗਾਉਣ ਜਾ ਰਹੇ ਹਾਂ.",
+            "id": 3217,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "We are going to give you an injection in your neck to give you medications",
+                "id": 94,
+                "summary": "Injection in Neck"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਤੁਹਾਡੇ ਬਲੱਡ ਪ੍ਰੈਸ਼ਰ ਨੂੰ ਮਾਪਣ ਲਈ ਅਸੀਂ ਤੁਹਾਡੀ ਬਾਂਹ ਵਿਚ ਟੀਕਾ ਲਗਾਉਣ ਜਾ ਰਹੇ ਹਾਂ.",
+            "id": 3218,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "We are going to give you an injection in your arm to measure your blood pressure",
+                "id": 95,
+                "summary": "Measure Blood Pressure"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਅਸੀਂ ਤੁਹਾਨੂੰ ਨੀਂਦ ਦੀ ਦਵਾਈ ਦੇਵਾਂਗੇ.",
+            "id": 3219,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "We will give you sleeping medications.",
+                "id": 96,
+                "summary": "Sleeping Meds"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਅਸੀਂ ਤੁਹਾਨੂੰ ਦਰਦ ਵਾਸਤੇ ਦਵਾਈ ਦੇਵਾਂਗੇ.",
+            "id": 3220,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "We will give you painkillers.",
+                "id": 97,
+                "summary": "Painkillers"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਅਸੀਂ ਤੁਹਾਡੇ ਬਲੱਡ ਪ੍ਰੈਸ਼ਰ ਨੂੰ ਸਹੀ ਬਣਾਈ ਰੱਖਣ ਲਈ ਦਵਾਈ ਦੇ ਰਹੇ ਹਾਂ.",
+            "id": 3221,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "We are giving you medication to keep your blood pressure up.",
+                "id": 98,
+                "summary": "Blood Pressure Medication"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਅਸੀਂ ਸਾਹ ਲੈਣ ਵਾਲੀ ਟਿਊਬ ਨੂੰ ਹਟਾਉਣ ਜਾ ਰਹੇ ਹਾਂ.",
+            "id": 3222,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "We are going to remove the breathing tube.",
+                "id": 99,
+                "summary": "Remove Tube"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਅਸੀਂ ਤੁਹਾਡੇ ਬਲਗਮ ਨੂੰ ਬਾਹਰ ਕਢੱਣ ਜਾ ਰਹੇ ਹਾਂ.",
+            "id": 3223,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "We are going to suck out your phlegm",
+                "id": 100,
+                "summary": "Phlegm suck out"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਅਸੀਂ ਤੁਹਾਨੂੰ ਸਪੰਜ ਨਾਲ ਸਾਫ ਕਰਨ ਜਾ ਰਹੇ ਹਾਂ.",
+            "id": 3224,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "We are going to clean you with a sponge",
+                "id": 101,
+                "summary": "Clean with sponge"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਖੱਬੇ ਮੁੜੋ.",
+            "id": 3225,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Turn left",
+                "id": 102,
+                "summary": "​Turn left"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਸੱਜੇ ਮੁੜੋ.",
+            "id": 3226,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Turn right",
+                "id": 103,
+                "summary": "Turn right"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਅਸੀਂ ਤੁਹਾਡੇ ਡਾਇਪਰ ਬਦਲ ਦੇਵਾਂਗੇ.",
+            "id": 3227,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "We will change your diapers",
+                "id": 104,
+                "summary": "We will change your diapers"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਆਪਣੀ ਲੱਤ ਉੱਪਰ ਚੁੱਕੋ.",
+            "id": 3228,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Lift up your leg",
+                "id": 105,
+                "summary": "Lift up your leg"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਅਸੀਂ ਤੁਹਾਨੂੰ ਬਿਠਾਉਣ ਜਾ ਰਹੇ ਹਾਂ.",
+            "id": 3229,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "We are going to sit you up",
+                "id": 106,
+                "summary": "We are going to sit you up"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਅਸੀਂ ਤੁਹਾਨੂੰ ਬਿਸਤਰੇ 'ਤੇ ਲਿਜਾਣ ਜਾ ਰਹੇ ਹਾਂ.",
+            "id": 3230,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "We are going to shift you up the bed",
+                "id": 107,
+                "summary": "Shift head"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਅਸੀਂ ਤੁਹਾਡੇ ਮੂੰਹ ਨੂੰ ਸਾਫ ਕਰਨ ਜਾ ਰਹੇ ਹਾਂ.",
+            "id": 3231,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "We are going to clean your mouth",
+                "id": 108,
+                "summary": "Clean mouth"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਗਰਾਰੇਆਂ ਨੂੰ ਨਿਗਲਣਾ ਨਹੀਂ ਹੈ.",
+            "id": 3232,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Do not swallow the gargle",
+                "id": 109,
+                "summary": "Dont swallow"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਕੀ ਤੁਹਾਨੂੰ ਦਰਦ ਹੋ ਰਿਹਾ ਹੈ?",
+            "id": 3233,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Are you in pain?",
+                "id": 110,
+                "summary": "Are you in pain?"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਦਰਦ ਕਿੱਥੇ ਹੋ ਰਿਹਾ ਹੈ?",
+            "id": 3234,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Where is the pain?",
+                "id": 111,
+                "summary": "Where is the pain?"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਕੀ ਇਹ ਦਰਦ ਹਲਕਾ, ਦਰਮਿਆਨਾ ਜਾਂ ਗੰਭੀਰ ਹੈ?",
+            "id": 3235,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Is it mild, moderate or severe?",
+                "id": 112,
+                "summary": "Is it mild, moderate or severe?"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਕੀ ਤੁਸੀਂ ਦਰਦ ਵਾਲੀ ਜਗਾਹ ਵੱਲ ਇਸ਼ਾਰਾ ਕਰ ਸਕਦੇ ਹੋ?",
+            "id": 3236,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Can you point to the pain?",
+                "id": 113,
+                "summary": "Can you point to the pain?"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਸਿਰ",
+            "id": 3237,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Head",
+                "id": 114,
+                "summary": "Head"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਅੱਖਾਂ",
+            "id": 3238,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Eyes",
+                "id": 115,
+                "summary": "Eyes"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਕੰਨ",
+            "id": 3239,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Ears",
+                "id": 116,
+                "summary": "Ears"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਨੱਕ",
+            "id": 3240,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Nose",
+                "id": 117,
+                "summary": "Nose"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਮੂੰਹ",
+            "id": 3241,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Mouth",
+                "id": 118,
+                "summary": "Mouth"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਗਲਾ",
+            "id": 3242,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Throat",
+                "id": 119,
+                "summary": "Throat"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਛਾਤੀ",
+            "id": 3243,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Chest",
+                "id": 120,
+                "summary": "Chest"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਪੇਟ",
+            "id": 3244,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Abdomen",
+                "id": 121,
+                "summary": "Abdomen"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਪਿੱਠ",
+            "id": 3245,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Back",
+                "id": 122,
+                "summary": "Back"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਹੱਥ ਜਾਂ ਬਾਂਹ",
+            "id": 3246,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Hand or Arm",
+                "id": 123,
+                "summary": "Arms"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਲੱਤਾਂ",
+            "id": 3247,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Legs",
+                "id": 124,
+                "summary": "Legs"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਪੈਰ",
+            "id": 3248,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Feet",
+                "id": 125,
+                "summary": "Feet"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਇੱਕ",
+            "id": 3249,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "1",
+                "id": 126,
+                "summary": "1"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਦੋ",
+            "id": 3250,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "2",
+                "id": 127,
+                "summary": "2"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਤਿੰਨ",
+            "id": 3251,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "3",
+                "id": 128,
+                "summary": "3"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਚਾਰ",
+            "id": 3252,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "4",
+                "id": 129,
+                "summary": "4"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਪੰਜ",
+            "id": 3253,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "5",
+                "id": 130,
+                "summary": "5"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਛੇ",
+            "id": 3254,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "6",
+                "id": 131,
+                "summary": "6"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਸੱਤ",
+            "id": 3255,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "7",
+                "id": 132,
+                "summary": "7"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਅੱਠ",
+            "id": 3256,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "8",
+                "id": 133,
+                "summary": "8"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਨੌਂ",
+            "id": 3257,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "9",
+                "id": 134,
+                "summary": "9"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਦੱਸ",
+            "id": 3258,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "10",
+                "id": 135,
+                "summary": "10"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਸਿਫ਼ਰ",
+            "id": 3259,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "0",
+                "id": 136,
+                "summary": "0"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਜਨਵਰੀ",
+            "id": 3260,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "January",
+                "id": 137,
+                "summary": "January"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਫਰਵਰੀ",
+            "id": 3261,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Feb",
+                "id": 138,
+                "summary": "Feb"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਮਾਰਚ",
+            "id": 3262,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "March",
+                "id": 139,
+                "summary": "March"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਅਪ੍ਰੈਲ",
+            "id": 3263,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "April",
+                "id": 140,
+                "summary": "April"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਮਈ",
+            "id": 3264,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "May",
+                "id": 141,
+                "summary": "May"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਜੂਨ",
+            "id": 3265,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "June",
+                "id": 142,
+                "summary": "June"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਜੁਲਾਈ",
+            "id": 3266,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "July",
+                "id": 143,
+                "summary": "July"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਅਗਸਤ",
+            "id": 3267,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "August",
+                "id": 144,
+                "summary": "August"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਸਤੰਬਰ",
+            "id": 3268,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "September",
+                "id": 145,
+                "summary": "September"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਅਕਤੂਬਰ",
+            "id": 3269,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "October",
+                "id": 146,
+                "summary": "October"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਨਵੰਬਰ",
+            "id": 3270,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "November",
+                "id": 147,
+                "summary": "November"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਦਸੰਬਰ",
+            "id": 3271,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "December",
+                "id": 148,
+                "summary": "December"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਘਰ ਵਿਚ ਇੱਕ ਵੱਖਰੇ ਕਮਰੇ ਵਿਚ ਰਹੋ. ਬੇਹਤਰ ਹੋਵੇਗਾ ਜੇ ਕਮਰੇ ਦੇ ਵਿਚ ਹੀ ਬਾਥਰੂਮ ਹੋਵੇ. ਇਹ ਪਰਿਵਾਰ ਦੇ ਦੂਜੇ ਮੈਂਬਰਾਂ ਨਾਲ ਸੰਪਰਕ ਘਟਾਉਣ ਲਈ ਹੈ. ਜੇ ਤੁਸੀਂ ਸਾਂਝੇ ਬਾਥਰੂਮ ਦੀ ਵਰਤੋਂ ਕਰ ਰਹੇ ਹੋ, ਤਾਂ ਇਸ ਦੀ ਵਰਤੋਂ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਤੇ ਬਾਅਦ ਵਿਚ ਬਾਥਰੂਮ ਨੂੰ ਸਾਫ ਕਰਨਾ ਬਹੁਤ ਜ਼ਰੂਰੀ ਹੈ.",
+            "id": 3272,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Stay in a separate room at home. It is best if the room has an attached bathroom. This is to reduce contact with the other members of the house. If you are using a shared bathroom, the bathroom needs to be cleaned before or after you use it.",
+                "id": 176,
+                "summary": "Separate"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਆਪਣੇ ਭੋਜਨ, ਪਾਣੀ ਤੇ ਲੋੜ ਦੀਆਂ ਹੋਰ ਚੀਜਾਂ ਦੀ ਵਿਵਸਥਾ ਇੰਜ ਕਰੋ ਕਿ ਇਹ ਤੁਹਾਡੇ ਕਮਰੇ ਦੇ ਬਾਹਰ ਹੀ ਰੱਖ ਦਿਤੀਆਂ ਜਾਣ ਤੇ ਤੁਸੀ ਖੁਦ ਇਹਨਾਂ ਚੀਜ਼ਾਂ ਨੂੰ ਆਪਣੇ ਕਮਰੇ ਦੇ ਅੰਦਰ ਲੈ ਕੇ ਆਓ.",
+            "id": 3273,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Arrange for food, water, and other supplies to be placed outside your room. You yourself have to bring those items into your room.",
+                "id": 177,
+                "summary": "Arrange"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਜਦੋਂ ਤੱਕ ਤੁਹਾਡੇ ਸਵੈਬ ਟੈਸਟ ਦੇ ਨਤੀਜੇ ਨਾ ਆ ਜਾਣ, ਓਦੋਂ ਤੱਕ ਆਪਣੇ ਪਰਿਵਾਰ ਦੇ ਮੈਂਬਰਾਂ ਨਾਲ ਸੰਪਰਕ ਘਟਾ ਦਿਓ. ਖਾਸ ਕਰਕੇ ਬੁਜ਼ੁਰਗਾਂ ਦੇ ਨੇੜੇ ਨਾ ਜਾਓ.",
+            "id": 3274,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Until you know your swab test results, reduce your contact with family members. Especially, try not to get near older people.",
+                "id": 178,
+                "summary": "Elderly"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਕਿਰਪਾ ਕਰਕੇ ਚੰਗੀ ਨਿੱਜੀ ਸਫਾਈ ਬਣਾਈ ਰੱਖੋ. ਆਪਣੇ ਹੱਥ ਸਾਬਣ ਅਤੇ ਪਾਣੀ ਨਾਲ ਬਾਰ ਬਾਰ ਧੋਵੋ. ਬਾਰ ਬਾਰ ਆਪਣੀਆਂ ਅੱਖਾਂ, ਨੱਕ ਅਤੇ ਮੂੰਹ ਨੂੰ ਹੱਥ ਨਾ ਲਾਓ. ਖੰਘ ਜਾਂ ਛਿੱਕ ਆਉਣ ਵੇਲੇ ਹਮੇਸ਼ਾ ਆਪਣੇ ਮੂੰਹ ਨੂੰ ਢੱਕੋ.",
+            "id": 3275,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Please maintain good personal hygiene. Wash your hands with soap and water frequently. Try not to touch your eyes, nose, and mouth. Always cover your mouth when coughing or sneezing.",
+                "id": 179,
+                "summary": "Hygine"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਕਿਰਪਾ ਕਰਕੇ ਆਪਣਾ ਜੂਠਾ ਭੋਜਨ, ਚੱਮਚ, ਕਾਂਟਾ, ਕੌਲੀ ਦੂਜਿਆਂ ਨਾਲ ਸਾਂਝਾ ਨਾ ਕਰੋ. ਆਪਣੀਆਂ ਨਿਜੀ ਚੀਜ਼ਾਂ ਜਿਵੇਂ ਕਿ ਤੁਹਾਡਾ ਤੌਲਿਆ ਵੀ ਕਿਸੇ ਨਾਲ ਸਾਂਝਾ ਨਾ ਕਰੋ.",
+            "id": 3276,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Please prevent others from using your spoon, fork, plates, bowls, food. Also do not share personal hygiene items like your towel.",
+                "id": 180,
+                "summary": "Sharing"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਜੋ ਦਵਾਈਆਂ ਤੁਹਾਨੂੰ ਦਿੱਤੀਆਂ ਗਈਆਂ ਹਨ ਉਹਨਾਂ ਦਾ ਸੇਵਨ ਜਾਰੀ ਰੱਖੋ.",
+            "id": 3277,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Continue to take the medications prescribed for you (if any).",
+                "id": 181,
+                "summary": "Medication"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਕਿਰਪਾ ਕਰਕੇ ਪਾਣੀ ਜ਼ਿਆਦਾ ਪੀਓ.",
+            "id": 3278,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Please drink a lot of water.",
+                "id": 182,
+                "summary": "Drink"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਘਰ ਵਿਚ ਰਹਿ ਕੇ ਹੀ ਆਪਣੇ ਤਾਪਮਾਨ ਅਤੇ ਲੱਛਣਾਂ ਤੇ ਨਜ਼ਰ ਰੱਖੋ.",
+            "id": 3279,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Keep monitoring your temperature and symptoms at home.",
+                "id": 183,
+                "summary": "Monitor"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਕਿਰਪਾ ਕਰਕੇ ਜਨਤਕ ਆਵਾਜਾਈ ਦੀ ਵਰਤੋਂ ਨਾ ਕਰੋ.",
+            "id": 3174,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Please avoid public transport.",
+                "id": 166,
+                "summary": "Transport"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਤੁਸੀਂ ਆਪਣੀ ਨਿੱਜੀ ਟ੍ਰਾਂਸਪੋਰਟ, ਟੈਕਸੀ ਜਾਂ ਨਿੱਜੀ ਕਿਰਾਏ ਦੀ ਕਾਰ ਲੈ ਸਕਦੇ ਹੋ.",
+            "id": 3175,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "You can take your own private transport, a taxi or a private hire car.",
+                "id": 167,
+                "summary": "Take Taxi"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਜੇ ਤੁਹਾਡੀ ਖਾਂਸੀ ਵੱਧ ਰਹੀ ਹੈ ਤੇ ਤੁਹਾਨੂੰ ਸਾਹ ਲੈਣ ਵਿਚ ਤਕਲੀਫ ਹੋ ਰਹੀ ਹੈ ਜਾਂ ਤੁਹਾਡਾ ਬੁਖਾਰ ਲਗਾਤਾਰ 38 ਡਿਗਰੀ ਤੋਂ ਉੱਪਰ ਹੈ",
+            "id": 3280,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "If your cough is getting worse and you feel breathless, or your fever is persistently above 38 degrees Celsius",
+                "id": 184,
+                "summary": "38C"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਫੇਰ ਤੁਸੀ ਇੱਕ ਸਰਜੀਕਲ ਮਾਸਕ ਪਹਿਨ ਕੇ ਸਾਡੇ ਐਮਰਜੈਂਸੀ ਵਿਭਾਗ ਵਿੱਚ ਆਓ.",
+            "id": 3281,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Wear a surgical mask and come to our Emergency Department.",
+                "id": 185,
+                "summary": "Mask"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਐਮਰਜੈਂਸੀ ਦੀ ਸਥਿਤੀ ਵਿੱਚ, 995 ਤੇ ਕਾਲ ਕਰਕੇ ਐਂਬੂਲੈਂਸ ਬੁਲਾਓ . ਐਂਬੂਲੈਂਸ ਚਲਾਕ ਨੂੰ ਸੂਚਿਤ ਕਰੋ ਕਿ ਤੁਹਾਡਾ ਹਾਲ ਹੀ ਵਿੱਚ COVID-19 ਲਈ ਟੈਸਟ ਕੀਤਾ ਗਿਆ ਸੀ ਅਤੇ ਉਨ੍ਹਾਂ ਨੂੰ ਹਾਲ ਹੀ ਵਿਚ ਕੀਤੀ ਆਪਣੀ ਹਰ ਯਾਤਰਾ ਬਾਰੇ ਸੂਚਿਤ ਕਰੋ.",
+            "id": 3282,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "In an emergency situation, call 995 for an ambulance. Inform the ambulance operator that you were recently tested for COVID-19 and also tell them your travel history.",
+                "id": 187,
+                "summary": "Ambulance"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "1) ਬਲੱਡ ਪ੍ਰੈਸ਼ਰ ਦੇ ਕਫ ਨੂੰ ਰੀਡਰ ਮਸ਼ੀਨ ਨਾਲ ਜੋੜੋ.",
+            "id": 3283,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "1) Connect the blood pressure cuff to the reader machine.",
+                "id": 188,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "2) ਕਫ ਉੱਤੇ ਬਣਿਆ “ਤੀਰ” ਦਾ ਨਿਸ਼ਾਨ ਤੁਹਾਡੀ ਬਾਂਹ ਦੇ ਅੰਦਰਲੇ ਪਾਸੇ ਹੇਠਾਂ ਵੱਲ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ.",
+            "id": 3284,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "2) The “arrow” on the the cuff should be pointing downwards on the inside of your arm.",
+                "id": 189,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਕਫ ਤੁਹਾਡੀ ਕੂਹਣੀ ਦੇ ਜੋੜ ਤੋਂ 1 ਤੋਂ 2 ਸੈਮੀ ਉੱਪਰ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ.",
+            "id": 3285,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "(!) The cuff should be positioned 1 to 2 cm above your elbow joint.",
+                "id": 190,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "3) ਬੀ ਪੀ ਕਫ ਤੁਹਾਡੀ ਬਾਂਹ ਤੇ ਘੁੱਟ ਕੇ ਫਿੱਟ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ, ਇਹ ਢਿੱਲਾ ਨਾ ਹੋਵੇ. ਖੱਬੇ ਹੱਥ ਦੀ ਇੱਕ ਉਂਗਲੀ ਲਈ ਵਿੱਚ ਥੋੜੀ ਜਿਹੀ ਜਗਾਹ ਛੱਡੋ.",
+            "id": 3286,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "3) The BP cuff should fit snugly onto your arm. It should not feel loose. Leave some space enough for 1 left finger to fit in (for good gauge)",
+                "id": 191,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "4) ਬਲੱਡ ਪ੍ਰੈਸ਼ਰ ਮਾਪਣ ਵੇਲੇ ਟਿਯੂਬ ਨੂੰ ਮੋੜੋ ਨਾ.",
+            "id": 3287,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "4) Do not bend the tube during blood pressure measurement.",
+                "id": 192,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "5) ਆਪਣੇ ਬਲੱਡ ਪ੍ਰੈਸ਼ਰ ਨੂੰ ਮਾਪਣ ਵੇਲੇ ਆਪਣੀ ਬਾਂਹ ਨੂੰ ਆਰਾਮ ਨਾਲ ਮੇਜ ਉਪਰ ਰੱਖੋ.",
+            "id": 3288,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "5) Relax & Rest your entire arm on a table while measuring your blood pressure.",
+                "id": 193,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "6) ਆਪਣੇ ਬੀਪੀ ਨੂੰ ਮਾਪਣ ਲਈ \"ਸਟਾਰਟ / ਸਟਾਪ\" ਦੇ ਬਟਨ ਨੂੰ ਦਬਾਓ. ਫੇਰ 1 ਮਿੰਟ ਇੰਤਜ਼ਾਰ ਕਰੋ ਜਦੋਂ ਤਕ ਕਿ 3 ਨੰਬਰ ਦਿਖਾਈ ਨਹੀਂ ਦਿੰਦੇ.",
+            "id": 3289,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "6) Press the “Start/Stop” button to start measuring your BP. Wait for 1 minute until 3 numbers appear.",
+                "id": 194,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "7) ਉੱਪਰਲਾ ਨੰਬਰ ਤੁਹਾਡਾ ਸਿਸਟੋਲਿਕ ਬਲੱਡ ਪ੍ਰੈਸ਼ਰ ਹੈ. ਵਿਚਕਾਰਲਾ ਨੰਬਰ ਤੁਹਾਡਾ ਡਾਇਸਟੋਲਿਕ ਬਲੱਡ ਪ੍ਰੈਸ਼ਰ ਹੈ. ਹੇਠਲਾ ਨੰਬਰ ਤੁਹਾਡੀ ਨਬਜ਼ ਦੀ ਦਰ ਹੈ.",
+            "id": 3290,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "7) The top number is your Systolic blood pressure. The middle number is your Diastolic blood pressure. The bottom number is your Pulse rate.",
+                "id": 195,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "“ਕੋਵਿਡ -19 ਕੀ ਹੈ? \n\nਕੋਵਿਡ -19 (ਕੋਰੋਨਵਾਇਰਸ) ਇੱਕ ਬਿਮਾਰੀ ਹੈ ਜੋ ਚੀਨ ਦੇ ਵੁਹਾਨ ਸ਼ਹਿਰ ਤੋਂ ਸ਼ੁਰੂ ਹੋਈ, ਇਹ ਸਾਹ ਦੀ ਬਿਮਾਰੀ ਹੈ. \"",
+            "id": 3291,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "What is COVID-19?\r\n\r\nCOVID-19 (more specifically, a coronavirus) is an illness that started from the Wuhan City in China, it is a respiratory illness.",
+                "id": 155,
+                "summary": "What COVID"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਕੋਵਿਡ -19 ਦੇ ਲੱਛਣ ਕੀ ਹਨ? \n\n ਬੁਖਾਰ, ਥਕਾਵਟ ਅਤੇ ਖੁਸ਼ਕ ਖੰਘ ਸਭ ਤੋਂ ਆਮ ਲੱਛਣ ਹਨ. \n\nਕੁਝ ਮਰੀਜ਼ਾਂ ਵਿਚ ਨੱਕ ਵਗਣਾ, ਗਲੇ ਦੀ ਖਰਾਸ਼ ਜਾਂ ਦਸਤ ਦੇ ਲੱਛਣ ਵੀ ਹੁੰਦੇ ਹਨ. ਇਹ ਲੱਛਣ ਆਮ ਤੌਰ 'ਤੇ ਹਲਕੇ ਹੁੰਦੇ ਹਨ. ਕੁਝ ਲੋਕ ਸੰਕਰਮਿਤ ਹੋ ਜਾਂਦੇ ਹਨ ਪਰ ਉਨ੍ਹਾਂ ਵਿਚ ਕੋਈ ਲੱਛਣ ਨਹੀਂ ਹੁੰਦੇ. ਇਹ ਫੇਫੜੇ ਵਿੱਚ ਰੇਸ਼ਾ ਜੰਮਣ ਨਾਲ ਜਾਂ ਨਮੂਨੀਆ ਕਾਰਨ ਵੀ ਹੋ ਸਕਦਾ ਹੈ.",
+            "id": 3292,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "What are the symptoms of COVID-19?\r\n\r\nThe most common symptoms are fever, tiredness and dry cough. Some patients also have a runny nose, sore throat or diarrhea. These symptoms are usually mild.\r\n\r\nSome people become infected but do not have any symptoms.\r\n\r\nHowever, it also can be caused by a lung infection or pneumonia.",
+                "id": 156,
+                "summary": "What are the symptoms of COVID-19?"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "“ਕੌਵੀਡ -19 ਕਿਸ ਤਰ੍ਹਾਂ ਫੈਲਦੀ ਹੈ?\n\n ਪਹਿਲਾਂ ਤੋਂ ਹੀ COVID-19 ਤੋਂ ਸੰਕਰਮਿਤ ਵਿਅਕਤੀ ਦੁਆਰਾ ਦੂਜੇ ਲੋਕ ਸੰਕਰਮਿਤ ਹੋ ਸਕਦੇ ਹਨ. ਇਹ ਵਾਇਰਸ ਖੰਘ ਅਤੇ ਛਿੱਕ ਰਾਹੀਂ ਫੈਲਦਾ ਹੈ. ਵਾਇਰਸ ਮੂੰਹ ਤੋਂ ਥੁੱਕ, ਜੂਠੀਆਂ ਪਲੇਟਾਂ, ਚੱਮਚ ਅਤੇ ਕਾਂਟੇ ਨਾਲ ਵੀ ਫੈਲ ਸਕਦਾ ਹੈ। ”",
+            "id": 3293,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "How does COVID-19 spread?\r\n\r\nPeople can be infected by other persons already infected with COVID-19. The virus spreads through cough and sneezing. The virus can also spread with saliva from the mouth, used plates, spoons, and forks.",
+                "id": 157,
+                "summary": "COVID Spread"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "“ਕੋਵਿਡ -19 ਦਾ ਟੈਸਟ ਕੀ ਹੈ?\n\n ਇਹ ਇੱਕ ਸਵੈਬ ਟੈਸਟ ਹੈ. ਤੁਹਾਡੇ ਨੱਕ ਵਿਚ ਜਾਂ ਤੁਹਾਡੇ ਗਲ਼ੇ ਦੇ ਪਿਛਲੇ ਹਿੱਸੇ ਵਿਚ ਇੱਕ ਰੂੰ ਦਾ ਤੂੰਬਾ ਪਾਇਆ ਜਾਵੇਗਾ. ਇਸ ਨੂੰ ਲਗਭਗ 10 ਸਕਿੰਟ ਲੱਗਣਗੇ. ਥੋੜ੍ਹੀ ਜਿਹੀ ਬੇਅਰਾਮੀ ਹੋ ਸਕਦੀ ਹੈ, ਪਰ ਇਹ ਬਹੁਤਾ ਕਸ਼ਟਦਾਇਕ ਨਹੀਂ ਹੁੰਦਾ I\"",
+            "id": 3294,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "What is the test for COVID-19?\r\n\r\nIt is a swab test. A swab will be inserted in your nostrils or at the back of your throat. It will last about 10 seconds. There might be a slight discomfort, however, it is not too painful.",
+                "id": 158,
+                "summary": "COVID-19 Test"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਜੇ ਮੈਨੂੰ COVID-19 ਹੋ ਜਾਂਦਾ ਹੈ ਫੇਰ ਕੀ ਹੋਵੇਗਾ? \n\nਅਧਿਕਾਰੀਆਂ ਦੁਆਰਾ ਤੁਹਾਡੇ ਰਹਿਣ ਦਾ ਵੱਖਰਾ ਪ੍ਰਬੰਧ ਕੀਤਾ ਜਾਵੇਗਾ ਜਾਂ ਤੁਹਾਨੂੰ ਹਸਪਤਾਲ ਵਿੱਚ ਦਾਖ਼ਲ ਕੀਤਾ ਜਾਵੇਗਾ. ਉਹ ਤੁਹਾਡੀ ਨਿਗਰਾਨੀ ਕਰਨਗੇ ਕੀ ਤੁਹਾਡੀ ਸਿਹਤ ਵਿੱਚ ਸੁਧਾਰ ਹੋ ਰਿਹਾ ਹੈ ਕੇ ਨਹੀਂ.  \n\nਐਕਸ-ਰੇ ਜਾਂ ਖੂਨ ਦੀ ਜਾਂਚ ਕਰਨ ਦੀ ਜ਼ਰੂਰਤ ਵੀ ਹੋ ਸਕਦੀ ਹੈ. ਆਮ ਤੌਰ 'ਤੇ, ਹਰ 24 ਘੰਟਿਆਂ ਵਿੱਚ ਤੁਹਾਡਾ ਸਵਾਬ ਟੈਸਟ ਕੀਤਾ ਜਾਵੇਗਾ. ਜੇ ਤੁਹਾਡਾ ਟੈਸਟ ਦਾ ਨਤੀਜਾ ਲਗਾਤਾਰ ਦੋ ਵਾਰ ਨਕਾਰਾਤਮਕ ਹੁੰਦਾ ਹੈ, ਤਾਂ ਤੁਹਾਨੂੰ ਘਰ ਭੇਜ ਦਿੱਤਾ ਜਾਵੇਗਾ. ਪਰ ਘਰ ਜਾਣ ਤੋਂ ਬਾਅਦ, ਤੁਹਾਨੂੰ 2 ਹਫਤਿਆਂ ਲਈ ਹਰੇਕ ਤੋਂ ਅਲੱਗ ਰਹਿਣਾ ਪਏਗਾ. \"",
+            "id": 3295,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "What if I have COVID-19?\r\n\r\nAuthority will make separate living arrangements for you or admit you to a hospital. They will monitor your health, whether it is improving or not. X-ray or blood test may also be needed. Usually, they will test your swab every 24 hours. If your test is negative twice in a row, you will be released. But after going home, you have to stay separate from everyone for 2 weeks.",
+                "id": 159,
+                "summary": "COVID-19 Positive"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਜੇ ਮੈਨੂੰ ਹੈ ਤਾਂ ਕੀ ਮੈਂ ਮੱਰ ਜਾਵਾਂਗਾ? \n\nਕੋਵਿਡ -19 ਤੁਹਾਨੂੰ ਤੇ ਤੁਹਾਡੇ ਪਰਿਵਾਰ ਨੂੰ ਚਿੰਤਤ ਕਰ ਸਕਦਾ ਹੈ. ਪਰ 80% ਸਮਾਂ ਇਹ ਸੰਕ੍ਰਮਣ ਬਹੁਤ ਹਲਕੇ ਹੁੰਦੇ ਹਨ ਤੇ ਇਹਨਾਂ ਨੂੰ ਕਿਸੇ ਇਲਾਜ ਦੀ ਲੋੜ ਨਹੀਂ ਪੈਂਦੀ. ਉਹ ਜੋ ਬੁਜ਼ੁਰਗ ਹਨ ਤੇ ਜਿੰਨਾ ਨੂੰ ਪਹਿਲਾਂ ਤੋਂ ਹੀ ਕੋਈ ਬਿਮਾਰੀ ਹੈ ਓਹਨਾ ਨੂੰ ਨੁਕਸਾਨ ਹੋਣ ਦਾ ਥੋੜਾ ਜਿਹਾ ਖ਼ਤਰਾ ਹੈ. ਤੇ ਸਿਰਫ 5% ਮਰੀਜ਼ਾਂ ਨੂੰ ਸਾਹ ਲੈਣ ਵਿੱਚ ਸਹਾਇਤਾ ਲਈ ICU ਦੀ ਜ਼ਰੂਰਤ ਪੈਂਦੀ ਹੈ. \"",
+            "id": 3296,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Will I die if I have COVID-19?\r\n\r\nCOVID-19 may make you and your family worried. However, 80% of the time, COVID-19 infections are mild. They do not even need any treatment. There is a slight risk of damage to those who are old or have other health problems. Only 5% of patients need ICU for helping them breathe.",
+                "id": 160,
+                "summary": "Die COVID-19"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਕੀ ਕੋਵਿਡ -19 ਦਾ ਕੋਈ ਇਲਾਜ਼ ਹੈ? \n\nਕੋਵੀਡ -19 ਦੇ ਜ਼ਿਆਦਾਤਰ ਮਰੀਜ਼ਾਂ ਨੂੰ ਕਿਸੇ ਇਲਾਜ ਦੀ ਜ਼ਰੂਰਤ ਨਹੀਂ ਹੁੰਦੀ. ਉਨ੍ਹਾਂ ਨੂੰ ਸਿਰਫ ਖਾਂਸੀ, ਬੁਖਾਰ ਅਤੇ ਹੋਰ ਲੱਛਣਾਂ ਲਈ ਦਵਾਈ ਦੀ ਜ਼ਰੂਰਤ ਹੁੰਦੀ ਹੈ. ਹਾਲਾਂਕਿ, 5% ਮਰੀਜ਼ ਜੋ ਬਹੁਤ ਬਿਮਾਰ ਹੋ ਜਾਂਦੇ ਹਨ, ਉਹਨਾਂ ਲਈ ਅਜੇ ਕੋਈ ਪੱਕਾ ਇਲਾਜ ਨਹੀਂ ਹੈ. ਹਾਲਾਂਕਿ, ਅਸੀਂ ਇਲਾਜ ਦੀ ਖੋਜ ਦੇ ਬਹੁਤ ਨੇੜੇ ਹਾਂ. ਡਰੋ ਨਾਂ. ਜੇ ਤੁਹਾਨੂੰ ਸਾਹ ਲੈਣ ਵਿਚ ਮੁਸ਼ਕਲ ਆਉਂਦੀ ਹੈ ਤਾਂ ਅਸੀਂ ਸਾਹ ਲੈਣ ਵਿਚ ਤੁਹਾਡੀ ਮਦਦ ਕਰਨ ਲਈ ਇਕ ਮਸ਼ੀਨ ਦੀ ਵਰਤੋਂ ਕਰਾਂਗੇ. ਅਸੀਂ ਤੁਹਾਨੂੰ ਬਲੱਡ ਪ੍ਰੈਸ਼ਰ ਲਈ ਦਵਾਈ ਦੇਵਾਂਗੇ.",
+            "id": 3297,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Is there a treatment for COVID-19?\r\n\r\nMost patients of COVID-19 do not need any treatment. They only need medicine for cough, fever and other symptoms. However, for 5% of the patients who are very ill, there are no proven treatments. However, we are very near to discovering treatment. Do not be afraid. If you have problems breathing we will use a machine to help you breathe. We will give you medicine for blood pressure.",
+                "id": 161,
+                "summary": "COVID-19 Treatment"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਇਲਾਜ ਲਈ ਮੈਨੂੰ ਕਿੰਨਾ ਭੁਗਤਾਨ ਕਰਨਾ ਪਏਗਾ?\n\nਸਿੰਘਾਪੁਰ ਸਰਕਾਰ ਦੀ ਘੋਸ਼ਣਾ ਦੇ ਅਨੁਸਾਰ, ਜੇ ਤੁਸੀਂ ਸਿੰਘਾਪੁਰ ਦੇ ਸਿਟੀਜ਼ਨ ਹੋ, ਜਾਂ ਪੀ ਆਰ ਹੋ, ਜਾਂ ਲੰਬੇ ਸਮੇਂ ਲਈ ਪਾਸ ਧਾਰਕ ਹੋ, ਤਾਂ ਸਰਕਾਰ ਬਿੱਲਾਂ ਦਾ ਭੁਗਤਾਨ ਕਰੇਗੀ. ਜੇ ਤੁਹਾਡੇ ਕੋਲ ਵਰਕ ਪਰਮਿਟ ਹੈ, ਤਾਂ ਵੀ ਸਰਕਾਰ ਭੁਗਤਾਨ ਕਰੇਗੀ. ਪਰ, ਜੇ ਤੁਸੀਂ 27 ਮਾਰਚ 2020 ਤੋਂ ਬਾਅਦ ਸਿੰਗਾਪੁਰ ਤੋਂ ਬਾਹਰ ਚਲੇ ਗਏ ਹੋ ਅਤੇ ਵਾਪਸ ਆਉਣ ਦੇ 14 ਦਿਨਾਂ ਦੇ ਅੰਦਰ ਅੰਦਰ ਦਾਖਲ ਹੋ ਜਾਂਦੇ ਹੋ, ਤਾਂ ਸਰਕਾਰ ਤੁਹਾਡੇ ਬਿੱਲਾਂ ਦਾ ਭੁਗਤਾਨ ਨਹੀਂ ਕਰੇਗੀ.",
+            "id": 3298,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "How much will I have to pay for Treatment?\r\n\r\nAccording to the announcement of the Singapore Government, if you are a citizen of Singapore, or a permanent resident, or a long term pass holder, the government will pay. So even if you have a work permit, the government will pay. But, if you went out of Singapore after 27 March 2020 and get admitted within 14 days of returning, the government will not pay your bills.",
+                "id": 162,
+                "summary": "Treatment Cost"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਮੈਂ ਕੰਮ ਨਾ ਕਰਨ ਬਾਰੇ ਚਿੰਤਤ ਹਾਂ. ਕੀ ਮੈਂ ਆਪਣੀ ਨੌਕਰੀ ਗੁਆ ਦੇਵਾਂਗਾ? \n\nਤੁਹਾਡੇ ਮਾਲਕ ਦੁਆਰਾ ਕਾੰਨੂਨੀ ਤੌਰ ਤੇ ਤੁਹਾਡੇ ਇਲਾਜ ਦੀ ਇਜਾਜ਼ਤ ਦੇਣੀ ਪੈਂਦੀ ਹੈ. ਮਾਲਕ ਨੂੰ ਤੁਹਾਡੀ ਤਨਖਾਹ ਅਦਾ ਕਰਨੀ ਪੈਂਦੀ ਹੈ ਭਾਵੇਂ ਤੁਸੀਂ ਇਸ ਵੇਲੇ ਕੰਮ ਨਹੀਂ ਕਰ ਰਹੇ. ਜੇ ਤੁਹਾਡੀ ਤਨਖਾਹ ਸਮੇਂ ਸਿਰ ਅਦਾ ਨਹੀਂ ਕੀਤੀ ਜਾਂਦੀ, ਤਾਂ ਸਿੰਗਾਪੁਰ ਸਰਕਾਰ ਤੁਹਾਡੇ ਮਾਲਕ ਵਿਰੁੱਧ ਕਾਨੂੰਨੀ ਕਾਰਵਾਈ ਕਰ ਸਕਦੀ ਹੈ.",
+            "id": 3299,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "I am worried about not working. Will I lose my job?\r\n\r\nYour employer has to allow your treatment by the law. The employer has to pay your salary even if you cannot work now.  If your salary is not paid timely, the Singapore Government can take action against the employer.",
+                "id": 163,
+                "summary": "Job Loss"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

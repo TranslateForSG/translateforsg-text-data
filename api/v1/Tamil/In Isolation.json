@@ -1,0 +1,46 @@
+{
+    "count": 3,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm236.m4a",
+            "content": "வீட்டில் ஒரு தனி அறையில் தங்குங்கள். கழிவறையோடு இணைந்த அறையாக இருந்தால் சிறப்பு. இவ்வாறு இருப்பது, ஒரே வீட்டில் உங்களோடு தங்கியிருப்போருடனான உங்களுடைய தொடர்பைக் குறைத்துக்கொள்ள உதவும். அவர்கள் பயன்படுத்தும் அதே கழிவறையை நீங்களும் பயன்படுத்தவேண்டும் என்றால், கழிவறையை நீங்கள் பயன்படுத்துவதற்கு முன்பும் பயன்படுத்திய பின்பும் அதை சுத்தம் செய்ய வேண்டும்.",
+            "id": 2325,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Stay in a separate room at home. It is best if the room has an attached bathroom. This is to reduce contact with the other members of the house. If you are using a shared bathroom, the bathroom needs to be cleaned before or after you use it.",
+                "id": 176,
+                "summary": "Separate"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm237.m4a",
+            "content": "உணவு, தண்ணீர் போன்ற தேவையான பொருட்களை உங்கள் அறையின் கதவுக்கு வெளியிலேயே வைத்துவிட்டுச் செல்ல ஏற்பாடு செய்யுங்கள். நீங்களே அவற்றை உங்கள் அறைக்குள் எடுத்துக்கொண்டு வர வேண்டும்.",
+            "id": 2326,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Arrange for food, water, and other supplies to be placed outside your room. You yourself have to bring those items into your room.",
+                "id": 177,
+                "summary": "Arrange"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm238.m4a",
+            "content": "உங்கள் சுவாப் பரிசோதனை அதாவது பருத்திப் பஞ்சை வைத்து செய்யுப் பரிசோதனையின் முடிவுகள் தெரிவிக்கப்படும் வரை, உங்கள் குடும்ப உறுப்பினர்களுடனான தொடர்பைக் குறைத்துக்கொள்ளுங்கள். குறிப்பாக, மூத்தவர்களிடமிருந்து விலகியே இருங்கள்.",
+            "id": 2327,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Until you know your swab test results, reduce your contact with family members. Especially, try not to get near older people.",
+                "id": 178,
+                "summary": "Elderly"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

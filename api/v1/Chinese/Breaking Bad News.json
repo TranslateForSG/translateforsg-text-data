@@ -1,0 +1,46 @@
+{
+    "count": 3,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/353b562aecb8a2a21140b9594e577133.mp3",
+            "content": "你的冠状病毒的测试结果是阳性(positive) 的",
+            "id": 2025,
+            "language": "Chinese",
+            "phrase": {
+                "content": "You have tested positive for coronavirus.",
+                "id": 60,
+                "summary": "Tested Positive"
+            },
+            "romanized": "nǐ de guàn zhuàng bìng dú de cè shì jié guǒ shì yáng xìng de",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7019321a75a0c4c175d52e8028241e7a.mp3",
+            "content": "我们将带你去医院。",
+            "id": 2026,
+            "language": "Chinese",
+            "phrase": {
+                "content": "We will take you to the hospital.",
+                "id": 61,
+                "summary": "Hospital Admission"
+            },
+            "romanized": "wǒ men jiāng dài nǐ qù yì yuàn 。",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4f3b23edac5d029fff95429da9fc5ea2.mp3",
+            "content": "我们会把你转去隔离设施",
+            "id": 2027,
+            "language": "Chinese",
+            "phrase": {
+                "content": "We will transfer you to an isolation facility.",
+                "id": 62,
+                "summary": "Isolation Facility"
+            },
+            "romanized": "wǒ men hùi bǎ nǐ zhuǎn qù gé lí shè shī",
+            "special_note": ""
+        }
+    ]
+}

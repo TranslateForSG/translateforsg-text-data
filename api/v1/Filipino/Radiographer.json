@@ -1,0 +1,124 @@
+{
+    "count": 9,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0b0500cf7b6b33316d94c5a3354f1e64.mp3",
+            "content": "Huwag tanggalin ang iyong face mask.",
+            "id": 3323,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Do not remove your mask. Keep your mask on.",
+                "id": 215,
+                "summary": "Keep Mask"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5efc2d54151c4d7ad4b13b2f39d34c9f.mp3",
+            "content": "May nararamdaman ka bang sakit? Saan?",
+            "id": 3324,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Do you have any pain? Where is your pain?",
+                "id": 216,
+                "summary": "Pain"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4fcacd3792ec126ec40853115c6b4a51_uCmY04r.mp3",
+            "content": "Kinakailangan kitang huminga ng malalim at pigilan ang iyong hininga. Huwag bumitiw sa iyong hininga hanggat ikaw ay pinagsasabihan.",
+            "id": 3317,
+            "language": "Filipino",
+            "phrase": {
+                "content": "I would need you to inhale deeply and hold your breath. Please do not breathe out unless you’re instructed to do so.",
+                "id": 208,
+                "summary": "Inhale"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/018b560b4164b1bfb846eefb5125728c_ValBlp7.mp3",
+            "content": "Tanggalin ang iyong t-shirt",
+            "id": 3318,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Take off the shirt",
+                "id": 209,
+                "summary": "Shirt"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7d0190afb96e42ee7cd60b168e71d7f6_Eo0T8g0.mp3",
+            "content": "Ilagay mo diyan",
+            "id": 3319,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Put it there",
+                "id": 210,
+                "summary": "Put Shirt"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/14582d488b74bd88cfa9b069aff6fc9e.mp3",
+            "content": "Isuot mo ulit ang iyong t-shirt",
+            "id": 3320,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Wear back your shirt",
+                "id": 211,
+                "summary": "Wear Shirt"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/868900676df234588309a80de7da21e1.mp3",
+            "content": "I-aadjust ko ang iyong balikat/braso. Sundin ang aking paggalaw.",
+            "id": 3322,
+            "language": "Filipino",
+            "phrase": {
+                "content": "I will be adjusting your shoulders/arm. Please follow my positioning.",
+                "id": 213,
+                "summary": "Adjust"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/732b800f6d96ea3a9a8058a77b4eb289.mp3",
+            "content": "Huwag kang gumalaw.",
+            "id": 3325,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Stay still, do not move.",
+                "id": 217,
+                "summary": "No Move"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a5faee64ddc97b124508be864509462f.mp3",
+            "content": "Umupo ka ulit sa labas sa kung saan ka nakaupo kanina",
+            "id": 3321,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Sit outside at the same place just now",
+                "id": 212,
+                "summary": "Sit outside"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

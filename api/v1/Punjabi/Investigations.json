@@ -1,0 +1,111 @@
+{
+    "count": 8,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": null,
+            "content": "ਮੈਂ ਇਸ ਰੂੰ ਨੂੰ ਤੁਹਾਡੀ ਨੱਕ ਵਿਚ ਪਾਵਾਂਗਾ ਅਤੇ ਇਸ ਦੀ ਜਾਂਚ ਕਰਾਂਗਾ. ਤੁਸੀਂ ਥੋੜ੍ਹੀ ਜਿਹੀ ਬੇਅਰਾਮੀ ਮਹਿਸੂਸ ਕਰੋਗੇ ਪਰ ਇਸ ਨਾਲ ਦਰਦ ਨਹੀਂ ਹੋਵੇਗਾ",
+            "id": 3157,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "I'm going to put this cotton bud into your nostrils. You will feel strange but it is not painful.",
+                "id": 46,
+                "summary": "Swabbing"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਇਹ ਕੋਰੋਨਾਵਾਇਰਸ ਦੀ ਟੈਸਟਿੰਗ ਲਈ ਹੈ.",
+            "id": 3159,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "This is to test for coronavirus",
+                "id": 47,
+                "summary": "Covid"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਜੇ ਕੋਰੋਨਾਵਾਇਰਸ ਪੋਸਿਟਿਵ ਹੋਇਆ ਤਾਂ ਅਸੀਂ ਕੱਲ੍ਹ ਤੱਕ ਤੁਹਾਡੇ ਫੋਨ ਤੇ ਕਾਲ ਕਰਾਂਗੇ.",
+            "id": 3158,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "If coronavirus positive, we call your phone by tomorrow.",
+                "id": 49,
+                "summary": "Result Collection"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਆਪਣੇ ਸਿਰ ਨੂੰ ਥੋੜਾ ਪਿੱਛੇ ਵੱਲ ਝੁਕਾਓ.",
+            "id": 3161,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Tilt your head back",
+                "id": 48,
+                "summary": "Tilt Head"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਜੇ ਕੋਰੋਨਾਵਾਇਰਸ ਟੈਸਟ ਨੈਗੇਟਿਵ ਹੋਇਆ, ਤਾਂ ਤੁਹਾਨੂੰ ਤਿੰਨ ਦਿਨਾਂ ਦੇ ਅੰਦਰ ਇੱਕ \"ਐਸ ਐਮ ਐਸ\" ਭੇਜਿਆ ਜਾਵੇਗਾ.",
+            "id": 3160,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "If coronavirus negative, we send you an SMS after 3 days.",
+                "id": 152,
+                "summary": "COVID Negative"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਬਾਅਦ ਵਿੱਚ ਤੁਹਾਡਾ ਇੱਕ ਐਕਸਰੇ ਹੋਏਗਾ.",
+            "id": 3162,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Later, you will do an X-ray",
+                "id": 50,
+                "summary": "X-ray"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਤੁਹਾਡੇ ਐਕਸ-ਰੇ ਵਿੱਚ ਕੋਈ ਇਨਫੈਕਸ਼ਨ ਨਹੀਂ ਹੈ.",
+            "id": 3163,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "There is no sign of infection on your X-ray",
+                "id": 51,
+                "summary": "X-ray OK"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਜੇ ਤੁਹਾਡਾ ਕੋਵਿਡ ਸਵੈਬ ਟੈਸਟ ਨੇਗਟਿਵ ਹੈ ਪਰ ਤੁਹਾਨੂੰ ਬੁਖਾਰ ਤੇ ਖਾਂਸੀ ਹੈ ਅਤੇ ਨੱਕ ਵੀ ਵਗਦਾ ਹੈ ਤਾਂ ਤੁਹਾਨੂੰ ਵੱਖਰੇ ਖੇਤਰ ਵਿੱਚ ਰਹਿਣਾ ਪਏਗਾ.",
+            "id": 3164,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "If your COVID Swab is negative but you have symptoms of fever, cough, runny nose, you have to remain in an isolation area.",
+                "id": 201,
+                "summary": "Negative w/ Symptoms"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

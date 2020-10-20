@@ -1,0 +1,72 @@
+{
+    "count": 5,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/55c28a218c5645a7a238e43c8d2889bd_NqFBpsE.mp3",
+            "content": "బస్సు, మెట్రో, లాంటి పబ్లిక్ ట్రాన్స్ పోర్ట్ లో వెళ్ళవద్దు",
+            "id": 2958,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Please avoid public transport.",
+                "id": 166,
+                "summary": "Transport"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/9c0ed1a1de4dfcfda28137c481a90609_ugyrZY8.mp3",
+            "content": "మీసొ0త బండి లో గాని టాక్సీలో గాని గ్రాబ్లో గాని ప్రయాణి0చగలరు.",
+            "id": 2959,
+            "language": "Telugu",
+            "phrase": {
+                "content": "You can take your own private transport, a taxi or a private hire car.",
+                "id": 167,
+                "summary": "Take Taxi"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f868a81d3a655ea742189755bb2c2467.mp3",
+            "content": "మీ దగ్గు తీవ్రత పెరిగినా, శ్వాసతీసుకోవడంలో ఇబ్బంది కలిగిన, జ్వరం 38 డిగ్రీల సెంటిగ్రేడ్ కన్నా ఎక్కువ అయినా వెంటనే మీ దగ్గరలో ఉన్న ఆసుపత్రికి వెళ్ళండి.",
+            "id": 3064,
+            "language": "Telugu",
+            "phrase": {
+                "content": "If your cough is getting worse and you feel breathless, or your fever is persistently above 38 degrees Celsius",
+                "id": 184,
+                "summary": "38C"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/19d464af1e0f3c9ca46b83ea884bc97f.mp3",
+            "content": "ఎమర్జెన్సీ డిపార్ట్మెంట్ లోపల సర్జికల్ మాస్క్ వేసుకోండి",
+            "id": 3065,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Wear a surgical mask and come to our Emergency Department.",
+                "id": 185,
+                "summary": "Mask"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/10e55a0197b121e8340bdba665fd5451.mp3",
+            "content": "అత్యవసర పరిస్థితుల్లో  అంబులెన్స్ కోసం 995 కు కాల్ చేయండి. మీరు ఇటీవల COVID-19 పరీక్షించబడినట్లు మరియు మీ ప్రయాణ చరిత్రను అంబులెన్స్ ఆపరేటర్‌కు తెలియజేయండి.",
+            "id": 3066,
+            "language": "Telugu",
+            "phrase": {
+                "content": "In an emergency situation, call 995 for an ambulance. Inform the ambulance operator that you were recently tested for COVID-19 and also tell them your travel history.",
+                "id": 187,
+                "summary": "Ambulance"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

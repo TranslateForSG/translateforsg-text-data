@@ -1,0 +1,111 @@
+{
+    "count": 8,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8738d9fa9613ee5cd53a22421b4e4e95_BT70JPq.mp3",
+            "content": "Harap sa kaliwa",
+            "id": 729,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Turn left",
+                "id": 102,
+                "summary": "​Turn left"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/2a1c57eca314687778cea4a06b59bcd5_2vsfRNR.mp3",
+            "content": "Harap sa kanan",
+            "id": 730,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Turn right",
+                "id": 103,
+                "summary": "Turn right"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/063dd342ea98665c3ad1a5577d3c3c1c_RzIFidF.mp3",
+            "content": "Papalitan namin ang iyong diaper",
+            "id": 731,
+            "language": "Filipino",
+            "phrase": {
+                "content": "We will change your diapers",
+                "id": 104,
+                "summary": "We will change your diapers"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8004ae79cb6cd8a5022f5e1d54fa9cf9_P2d4CKV.mp3",
+            "content": "Iangat ang iyong paa",
+            "id": 795,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Lift up your leg",
+                "id": 105,
+                "summary": "Lift up your leg"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/87c2bdeeb8545d0090c046cc545957ee_3flqeeS.mp3",
+            "content": "I-uupo ka namin",
+            "id": 732,
+            "language": "Filipino",
+            "phrase": {
+                "content": "We are going to sit you up",
+                "id": 106,
+                "summary": "We are going to sit you up"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/22d3d0e6506da90d234aec746abab761.mp3",
+            "content": "I-aangat ka lang namin sa kama",
+            "id": 733,
+            "language": "Filipino",
+            "phrase": {
+                "content": "We are going to shift you up the bed",
+                "id": 107,
+                "summary": "Shift head"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/adcce6588c06ba037b8b3e240a230b27_C8dDUAb.mp3",
+            "content": "Lilinisin namin ang iyong bibig",
+            "id": 734,
+            "language": "Filipino",
+            "phrase": {
+                "content": "We are going to clean your mouth",
+                "id": 108,
+                "summary": "Clean mouth"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1878606a187264fbddc51821cfad52ad_YIsNw8c.mp3",
+            "content": "Huwag lunukin ang solusyong gamit sa pagmumog",
+            "id": 735,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Do not swallow the gargle",
+                "id": 109,
+                "summary": "Dont swallow"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

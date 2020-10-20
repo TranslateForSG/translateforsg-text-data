@@ -1,0 +1,150 @@
+{
+    "count": 11,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/501c8816fa507fe14467c89a0038c3eb_LOAXpu4.mp3",
+            "content": "Maaari ka nang magsalita pagkatapos alisin ang tubo",
+            "id": 704,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Take a deep breath",
+                "id": 77,
+                "summary": "Deep breath"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/78520374f685861b835020b154d15895_I5WQ5kj.mp3",
+            "content": "Umubo nang may puwersa",
+            "id": 706,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Give me a big cough",
+                "id": 78,
+                "summary": "Big cough"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/24ff55aa092d9b4d9fef80473beaee53_xV2jjDs.mp3",
+            "content": "Huwag labanan",
+            "id": 707,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Don’t struggle",
+                "id": 79,
+                "summary": "Don’t struggle"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/e4cb04804b0983cddc63d87a803bf6ac_uFVk6kw.mp3",
+            "content": "Huwag gagalaw",
+            "id": 708,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Don’t move",
+                "id": 80,
+                "summary": "Don’t move"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c3f9a1bf6eef76b7d2c551e148552fd1_bcBdz5y.mp3",
+            "content": "Itaas ang kamay",
+            "id": 709,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Lift up your arm",
+                "id": 81,
+                "summary": "Lift up your arm"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8004ae79cb6cd8a5022f5e1d54fa9cf9_1I6Z1Se.mp3",
+            "content": "Iangat ang iyong paa",
+            "id": 794,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Lift up your leg",
+                "id": 82,
+                "summary": "Lift up your leg"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/068f6424d62e0f38aecf65a45d322e50_mEVagGL.mp3",
+            "content": "Pisilin ang kamay ko",
+            "id": 710,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Squeeze my hand",
+                "id": 83,
+                "summary": "Squeeze my hand"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7ac58b85dfcecebb9e222ef6d581df47_PPLWykZ.mp3",
+            "content": "Itaas ang dalawang daliri sa kamay",
+            "id": 711,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Show me two fingers",
+                "id": 84,
+                "summary": "Show two fingers"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/bf4f201c49828522b0aea8e396404336_Gy413Ni.mp3",
+            "content": "Buksan ang bibig",
+            "id": 712,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Open your mouth",
+                "id": 85,
+                "summary": "Open mouth"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/942d97a01334988c4567c55c256d5fd0_kitRPKS.mp3",
+            "content": "Labas ang dila",
+            "id": 713,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Stick out your tongue",
+                "id": 86,
+                "summary": "Stick out tongue"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c1c7ea0ae9c8ca7bfd2b8aea95a562d2_pR4vrEd.mp3",
+            "content": "Buksan ang mga mata",
+            "id": 714,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Open your eyes",
+                "id": 87,
+                "summary": "Open eyes"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "count": 5,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/2579f4c7075268dc731b8bca1f9d0a89.m4a",
+            "content": "ကျေးဇူးပြုပြီး တစ်ကိုယ်ရေသန့်ရှင်းရေးကို အထူးသတိထားပြီး ပြုလုပ်ပေးပါ။ လက်ကို ဆပ်ပြာနဲ့ရေ အသုံးပြုပြီး ခဏခဏဆေးပါ။ မျက်လုံး၊ နှာခေါင်းနဲ့ပါးစပ် ကို ထိတွေ့တာကို အတတ်နိုင်ဆုံးမလုပ်ပါနဲ့။ ချောင်းဆိုး၊ နှာချေတဲ့အချိန်တိုင်း နှာခေါင်းနဲ့ပါးစပ်ကို သေချာလုံအောင် အုပ်ထားပါ။",
+            "id": 2365,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Please maintain good personal hygiene. Wash your hands with soap and water frequently. Try not to touch your eyes, nose, and mouth. Always cover your mouth when coughing or sneezing.",
+                "id": 179,
+                "summary": "Hygine"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/733db9bebf78f430152018fd9ddcf861.m4a",
+            "content": "တစ်ခြားလူတွေ သင့်ရဲ့ ဇွန်း၊ ခရင်း၊ ပန်းကန်၊ ခွက် နဲ့ အစားအစာတွေကို အသုံးမပြုအောင် သေချာကာကွယ်ပါ။ မျက်နှာသုတ်ပဝါလိုမျိုး သင့်ရဲ့ တစ်ကိုယ်ရေသုံး ပစ္စည်းတွေကိုလည်း တစ်ခြားလူတွေနဲ့အတူတူ လုံးဝအသုံးမပြုပါနဲ့။",
+            "id": 2366,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Please prevent others from using your spoon, fork, plates, bowls, food. Also do not share personal hygiene items like your towel.",
+                "id": 180,
+                "summary": "Sharing"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/9d5110028cab57cbc48ca9e3e6201e27.m4a",
+            "content": "သင့်ကို သောက်ဖို့ပေးထားတဲ့ဆေးတွေနဲ့ လိုက်နာရမယ့်အရာတွေကို မပျက်ကွက်ပါနဲ့။",
+            "id": 2367,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Continue to take the medications prescribed for you (if any).",
+                "id": 181,
+                "summary": "Medication"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0a57a7a123d6a27a0022c90560326e5b.m4a",
+            "content": "ရေများများသောက်ပေးပါ။",
+            "id": 2368,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Please drink a lot of water.",
+                "id": 182,
+                "summary": "Drink"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c566450c9de6a94412c358f6036ae9e4.m4a",
+            "content": "အိမ်မှာနေတဲ့ချိန်မှာ သင့်ရဲ့ ကိုယ်ခန္ဓာအပူချိန်နဲ့ လက္ခဏာတွေကို အမြဲသတိထားပြီး စောင့်ကြည့်နေပါ။",
+            "id": 2369,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Keep monitoring your temperature and symptoms at home.",
+                "id": 183,
+                "summary": "Monitor"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

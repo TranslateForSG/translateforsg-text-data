@@ -1,0 +1,150 @@
+{
+    "count": 11,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/134f05efb0c2f1991823f38421e103a0.mp3",
+            "content": "एक गहरी सास लो",
+            "id": 374,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Take a deep breath",
+                "id": 77,
+                "summary": "Deep breath"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/af3959b8a46b3af967f30229d16018ab.mp3",
+            "content": "मुझे एक बड़ी खाँसी दो",
+            "id": 375,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Give me a big cough",
+                "id": 78,
+                "summary": "Big cough"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6df54be347b1a8bf95d447c0ae23345c.mp3",
+            "content": "संघर्ष मत करो",
+            "id": 376,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Don’t struggle",
+                "id": 79,
+                "summary": "Don’t struggle"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c8b0350d77dad3211f00b73f9b5222e0.mp3",
+            "content": "हिलना मत",
+            "id": 377,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Don’t move",
+                "id": 80,
+                "summary": "Don’t move"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/abcdca93b69140bd677e8d33e8cddefa.mp3",
+            "content": "अपनी बांह को ऊपर उठाएं",
+            "id": 378,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Lift up your arm",
+                "id": 81,
+                "summary": "Lift up your arm"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/51b09832b984998c211027885a3480dd.mp3",
+            "content": "अपने पैर को ऊपर उठाएं",
+            "id": 379,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Lift up your leg",
+                "id": 82,
+                "summary": "Lift up your leg"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/23e6311f975173cb0c33b10e0eef3406.mp3",
+            "content": "मेरा हाथ निचोड़ो",
+            "id": 380,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Squeeze my hand",
+                "id": 83,
+                "summary": "Squeeze my hand"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ae68933705ddfdcd4fcc4fc57ddff7d4.mp3",
+            "content": "मुझे दो उंगलियां दिखाओ",
+            "id": 381,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Show me two fingers",
+                "id": 84,
+                "summary": "Show two fingers"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/08fad05855c70f7885430b87b19e90e0.mp3",
+            "content": "अपना मुहँ खोलो",
+            "id": 382,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Open your mouth",
+                "id": 85,
+                "summary": "Open mouth"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a50f01cc49271e3cbf576f7617d14de5.mp3",
+            "content": "अपनी जीभ बाहर निकालना",
+            "id": 383,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Stick out your tongue",
+                "id": 86,
+                "summary": "Stick out tongue"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b887a503707bc7cb137929724d4c7f24.mp3",
+            "content": "अपनी आँखें खोलो",
+            "id": 384,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Open your eyes",
+                "id": 87,
+                "summary": "Open eyes"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

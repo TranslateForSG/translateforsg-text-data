@@ -1,0 +1,59 @@
+{
+    "count": 4,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1_KmhFtCs.mp3",
+            "content": "আপনার কি ব্যথা করছে?",
+            "id": 236,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Are you in pain?",
+                "id": 110,
+                "summary": "Are you in pain?"
+            },
+            "romanized": "Apnar ki betha korche?",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/2_gwWQIZY.mp3",
+            "content": "কোথায় ব্যথা লাগছে?",
+            "id": 237,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Where is the pain?",
+                "id": 111,
+                "summary": "Where is the pain?"
+            },
+            "romanized": "Kothae betha lagchhe?",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3_D7Ri3k7.mp3",
+            "content": "এটা কি হালকা, মাঝারি বা মারাত্মক?",
+            "id": 238,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Is it mild, moderate or severe?",
+                "id": 112,
+                "summary": "Is it mild, moderate or severe?"
+            },
+            "romanized": "Eta ki halka, majhari, ba marattok?",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4_bCKaYYk.mp3",
+            "content": "আপনার ব্যাথা কোথায় হাত দিয়ে দেখাতে পারবেন?",
+            "id": 239,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Can you point to the pain?",
+                "id": 113,
+                "summary": "Can you point to the pain?"
+            },
+            "romanized": "Apnar Bya-tha kothay, haat di-ye dekha-te parben?",
+            "special_note": ""
+        }
+    ]
+}

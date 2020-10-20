@@ -1,0 +1,111 @@
+{
+    "count": 8,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/43a5496a185bd75166ee8ff085dad55f.mp3",
+            "content": "Rẽ trái",
+            "id": 1409,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Turn left",
+                "id": 102,
+                "summary": "​Turn left"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3d7d3d5093e35478eb13315ca209bef7.mp3",
+            "content": "Rẽ phải",
+            "id": 1410,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Turn right",
+                "id": 103,
+                "summary": "Turn right"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0db61bb5bff2cf6881b9cb33cf75ed02.mp3",
+            "content": "Chúng tôi sẽ thay tã của bạn",
+            "id": 1411,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "We will change your diapers",
+                "id": 104,
+                "summary": "We will change your diapers"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f333b394e32177cc772ef0f0b5fe492a_HlseveH.mp3",
+            "content": "Nâng chân của bạn lên",
+            "id": 1412,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Lift up your leg",
+                "id": 105,
+                "summary": "Lift up your leg"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/06807535e1189910d64261f999bfa133.mp3",
+            "content": "Chúng tôi sẽ ngồi bạn lên",
+            "id": 1413,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "We are going to sit you up",
+                "id": 106,
+                "summary": "We are going to sit you up"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f20fce05d466318dad1f39194dc14d81.mp3",
+            "content": "Chúng tôi sẽ chuyển bạn lên giường",
+            "id": 1414,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "We are going to shift you up the bed",
+                "id": 107,
+                "summary": "Shift head"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/084637e637813c3fee974fca9c67edea.mp3",
+            "content": "Chúng tôi sẽ làm sạch miệng của bạn",
+            "id": 1415,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "We are going to clean your mouth",
+                "id": 108,
+                "summary": "Clean mouth"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d5af9d87d572d705e8037b9020c34a3e.mp3",
+            "content": "Đừng nuốt nước súc miệng",
+            "id": 1416,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Do not swallow the gargle",
+                "id": 109,
+                "summary": "Dont swallow"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

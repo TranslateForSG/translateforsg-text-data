@@ -1,0 +1,150 @@
+{
+    "count": 11,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/616b00a1fb9ebebac6430f2c7c838fc3.mp3",
+            "content": "Tarik nafas sedalamnya.",
+            "id": 1016,
+            "language": "Malay",
+            "phrase": {
+                "content": "Take a deep breath",
+                "id": 77,
+                "summary": "Deep breath"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/73cfc16ffbc081bff286b6eafe079e55.mp3",
+            "content": "Tolong batuk sekuatnya",
+            "id": 1018,
+            "language": "Malay",
+            "phrase": {
+                "content": "Give me a big cough",
+                "id": 78,
+                "summary": "Big cough"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/814550cc3fcf91f370cc7194f6991b78.mp3",
+            "content": "Jangan lawan",
+            "id": 1019,
+            "language": "Malay",
+            "phrase": {
+                "content": "Don’t struggle",
+                "id": 79,
+                "summary": "Don’t struggle"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/96590443ff91ee4f95d42be98a41010a.mp3",
+            "content": "Jangan bergerak",
+            "id": 1020,
+            "language": "Malay",
+            "phrase": {
+                "content": "Don’t move",
+                "id": 80,
+                "summary": "Don’t move"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ece7152bcd9d3a43df8e8e7dc39337cf.mp3",
+            "content": "Naikkan tangan anda",
+            "id": 1021,
+            "language": "Malay",
+            "phrase": {
+                "content": "Lift up your arm",
+                "id": 81,
+                "summary": "Lift up your arm"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/73f82a092f1863c40841fbfa01421dd5.mp3",
+            "content": "Naikkan kaki anda",
+            "id": 1022,
+            "language": "Malay",
+            "phrase": {
+                "content": "Lift up your leg",
+                "id": 82,
+                "summary": "Lift up your leg"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8173fd2954e7088e4a87579720e0fd02.mp3",
+            "content": "Pegang dan genggam tangan saya",
+            "id": 1024,
+            "language": "Malay",
+            "phrase": {
+                "content": "Squeeze my hand",
+                "id": 83,
+                "summary": "Squeeze my hand"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7e49fbac8110d0f8ba9c6e9120aed50a.mp3",
+            "content": "Tunjukkan saya dua jari",
+            "id": 1025,
+            "language": "Malay",
+            "phrase": {
+                "content": "Show me two fingers",
+                "id": 84,
+                "summary": "Show two fingers"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/01c0901004be834f18303260267883bc.mp3",
+            "content": "Buka mulut anda",
+            "id": 1026,
+            "language": "Malay",
+            "phrase": {
+                "content": "Open your mouth",
+                "id": 85,
+                "summary": "Open mouth"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8a568d5c3fa16e4d348aeba5442ef58e.mp3",
+            "content": "Keluarkan lidah anda",
+            "id": 1027,
+            "language": "Malay",
+            "phrase": {
+                "content": "Stick out your tongue",
+                "id": 86,
+                "summary": "Stick out tongue"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/64e640eabe0269017727e8cc5f0900c4.mp3",
+            "content": "Buka mata anda",
+            "id": 1028,
+            "language": "Malay",
+            "phrase": {
+                "content": "Open your eyes",
+                "id": 87,
+                "summary": "Open eyes"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

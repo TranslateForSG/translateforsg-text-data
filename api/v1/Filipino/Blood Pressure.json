@@ -1,0 +1,111 @@
+{
+    "count": 8,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/77f35fd5646370ecf3d287a9ea4ce077.mp3",
+            "content": "1) Ikonekta ang cuff ng presyon ng dugo sa makina ng mambabasa.",
+            "id": 1905,
+            "language": "Filipino",
+            "phrase": {
+                "content": "1) Connect the blood pressure cuff to the reader machine.",
+                "id": 188,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c5df38499a138616aa42bd5c3d8cb066.mp3",
+            "content": "2) Ang &quot;arrow&quot; sa cuff ay dapat na ituro pababa sa loob ng iyong braso.",
+            "id": 1906,
+            "language": "Filipino",
+            "phrase": {
+                "content": "2) The “arrow” on the the cuff should be pointing downwards on the inside of your arm.",
+                "id": 189,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f22ecfc6af3d2374c5e9b8c5f1734ab5.mp3",
+            "content": "(!) Ang cuff ay dapat na nakaposisyon sa 1 hanggang 2 cm sa itaas ng iyong kasukasuan ng siko.",
+            "id": 1907,
+            "language": "Filipino",
+            "phrase": {
+                "content": "(!) The cuff should be positioned 1 to 2 cm above your elbow joint.",
+                "id": 190,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/cc6016c307b07932b561109a2575f243.mp3",
+            "content": "3) Ang cuff cuff ay dapat magkasya sa iyong braso. Hindi ito dapat maluwag. Mag-iwan ng sapat na puwang para sa 1 kaliwang daliri upang magkasya (para sa mabuting sukat)",
+            "id": 1908,
+            "language": "Filipino",
+            "phrase": {
+                "content": "3) The BP cuff should fit snugly onto your arm. It should not feel loose. Leave some space enough for 1 left finger to fit in (for good gauge)",
+                "id": 191,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1ed16e467c2a1f795f0fe86ad2dd665a.mp3",
+            "content": "4) Huwag yumuko ang tubo sa panahon ng pagsukat ng presyon ng dugo.",
+            "id": 1909,
+            "language": "Filipino",
+            "phrase": {
+                "content": "4) Do not bend the tube during blood pressure measurement.",
+                "id": 192,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/45181addd9b80ba0854877d9838f85b9.mp3",
+            "content": "5) Mamahinga at Ipahinga ang iyong buong braso sa isang mesa habang sinusukat ang iyong presyon ng dugo.",
+            "id": 1910,
+            "language": "Filipino",
+            "phrase": {
+                "content": "5) Relax & Rest your entire arm on a table while measuring your blood pressure.",
+                "id": 193,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8e712432c465018d9c8ab405d8115e13.mp3",
+            "content": "6) Pindutin ang pindutan ng &quot;Start / Stop&quot; upang simulan ang pagsukat ng iyong BP. Maghintay ng 1 minuto hanggang lumitaw ang 3 mga numero.",
+            "id": 1911,
+            "language": "Filipino",
+            "phrase": {
+                "content": "6) Press the “Start/Stop” button to start measuring your BP. Wait for 1 minute until 3 numbers appear.",
+                "id": 194,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0c739af50246718522ee8a3229137ee8.mp3",
+            "content": "7) Ang nangungunang numero ay ang iyong Systolic presyon ng dugo. Ang gitnang bilang ay ang iyong Diastolic pressure sa dugo. Ang pinakamababang numero ay ang iyong rate ng Pulse.",
+            "id": 1912,
+            "language": "Filipino",
+            "phrase": {
+                "content": "7) The top number is your Systolic blood pressure. The middle number is your Diastolic blood pressure. The bottom number is your Pulse rate.",
+                "id": 195,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

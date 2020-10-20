@@ -1,0 +1,124 @@
+{
+    "count": 9,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/cd6325c4b0c90a18b9d1970d2615fc7a.mp3",
+            "content": "你应该很快就可以回家了。",
+            "id": 2009,
+            "language": "Chinese",
+            "phrase": {
+                "content": "You can go back soon.",
+                "id": 52,
+                "summary": "Can go back"
+            },
+            "romanized": "nǐ yìng gāi hěn kuài jìu kě yǐ húi jiā le 。",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3e7b7b59849696c3a2f9b26ff102e1fa_EfwmTc8.mp3",
+            "content": "请在这边稍等，不要离开这里。",
+            "id": 2010,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Wait here, do not leave this area",
+                "id": 53,
+                "summary": "Wait Patient"
+            },
+            "romanized": "qǐng zài zhè biān shāo děng, bù yào lí kāi zhè lǐ.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d8e79c71728aeab7a2804388af73d459.mp3",
+            "content": "你需要住院几天， 让我们观察。",
+            "id": 2011,
+            "language": "Chinese",
+            "phrase": {
+                "content": "You have to stay in the hospital for a few days",
+                "id": 54,
+                "summary": "Hospital Stay"
+            },
+            "romanized": "nǐ xū yào zhù yuàn jī tiān, ràng wǒ men guān chá 。",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3de52611beaf3ee55709c790806ec77b.mp3",
+            "content": "我现在让你吃点药，吃了你会舒服一点。",
+            "id": 2012,
+            "language": "Chinese",
+            "phrase": {
+                "content": "I'll give you medicine to make you feel better",
+                "id": 55,
+                "summary": "Medicine"
+            },
+            "romanized": "wǒ xiàn zài ràng nǐ chī diǎn yào, chī le nǐ hùi shū fú yī diǎn 。",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/da9096ad745aec493cca25406a889b08.mp3",
+            "content": "接下来的五天, 你不能回去上班。",
+            "id": 2014,
+            "language": "Chinese",
+            "phrase": {
+                "content": "You must not work for the next 5 days.",
+                "id": 56,
+                "summary": "No work 5 days"
+            },
+            "romanized": "jiē xià lái de wǔ tiān, nǐ bù néng huí qù shàng bān.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/589f7df5919de0b7549510150a624a09.mp3",
+            "content": "如果感到呼吸困难，请你马上回来就医。",
+            "id": 2013,
+            "language": "Chinese",
+            "phrase": {
+                "content": "You must come back if you have problems with breathing.",
+                "id": 57,
+                "summary": "Problem after 5 days"
+            },
+            "romanized": "rú guǒ gǎn dào hū xī kùn nán, qǐng nǐ mǎ shàng huí lái jiù yī。",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6c24b6f3df5ae1e0a2b5df0a2be86fd8.mp3",
+            "content": "如果五天后还没完全康复，你得必须回来。",
+            "id": 2015,
+            "language": "Chinese",
+            "phrase": {
+                "content": "You must come back if you do not recover completely after 5 days.",
+                "id": 151,
+                "summary": "Come back 5 days"
+            },
+            "romanized": "rú guǒ wǔ tiān hòu hái méi wán quán kāng fù, nǐ děi bì xū huí lái",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/856e967a3d613a33e6bef7ed8523e4ee.mp3",
+            "content": "请仔细参考这份传单。",
+            "id": 2016,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Read the handout carefully",
+                "id": 58,
+                "summary": "Handout"
+            },
+            "romanized": "qǐng zǐ xì cān kǎo zhè fèn chuán dān。",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/89017a3497138e402c6ee0c4d47fb0ab.mp3",
+            "content": "谢谢你",
+            "id": 2017,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Thank you",
+                "id": 59,
+                "summary": "Thank you"
+            },
+            "romanized": "xiè xiè nǐ ",
+            "special_note": ""
+        }
+    ]
+}

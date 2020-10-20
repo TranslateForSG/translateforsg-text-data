@@ -1,0 +1,98 @@
+{
+    "count": 7,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/043978eb3625f1030b795f08e4517ee3.mp3",
+            "content": "Mangyaring iwasan ang pampublikong transportasyon.",
+            "id": 1887,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Please avoid public transport.",
+                "id": 166,
+                "summary": "Transport"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/55705ee484cef95dc0e7bea6faef3f67.mp3",
+            "content": "Maaari kang kumuha ng iyong sariling pribadong transportasyon, isang taxi o isang pribadong upa ng kotse.",
+            "id": 1888,
+            "language": "Filipino",
+            "phrase": {
+                "content": "You can take your own private transport, a taxi or a private hire car.",
+                "id": 167,
+                "summary": "Take Taxi"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/20be7b2f044ceab06bb03f0e56db19f0.mp3",
+            "content": "Magsuot ng mask at umupo mag-isa sa back seat sa kotse.",
+            "id": 1889,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Wear a mask and sit alone in the back seat in the car.",
+                "id": 168,
+                "summary": "In Car"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6779af4295cec6d7bb9008d6e437fa6a.mp3",
+            "content": "Buksan ang mga bintana ng kotse at patayin ang air-conditioning.",
+            "id": 1890,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Open car windows and turn off air-conditioning.",
+                "id": 169,
+                "summary": "No AC"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/11f2dfc37a2fb40da71aac374765feef.mp3",
+            "content": "Mangyaring ligtas na panatilihin ang resibo mula sa taxi o pribadong upa ng kotse. Kung ipahiwatig ng mga resulta ng iyong pagsubok na nahawaan ka, kakailanganin ito.",
+            "id": 1891,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Please safely keep the receipt from the taxi or private hire car. If your test results indicate you are infected, this will be needed.",
+                "id": 170,
+                "summary": "Receipt"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3401d012793e163d1f87a2ccafa57058.mp3",
+            "content": "Lumayo sa iba. Dapat kang manatili sa bahay at hindi makakapunta sa labas habang nasa medical leave. Maaari ka lamang lumabas dahil sa kalusugan o medikal na kadahilanan.",
+            "id": 1892,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Stay away from others. You must stay home and can not go outside while being on medical leave. You may only go out for health or medical reasons.",
+                "id": 171,
+                "summary": "Isolation"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/112cfdffb195df21e25a92c35debf4b1.mp3",
+            "content": "Kung kailangan mong pumunta para sa anumang appointment sa medikal bago ka makakuha ng resulta ng iyong pagsubok, mag-ingat. Sabihin sa doktor, nars, o iba pang mga kawani na ikaw ay sinubukan para sa COVID-19. Gayundin, sabihin sa kanila ang tungkol sa iyong mga sintomas. Bago ang araw, dapat kang tumawag sa 6344 8222 upang ipaalam sa kanila.",
+            "id": 1893,
+            "language": "Filipino",
+            "phrase": {
+                "content": "If you need to go for any medical appointment before you get your test result, be careful. Tell the doctor, nurse, or other staff that you were recently tested for COVID-19. Also, tell them about your symptoms. Before the day, you should call 6344 8222 to inform them.",
+                "id": 172,
+                "summary": "Medical Appointment"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

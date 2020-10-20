@@ -1,0 +1,46 @@
+{
+    "count": 3,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/008dc230c73fc39c69c7205bf99c8f2a_TW6SvZ6.mp3",
+            "content": "သင့်တွင် ကိုရိုနာဗိုင်းရပ်စ် ရှိကြောင်း တွေ့ရှိပါတယ်။",
+            "id": 1728,
+            "language": "Burmese",
+            "phrase": {
+                "content": "You have tested positive for coronavirus.",
+                "id": 60,
+                "summary": "Tested Positive"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f636193a9f7f4208bb546f1abfd66e9d_zUXeGVF.mp3",
+            "content": "ကျွန်ုပ်တို့ သင့်ကိုဆေးရုံကို ခေါ်ဆောင်သွားပါမယ်။",
+            "id": 1730,
+            "language": "Burmese",
+            "phrase": {
+                "content": "We will take you to the hospital.",
+                "id": 61,
+                "summary": "Hospital Admission"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/870e7401ad3dd7b93cdec63961ddc0a6_jEPa8oT.mp3",
+            "content": "သင့်ကို သီးသန့်ခန်းကို ပြောင်းပေးပါမယ်။",
+            "id": 1731,
+            "language": "Burmese",
+            "phrase": {
+                "content": "We will transfer you to an isolation facility.",
+                "id": 62,
+                "summary": "Isolation Facility"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

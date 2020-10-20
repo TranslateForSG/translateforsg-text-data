@@ -1,0 +1,111 @@
+{
+    "count": 8,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/cba9a8452afead539d4e1332da5b4c08.mp3",
+            "content": "1) Kết nối vòng đo huyết áp với máy đọc.",
+            "id": 1950,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "1) Connect the blood pressure cuff to the reader machine.",
+                "id": 188,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f3f1fd3a67049f8d6bde9685c0d8dfb7.mp3",
+            "content": "2) Mũi tên của người Viking trên vòng bít phải hướng xuống dưới bên trong cánh tay của bạn.",
+            "id": 1951,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "2) The “arrow” on the the cuff should be pointing downwards on the inside of your arm.",
+                "id": 189,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/61aa48d7f96870eeba61633aeef9d1a0.mp3",
+            "content": "(!) Vòng bít phải được đặt ở vị trí cao hơn khớp khuỷu tay của bạn từ 1 đến 2 cm.",
+            "id": 1952,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "(!) The cuff should be positioned 1 to 2 cm above your elbow joint.",
+                "id": 190,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c535d3b79c308d34110e0300ce373ba2.mp3",
+            "content": "3) Vòng bít HA phải vừa khít với cánh tay của bạn. Nó không nên cảm thấy lỏng lẻo. Để lại một khoảng trống đủ cho 1 ngón tay trái vừa vặn (cho thước đo tốt)",
+            "id": 1953,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "3) The BP cuff should fit snugly onto your arm. It should not feel loose. Leave some space enough for 1 left finger to fit in (for good gauge)",
+                "id": 191,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/692c75ddbca7dc6f378286efaf3a8f6d.mp3",
+            "content": "4) Không uốn cong ống trong khi đo huyết áp.",
+            "id": 1954,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "4) Do not bend the tube during blood pressure measurement.",
+                "id": 192,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a2c3eee38259cdc9844614cc47415406.mp3",
+            "content": "5) Thư giãn và đặt toàn bộ cánh tay của bạn lên bàn trong khi đo huyết áp.",
+            "id": 1955,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "5) Relax & Rest your entire arm on a table while measuring your blood pressure.",
+                "id": 193,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/50ab5fdf06f91b22a075827e91330733.mp3",
+            "content": "6) Nhấn nút Bắt đầu / Dừng chặn để bắt đầu đo HA của bạn. Đợi trong 1 phút cho đến khi 3 số xuất hiện.",
+            "id": 1956,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "6) Press the “Start/Stop” button to start measuring your BP. Wait for 1 minute until 3 numbers appear.",
+                "id": 194,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/978da88c7e086067e78476472be5d034.mp3",
+            "content": "7) Số hàng đầu là huyết áp tâm thu của bạn. Số ở giữa là huyết áp tâm trương của bạn. Số dưới cùng là tốc độ xung của bạn.",
+            "id": 1957,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "7) The top number is your Systolic blood pressure. The middle number is your Diastolic blood pressure. The bottom number is your Pulse rate.",
+                "id": 195,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

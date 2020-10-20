@@ -1,0 +1,111 @@
+{
+    "count": 8,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm96.m4a",
+            "content": "இடது பக்கம் திரும்பவும்",
+            "id": 2279,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Turn left",
+                "id": 102,
+                "summary": "​Turn left"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm97.m4a",
+            "content": "வலது பக்கம் திரும்பவும்",
+            "id": 2280,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Turn right",
+                "id": 103,
+                "summary": "Turn right"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm98.m4a",
+            "content": "நாங்கள் உங்களுடைய டயப்பரை இப்போது மாற்றப்போகிறோம்",
+            "id": 2281,
+            "language": "Tamil",
+            "phrase": {
+                "content": "We will change your diapers",
+                "id": 104,
+                "summary": "We will change your diapers"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm99.m4a",
+            "content": "உங்களது காலை தூக்கவும்",
+            "id": 2259,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Lift up your leg",
+                "id": 105,
+                "summary": "Lift up your leg"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm100.m4a",
+            "content": "நாங்கள் உங்களை உட்கார வைக்கப்போகின்றோம்.",
+            "id": 2282,
+            "language": "Tamil",
+            "phrase": {
+                "content": "We are going to sit you up",
+                "id": 106,
+                "summary": "We are going to sit you up"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm101.m4a",
+            "content": "நாங்கள் உங்களது படுக்கையை உயர்த்தப்போகின்றோம்.",
+            "id": 2283,
+            "language": "Tamil",
+            "phrase": {
+                "content": "We are going to shift you up the bed",
+                "id": 107,
+                "summary": "Shift head"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm102.m4a",
+            "content": "நாங்கள் உங்களது வாயை சுத்தம் செய்யப்போகின்றோம்.",
+            "id": 2284,
+            "language": "Tamil",
+            "phrase": {
+                "content": "We are going to clean your mouth",
+                "id": 108,
+                "summary": "Clean mouth"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm103.m4a",
+            "content": "நீங்கள் கொப்பிளித்ததை முழுங்க வேண்டாம்.",
+            "id": 2285,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Do not swallow the gargle",
+                "id": 109,
+                "summary": "Dont swallow"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

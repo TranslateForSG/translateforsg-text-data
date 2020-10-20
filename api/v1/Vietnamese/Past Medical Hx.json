@@ -1,0 +1,202 @@
+{
+    "count": 15,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7b8982a16233638b188d78897d4c1257.mp3",
+            "content": "Bạn có bất kỳ lịch sử y tế trong quá khứ?",
+            "id": 1331,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Do you have any past medical history?",
+                "id": 28,
+                "summary": "Medical History"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/916e064e2ad5af98d8a540cc0bbd212b.mp3",
+            "content": "Chỉ vào cái nào.",
+            "id": 1332,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Point to which ones.",
+                "id": 29,
+                "summary": "Symptoms"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/338803383efac663bd51317b743f1daa.mp3",
+            "content": "Hen suyễn",
+            "id": 1333,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Asthma",
+                "id": 30,
+                "summary": "Asthma"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/48cbe96f62c34808fe62704cc3460c59.mp3",
+            "content": "Viêm phổi",
+            "id": 1334,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Pneumonia",
+                "id": 31,
+                "summary": "Pneumonia"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c9306f010c38ae54c16b6ca03b029053.mp3",
+            "content": "Tăng huyết áp",
+            "id": 1335,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Hypertension",
+                "id": 32,
+                "summary": "Hypertension"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/fa298630468eb93a9b956a9aa1b32ff5.mp3",
+            "content": "Tăng lipid máu / Cholesterol",
+            "id": 1336,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Hyperlipidemia / Cholesterol",
+                "id": 33,
+                "summary": "Hyperlipidemia"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/28af22ee4a858bdf3fab0a7a2e8b2289.mp3",
+            "content": "Bệnh tiểu đường",
+            "id": 1337,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Diabetes",
+                "id": 34,
+                "summary": "Diabetes"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5f2288b3e85d4a9f25d449110bb33fc9.mp3",
+            "content": "Vấn đề tim mạch",
+            "id": 1338,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Heart problems",
+                "id": 35,
+                "summary": "Heart problems"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7633a9974cd154801f0ffe8619ff373a.mp3",
+            "content": "Vấn đề về thận",
+            "id": 1339,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Kidney problems",
+                "id": 36,
+                "summary": "Kidney problems"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/70bfb7632e1948899d5e25d82cf9c2f4.mp3",
+            "content": "Bạn có bị dị ứng thuốc?",
+            "id": 1340,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Do you have a drug allergy?",
+                "id": 37,
+                "summary": "Drug allergy"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0d910ed4d0eb42c907debe728d5d29c6.mp3",
+            "content": "Bạn có hút thuốc không? Nếu có, bao nhiêu điếu thuốc mỗi ngày?",
+            "id": 1341,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Do you smoke? If yes, how many cigarettes a day?",
+                "id": 38,
+                "summary": "Smoke"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6b82fb7db5fb8e8b0169711802a2206d.mp3",
+            "content": "Anh lại uống rượu? Nếu có, bao nhiêu (số chai một tuần, loại rượu)?",
+            "id": 1342,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Do you drink? If yes, how much (number of bottles a week, type of alcohol)?",
+                "id": 39,
+                "summary": "Drink Alcohol"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f7084eb5b033422b34fd9c11b194f103.mp3",
+            "content": "Làm thế nào để bạn cảm thấy xúc động?",
+            "id": 1343,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "How do you feel emotionally?",
+                "id": 40,
+                "summary": "Emotion Feeling"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3793f099b045c9bbe653d50ee6c44c75.mp3",
+            "content": "Bạn có ý nghĩ tự tử?",
+            "id": 1344,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Do you have suicidal thoughts?",
+                "id": 41,
+                "summary": "Suicidal thoughts"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7e03028323c4a6afdca079507a2700ea.mp3",
+            "content": "Nếu bạn có bất kỳ vấn đề nào khác, bạn có thể nói với tôi bằng tiếng Anh.",
+            "id": 1345,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "If you have any other problems, you can tell me in English.",
+                "id": 42,
+                "summary": "Other Problems"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

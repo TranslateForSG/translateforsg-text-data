@@ -1,0 +1,59 @@
+{
+    "count": 4,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a5a576d637cf90684740404d4dedcfac_0NZMDq7.mp3",
+            "content": "နာကျင်မှုခံစားရပါသလား?",
+            "id": 1777,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Are you in pain?",
+                "id": 110,
+                "summary": "Are you in pain?"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4ff836feee3af4a964c51f7aa841db53_J7di4mn.mp3",
+            "content": "ဘယ်နေရာက နာကျင်ပါသလဲ?",
+            "id": 1778,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Where is the pain?",
+                "id": 111,
+                "summary": "Where is the pain?"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/dc402be7cd305dd02bf902d01b50df61_xRWfE1n.mp3",
+            "content": "နည်းနည်းပဲ နာကျင်ပါသလား/ နာကျင်တာ နည်းနည်းပြင်းထန်ပါသလား/ အရမ်းနာကျင်နေပါသလား?",
+            "id": 1779,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Is it mild, moderate or severe?",
+                "id": 112,
+                "summary": "Is it mild, moderate or severe?"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5722cc36eea93b8e37205fa56e7bad6e_UVBhXYQ.mp3",
+            "content": "နာကျင်တဲ့နေရာကို လက်နဲ့ထောက်ပြပေးပါ။",
+            "id": 1780,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Can you point to the pain?",
+                "id": 113,
+                "summary": "Can you point to the pain?"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

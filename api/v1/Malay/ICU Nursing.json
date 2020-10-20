@@ -1,0 +1,111 @@
+{
+    "count": 8,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f89a5b822ff48aaeb24fe24a8933b1e3.mp3",
+            "content": "Pusing kiri",
+            "id": 1043,
+            "language": "Malay",
+            "phrase": {
+                "content": "Turn left",
+                "id": 102,
+                "summary": "​Turn left"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/164314373a98c9811c454ab04afb7a87.mp3",
+            "content": "Pusing kanan",
+            "id": 1044,
+            "language": "Malay",
+            "phrase": {
+                "content": "Turn right",
+                "id": 103,
+                "summary": "Turn right"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8045fc46cc78d7258fad96806c9ef70d.mp3",
+            "content": "Kami akan tukarkan lampin anda",
+            "id": 1045,
+            "language": "Malay",
+            "phrase": {
+                "content": "We will change your diapers",
+                "id": 104,
+                "summary": "We will change your diapers"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/73f82a092f1863c40841fbfa01421dd5_8H1LwPD.mp3",
+            "content": "Naikkan kaki anda",
+            "id": 1023,
+            "language": "Malay",
+            "phrase": {
+                "content": "Lift up your leg",
+                "id": 105,
+                "summary": "Lift up your leg"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/2deeca74c0c66634dcb31984b258daa3.mp3",
+            "content": "Kami akan dudukkan anda",
+            "id": 1046,
+            "language": "Malay",
+            "phrase": {
+                "content": "We are going to sit you up",
+                "id": 106,
+                "summary": "We are going to sit you up"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/e9d745e926180642c53db9f85b5b0e4e.mp3",
+            "content": "Kami akan bantu mengangkat anda ke bahagian atas katil.",
+            "id": 1047,
+            "language": "Malay",
+            "phrase": {
+                "content": "We are going to shift you up the bed",
+                "id": 107,
+                "summary": "Shift head"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6ddd9ddfb7b526211c10cc7a7b925752.mp3",
+            "content": "Kami akan bersihkan mulut anda",
+            "id": 1048,
+            "language": "Malay",
+            "phrase": {
+                "content": "We are going to clean your mouth",
+                "id": 108,
+                "summary": "Clean mouth"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3f0b6badbd05dc0e939f6240f4c54b13.mp3",
+            "content": "Jangan telan air kumur",
+            "id": 1049,
+            "language": "Malay",
+            "phrase": {
+                "content": "Do not swallow the gargle",
+                "id": 109,
+                "summary": "Dont swallow"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

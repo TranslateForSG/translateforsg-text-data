@@ -1,0 +1,215 @@
+{
+    "count": 16,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/30d9da0b8e76d9cf6fdf3eeecc2a44ab_23rcfD9.mp3",
+            "content": "శుభోదయం",
+            "id": 2968,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Good morning",
+                "id": 64,
+                "summary": "Morning"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4260c5b9205566636363b6dacd6a42d9_NR6AA3m.mp3",
+            "content": "శుభ మద్యాహ్నం",
+            "id": 2969,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Good Evening",
+                "id": 173,
+                "summary": "Evening"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4070fb819e56a9d7c32253c70b3a63ce_QXbx9Gc.mp3",
+            "content": "శుభ సాయంత్రం",
+            "id": 2970,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Good Afternoon",
+                "id": 174,
+                "summary": "Afternoon"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/2bb033c8068da50b2630402f09f358c1_QJefQ4M.mp3",
+            "content": "నేను నర్సుని",
+            "id": 2971,
+            "language": "Telugu",
+            "phrase": {
+                "content": "I am the nurse",
+                "id": 65,
+                "summary": "Nurse"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a0009ced6a39792e53257c96038136be_1R0ACFR.mp3",
+            "content": "నేను డాక్టర్",
+            "id": 2972,
+            "language": "Telugu",
+            "phrase": {
+                "content": "I am the doctor",
+                "id": 66,
+                "summary": "Doctor"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/62ddfd33ba0f1a0a8faada91db5caedd_WpRqvAl.mp3",
+            "content": "మీరు ఇంటెన్సివ్ కేర్ యూనిట్లో ఉన్నారు",
+            "id": 2973,
+            "language": "Telugu",
+            "phrase": {
+                "content": "You are in the intensive care unit.",
+                "id": 67,
+                "summary": "In ICU"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6511f22be9bebf64bba97793cdae4f28_3EDcX4W.mp3",
+            "content": "ఈరోజు సోమవారం",
+            "id": 2974,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Today is Monday",
+                "id": 68,
+                "summary": "Monday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8255f0b63d8d030d449dca5eae778056_gXombSH.mp3",
+            "content": "ఈరోజు మంగళవారం",
+            "id": 2975,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Today is Tuesday",
+                "id": 69,
+                "summary": "Tuesday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/91bc89e919c6f1d9d2e4d85f4d6ff3cf_N9vVlUv.mp3",
+            "content": "ఈ రోజు బుధవారం",
+            "id": 2976,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Today is Wednesday",
+                "id": 70,
+                "summary": "Wednesday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c9ca3f74450ddcbb1b290e2aa32674f8_Q3JEM91.mp3",
+            "content": "ఈ రోజు గురువారము",
+            "id": 2977,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Today is Thursday",
+                "id": 71,
+                "summary": "Thursday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1ab7c85d39933bf57b98df93fe582c93_o3erIei.mp3",
+            "content": "ఈ రోజు శుక్రవారం",
+            "id": 2978,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Today is Friday",
+                "id": 72,
+                "summary": "Friday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ad5b7387a43c83e5aa80d82798a786b7_43ZJdCU.mp3",
+            "content": "ఈ రోజు శనివారం",
+            "id": 2979,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Today is Saturday",
+                "id": 73,
+                "summary": "Saturday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d972a7becbe16d06b31292936db52db2_WaqnNHR.mp3",
+            "content": "ఈరోజు ఆదివారం",
+            "id": 2980,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Today is Sunday",
+                "id": 74,
+                "summary": "Sunday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b8855f798fc1fcff33ca6e55811f190c_phKf4PZ.mp3",
+            "content": "మీ ఆరోగ్యం మెరుగుపడుతోంది",
+            "id": 2981,
+            "language": "Telugu",
+            "phrase": {
+                "content": "You are getting better",
+                "id": 153,
+                "summary": "Getting Better"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b02720ab562aacbf21d327e24dc1d5bc_XoqDXET.mp3",
+            "content": "మీ ఆరోగ్యం బాగున్నప్పుడు మేము గొట్టాన్ని తీసేస్తాం",
+            "id": 2982,
+            "language": "Telugu",
+            "phrase": {
+                "content": "We will remove the breathing tube when you are better",
+                "id": 75,
+                "summary": "Remove Tube Later"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/9da77b44d156e133a9c61686e9e9b073_uzdZM8W.mp3",
+            "content": "మేము గొట్టాన్ని తీసిన తర్వాత మీరు మాట్లాడవచ్చు",
+            "id": 2983,
+            "language": "Telugu",
+            "phrase": {
+                "content": "You can talk after we remove the breathing tube",
+                "id": 76,
+                "summary": "Can Talk as Remove"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

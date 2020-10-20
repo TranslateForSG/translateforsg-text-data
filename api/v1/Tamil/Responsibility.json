@@ -1,0 +1,72 @@
+{
+    "count": 5,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm239.m4a",
+            "content": "சுகாதாரத்தையும் சுத்தத்தையும் பின்பற்றுங்கள். உங்கள் கைகளை சவர்க்காரம் மற்றும் தண்ணீர் பயன்படுத்தி அடிக்கடி கழுவுங்கள். உங்கள் கைகளால் உங்கள் கண்கள், மூக்கு, வாய் இவற்றைத் தொடாமல் பார்த்துக்கொள்ளுங்கள். இருமும்போதும் தும்மும்போதும் வாயை மூடிக்கொள்ளுங்கள். ",
+            "id": 2328,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Please maintain good personal hygiene. Wash your hands with soap and water frequently. Try not to touch your eyes, nose, and mouth. Always cover your mouth when coughing or sneezing.",
+                "id": 179,
+                "summary": "Hygine"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm240.m4a",
+            "content": "நீங்கள் பயன்படுத்தும் கரண்டி, முள்கரண்டி, தட்டுகள், கிண்ணங்கள் மற்றும் நீங்கள் உட்கொள்ளும் உணவுப்பொருட்கள் இவற்றை வேறு யாரும் பயன்படுத்தாமல் பார்த்துக்கொள்ளுங்கள். நீங்கள் பயன்படுத்தும் உங்கள் துண்டு போன்ற தனிப்பட்ட பொருட்களைப் பிறருடன் பகிர்ந்துகொள்ள வேண்டாம்.",
+            "id": 2329,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Please prevent others from using your spoon, fork, plates, bowls, food. Also do not share personal hygiene items like your towel.",
+                "id": 180,
+                "summary": "Sharing"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm241.m4a",
+            "content": "உங்களுக்கென ஏற்கனவே பரிந்துரைக்கப்பட்ட மருந்துகள் ஏதேனும் இருந்தால் அவற்றைத் தொடர்ந்து உட்கொண்டு வாருங்கள். ",
+            "id": 2330,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Continue to take the medications prescribed for you (if any).",
+                "id": 181,
+                "summary": "Medication"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm242.m4a",
+            "content": "தயவுசெய்து நிறைய தண்ணீர் குடியுங்கள். ",
+            "id": 2331,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Please drink a lot of water.",
+                "id": 182,
+                "summary": "Drink"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm243.m4a",
+            "content": "உங்கள் உடல் வெப்பநிலை, அதோடு நோய்க்கான மற்ற அறிகுறிகள் இவற்றை வீட்டில் இருந்தபடியே கண்காணியுங்கள். ",
+            "id": 2332,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Keep monitoring your temperature and symptoms at home.",
+                "id": 183,
+                "summary": "Monitor"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

@@ -1,0 +1,189 @@
+{
+    "count": 14,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a5d762c6ddab8d142996bc01b3dfd1a2.mp3",
+            "content": "मैं तुम्हारी आँखों में एक रोशनी चमकाने जा रहा हूँ। यह उज्ज्वल होगा।",
+            "id": 385,
+            "language": "Hindi",
+            "phrase": {
+                "content": "I’m going to shine a light into your eyes. It will be bright.",
+                "id": 88,
+                "summary": "Shine a light into your eyes"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7be03f41ed185cea1f207ef0459f3723.mp3",
+            "content": "आपके फेफड़े कमजोर हैं। हम आपको सांस लेने में मदद करने के लिए एक श्वास नली डालने जा रहे हैं",
+            "id": 386,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Your lungs are weak. We are going to insert a breathing tube to help you breathe",
+                "id": 89,
+                "summary": "Insert a breathing tube"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6a997c9b643de6baf3c143903da64391.mp3",
+            "content": "आप अब सोने जा रहे हैं",
+            "id": 387,
+            "language": "Hindi",
+            "phrase": {
+                "content": "You are going to sleep now",
+                "id": 90,
+                "summary": "Sleep"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/25d5a7da1f3efeebeb4c0a96cd094743.mp3",
+            "content": "हम आपके फेफड़ों को फैलाने में मदद करने के लिए आपको अपने पेट पर घुमा रहे हैं",
+            "id": 388,
+            "language": "Hindi",
+            "phrase": {
+                "content": "We are turning you onto your belly to help your lungs expand",
+                "id": 91,
+                "summary": "Turn onto belly"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0fe5c7a785adaa2ce7fe688b3657592e.mp3",
+            "content": "हम आपको मूत्र पारित करने में मदद करने के लिए एक ट्यूब डाल रहे हैं",
+            "id": 389,
+            "language": "Hindi",
+            "phrase": {
+                "content": "We are inserting a tube to help you pass urine",
+                "id": 92,
+                "summary": "Insert tube urine"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1420c09ba9d8f338d96459cef38fea3d.mp3",
+            "content": "हम आपकी नाक के माध्यम से एक ट्यूब डाल रहे हैं",
+            "id": 390,
+            "language": "Hindi",
+            "phrase": {
+                "content": "We are inserting a tube through your nose",
+                "id": 93,
+                "summary": "Insert tube nose"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/2e0149363ac8e7ad00d0755ae06bc5a5.mp3",
+            "content": "हम आपको दवाएँ देने के लिए आपकी गर्दन में एक इंजेक्शन देने जा रहे हैं",
+            "id": 391,
+            "language": "Hindi",
+            "phrase": {
+                "content": "We are going to give you an injection in your neck to give you medications",
+                "id": 94,
+                "summary": "Injection in Neck"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b5bab1a3b37a6ad45b607c9ee3b3392c.mp3",
+            "content": "हम आपके रक्तचाप को मापने के लिए आपको अपनी बांह में एक इंजेक्शन देने जा रहे हैं",
+            "id": 392,
+            "language": "Hindi",
+            "phrase": {
+                "content": "We are going to give you an injection in your arm to measure your blood pressure",
+                "id": 95,
+                "summary": "Measure Blood Pressure"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5fb2651b7eb614e03c9dc27c70d580c6.mp3",
+            "content": "हम आपको नींद की दवाएँ देंगे।",
+            "id": 393,
+            "language": "Hindi",
+            "phrase": {
+                "content": "We will give you sleeping medications.",
+                "id": 96,
+                "summary": "Sleeping Meds"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/39cbb26d6d6e7a0a2c29f9a483879e25.mp3",
+            "content": "हम आपको दर्द निवारक दवाएं देंगे।",
+            "id": 394,
+            "language": "Hindi",
+            "phrase": {
+                "content": "We will give you painkillers.",
+                "id": 97,
+                "summary": "Painkillers"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/77820bcb1e1d264260878cf9f94cd1a0.mp3",
+            "content": "हम आपको अपना रक्तचाप बनाए रखने के लिए दवा दे रहे हैं।",
+            "id": 395,
+            "language": "Hindi",
+            "phrase": {
+                "content": "We are giving you medication to keep your blood pressure up.",
+                "id": 98,
+                "summary": "Blood Pressure Medication"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/34cd9a2030e817df9ad96134115caf15.mp3",
+            "content": "हम श्वास नली को हटाने जा रहे हैं।",
+            "id": 396,
+            "language": "Hindi",
+            "phrase": {
+                "content": "We are going to remove the breathing tube.",
+                "id": 99,
+                "summary": "Remove Tube"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/575983519bd6055d9311ae6f36a66dfc.mp3",
+            "content": "हम आपके कफ को चूसने जा रहे हैं",
+            "id": 397,
+            "language": "Hindi",
+            "phrase": {
+                "content": "We are going to suck out your phlegm",
+                "id": 100,
+                "summary": "Phlegm suck out"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/9f843a2eaf3c4c5d4545d822c8d7de6f.mp3",
+            "content": "हम आपको स्पंज से साफ करने जा रहे हैं",
+            "id": 398,
+            "language": "Hindi",
+            "phrase": {
+                "content": "We are going to clean you with a sponge",
+                "id": 101,
+                "summary": "Clean with sponge"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

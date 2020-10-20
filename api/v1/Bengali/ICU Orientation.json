@@ -1,0 +1,215 @@
+{
+    "count": 16,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0f2ae9c254739475004f46232c670f53_RlIn86T.mp3",
+            "content": "গুড মর্নিং",
+            "id": 190,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Good morning",
+                "id": 64,
+                "summary": "Morning"
+            },
+            "romanized": "Good morning.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/cef49478bb82fb8cbbf4c6f45691641e_CG3E2cQ.mp3",
+            "content": "গুড ইভ্নিং",
+            "id": 1474,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Good Evening",
+                "id": 173,
+                "summary": "Evening"
+            },
+            "romanized": "Good evening.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/61ba3f1ccf7eddc4d55f3fb6962b7338_eTrTiuH.mp3",
+            "content": "গুড আফটার্নুন",
+            "id": 1481,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Good Afternoon",
+                "id": 174,
+                "summary": "Afternoon"
+            },
+            "romanized": "Good afternoon.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0b2695023a6057f3713106ae9befe566.mp3",
+            "content": "আমি নার্স",
+            "id": 191,
+            "language": "Bengali",
+            "phrase": {
+                "content": "I am the nurse",
+                "id": 65,
+                "summary": "Nurse"
+            },
+            "romanized": "Ami nurse.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7b8008b8e415dd2028f6531db5501bb9.mp3",
+            "content": "আমি ডাক্তার",
+            "id": 192,
+            "language": "Bengali",
+            "phrase": {
+                "content": "I am the doctor",
+                "id": 66,
+                "summary": "Doctor"
+            },
+            "romanized": "Ami dactar / doctor.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/728b54e46b135167d0a542e0d3a12509_loj2gPH.mp3",
+            "content": "আপনি এখন আইসিইউতে।",
+            "id": 193,
+            "language": "Bengali",
+            "phrase": {
+                "content": "You are in the intensive care unit.",
+                "id": 67,
+                "summary": "In ICU"
+            },
+            "romanized": "Apni ekhon ICU te.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b4f3e8f64ce5dea2ac7be53cefcf4f2e.mp3",
+            "content": "আজ সোমবার",
+            "id": 194,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Today is Monday",
+                "id": 68,
+                "summary": "Monday"
+            },
+            "romanized": "Aj shombar.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/da2c92e9a867f6220ec490e0a337c5a1.mp3",
+            "content": "আজ মঙ্গলবার",
+            "id": 195,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Today is Tuesday",
+                "id": 69,
+                "summary": "Tuesday"
+            },
+            "romanized": "Aj monggolbar.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/67692dbaf3f92e2840e82594acd01cc3.mp3",
+            "content": "আজ বুধবার",
+            "id": 196,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Today is Wednesday",
+                "id": 70,
+                "summary": "Wednesday"
+            },
+            "romanized": "Aj budhbar.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0f3b0f5969bf0df6aa3e4195f6999455.mp3",
+            "content": "আজ বৃহস্পতিবার",
+            "id": 197,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Today is Thursday",
+                "id": 71,
+                "summary": "Thursday"
+            },
+            "romanized": "Aj brihoshpotibar.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/70d5ba5eb0521d0e8bd921e2827f1bba.mp3",
+            "content": "আজ শুক্রবার",
+            "id": 198,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Today is Friday",
+                "id": 72,
+                "summary": "Friday"
+            },
+            "romanized": "Aj shukrobar.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/323438cf2f41cec3ec200e0b978fa4cb.mp3",
+            "content": "আজ শনিবার",
+            "id": 199,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Today is Saturday",
+                "id": 73,
+                "summary": "Saturday"
+            },
+            "romanized": "Aj shonibar.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7de8c8d3df4f01ad07f409955e4febff.mp3",
+            "content": "আজ রবিবার",
+            "id": 200,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Today is Sunday",
+                "id": 74,
+                "summary": "Sunday"
+            },
+            "romanized": "Aj robibar.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/829f75bb352f6c3ef604874ade80059c.mp3",
+            "content": "আপনি ভাল হয়ে উঠছেন",
+            "id": 609,
+            "language": "Bengali",
+            "phrase": {
+                "content": "You are getting better",
+                "id": 153,
+                "summary": "Getting Better"
+            },
+            "romanized": "Apni bhalo hoye uthchen.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/57b92508d9053732cc3cd781c24472f5_bwptFML.mp3",
+            "content": "আপনি যখন ভাল হবেন তখন আমরা শ্বাস নলটি সরিয়ে ফেলব",
+            "id": 201,
+            "language": "Bengali",
+            "phrase": {
+                "content": "We will remove the breathing tube when you are better",
+                "id": 75,
+                "summary": "Remove Tube Later"
+            },
+            "romanized": "Apni jokhon bhalo hoben tokhon amra shash nolti shoriye felbo.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f762a024f10c5d0d30f91bc9c1e8e1aa_U78Vtya.mp3",
+            "content": "শ্বাস নলটি বের করার পরে আপনি কথা বলতে পারেন",
+            "id": 202,
+            "language": "Bengali",
+            "phrase": {
+                "content": "You can talk after we remove the breathing tube",
+                "id": 76,
+                "summary": "Can Talk as Remove"
+            },
+            "romanized": "Shash nol ti ber korar pore apni kotha bolte paren.",
+            "special_note": ""
+        }
+    ]
+}

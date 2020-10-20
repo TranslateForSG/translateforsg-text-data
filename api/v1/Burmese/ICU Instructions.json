@@ -1,0 +1,150 @@
+{
+    "count": 11,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a5c322a3cd209145ec6476d8d8b80c44_AkihpCH.mp3",
+            "content": "အသက်ပြင်းပြင်းတစ်ချက်ရှု‌ပေးပါ။",
+            "id": 1744,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Take a deep breath",
+                "id": 77,
+                "summary": "Deep breath"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/e6ec92c11b269a76d110fed3905c07c7_Xyv6TDI.mp3",
+            "content": "ချောင်းပြင်းပြင်းတစ်ချက်ဆိုး‌ပေးပါ။",
+            "id": 1746,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Give me a big cough",
+                "id": 78,
+                "summary": "Big cough"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/65b0ea6826a550fcfff40c179d522b17_l9GZGtM.mp3",
+            "content": "မရုန်းကန်ပါနှင့်။",
+            "id": 1747,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Don’t struggle",
+                "id": 79,
+                "summary": "Don’t struggle"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/e004aa94a6a93eca41f66faa301b5da2_Il5EYOr.mp3",
+            "content": "မလှုပ်ရှားပါနှင့်။",
+            "id": 1748,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Don’t move",
+                "id": 80,
+                "summary": "Don’t move"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5564b89259d627a9f7349a9920e08b55_vkeawIx.mp3",
+            "content": "သင်၏လက်ကိုမြှောက်‌ပေးပါ။",
+            "id": 1749,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Lift up your arm",
+                "id": 81,
+                "summary": "Lift up your arm"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/12a0437eef50329eec44beff7ea50464_TqSdJaa.mp3",
+            "content": "သင်၏ခြေထောက်ကိုမြှောက်‌ပေးပါ။",
+            "id": 1750,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Lift up your leg",
+                "id": 82,
+                "summary": "Lift up your leg"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5725a6b3345c532272e58fcb06d92ea2_I6N37cV.mp3",
+            "content": "ကျွန်ုပ်လက်ကိုညှစ်‌ပေးပါ။",
+            "id": 1752,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Squeeze my hand",
+                "id": 83,
+                "summary": "Squeeze my hand"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c162a04f4b6a89db85600ffd57f3da45_1RJ2EN3.mp3",
+            "content": "လက်‌ ချောင်း၂ ‌ချောင်းကိုထောင်ပြပါ။",
+            "id": 1753,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Show me two fingers",
+                "id": 84,
+                "summary": "Show two fingers"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4b12d0d593b14fcf6285727f6bccdc26_4SunOEE.mp3",
+            "content": "ပါးစပ်ကို ဟပေးပါ။",
+            "id": 1754,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Open your mouth",
+                "id": 85,
+                "summary": "Open mouth"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/29afab5d73d48ff4eccc1c426b469749_oRf0gFQ.mp3",
+            "content": "လျှာကိုအပြင်သို့ထုတ်ပေးပါ။",
+            "id": 1755,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Stick out your tongue",
+                "id": 86,
+                "summary": "Stick out tongue"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/81ec9b7e3adcaa76dc232fe18b4ec0f7_lSThM38.mp3",
+            "content": "သင့်မျက်လုံးများကို ကျယ်ကျယ်ဖွင့်ထားပါ။",
+            "id": 1756,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Open your eyes",
+                "id": 87,
+                "summary": "Open eyes"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

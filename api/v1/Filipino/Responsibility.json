@@ -1,0 +1,72 @@
+{
+    "count": 5,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/34e931b831af7f5ac5901bb38678a21f.mp3",
+            "content": "Mangyaring mapanatili ang mahusay na personal na kalinisan. Hugasan ang iyong mga kamay ng madalas na sabon at tubig. Subukang huwag hawakan ang iyong mga mata, ilong, at bibig. Laging takpan ang iyong bibig kapag umuubo o bumahin.",
+            "id": 1897,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Please maintain good personal hygiene. Wash your hands with soap and water frequently. Try not to touch your eyes, nose, and mouth. Always cover your mouth when coughing or sneezing.",
+                "id": 179,
+                "summary": "Hygine"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6360e0575300daa84bf28ac7a17cb9fc.mp3",
+            "content": "Mangyaring pigilan ang iba sa paggamit ng iyong kutsara, tinidor, plato, mangkok, pagkain. Huwag ring ibahagi ang mga personal na item sa kalinisan tulad ng iyong tuwalya.",
+            "id": 1898,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Please prevent others from using your spoon, fork, plates, bowls, food. Also do not share personal hygiene items like your towel.",
+                "id": 180,
+                "summary": "Sharing"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8b1deb3c4b23757b64c08e9ee3b52056.mp3",
+            "content": "Patuloy na kunin ang mga gamot na inireseta para sa iyo (kung mayroon man).",
+            "id": 1899,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Continue to take the medications prescribed for you (if any).",
+                "id": 181,
+                "summary": "Medication"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a398db8d079ae3070504acf70fba7506.mp3",
+            "content": "Mangyaring uminom ng maraming tubig.",
+            "id": 1900,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Please drink a lot of water.",
+                "id": 182,
+                "summary": "Drink"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f006d2415a35ea6a1874932c7144fe98.mp3",
+            "content": "Panatilihin ang pagsubaybay sa iyong temperatura at sintomas sa bahay.",
+            "id": 1901,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Keep monitoring your temperature and symptoms at home.",
+                "id": 183,
+                "summary": "Monitor"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

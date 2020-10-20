@@ -1,0 +1,46 @@
+{
+    "count": 3,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/9971c8180d01ace282a8e78f9d4d0d3f.mp3",
+            "content": "Saya doktor.\nSaya tak boleh cakap Melayu.\nSaya akan cakap menerusi laman web ini.\nTolong jawab dalam Inggeris sebanyak mungkin.\nTerima kasih.",
+            "id": 949,
+            "language": "Malay",
+            "phrase": {
+                "content": "I am a doctor. I do not speak your language. I will communicate with you using this website. Answer me in English as much as possible. Thank you.",
+                "id": 1,
+                "summary": "Intro"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b6fe87d035d27ec0a42fdebcb331ad81.mp3",
+            "content": "Nama siapa?\r",
+            "id": 950,
+            "language": "Malay",
+            "phrase": {
+                "content": "What's your name?",
+                "id": 2,
+                "summary": "Name"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/18f81e20a00e3c0e3148b4c6329a907e.mp3",
+            "content": "Tolong beri saya Kad Pengenalan / Permit Kerja anda.",
+            "id": 951,
+            "language": "Malay",
+            "phrase": {
+                "content": "Please give me your Identity Card or Work Permit",
+                "id": 3,
+                "summary": "IC"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

@@ -1,0 +1,150 @@
+{
+    "count": 11,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c510ac972086618eddc6ac4097a3f95e.mp3",
+            "content": "COVID-19 là gì? COVID-19 (cụ thể hơn là coronavirus) là một căn bệnh bắt đầu từ thành phố Vũ Hán ở Trung Quốc, đây là một bệnh về đường hô hấp.",
+            "id": 1456,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "What is COVID-19?\r\n\r\nCOVID-19 (more specifically, a coronavirus) is an illness that started from the Wuhan City in China, it is a respiratory illness.",
+                "id": 155,
+                "summary": "What COVID"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ec51c02837d9698367a71b6e91f0f904.mp3",
+            "content": "Các triệu chứng của COVID-19 là gì? Các triệu chứng phổ biến nhất là sốt, mệt mỏi và ho khan. Một số bệnh nhân cũng bị sổ mũi, đau họng hoặc tiêu chảy. Những triệu chứng này thường nhẹ. Một số người bị nhiễm bệnh nhưng không có bất kỳ triệu chứng nào. Tuy nhiên, nó cũng có thể được gây ra bởi nhiễm trùng phổi hoặc viêm phổi.",
+            "id": 1457,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "What are the symptoms of COVID-19?\r\n\r\nThe most common symptoms are fever, tiredness and dry cough. Some patients also have a runny nose, sore throat or diarrhea. These symptoms are usually mild.\r\n\r\nSome people become infected but do not have any symptoms.\r\n\r\nHowever, it also can be caused by a lung infection or pneumonia.",
+                "id": 156,
+                "summary": "What are the symptoms of COVID-19?"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0a5626e4b5acb10b076e8d1a3f3075f2.mp3",
+            "content": "COVID-19 lây lan như thế nào? Mọi người có thể bị nhiễm bởi những người khác đã bị nhiễm COVID-19. Virus lây lan qua ho và hắt hơi. Virus cũng có thể lây lan qua nước bọt từ miệng, đĩa, thìa và dĩa đã sử dụng.",
+            "id": 1458,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "How does COVID-19 spread?\r\n\r\nPeople can be infected by other persons already infected with COVID-19. The virus spreads through cough and sneezing. The virus can also spread with saliva from the mouth, used plates, spoons, and forks.",
+                "id": 157,
+                "summary": "COVID Spread"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5f7cf6442ec6575ecc5090a143e0e150.mp3",
+            "content": "Bài kiểm tra COVID-19 là gì? Đây là một thử nghiệm gạc. Một miếng gạc sẽ được đưa vào lỗ mũi hoặc phía sau cổ họng của bạn. Nó sẽ kéo dài khoảng 10 giây. Có thể có một chút khó chịu, tuy nhiên, nó không quá đau.",
+            "id": 1459,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "What is the test for COVID-19?\r\n\r\nIt is a swab test. A swab will be inserted in your nostrils or at the back of your throat. It will last about 10 seconds. There might be a slight discomfort, however, it is not too painful.",
+                "id": 158,
+                "summary": "COVID-19 Test"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/693e54c476d61087e0d705df86238bbe.mp3",
+            "content": "Nếu tôi có COVID-19 thì sao? Chính quyền sẽ sắp xếp cuộc sống riêng cho bạn hoặc đưa bạn đến bệnh viện. Họ sẽ theo dõi sức khỏe của bạn, cho dù nó đang được cải thiện hay không. X-quang hoặc xét nghiệm máu cũng có thể cần thiết. Thông thường, họ sẽ kiểm tra tăm bông của bạn cứ sau 24 giờ. Nếu bài kiểm tra của bạn âm tính hai lần liên tiếp, bạn sẽ được thả ra. Nhưng sau khi về nhà, bạn phải ở riêng với mọi người trong 2 tuần.",
+            "id": 1460,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "What if I have COVID-19?\r\n\r\nAuthority will make separate living arrangements for you or admit you to a hospital. They will monitor your health, whether it is improving or not. X-ray or blood test may also be needed. Usually, they will test your swab every 24 hours. If your test is negative twice in a row, you will be released. But after going home, you have to stay separate from everyone for 2 weeks.",
+                "id": 159,
+                "summary": "COVID-19 Positive"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f584b46ff05704e3888a79ed3a4d664d.mp3",
+            "content": "Tôi sẽ chết nếu tôi có COVID-19? COVID-19 có thể khiến bạn và gia đình lo lắng. Tuy nhiên, 80% thời gian, nhiễm trùng COVID-19 là nhẹ. Họ thậm chí không cần điều trị. Có một chút rủi ro thiệt hại cho những người già hoặc có vấn đề sức khỏe khác. Chỉ 5% bệnh nhân cần ICU để giúp họ thở.",
+            "id": 1461,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Will I die if I have COVID-19?\r\n\r\nCOVID-19 may make you and your family worried. However, 80% of the time, COVID-19 infections are mild. They do not even need any treatment. There is a slight risk of damage to those who are old or have other health problems. Only 5% of patients need ICU for helping them breathe.",
+                "id": 160,
+                "summary": "Die COVID-19"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a262f021301d4fbb4e6360404d0d1e11.mp3",
+            "content": "Có cách điều trị COVID-19 không? Hầu hết bệnh nhân COVID-19 không cần điều trị. Họ chỉ cần thuốc trị ho, sốt và các triệu chứng khác. Tuy nhiên, đối với 5% bệnh nhân bị bệnh nặng, không có phương pháp điều trị nào được chứng minh. Tuy nhiên, chúng tôi rất gần để khám phá điều trị. Đừng sợ. Nếu bạn có vấn đề về hô hấp, chúng tôi sẽ sử dụng máy để giúp bạn thở. Chúng tôi sẽ cung cấp cho bạn thuốc cho huyết áp.",
+            "id": 1462,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Is there a treatment for COVID-19?\r\n\r\nMost patients of COVID-19 do not need any treatment. They only need medicine for cough, fever and other symptoms. However, for 5% of the patients who are very ill, there are no proven treatments. However, we are very near to discovering treatment. Do not be afraid. If you have problems breathing we will use a machine to help you breathe. We will give you medicine for blood pressure.",
+                "id": 161,
+                "summary": "COVID-19 Treatment"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d52e1644234129573887b546c1457a4a.mp3",
+            "content": "Tôi sẽ phải trả bao nhiêu cho Điều trị? Theo thông báo của Chính phủ Singapore, nếu bạn là công dân Singapore, hoặc thường trú nhân, hoặc người giữ thẻ dài hạn, chính phủ sẽ thanh toán. Vì vậy, ngay cả khi bạn có giấy phép làm việc, chính phủ sẽ trả tiền. Nhưng, nếu bạn rời khỏi Singapore sau ngày 27 tháng 3 năm 2020 và được nhận trong vòng 14 ngày kể từ ngày trở về, chính phủ sẽ không thanh toán hóa đơn của bạn.",
+            "id": 1463,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "How much will I have to pay for Treatment?\r\n\r\nAccording to the announcement of the Singapore Government, if you are a citizen of Singapore, or a permanent resident, or a long term pass holder, the government will pay. So even if you have a work permit, the government will pay. But, if you went out of Singapore after 27 March 2020 and get admitted within 14 days of returning, the government will not pay your bills.",
+                "id": 162,
+                "summary": "Treatment Cost"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/2d9ef923fd4479d1c9ea3d98c776cd49.mp3",
+            "content": "Tôi lo lắng về việc không làm việc. Tôi sẽ mất việc? Chủ lao động của bạn phải cho phép bạn đối xử với pháp luật. Nhà tuyển dụng phải trả lương cho bạn ngay cả khi bạn không thể làm việc ngay bây giờ. Nếu tiền lương của bạn không được trả kịp thời, Chính phủ Singapore có thể có hành động chống lại chủ lao động.",
+            "id": 1464,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "I am worried about not working. Will I lose my job?\r\n\r\nYour employer has to allow your treatment by the law. The employer has to pay your salary even if you cannot work now.  If your salary is not paid timely, the Singapore Government can take action against the employer.",
+                "id": 163,
+                "summary": "Job Loss"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/fbdbec4f69e7b8e7a0ca4dd4972e0eca.mp3",
+            "content": "Tôi sợ và tôi muốn về nhà. Đó là điều tự nhiên để sợ hãi và lo lắng trong giai đoạn này. Bạn phải làm theo hướng dẫn của bác sĩ và Chính phủ vì sự an toàn của gia đình bạn. Chính phủ Singapore đã thu xếp, vì vậy chúng tôi có thể điều trị cho bạn một cách an toàn. Singapore có bệnh viện tốt và điều trị ở đây. Chúng tôi sẽ làm hết sức mình để cung cấp cho bạn điều trị tốt nhất có thể.",
+            "id": 1465,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "I am scared and I want to go home.\r\n\r\nIt is natural to be scared and anxious during this period.\r\n\r\nYou must follow the instructions of doctors and the Government for the safety of your family. The Singapore Government has made arrangements, so we can safely give you treatment. Singapore has good hospitals and treatment here. We will do our best to give you the best treatment possible.",
+                "id": 164,
+                "summary": "Scared"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/2fe1a84a0cdd47dba0843160d865a6ff.mp3",
+            "content": "Làm thế nào tôi có thể ngăn ngừa nhiễm trùng COVID-19? May mắn thay, có một số hành động bạn có thể thực hiện để giảm thiểu nguy cơ nhiễm trùng. Đó là: 1. Rửa tay kỹ bằng xà phòng và nước trong ít nhất 20 giây. 2. Không chạm vào mắt, mũi và miệng. 3. Che miệng và mũi bằng khuỷu tay hoặc khăn giấy khi bạn ho hoặc hắt hơi. 4. Duy trì khoảng cách ít nhất 1 mét giữa bạn và bất kỳ ai khác. 5. Ở nhà nếu bạn cảm thấy không khỏe và tránh xa người khác. Nếu bạn bị sốt, ho hoặc khó thở, vui lòng đi khám sớm.",
+            "id": 1466,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "How can I prevent COVID-19 Infection?\r\n\r\nFortunately, there are some actions you can take to minimize the risk of infection. They are:\r\n\r\n1. Thoroughly washing your hands with soap and water for at least 20 seconds.\r\n2. Do not touch eyes, nose, and mouth.\r\n3. Covering your mouth and nose with your elbow or tissue when you cough or sneeze.\r\n4. Maintaining at least 1 meter distance between yourself and anyone else.\r\n5. Staying home if you feel unwell and keep away from others. If you have a fever, cough or breathing problem, please seek medical attention early.",
+                "id": 165,
+                "summary": "Prevention"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

@@ -1,0 +1,163 @@
+{
+    "count": 12,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ee89e028576abbdb8f5e2922ffa6612b_bBz6X2X.mp3",
+            "content": "Enero",
+            "id": 763,
+            "language": "Filipino",
+            "phrase": {
+                "content": "January",
+                "id": 137,
+                "summary": "January"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/606989bc079c75e630aad22420515827_sKYaPzS.mp3",
+            "content": "Pebrero",
+            "id": 764,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Feb",
+                "id": 138,
+                "summary": "Feb"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/9770bef87b8e55ec297d950e31bd5286_2SgnXKf.mp3",
+            "content": "Marso",
+            "id": 765,
+            "language": "Filipino",
+            "phrase": {
+                "content": "March",
+                "id": 139,
+                "summary": "March"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5e60b5ec40e89b36af60305c59be3a00_J0xhWiM.mp3",
+            "content": "Abril",
+            "id": 766,
+            "language": "Filipino",
+            "phrase": {
+                "content": "April",
+                "id": 140,
+                "summary": "April"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4ec3b69ed63112f7e8865f1e94706f35_TNeeVAB.mp3",
+            "content": "Mayo",
+            "id": 767,
+            "language": "Filipino",
+            "phrase": {
+                "content": "May",
+                "id": 141,
+                "summary": "May"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7f55eef38c5c76340e5bb4fd1b1c5d63_ilEvBS5.mp3",
+            "content": "Hunyo",
+            "id": 768,
+            "language": "Filipino",
+            "phrase": {
+                "content": "June",
+                "id": 142,
+                "summary": "June"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d5aa9fb6094d78d59d3166d66897c5cf_eHhP7gW.mp3",
+            "content": "Hulyo",
+            "id": 769,
+            "language": "Filipino",
+            "phrase": {
+                "content": "July",
+                "id": 143,
+                "summary": "July"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1df861fe51f457b17d0c4508e5cd42b6_uCYUaDh.mp3",
+            "content": "Agosto",
+            "id": 770,
+            "language": "Filipino",
+            "phrase": {
+                "content": "August",
+                "id": 144,
+                "summary": "August"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7e2ef7e6f6a6813a72b7391e0e4470b6_4TJaEFj.mp3",
+            "content": "Setyembre",
+            "id": 771,
+            "language": "Filipino",
+            "phrase": {
+                "content": "September",
+                "id": 145,
+                "summary": "September"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a41f73be40841a6aafda051bd0706203_QC5nB7R.mp3",
+            "content": "Oktubre",
+            "id": 772,
+            "language": "Filipino",
+            "phrase": {
+                "content": "October",
+                "id": 146,
+                "summary": "October"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/fa1f85bbb7e46975cc669bed8786df7b_xVGvuAt.mp3",
+            "content": "Nobyembre",
+            "id": 773,
+            "language": "Filipino",
+            "phrase": {
+                "content": "November",
+                "id": 147,
+                "summary": "November"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/438f42ceef3f7e27a218efea02c70b2e_A3s8Q4O.mp3",
+            "content": "Disyembre",
+            "id": 642,
+            "language": "Filipino",
+            "phrase": {
+                "content": "December",
+                "id": 148,
+                "summary": "December"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

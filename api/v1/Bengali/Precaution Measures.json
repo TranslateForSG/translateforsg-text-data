@@ -1,0 +1,98 @@
+{
+    "count": 7,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/dcefa3c0e539cd6269865602ae808a6f_jmigRU9.mp3",
+            "content": "গণপরিবহন না নেওয়ার চেষ্টা করুন।",
+            "id": 1297,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Please avoid public transport.",
+                "id": 166,
+                "summary": "Transport"
+            },
+            "romanized": "Gonoporibohon na newar cheshta korun.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/26b915a345a37df8241731f08be23d10_SxhQMjn.mp3",
+            "content": "আপনার নিজস্ব পরিবহণ, যেমন ট্যাক্সি বা একটি ভাড়া গাড়ি নিতে পারেন।",
+            "id": 1298,
+            "language": "Bengali",
+            "phrase": {
+                "content": "You can take your own private transport, a taxi or a private hire car.",
+                "id": 167,
+                "summary": "Take Taxi"
+            },
+            "romanized": "Apnar nijossho poribohon, jemon taxi ba ekti bhara gari nite paren.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d10f8f48dc504e8750396120ce9895b2.mp3",
+            "content": "একটি মাস্ক পরুন এবং গাড়ীর পিছনের সিটে একা বসে থাকুন।",
+            "id": 1299,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Wear a mask and sit alone in the back seat in the car.",
+                "id": 168,
+                "summary": "In Car"
+            },
+            "romanized": "Ekti mask porun ebong garir pichoner seat-e eka boshe thakun.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/edf8942ea3122ade60f042c6841551e2_RInp7jJ.mp3",
+            "content": "গাড়ির জানালা খুলুন এবং এ-সি বন্ধ করুন।",
+            "id": 1300,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Open car windows and turn off air-conditioning.",
+                "id": 169,
+                "summary": "No AC"
+            },
+            "romanized": "Garir janala khulun ebong A-C bondho korun.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6c52fc221d7c8623750539fe98086985.mp3",
+            "content": "ট্যাক্সি বা ব্যক্তিগত ভাড়া গাড়ি থেকে রশিদটি নিরাপদে রাখুন। যদি আপনার পরীক্ষার ফলাফলগুলি আপনাকে সংক্রামিত নির্দেশ করে তবে এটির প্রয়োজন হবে।",
+            "id": 1301,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Please safely keep the receipt from the taxi or private hire car. If your test results indicate you are infected, this will be needed.",
+                "id": 170,
+                "summary": "Receipt"
+            },
+            "romanized": "Taxi ba bektigoto bhaara gari theke roshidti nirapod rakhun. Jodi apnar porikkhar folafolguli apnake shongkramito nirdesh kore tobe etir proyojon hobe.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/9eee22a650c2e8b151dbf45fcd177875.mp3",
+            "content": "অন্যের থেকে দূরে থাকুন। আপনার অবশ্যই বাড়িতে থাকতে হবে এবং মেডিকেল ছুটিতে থাকার সময় বাইরে যেতে পারবেন না। আপনি কেবল স্বাস্থ্য বা চিকিত্সার কারণে বাইরে যেতে পারেন।",
+            "id": 1302,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Stay away from others. You must stay home and can not go outside while being on medical leave. You may only go out for health or medical reasons.",
+                "id": 171,
+                "summary": "Isolation"
+            },
+            "romanized": "Onner theke dure thakun. Apnar obosshoi barite thakte hobe ebong medical chuti-te thakar shomoye baere jete parben na. Apni kebol shastho ba chikitshar karone bayre jete parben.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b4bc15c2106532c6f37e3e1b7248efe1_gnrv5JC.mp3",
+            "content": "আপনার পরীক্ষার ফলাফল পাওয়ার আগে যদি আপনার কোনও মেডিকেল অ্যাপয়েন্টমেন্টের প্রয়োজন হয় তবে সাবধান হন। চিকিত্সক, নার্স বা অন্যান্য কর্মীদের বলুন যে আপনি সম্প্রতি COVID-19 এর জন্য পরীক্ষা করেছেন। এছাড়াও, তাদের আপনার লক্ষণগুলি সম্পর্কে বলুন। দিনের আগে, তাদের জানানোর জন্য আপনার কল করা উচিত 6344 8222।",
+            "id": 1303,
+            "language": "Bengali",
+            "phrase": {
+                "content": "If you need to go for any medical appointment before you get your test result, be careful. Tell the doctor, nurse, or other staff that you were recently tested for COVID-19. Also, tell them about your symptoms. Before the day, you should call 6344 8222 to inform them.",
+                "id": 172,
+                "summary": "Medical Appointment"
+            },
+            "romanized": "Apnar porikkhar folafol pawar aage jodi apnar kono medical appointment-er proyojon hoy , tobe shabdhaan hon. Chikitshok, nurse ba onnanno kormider bolun je apni shomproti COVID-19 er jonno porikkha korechen. Echarao, taader apnar lokkhonguli shomporke bolun. Diner aage, taader jananor jonno apnar call kora uchit \"choy-tin-char-char aat-dui-dui-dui\"",
+            "special_note": ""
+        }
+    ]
+}

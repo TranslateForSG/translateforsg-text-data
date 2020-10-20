@@ -1,0 +1,72 @@
+{
+    "count": 5,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1586a09a8a421b488b4a36da01d4ebdf.mp3",
+            "content": "请保持良好个人卫生。经常用水和肥皂洗手，避免触摸眼睛、鼻子和嘴巴。在咳嗽或打喷嚏时，请用纸巾或手肘遮盖嘴巴和鼻子。",
+            "id": 2148,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Please maintain good personal hygiene. Wash your hands with soap and water frequently. Try not to touch your eyes, nose, and mouth. Always cover your mouth when coughing or sneezing.",
+                "id": 179,
+                "summary": "Hygine"
+            },
+            "romanized": "qǐng bǎo chí liáng hǎo gè rén wèi shēng 。 jīng cháng yòng shǔi hé féi zào xǐ shǒu ， bì miǎn hóng mō yǎn jīng 、 bí zǐ hé zǔi bā 。 zài ké sòu huò dǎ pēn tì shí ， qǐng yòng zhǐ jīn huò shǒu zhǒu zhē gài zǔi bā hé bí zǐ 。",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/cd34316f51c933e84270e551265f8746.mp3",
+            "content": "请不要与他人共用食物、餐具或个人卫生用品。",
+            "id": 2149,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Please prevent others from using your spoon, fork, plates, bowls, food. Also do not share personal hygiene items like your towel.",
+                "id": 180,
+                "summary": "Sharing"
+            },
+            "romanized": "qǐng bù yào yǔ tā rén gòng yòng shí wù 、 cān jù huò gè rén wèi shēng yòng pǐn 。",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7717e9d1774887f799dc9a95e01e73cb.mp3",
+            "content": "请继续服用医生给您开的药。",
+            "id": 2133,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Continue to take the medications prescribed for you (if any).",
+                "id": 181,
+                "summary": "Medication"
+            },
+            "romanized": "Qǐng jì xù fú yòng yī shēng gěi nín kāi di yào.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b0600689a166241f2b6e7f903ee14adb.mp3",
+            "content": "记得多喝水",
+            "id": 2150,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Please drink a lot of water.",
+                "id": 182,
+                "summary": "Drink"
+            },
+            "romanized": "jì dé duō hē shǔi",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/927cd00ea5a81f3556e95de8d0319ac8.mp3",
+            "content": "请在家里继续测量体温，注意自己是否有症状",
+            "id": 2151,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Keep monitoring your temperature and symptoms at home.",
+                "id": 183,
+                "summary": "Monitor"
+            },
+            "romanized": "qǐng zài jiā lǐ jì xù cè liàng tǐ wēn ， zhù yì zì jǐ shì fǒu yǒu zhèng zhuàng",
+            "special_note": ""
+        }
+    ]
+}

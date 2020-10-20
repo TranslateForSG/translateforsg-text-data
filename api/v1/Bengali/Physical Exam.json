@@ -1,0 +1,72 @@
+{
+    "count": 5,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0621f4a18a9013a9cfa207bcb6d85718.mp3",
+            "content": "আমি এখন আপনাকে পরীক্ষা করবো।",
+            "id": 43,
+            "language": "Bengali",
+            "phrase": {
+                "content": "I’m going to examine you.",
+                "id": 43,
+                "summary": "Physical Exam Starts"
+            },
+            "romanized": "Ami ekhon apnake porikkha korbo.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c6252fceb66789c193a16a24d3b8946b.mp3",
+            "content": "বেশি বেদনা লাগলে বলুন।",
+            "id": 593,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Tell me if you feel more pain.",
+                "id": 149,
+                "summary": "Tell if Pain"
+            },
+            "romanized": "Beshi bedona lagle bolun.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7982a6a2ac09ff8e868b509d64651651.mp3",
+            "content": "দয়া করে আপনার শার্টটি সরিয়ে দিন।",
+            "id": 597,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Please remove your shirt.",
+                "id": 150,
+                "summary": "Remove Clothing"
+            },
+            "romanized": "Doya kore apnar shirt-ti shoriye din.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_2_4cJh9pj.m4a",
+            "content": "মুখ দিয়ে বড় শ্বাস নিতে থাকেন।",
+            "id": 44,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Keep taking deep breaths through your mouth.",
+                "id": 44,
+                "summary": "Deep Breath"
+            },
+            "romanized": "Mukh diye boro shaash nite thaken.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f9f70f91d3edc881ba36d973c9c6e5b1_eo6fnOz.mp3",
+            "content": "স্টেথো যখন বুকে দিব তখন “৯, ৯” বলবেন।",
+            "id": 45,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Say \"99\" when I listen with my stethoscope.",
+                "id": 45,
+                "summary": "99"
+            },
+            "romanized": "Stetho jokhon buke dibo tokhon \"noy, noy\" bolben.",
+            "special_note": ""
+        }
+    ]
+}

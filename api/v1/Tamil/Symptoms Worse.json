@@ -1,0 +1,72 @@
+{
+    "count": 5,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm244.m4a",
+            "content": "பொது போக்குவரத்தைத் தவிர்த்துவிடுங்கள். ",
+            "id": 2227,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Please avoid public transport.",
+                "id": 166,
+                "summary": "Transport"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm245.m4a",
+            "content": "உங்கள் சொந்த தனியார் போக்குவரத்து வாகனம், வாடகை உந்து வண்டி அதாவது டாக்ஸி அல்லது தனியார் வாடகை உந்துவண்டி, இவற்றில் நீங்கள் பயணம் செய்யலாம்.",
+            "id": 2228,
+            "language": "Tamil",
+            "phrase": {
+                "content": "You can take your own private transport, a taxi or a private hire car.",
+                "id": 167,
+                "summary": "Take Taxi"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm246.m4a",
+            "content": "உங்கள் இருமல் மோசமடைந்து மூச்சுத் திணறல் ஏற்பட்டாலோ, அல்லது உங்களுக்குத் தொடர்ந்து 38 degree celsius -க்கு மேலான காய்ச்சல் இருந்தாலோ ",
+            "id": 2333,
+            "language": "Tamil",
+            "phrase": {
+                "content": "If your cough is getting worse and you feel breathless, or your fever is persistently above 38 degrees Celsius",
+                "id": 184,
+                "summary": "38C"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm247.m4a",
+            "content": "மருத்துவர்கள் பயன்படுத்தும் அறுவை சிகிச்சை முகக்கவசம் அதாவது surgical mask இதை அணிந்துகொண்டு எங்கள் அவசர சிகிச்சை பிரிவுக்கு வந்துவிடுங்கள். ",
+            "id": 2334,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Wear a surgical mask and come to our Emergency Department.",
+                "id": 185,
+                "summary": "Mask"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm248.m4a",
+            "content": "அவசரகாலத்தில், மருத்துவ ஊர்தியை அழைக்க (ambulance) 995 என்ற எண்ணை தொடர்புக்கொள்ளவும். நீங்கள் COVID-19 யோடு  சோதிக்கப்பட்டிருந்தால், மருத்துவ ஊர்தியை இயக்குபவரிடம் தெரிவிக்கவும். நீங்கள் சமீபத்தில் வெளிநாட்டு பயணம் மேற்கொண்டிருந்தால், அதையும் அவரிடம் குறிப்பிடவும்.",
+            "id": 2335,
+            "language": "Tamil",
+            "phrase": {
+                "content": "In an emergency situation, call 995 for an ambulance. Inform the ambulance operator that you were recently tested for COVID-19 and also tell them your travel history.",
+                "id": 187,
+                "summary": "Ambulance"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

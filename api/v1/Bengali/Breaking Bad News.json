@@ -1,0 +1,46 @@
+{
+    "count": 3,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_1_DwnY2pe.mp3",
+            "content": "আপনার কোভিড পরীক্ষা করা হয়েছে এবং আপনার কোভিড হয়েছে",
+            "id": 60,
+            "language": "Bengali",
+            "phrase": {
+                "content": "You have tested positive for coronavirus.",
+                "id": 60,
+                "summary": "Tested Positive"
+            },
+            "romanized": "Apnar COVID porikkha kora hoyeche ebong apnar COVID hoyeche.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/de0164f6096533e2443c3a8171adca6c_9Lv3qjP.mp3",
+            "content": "আমরা আপনাকে হাসপাতালে নিয়ে যাবো",
+            "id": 61,
+            "language": "Bengali",
+            "phrase": {
+                "content": "We will take you to the hospital.",
+                "id": 61,
+                "summary": "Hospital Admission"
+            },
+            "romanized": "Amra apnake haashpatale niye jabo.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_1_h3AFgRK.mp3",
+            "content": "আমরা আপনাকে আলাদা করে রাখতে অন্য এক জায়গায় নিয়ে যাবো",
+            "id": 62,
+            "language": "Bengali",
+            "phrase": {
+                "content": "We will transfer you to an isolation facility.",
+                "id": 62,
+                "summary": "Isolation Facility"
+            },
+            "romanized": "Amra apnake aalada kore rakhte onno jaegae niye jabo.",
+            "special_note": ""
+        }
+    ]
+}

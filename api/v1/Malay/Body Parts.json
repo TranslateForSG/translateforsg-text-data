@@ -1,0 +1,163 @@
+{
+    "count": 12,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/eb0f18b653ce49f7ddcf20eb1d36bf5c.mp3",
+            "content": "Kepala",
+            "id": 1054,
+            "language": "Malay",
+            "phrase": {
+                "content": "Head",
+                "id": 114,
+                "summary": "Head"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/357742da3f7a2fcec0fcffa840db38ce_9vW9bg4.mp3",
+            "content": "Mata",
+            "id": 1055,
+            "language": "Malay",
+            "phrase": {
+                "content": "Eyes",
+                "id": 115,
+                "summary": "Eyes"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/78680da804112991d8254602beec77ad.mp3",
+            "content": "Telinga",
+            "id": 1056,
+            "language": "Malay",
+            "phrase": {
+                "content": "Ears",
+                "id": 116,
+                "summary": "Ears"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/72145611695537542fee15dd67d27902.mp3",
+            "content": "Hidung",
+            "id": 1057,
+            "language": "Malay",
+            "phrase": {
+                "content": "Nose",
+                "id": 117,
+                "summary": "Nose"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d590027b38bca67af1ee2394b06f334e.mp3",
+            "content": "Mulut",
+            "id": 1058,
+            "language": "Malay",
+            "phrase": {
+                "content": "Mouth",
+                "id": 118,
+                "summary": "Mouth"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f19cb3ca0c04f0fdc87703c607cafe06.mp3",
+            "content": "Tekak",
+            "id": 1059,
+            "language": "Malay",
+            "phrase": {
+                "content": "Throat",
+                "id": 119,
+                "summary": "Throat"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/11487ebdbed045a926040bd13dc2d95d.mp3",
+            "content": "Dada",
+            "id": 1060,
+            "language": "Malay",
+            "phrase": {
+                "content": "Chest",
+                "id": 120,
+                "summary": "Chest"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4b9b9fadcea7abec93619599f023166a.mp3",
+            "content": "Perut",
+            "id": 1061,
+            "language": "Malay",
+            "phrase": {
+                "content": "Abdomen",
+                "id": 121,
+                "summary": "Abdomen"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/463f32df44a16aec2ac689429afb800d.mp3",
+            "content": "Belakang",
+            "id": 1062,
+            "language": "Malay",
+            "phrase": {
+                "content": "Back",
+                "id": 122,
+                "summary": "Back"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3cff3b7edc60a7c97cdcaeb8731b9b5e.mp3",
+            "content": "Tangan atau Lengan",
+            "id": 1063,
+            "language": "Malay",
+            "phrase": {
+                "content": "Hand or Arm",
+                "id": 123,
+                "summary": "Arms"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/23c053edf3e38589eed145883b72a70d.mp3",
+            "content": "Kaki",
+            "id": 1064,
+            "language": "Malay",
+            "phrase": {
+                "content": "Legs",
+                "id": 124,
+                "summary": "Legs"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/23c053edf3e38589eed145883b72a70d_5vOCHgY.mp3",
+            "content": "Kaki",
+            "id": 1065,
+            "language": "Malay",
+            "phrase": {
+                "content": "Feet",
+                "id": 125,
+                "summary": "Feet"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

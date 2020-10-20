@@ -1,0 +1,150 @@
+{
+    "count": 11,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/25e301a00a53a5fa645e113f4919017f_ZxUu916.mp3",
+            "content": "এক",
+            "id": 252,
+            "language": "Bengali",
+            "phrase": {
+                "content": "1",
+                "id": 126,
+                "summary": "1"
+            },
+            "romanized": "Ek",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b34d2b7ef5c39e81c9d7bd4aea3e243b_ZootpXv.mp3",
+            "content": "দুই",
+            "id": 253,
+            "language": "Bengali",
+            "phrase": {
+                "content": "2",
+                "id": 127,
+                "summary": "2"
+            },
+            "romanized": "Dui",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/af1bae251429f096f5967d92b9c76fc7_CBAnCE4.mp3",
+            "content": "তিন",
+            "id": 254,
+            "language": "Bengali",
+            "phrase": {
+                "content": "3",
+                "id": 128,
+                "summary": "3"
+            },
+            "romanized": "Tin",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/bdadaa9ba2a705e54a10f4e02636e03c_m6JK7rD.mp3",
+            "content": "চার",
+            "id": 255,
+            "language": "Bengali",
+            "phrase": {
+                "content": "4",
+                "id": 129,
+                "summary": "4"
+            },
+            "romanized": "Char",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3165822d41e76b0cf094005c3f0f32c3_d2imTOU.mp3",
+            "content": "পাঁচ",
+            "id": 256,
+            "language": "Bengali",
+            "phrase": {
+                "content": "5",
+                "id": 130,
+                "summary": "5"
+            },
+            "romanized": "Paach",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c67dcc176107ec492073bcd6bc7c2c31_xGla8he.mp3",
+            "content": "ছয়",
+            "id": 257,
+            "language": "Bengali",
+            "phrase": {
+                "content": "6",
+                "id": 131,
+                "summary": "6"
+            },
+            "romanized": "Choy",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/e1d095fe6568cefbd08c52cdf4421d4a_wK8cZyE.mp3",
+            "content": "সাত",
+            "id": 258,
+            "language": "Bengali",
+            "phrase": {
+                "content": "7",
+                "id": 132,
+                "summary": "7"
+            },
+            "romanized": "Shaat",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/2be79c681b83986aa7242f512ed3c201_6YE3Ibw.mp3",
+            "content": "আট",
+            "id": 259,
+            "language": "Bengali",
+            "phrase": {
+                "content": "8",
+                "id": 133,
+                "summary": "8"
+            },
+            "romanized": "Aat",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/fdea6a1ddadac6d444f2ae2ad05ff72b_QMwdP3i.mp3",
+            "content": "নয়",
+            "id": 260,
+            "language": "Bengali",
+            "phrase": {
+                "content": "9",
+                "id": 134,
+                "summary": "9"
+            },
+            "romanized": "Noy",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0f9b898498c3468dcefcbe50aa994026_upgLWtv.mp3",
+            "content": "দশ",
+            "id": 261,
+            "language": "Bengali",
+            "phrase": {
+                "content": "10",
+                "id": 135,
+                "summary": "10"
+            },
+            "romanized": "Dosh",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a6be8fd613d6b1631faf11d86f97e532_W2peURN.mp3",
+            "content": "শূন্য",
+            "id": 262,
+            "language": "Bengali",
+            "phrase": {
+                "content": "0",
+                "id": 136,
+                "summary": "0"
+            },
+            "romanized": "Shunno",
+            "special_note": ""
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "count": 6,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/9cb631043fcb64192be5a1a7bf81c893.mp3",
+            "content": "过去的十四天内，你是否接触过确诊冠状病毒的患者？",
+            "id": 1965,
+            "language": "Chinese",
+            "phrase": {
+                "content": "In the last 14 days, did you meet anyone who has coronavirus?",
+                "id": 9,
+                "summary": "People"
+            },
+            "romanized": "zài guò qù de shí sì tiān nèi ， ní shì fǒu yǒu yǔ què zhěn de guān zhuàng bìng dú de bìng rén jiē chù guò？",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7f16c88a84aa0dc6b9868ab3827df105.mp3",
+            "content": "有几个人和你住在同一个房间？",
+            "id": 1966,
+            "language": "Chinese",
+            "phrase": {
+                "content": "How many people are staying in the same room as you?",
+                "id": 8,
+                "summary": "Room"
+            },
+            "romanized": "yǒu jī gè rén hé ní zhù zài tóng yī gè fáng jiān ？",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/23df04d2a738662cddea34c2950f62e2.mp3",
+            "content": "是谁？你跟他们是什么关系？",
+            "id": 1967,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Who? What is your relationship with them?",
+                "id": 10,
+                "summary": "People Meet"
+            },
+            "romanized": "rú guǒ yǒu de huà ， qǐng wèn nín yǔ bìng rén shì shěn me guān xī ne？",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/36b6c06fb8706e030ebdec74fd8b8161.mp3",
+            "content": "你是在几天前与病人接触的呢？",
+            "id": 1968,
+            "language": "Chinese",
+            "phrase": {
+                "content": "How many days ago did you meet them?",
+                "id": 11,
+                "summary": "People Meet"
+            },
+            "romanized": "nín shì zài jī tiān qián yǔ bìng rén jiē chù de ne？",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/9bc1a2a291cc271089bf9d03a4a896df.mp3",
+            "content": "你与病人接触的时间有多久？",
+            "id": 1969,
+            "language": "Chinese",
+            "phrase": {
+                "content": "How long were you with him/her?",
+                "id": 12,
+                "summary": "People Meet"
+            },
+            "romanized": "nín yǔ bìng rén jiē chù de shí jiān yǒu duō jǐu？",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a97d2c9f7ff50f028ccb0e3e19d0a68c.mp3",
+            "content": "在过去的十四天内，你是否有出过国还是从其他国家回来到新加坡呢？如果有的话， 请问你去了哪些国家呢？",
+            "id": 1970,
+            "language": "Chinese",
+            "phrase": {
+                "content": "In the last 14 days, did you travel out of Singapore? If yes, tell us the countries in English.",
+                "id": 13,
+                "summary": "14 Days Travel"
+            },
+            "romanized": "zài guò qù de shí sì tiān nèi ， ní shì fǒu yǒu chū guò guó hái shì cóng qí tā guó jiā huí lái dào xīn jiā pō ne？ rú guǒ yǒu de huà，qǐng wèn ní qù le nǎ xiē guó jiā ne？",
+            "special_note": ""
+        }
+    ]
+}

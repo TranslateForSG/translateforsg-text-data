@@ -1,0 +1,189 @@
+{
+    "count": 14,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm82.m4a",
+            "content": "உங்களின் கண்களில் நான் ஒரு ஒளியை காட்டப்போகின்றேன். அது சற்று வெளிச்சமாக இருக்கும்",
+            "id": 2265,
+            "language": "Tamil",
+            "phrase": {
+                "content": "I’m going to shine a light into your eyes. It will be bright.",
+                "id": 88,
+                "summary": "Shine a light into your eyes"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm83.m4a",
+            "content": "உங்களது நுரையீரல் பாதிக்கப்பட்டிருக்கிறது. நீங்கள் சுலபமாக மூச்சு விட நாங்கள் ஒரு சுவாசக் குழாயை பொறுத்தப்போகின்றோம்.",
+            "id": 2266,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Your lungs are weak. We are going to insert a breathing tube to help you breathe",
+                "id": 89,
+                "summary": "Insert a breathing tube"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm84.m4a",
+            "content": "நீங்கள் இப்போது தூங்கப் போகிறீர்கள்.",
+            "id": 2267,
+            "language": "Tamil",
+            "phrase": {
+                "content": "You are going to sleep now",
+                "id": 90,
+                "summary": "Sleep"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm85.m4a",
+            "content": "நீங்கள் சுலபமாக மூச்சு விட (அதாவது உங்களின் நுரையீரலை விரிவாக்க) உங்களை குப்புற படுக்க வைக்கின்றோம் ",
+            "id": 2268,
+            "language": "Tamil",
+            "phrase": {
+                "content": "We are turning you onto your belly to help your lungs expand",
+                "id": 91,
+                "summary": "Turn onto belly"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm86.m4a",
+            "content": "நீங்கள் சிறுநீர் கழிக்க ஒரு குழாயை நாங்கள் பொறுத்தபோகின்றோம்",
+            "id": 2269,
+            "language": "Tamil",
+            "phrase": {
+                "content": "We are inserting a tube to help you pass urine",
+                "id": 92,
+                "summary": "Insert tube urine"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm87.m4a",
+            "content": "நாங்கள் உங்களது மூக்கின் வாயிலாக ஒரு குழாயை நுழைக்க போகின்றோம் ",
+            "id": 2270,
+            "language": "Tamil",
+            "phrase": {
+                "content": "We are inserting a tube through your nose",
+                "id": 93,
+                "summary": "Insert tube nose"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm88.m4a",
+            "content": "உங்களுக்கு மருந்தளிக்க உங்களது கழுத்து பகுதியில் நாங்கள் ஒரு ஊசியை பொறுத்தப்போகின்றோம் ",
+            "id": 2271,
+            "language": "Tamil",
+            "phrase": {
+                "content": "We are going to give you an injection in your neck to give you medications",
+                "id": 94,
+                "summary": "Injection in Neck"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm89.m4a",
+            "content": "உங்களுடைய இரத்த அழுத்தத்தை உறுதிசெய்ய உங்களது கையில் நாங்கள் ஒரு ஊசியை பொறுத்தப்போகின்றோம் ",
+            "id": 2272,
+            "language": "Tamil",
+            "phrase": {
+                "content": "We are going to give you an injection in your arm to measure your blood pressure",
+                "id": 95,
+                "summary": "Measure Blood Pressure"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm90.m4a",
+            "content": "நீங்கள் தூங்குவதற்கு  நாங்கள் உங்களுக்கு தூக்க மருந்தை கொடுக்க போகிறோம்",
+            "id": 2273,
+            "language": "Tamil",
+            "phrase": {
+                "content": "We will give you sleeping medications.",
+                "id": 96,
+                "summary": "Sleeping Meds"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm91.m4a",
+            "content": "நாங்கள் உங்களின் வலியை  நீக்க மருந்து கொடுக்க போகிறோம். ",
+            "id": 2274,
+            "language": "Tamil",
+            "phrase": {
+                "content": "We will give you painkillers.",
+                "id": 97,
+                "summary": "Painkillers"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm92.m4a",
+            "content": "உங்களின் இரத்த அழுத்தத்தை நிலைக்காக்க நாங்கள் இந்த மருந்தை கொடுக்கிறோம் ",
+            "id": 2275,
+            "language": "Tamil",
+            "phrase": {
+                "content": "We are giving you medication to keep your blood pressure up.",
+                "id": 98,
+                "summary": "Blood Pressure Medication"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm93.m4a",
+            "content": "நாங்கள் உங்களுக்கு பொருத்தப்பட்டுள்ள சுவாசக்குழாயை அகற்றப் போகிறோம் ",
+            "id": 2276,
+            "language": "Tamil",
+            "phrase": {
+                "content": "We are going to remove the breathing tube.",
+                "id": 99,
+                "summary": "Remove Tube"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm94.m4a",
+            "content": "நாங்கள் உங்களின் சுவாசக்குழாயிலிருக்கும் சலியை நீக்க போகிறோம்",
+            "id": 2277,
+            "language": "Tamil",
+            "phrase": {
+                "content": "We are going to suck out your phlegm",
+                "id": 100,
+                "summary": "Phlegm suck out"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm95.m4a",
+            "content": "நாங்கள் உங்களது உடலை ஒரு ஸ்பான்ஜ்-ஆல் துடைக்கப்போகிறோம் ",
+            "id": 2278,
+            "language": "Tamil",
+            "phrase": {
+                "content": "We are going to clean you with a sponge",
+                "id": 101,
+                "summary": "Clean with sponge"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

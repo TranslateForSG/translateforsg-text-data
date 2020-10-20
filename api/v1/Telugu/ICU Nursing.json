@@ -1,0 +1,111 @@
+{
+    "count": 8,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a38eb0bb16a968048cbec1671c202479_tdrHTLw.mp3",
+            "content": "ఎడమవైపు తిరగండి",
+            "id": 3009,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Turn left",
+                "id": 102,
+                "summary": "​Turn left"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/486de8ea94d66ad7217bf288130a32d1_svXsZzB.mp3",
+            "content": "కుడివైపుకు తిరగండి",
+            "id": 3010,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Turn right",
+                "id": 103,
+                "summary": "Turn right"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/bd5a1778e05ddb8353f70a13f712c3ec_K85Mikn.mp3",
+            "content": "మేము మీ డైపర్లను మారుస్తాము",
+            "id": 3011,
+            "language": "Telugu",
+            "phrase": {
+                "content": "We will change your diapers",
+                "id": 104,
+                "summary": "We will change your diapers"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5dbbc13730f704fa1586fabcb27ca11e_ILpFYXa.mp3",
+            "content": "మీ కాలు పైకి ఎత్తండి",
+            "id": 3012,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Lift up your leg",
+                "id": 105,
+                "summary": "Lift up your leg"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/77697bdbea5b4340bb80bce69aade92b_FlQ9Axy.mp3",
+            "content": "మేము మిమ్మల్ని కూర్చునేలా చేస్తాము",
+            "id": 3013,
+            "language": "Telugu",
+            "phrase": {
+                "content": "We are going to sit you up",
+                "id": 106,
+                "summary": "We are going to sit you up"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3856526ff881309003deffda2ff25824_HkqjmlE.mp3",
+            "content": "మేము మిమ్మల్ని మంచం మీద పైకి జరుపుబోతున్నాము",
+            "id": 3014,
+            "language": "Telugu",
+            "phrase": {
+                "content": "We are going to shift you up the bed",
+                "id": 107,
+                "summary": "Shift head"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d51c567a9813436b9c18bbadbc394e15_0IJZM1t.mp3",
+            "content": "మేము మీ నోరు శుభ్రం చేయబోతున్నాం",
+            "id": 3015,
+            "language": "Telugu",
+            "phrase": {
+                "content": "We are going to clean your mouth",
+                "id": 108,
+                "summary": "Clean mouth"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/473f62d74f8a3ff1cbab3479f0dfe62c_aZ8mV69.mp3",
+            "content": "మీ నోటిలో ఉన్నదాన్ని మింగకండి",
+            "id": 3016,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Do not swallow the gargle",
+                "id": 109,
+                "summary": "Dont swallow"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "count": 5,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/fd67731ba2eadb3bbfe48520ff28e43a.mp3",
+            "content": "请避免乘坐公共交通工具",
+            "id": 2018,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Please avoid public transport.",
+                "id": 166,
+                "summary": "Transport"
+            },
+            "romanized": "Qǐng bì miǎn chéng zuò gōng gòng jiāo tōng gōng jù",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d27dbdc221359c2037605a73b5255939.mp3",
+            "content": "你可以乘坐私人交通工具、德士或私召车",
+            "id": 2019,
+            "language": "Chinese",
+            "phrase": {
+                "content": "You can take your own private transport, a taxi or a private hire car.",
+                "id": 167,
+                "summary": "Take Taxi"
+            },
+            "romanized": "nǐ kě yǐ chéng zuò sī rén jiāo tōng gōng jù、\ndé shì huò sī zhào chē",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d18b971e79d6b6756d673fc1dc4b404f.mp3",
+            "content": "如果咳嗽恶化，有呼吸困难，或发烧持续在38度以上",
+            "id": 2152,
+            "language": "Chinese",
+            "phrase": {
+                "content": "If your cough is getting worse and you feel breathless, or your fever is persistently above 38 degrees Celsius",
+                "id": 184,
+                "summary": "38C"
+            },
+            "romanized": "rú guǒ ké sòu è huà ， yǒu hū xī kùn nán ， huò fā shāo chí xù zài 3 8 dù yǐ shàng",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/27e9d7599d2c06f7934f3d95e5f8e82a.mp3",
+            "content": "请立刻戴上外科口罩，立即前往医院紧急部门。",
+            "id": 2153,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Wear a surgical mask and come to our Emergency Department.",
+                "id": 185,
+                "summary": "Mask"
+            },
+            "romanized": "qǐng lì kè dài shàng wài kē kǒu zhào ， lì jí qián wǎng yì yuàn jǐn jí bù mén 。",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d2f06e64610f686348397bb745b1c8a3.mp3",
+            "content": "在紧急情况下，请拨995叫救护车。\n请通知医护人员您近期验过冠状病毒。\n若您之前有出国，请您通知医护人员。",
+            "id": 2154,
+            "language": "Chinese",
+            "phrase": {
+                "content": "In an emergency situation, call 995 for an ambulance. Inform the ambulance operator that you were recently tested for COVID-19 and also tell them your travel history.",
+                "id": 187,
+                "summary": "Ambulance"
+            },
+            "romanized": "zài jǐn jí qíng kuàng xià ， qǐng bō 9 9 5 jiào jìu hù chē 。 \n qǐng tōng zhī yì hù rén yuán nín jìn qī yàn guò guān zhuàng bìng dú 。 \n ruò nín zhī qián yǒu chū guó ， qǐng nín tōng zhī yì hù rén yuán 。",
+            "special_note": ""
+        }
+    ]
+}

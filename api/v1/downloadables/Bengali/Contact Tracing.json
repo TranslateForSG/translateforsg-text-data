@@ -1,0 +1,39 @@
+{
+    "count": 4,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "created_at": "2020-05-22T15:41:12.953471+08:00",
+            "description": "Conveniently display at your entrance and exit zones. \r\n\r\nIt is recommended that you insert your SafeEntry QR code in the empty white box before you print the poster.",
+            "downloadable_file": "https://storage.googleapis.com/translateforsg-data/downloadables/Bengali_-_Portrait_SafeEntry_Mobile__Empty_Hxa2Tdf.png",
+            "id": 28,
+            "name": "SafeEntry QR (Business Location)",
+            "updated_at": "2020-05-22T15:45:32.931642+08:00"
+        },
+        {
+            "created_at": "2020-05-22T15:44:09.235094+08:00",
+            "description": "Conveniently display at your scanning entrance and exit zones. This will inform your visitors that they can use their SingPass Mobile app to check-in/out before they enter the premises.\r\n\r\nIt is recommended that you download this poster and print it out in A3 size to display it prominently at your business location.",
+            "downloadable_file": "https://storage.googleapis.com/translateforsg-data/downloadables/Bengali_-_Use_SingPass_Mobile_for_SafeEntry_Check-Ins_-_Poster_-_Final.jpg",
+            "id": 29,
+            "name": "SafeEntry with SingPass Mobile (Business Location)",
+            "updated_at": "2020-05-22T15:44:09.235136+08:00"
+        },
+        {
+            "created_at": "2020-05-22T15:46:23.481473+08:00",
+            "description": "",
+            "downloadable_file": "https://storage.googleapis.com/translateforsg-data/downloadables/Bengali_-_Why_use_TraceTogether.png",
+            "id": 30,
+            "name": "TraceTogether",
+            "updated_at": "2020-05-22T15:46:23.481507+08:00"
+        },
+        {
+            "created_at": "2020-05-22T17:07:23.785082+08:00",
+            "description": "",
+            "downloadable_file": "https://storage.googleapis.com/translateforsg-data/downloadables/Bengali_SafeEntry_NRIC_Instructions_Poster.jpg",
+            "id": 31,
+            "name": "SafeEntry (NRIC/FIN)",
+            "updated_at": "2020-05-22T17:07:23.785117+08:00"
+        }
+    ]
+}

@@ -1,0 +1,150 @@
+{
+    "count": 11,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/46e1751f5029eca05da776b174b706d3_gkp8yw9.mp3",
+            "content": "గత 14 రోజుల్లో, కరోనావైరస్ ఉన్నవారిని మీరు కలిశారా?",
+            "id": 2896,
+            "language": "Telugu",
+            "phrase": {
+                "content": "In the last 14 days, did you meet anyone who has coronavirus?",
+                "id": 9,
+                "summary": "People"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/142cb40cf7ea38043d50b6df311c901d_kWTludB.mp3",
+            "content": "మీ రూములో ఎంతమంది వున్నారు?",
+            "id": 2897,
+            "language": "Telugu",
+            "phrase": {
+                "content": "How many people are staying in the same room as you?",
+                "id": 8,
+                "summary": "Room"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7ded5fa0c3b0ee5cfa130ef4031cf755_j4dTl3i.mp3",
+            "content": "ఎవరిని కలిశారు? వారితో మీ సంబంధం ఏమిటి?",
+            "id": 2898,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Who? What is your relationship with them?",
+                "id": 10,
+                "summary": "People Meet"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/db82e87a7b2e79f74be1a2a4e1c2cae5_sPrhLNI.mp3",
+            "content": "ఎన్ని రోజుల క్రితం మీరు వారిని కలిశారు?",
+            "id": 2899,
+            "language": "Telugu",
+            "phrase": {
+                "content": "How many days ago did you meet them?",
+                "id": 11,
+                "summary": "People Meet"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8f9a7744f5bc8ddf6a39e5313eb0e919_s1NZkPk.mp3",
+            "content": "మీరు కలిసిన వారితో ఎంతకాలం ఉన్నారు?",
+            "id": 2900,
+            "language": "Telugu",
+            "phrase": {
+                "content": "How long were you with him/her?",
+                "id": 12,
+                "summary": "People Meet"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4be4fa9fd7f03005272838fbd21bc0a8_1KIA3SU.mp3",
+            "content": "గత 14 రోజుల్లో, మీరు సింగపూర్ నుండి ప్రయాణించారా? అవును అయితే, దేశాలను ఆంగ్లంలో చెప్పండి.",
+            "id": 2901,
+            "language": "Telugu",
+            "phrase": {
+                "content": "In the last 14 days, did you travel out of Singapore? If yes, tell us the countries in English.",
+                "id": 13,
+                "summary": "14 Days Travel"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d8e2f0ce249e90eafe7e227c5f4ca576_WV3E0Kx.mp3",
+            "content": "మీ లక్షణాలు ప్రారంభమయ్యే 7 రోజుల ముందు మీరు ఏమి చేసారు?",
+            "id": 2902,
+            "language": "Telugu",
+            "phrase": {
+                "content": "What were your activities for last 7 days before onset of symptoms?",
+                "id": 196,
+                "summary": "Activities 7 Days"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/75043089502280528af2dade02cd0f08_pKrfT72.mp3",
+            "content": "మీరు అడ్మిట్ అయ్యే ముoదు వరకు మీ డెయిలీ రొటీను ఏమిటి?",
+            "id": 2903,
+            "language": "Telugu",
+            "phrase": {
+                "content": "What were your activities until admission?",
+                "id": 197,
+                "summary": "Activities Admit"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f121660ad5d5f091945656e831867700.mp3",
+            "content": "వారికి క్లోజుగా ఉన్న వారి వివరాలు మాకు అవసరం.",
+            "id": 2904,
+            "language": "Telugu",
+            "phrase": {
+                "content": "We need the contacts of people who they were close to.",
+                "id": 198,
+                "summary": "Need Contacts"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a1f28c7514bbbcd0f1adbdebec8720df_tS4yzhW.mp3",
+            "content": "గత కొన్ని రోజులుగా మీరు ఎక్కడికి వెళ్లారు?",
+            "id": 2905,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Where have you visited recently? (or maybe nowhere after circuit breaker)",
+                "id": 199,
+                "summary": "Recent Visit"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0ab3e0910dee4b1a866ced248c85d476_EgesYAF.mp3",
+            "content": "మీరు మీ ఆహారాన్ని ఎక్కడ కొంటారు?",
+            "id": 2906,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Where do you buy food?",
+                "id": 200,
+                "summary": "Buy Food"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "count": 8,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f0bbaa32cf5d335f9d08d8df186566ec_p38JKb5.mp3",
+            "content": "আমি এই তুলাটা আপনার নাকের ভিতরে ঢুকিয়ে পরীক্ষা করব। আপনি একটু অস্বস্তি বোধ করবেন কিন্তু খুব বেশি ব্যথা হবে না।",
+            "id": 46,
+            "language": "Bengali",
+            "phrase": {
+                "content": "I'm going to put this cotton bud into your nostrils. You will feel strange but it is not painful.",
+                "id": 46,
+                "summary": "Swabbing"
+            },
+            "romanized": "Ami ei tulata apnar naker bhhitore dhukiye porikkha korbo. Apni ektu oshhosti bodh korben kintu khub beshi betha hobe na.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/e7c96b16a199ecb9c73e4f22c1690df1_GMMlvTR.mp3",
+            "content": "এটি করোনাভাইরাস পরীক্ষা জন্য।",
+            "id": 47,
+            "language": "Bengali",
+            "phrase": {
+                "content": "This is to test for coronavirus",
+                "id": 47,
+                "summary": "Covid"
+            },
+            "romanized": "Eta coronavirus porikkhar jonno.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/bf13129b8339eb06c429c78afd0d4ce9.mp3",
+            "content": "যদি করোনাভাইরাস টেস্ট পজিটিভ হয়, আমরা আগামীকালের মধ্যে আপনাকে ফোন করব।",
+            "id": 49,
+            "language": "Bengali",
+            "phrase": {
+                "content": "If coronavirus positive, we call your phone by tomorrow.",
+                "id": 49,
+                "summary": "Result Collection"
+            },
+            "romanized": "Jodi coronavirus test positive hoy, amra agamikaler moddhe apnake phone korbo.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_6_PBBAymz.m4a",
+            "content": "আপনার মাথাটা অল্প পিছন দিকে কাত করুন।",
+            "id": 48,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Tilt your head back",
+                "id": 48,
+                "summary": "Tilt Head"
+            },
+            "romanized": "Apnar mathata olpo pichhon dike kat korun.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ddb149fdf27074a43220b2bb0257c87d_n2fYt6Y.mp3",
+            "content": "যদি করোনভাইরাস টেস্ট নেগেটিভ হয়, আমরা আপনাকে তিন দিনের মধ্যে “এস এম এস” (SMS) করব।",
+            "id": 605,
+            "language": "Bengali",
+            "phrase": {
+                "content": "If coronavirus negative, we send you an SMS after 3 days.",
+                "id": 152,
+                "summary": "COVID Negative"
+            },
+            "romanized": "Jodi coronavirus test negative hoy, amra apnake tin (3) din er moddhe SMS korbo.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_8_H8WiW9N.m4a",
+            "content": "পরে আপনার এক্স-রে হবে।",
+            "id": 50,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Later, you will do an X-ray",
+                "id": 50,
+                "summary": "X-ray"
+            },
+            "romanized": "Pore apnar X-ray hobe.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/Masterlist_COVID-19_Bengali_9_T3Y7XyZ.m4a",
+            "content": "আপনার এক্স-রেতে কোনও ইনফেকশন নেই।",
+            "id": 51,
+            "language": "Bengali",
+            "phrase": {
+                "content": "There is no sign of infection on your X-ray",
+                "id": 51,
+                "summary": "X-ray OK"
+            },
+            "romanized": "Apnar X-ray te kono infection nei.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b4eeb694e43565369cd78195f75243dc.mp3",
+            "content": "আপনার কোভিড সোয়াব পরীক্ষা নেগেটিভ আসলেও যদি আপনার সর্দি কাশি, জ্বর এর মত লক্ষণ থাকে, আপনাকে আলাদা জায়গায় রাখা হবে।",
+            "id": 2384,
+            "language": "Bengali",
+            "phrase": {
+                "content": "If your COVID Swab is negative but you have symptoms of fever, cough, runny nose, you have to remain in an isolation area.",
+                "id": 201,
+                "summary": "Negative w/ Symptoms"
+            },
+            "romanized": "Apnar covid swab porikkha negative ashle o jodi apnar shordi, kashi, jor-er moto lokkhon thake, apnake alada jaygae rakha hobe.",
+            "special_note": ""
+        }
+    ]
+}

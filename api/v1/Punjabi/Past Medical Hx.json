@@ -1,0 +1,202 @@
+{
+    "count": 15,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": null,
+            "content": "ਕਿ ਤੁਹਾਨੂੰ ਪਹਿਲਾਂ ਤੋਂ ਕੋਈ ਸ਼ਾਰੀਰਿਕ ਸਮਸਿਆ ਹੈ?",
+            "id": 3137,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Do you have any past medical history?",
+                "id": 28,
+                "summary": "Medical History"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਇਸ਼ਾਰਾ ਕਰਕੇ ਦੱਸੋ ਕਿੱਥੇ",
+            "id": 3138,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Point to which ones.",
+                "id": 29,
+                "summary": "Symptoms"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਦਮਾ",
+            "id": 3139,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Asthma",
+                "id": 30,
+                "summary": "Asthma"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਨਿਮੋਨੀਆ",
+            "id": 3140,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Pneumonia",
+                "id": 31,
+                "summary": "Pneumonia"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਬਲੱਡ ਪ੍ਰੈਸ਼ਰ",
+            "id": 3141,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Hypertension",
+                "id": 32,
+                "summary": "Hypertension"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਕੋਲੇਸਟ੍ਰੋਲ",
+            "id": 3142,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Hyperlipidemia / Cholesterol",
+                "id": 33,
+                "summary": "Hyperlipidemia"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਸ਼ੂਗਰ",
+            "id": 3143,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Diabetes",
+                "id": 34,
+                "summary": "Diabetes"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਦਿਲ ਦੀ ਤਕਲੀਫ",
+            "id": 3144,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Heart problems",
+                "id": 35,
+                "summary": "Heart problems"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਗੁਰਦੇ ਦੀ ਤਕਲੀਫ",
+            "id": 3145,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Kidney problems",
+                "id": 36,
+                "summary": "Kidney problems"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਕਿ ਤੁਹਾਨੂੰ ਕਿਸੇ ਦਵਾਈ ਤੋਂ ਐਲਰਜੀ ਹੈ?",
+            "id": 3146,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Do you have a drug allergy?",
+                "id": 37,
+                "summary": "Drug allergy"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਕਿ ਤੁਸੀ ਸਿਗਰਟ ਪੀਂਦੇ ਹੋ? ਜੇ ਹਾਂ, ਫੇਰ ਇੱਕ ਦਿਨ ਵਿਚ ਕਿੰਨੇ ਸਿਗਰਟ ਪੀਂਦੇ ਹੋ?",
+            "id": 3147,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Do you smoke? If yes, how many cigarettes a day?",
+                "id": 38,
+                "summary": "Smoke"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਕੀ ਤੁਸੀਂ ਸ਼ਰਾਬ ਪੀਂਦੇ ਹੋ? ਜੇ ਪੀਂਦੇ ਹੋ ਤਾਂ ਇੱਕ ਹਫ਼ਤੇ ਦੀਆਂ ਕਿੰਨੀਆਂ ਬੋਤਲਾਂ ਪੀਂਦੇ ਹੋ ਤੇ ਕਿਸ ਕਿਸਮ ਦੀ ਸ਼ਰਾਬ ਪੀਂਦੇ ਹੋ?",
+            "id": 3148,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Do you drink? If yes, how much (number of bottles a week, type of alcohol)?",
+                "id": 39,
+                "summary": "Drink Alcohol"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਤੁਹਾਡੀ ਮਨੋਸਥਿਤੀ ਕਿ ਹੈ?",
+            "id": 3149,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "How do you feel emotionally?",
+                "id": 40,
+                "summary": "Emotion Feeling"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਕਿ ਤੁਹਾਨੂੰ ਆਤਮਹੱਤਿਆ ਕਰਨ ਦੇ ਵਿਚਾਰ ਆਉਂਦੇ ਹਨ?",
+            "id": 3150,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "Do you have suicidal thoughts?",
+                "id": 41,
+                "summary": "Suicidal thoughts"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਜੇ ਤੁਹਾਨੂੰ ਕੋਈ ਹੋਰ ਤਕਲੀਫ ਹੈ ਤਾਂ , ਤੁਸੀਂ ਮੈਨੂੰ ਅੰਗਰੇਜ਼ੀ ਵਿਚ ਦੱਸ ਸਕਦੇ ਹੋ.",
+            "id": 3151,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "If you have any other problems, you can tell me in English.",
+                "id": 42,
+                "summary": "Other Problems"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

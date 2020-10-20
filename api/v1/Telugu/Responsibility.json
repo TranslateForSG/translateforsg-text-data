@@ -1,0 +1,72 @@
+{
+    "count": 5,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/98d35c0ac31ca239c30d30a8383c2473.mp3",
+            "content": "చ్లెఅఙ వున్దన్ది. చేతులు సబ్బుతో టి కడుక్కోండి. మోహము, ముక్కు ,కళ్ళు మరియు నోటిని ముట్టుకోకండి. తుమ్ము మరియు దగ్గు వచ్చినప్పుడు కర్చీఫ్ ను లేదా మోచేతిని అడ్డు పెట్టుకోండి",
+            "id": 3059,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Please maintain good personal hygiene. Wash your hands with soap and water frequently. Try not to touch your eyes, nose, and mouth. Always cover your mouth when coughing or sneezing.",
+                "id": 179,
+                "summary": "Hygine"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/04926c778465a68b59f2f819ca75ac32.mp3",
+            "content": "వ్యక్తిగత సామానులు అంటే పళ్లెం, చెంచా, ఫోర్క్, పాత్రలు వంటి వస్తువులను ఇంకొకరితో పంచు కొకండి.",
+            "id": 3060,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Please prevent others from using your spoon, fork, plates, bowls, food. Also do not share personal hygiene items like your towel.",
+                "id": 180,
+                "summary": "Sharing"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/765a5f797f2b14a1ad0431c3e3bd4cd4.mp3",
+            "content": "మీకు డాక్టర్ నిర్దేశించిన మందులు ఉంటే తీసుకోవడము కొనసాగించండి",
+            "id": 3061,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Continue to take the medications prescribed for you (if any).",
+                "id": 181,
+                "summary": "Medication"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5a0caeb05ad57562d2f00fa6e8707889.mp3",
+            "content": "రోజు కి రొండు లీటర్ కన్నా ఎక్కువ నీళ్లు తాగండి",
+            "id": 3062,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Please drink a lot of water.",
+                "id": 182,
+                "summary": "Drink"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/bdd65f62b2e00cd39eef876c4951cb94.mp3",
+            "content": "ఇంట్లో మీ ఉష్ణోగ్రత (టెంపరేచర్) మరియు లక్షణాలు మానిటర్ చేయండి",
+            "id": 3063,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Keep monitoring your temperature and symptoms at home.",
+                "id": 183,
+                "summary": "Monitor"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

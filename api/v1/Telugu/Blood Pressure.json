@@ -1,0 +1,111 @@
+{
+    "count": 8,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d17d8de19f7b8dc8c99eb3d2c84d8dec.mp3",
+            "content": "రక్తపోటు కఫ్‌ను రీడర్ మెషీన్‌కు కనెక్ట్ చేయండి",
+            "id": 3067,
+            "language": "Telugu",
+            "phrase": {
+                "content": "1) Connect the blood pressure cuff to the reader machine.",
+                "id": 188,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/373b8dc035e0a966175595289b5cca82.mp3",
+            "content": "2) కఫ్ మీడా ఉన్న \"అర్రౌ\" చేయి లోపల పక్క కింద వైపుకు పాయింట్ చెయ్యా",
+            "id": 3068,
+            "language": "Telugu",
+            "phrase": {
+                "content": "2) The “arrow” on the the cuff should be pointing downwards on the inside of your arm.",
+                "id": 189,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7cd0fc6c0570cc366cc33061b98e630b.mp3",
+            "content": "(!) కఫ్ ని మీ మోచేతి కి ఒకటి లేక పొతే 2 సెం.మీ. పైన ఉంచండి",
+            "id": 3069,
+            "language": "Telugu",
+            "phrase": {
+                "content": "(!) The cuff should be positioned 1 to 2 cm above your elbow joint.",
+                "id": 190,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/18544a01e067ba5ebd6decc33f53f265.mp3",
+            "content": "3) బిపి కఫ్ మీ చేతికి కుడివైపు కూర్చోవాలి. వేచి ఉండలేము .కాబట్టి ఒక వేలు సరిపోయే చోట వేలు వదిలివేయండి",
+            "id": 3070,
+            "language": "Telugu",
+            "phrase": {
+                "content": "3) The BP cuff should fit snugly onto your arm. It should not feel loose. Leave some space enough for 1 left finger to fit in (for good gauge)",
+                "id": 191,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/017a6e09aeed6e3a626bcad361bf50db.mp3",
+            "content": "4) మీ రక్తపోటు (బ్లడ్ ప్రెషర్) కొలిచేటప్పుడు ట్యూబ్ ని వంచవద్దు లేదా లాగవద్దు",
+            "id": 3071,
+            "language": "Telugu",
+            "phrase": {
+                "content": "4) Do not bend the tube during blood pressure measurement.",
+                "id": 192,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/199af78501f0a7f3115881afd48a0fad.mp3",
+            "content": "5) మీ రక్తపోటు (బ్లడ్ ప్రెషర్)  కొలిచేటప్పుడు మీ చేతిని టేబుల్ పైన విశ్రాంతి గ ఉంచండి.",
+            "id": 3072,
+            "language": "Telugu",
+            "phrase": {
+                "content": "5) Relax & Rest your entire arm on a table while measuring your blood pressure.",
+                "id": 193,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7a14b8ce6b2db01098fd2db499e66934.mp3",
+            "content": "6) \"Start / stop\" బటన్ నొక్కి మీ బిపి కొలత ప్రారంభించండి.1 నిమిషం మూడు సంఖ్యలు కనిపించే వరకు ఆగండి",
+            "id": 3073,
+            "language": "Telugu",
+            "phrase": {
+                "content": "6) Press the “Start/Stop” button to start measuring your BP. Wait for 1 minute until 3 numbers appear.",
+                "id": 194,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/deff3618e46b44ac38ba6f276bd65405.mp3",
+            "content": "7) అన్నిటి కన్నా పైన సంఖ్య మీ \"\"సిస్టోలిక్ BP\"\",\n మధ్య సంఖ్య మీ 'డయాస్టాలిక్ BP' మరియు క్రింద సంఖ్య మీ పల్స్ రేటు",
+            "id": 3074,
+            "language": "Telugu",
+            "phrase": {
+                "content": "7) The top number is your Systolic blood pressure. The middle number is your Diastolic blood pressure. The bottom number is your Pulse rate.",
+                "id": 195,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

@@ -1,0 +1,2490 @@
+{
+    "count": 191,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/de4ff5030fbb7013fd5463532340b6da.mp3",
+            "content": "मैं एक डॉक्टर हूँ। मैं आपकी भाषा नहीं बोलता। मैं इस वेबसाइट का उपयोग करके आपसे संवाद करूंगा। जितना हो सके अंग्रेजी में मुझे जवाब दो। धन्यवाद।",
+            "id": 186,
+            "language": "Hindi",
+            "phrase": {
+                "content": "I am a doctor. I do not speak your language. I will communicate with you using this website. Answer me in English as much as possible. Thank you.",
+                "id": 1,
+                "summary": "Intro"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/df4021b1bd3507a74f3a854bfe4dad6f.mp3",
+            "content": "तुम्हारा नाम क्या है?",
+            "id": 125,
+            "language": "Hindi",
+            "phrase": {
+                "content": "What's your name?",
+                "id": 2,
+                "summary": "Name"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ef33c0a28915962be1961162ed748029.mp3",
+            "content": "कृपया मुझे अपना आइडेंटिटी कार्ड या वर्क परमिट दें",
+            "id": 126,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Please give me your Identity Card or Work Permit",
+                "id": 3,
+                "summary": "IC"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/22bae4c2c504a4659da1e7748db01355.mp3",
+            "content": "आप किस कंपनी के तहत / काम के लिए कार्यरत हैं?",
+            "id": 127,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Which company are you employed under / work for?",
+                "id": 4,
+                "summary": "Company"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/45b0b10d2d284ea57ef432d00ce89a62.mp3",
+            "content": "आपके पर्यवेक्षक का नाम और संपर्क नंबर क्या है?",
+            "id": 128,
+            "language": "Hindi",
+            "phrase": {
+                "content": "What is your supervisor’s name and contact number?",
+                "id": 5,
+                "summary": "Supervisor"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c6a127bcfa19f4dad1649a24279ed011.mp3",
+            "content": "आप सिंगापुर में कहाँ रहते हैं?",
+            "id": 129,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Where do you live in Singapore?",
+                "id": 6,
+                "summary": "Residence"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/78fe0f81844bf9982fc90336291fd887.mp3",
+            "content": "क्या आप जानते हैं कि कोई संक्रमित रोगी आपके क्षेत्र से है?",
+            "id": 140,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Do you know if any infected patients are from your area?",
+                "id": 7,
+                "summary": "Cluster"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c17ffd5e934c08a6457cea7b37174aed.mp3",
+            "content": "पिछले 14 दिनों में, क्या आपने किसी ऐसे व्यक्ति से मुलाकात की है जिसके पास कोरोनवायरस है?",
+            "id": 130,
+            "language": "Hindi",
+            "phrase": {
+                "content": "In the last 14 days, did you meet anyone who has coronavirus?",
+                "id": 9,
+                "summary": "People"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f26d2a0cc577affe392c2b8cec186434.mp3",
+            "content": "आप के रूप में एक ही कमरे में कितने लोग रह रहे हैं?",
+            "id": 141,
+            "language": "Hindi",
+            "phrase": {
+                "content": "How many people are staying in the same room as you?",
+                "id": 8,
+                "summary": "Room"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1ead2a7a19eed5c19078e562d3da89d4.mp3",
+            "content": "Who? उनसे आपका क्या रिश्ता है?",
+            "id": 139,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Who? What is your relationship with them?",
+                "id": 10,
+                "summary": "People Meet"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/14b59082f963d5136812120c4a5c3f38.mp3",
+            "content": "आप कितने दिन पहले उनसे मिले थे?",
+            "id": 131,
+            "language": "Hindi",
+            "phrase": {
+                "content": "How many days ago did you meet them?",
+                "id": 11,
+                "summary": "People Meet"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/e230f5b9895f0be8dc375acb09d57e2b.mp3",
+            "content": "आप कब तक उसके साथ थे?",
+            "id": 132,
+            "language": "Hindi",
+            "phrase": {
+                "content": "How long were you with him/her?",
+                "id": 12,
+                "summary": "People Meet"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c82f52d5455a10e66174084d512b0ece.mp3",
+            "content": "पिछले 14 दिनों में, क्या आपने सिंगापुर की यात्रा की? यदि हाँ, तो हमें अंग्रेजी में देशों को बताएं।",
+            "id": 133,
+            "language": "Hindi",
+            "phrase": {
+                "content": "In the last 14 days, did you travel out of Singapore? If yes, tell us the countries in English.",
+                "id": 13,
+                "summary": "14 Days Travel"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f13a7fc261e2d51fd7f9b385078b547c.mp3",
+            "content": "क्या आप को बुखार है?",
+            "id": 134,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Do you have a fever?",
+                "id": 14,
+                "summary": "Fever"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/502c1a46969153be7232f49475dfb72e.mp3",
+            "content": "कितने दिन?",
+            "id": 135,
+            "language": "Hindi",
+            "phrase": {
+                "content": "How many days?",
+                "id": 15,
+                "summary": "Length"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6ba1008a52a8cda2e229d7e7bb8daa47.mp3",
+            "content": "क्या आपने इसे थर्मामीटर से मापा? यदि आपने किया, तो सबसे अधिक पढ़ने वाला क्या था?",
+            "id": 136,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Did you measure it with a thermometer? If you did, what was the highest reading?",
+                "id": 16,
+                "summary": "Reading"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/72f45817f4a8c005c64f53bee220323b.mp3",
+            "content": "बहती नाक?",
+            "id": 137,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Runny nose?",
+                "id": 17,
+                "summary": "Runny nose"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6af06903f2f844948eac1308f63b6505.mp3",
+            "content": "खांसी?",
+            "id": 138,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Cough?",
+                "id": 18,
+                "summary": "Cough"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/70775774e020864beb938f5855cf650d.mp3",
+            "content": "गले में खरास?",
+            "id": 142,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Sore throat?",
+                "id": 19,
+                "summary": "Sore throat"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7313c8fef0924ab2c758bcded3eb37e1.mp3",
+            "content": "सांस लेने मे तकलीफ?",
+            "id": 143,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Difficulty breathing?",
+                "id": 20,
+                "summary": "Breathing"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/da6a356e8caa2e7ec3cab286ec4ea266.mp3",
+            "content": "ठीक से बदबू नहीं आ रही?",
+            "id": 144,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Cannot smell properly?",
+                "id": 21,
+                "summary": "Anosmia"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a73e0f5dc517fa5d5bb2a045b7ed7fbf.mp3",
+            "content": "क्या आपको मुंह में कम स्वाद महसूस होता है?",
+            "id": 145,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Do you feel less taste in the mouth?",
+                "id": 22,
+                "summary": "Ageusia"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/fce7975a38c6fece168c1b4964625c98.mp3",
+            "content": "क्या आपको दस्त / डायरिया है? दिन मे कितने बार?",
+            "id": 146,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Do you have diarrhoea / diarrhea? How many times a day?",
+                "id": 23,
+                "summary": "diarrhoea"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/2764aedc42c42fc20bcdafc3321f59ec.mp3",
+            "content": "त्वचा लाल चकत्ते या खुजली?",
+            "id": 147,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Skin Rash or Itching?",
+                "id": 24,
+                "summary": "Rash"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/141a10c33935aa6d60b28991e7b1e6dd.mp3",
+            "content": "क्या आपके शरीर पर कोई दर्द है?",
+            "id": 148,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Do you have any pain on your body?",
+                "id": 25,
+                "summary": "Pain"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5c9e679cc1f41d888ccc558baa07b19d.mp3",
+            "content": "विशेष रूप से, किसी भी सीने में दर्द?",
+            "id": 149,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Specifically, any chest pain?",
+                "id": 26,
+                "summary": "Chest Pain"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d67b4e6dc1e6eedfa768ae60edede8c5.mp3",
+            "content": "जगह की ओर इशारा करते हैं।",
+            "id": 150,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Point to the place.",
+                "id": 27,
+                "summary": "Point Out"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/84fa798a34d8c9d959da73b48e5bce52.mp3",
+            "content": "क्या आपका कोई पिछला चिकित्सा इतिहास है?",
+            "id": 156,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Do you have any past medical history?",
+                "id": 28,
+                "summary": "Medical History"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/353c4b5a5e490e308d32e4a573a21ab3.mp3",
+            "content": "किस ओर इशारा करें।",
+            "id": 157,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Point to which ones.",
+                "id": 29,
+                "summary": "Symptoms"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c92e54edb0c4473eae74b3d5f5f72f5f.mp3",
+            "content": "दमा",
+            "id": 151,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Asthma",
+                "id": 30,
+                "summary": "Asthma"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/fd3dbe6bce8b7fe96a0a0fa63dde349e.mp3",
+            "content": "न्यूमोनिया",
+            "id": 152,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Pneumonia",
+                "id": 31,
+                "summary": "Pneumonia"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/58b8b0ef706cd7387c3bdf7ce0f07c7d.mp3",
+            "content": "उच्च रक्तचाप",
+            "id": 153,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Hypertension",
+                "id": 32,
+                "summary": "Hypertension"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b135289e52351e5d6a886977dcce4e5a.mp3",
+            "content": "हाइपरलिपिडिमिया / कोलेस्ट्रॉल",
+            "id": 154,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Hyperlipidemia / Cholesterol",
+                "id": 33,
+                "summary": "Hyperlipidemia"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d0a33a12ebd26d466658125e472fbace.mp3",
+            "content": "मधुमेह",
+            "id": 155,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Diabetes",
+                "id": 34,
+                "summary": "Diabetes"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d7e2e6f3b64c70a88a426509c1bf59e8.mp3",
+            "content": "हृदय की समस्याएं",
+            "id": 158,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Heart problems",
+                "id": 35,
+                "summary": "Heart problems"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/87bcef9dcb74aae5f503af2b3b6d8c02.mp3",
+            "content": "गुर्दे से संबंधित समस्याएं",
+            "id": 159,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Kidney problems",
+                "id": 36,
+                "summary": "Kidney problems"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/69756531d99badc87cf9000ea8a8ed35.mp3",
+            "content": "क्या आपके पास ड्रग एलर्जी है?",
+            "id": 160,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Do you have a drug allergy?",
+                "id": 37,
+                "summary": "Drug allergy"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/205f3d90246e6795d199c125fff41f45.mp3",
+            "content": "क्या आप धूम्रपान करते हैं? यदि हाँ, तो एक दिन में कितनी सिगरेट?",
+            "id": 161,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Do you smoke? If yes, how many cigarettes a day?",
+                "id": 38,
+                "summary": "Smoke"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8072eff3fa898bb7048db0e1ff55c9fb.mp3",
+            "content": "क्या आप पीते हैं? यदि हाँ, तो सप्ताह में कितनी (बोतलों की संख्या, शराब का प्रकार)?",
+            "id": 162,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Do you drink? If yes, how much (number of bottles a week, type of alcohol)?",
+                "id": 39,
+                "summary": "Drink Alcohol"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/072d536885d0693643c25455c5ec9415.mp3",
+            "content": "आप भावनात्मक रूप से कैसा महसूस करते हैं?",
+            "id": 163,
+            "language": "Hindi",
+            "phrase": {
+                "content": "How do you feel emotionally?",
+                "id": 40,
+                "summary": "Emotion Feeling"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1338a40cbe8fcc3e3e4acb2f6480157c.mp3",
+            "content": "क्या आपके पास आत्महत्या के विचार हैं?",
+            "id": 164,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Do you have suicidal thoughts?",
+                "id": 41,
+                "summary": "Suicidal thoughts"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b679fb7b661ecc9550af8722591c8eeb.mp3",
+            "content": "यदि आपको कोई अन्य समस्या है, तो आप मुझे अंग्रेजी में बता सकते हैं।",
+            "id": 165,
+            "language": "Hindi",
+            "phrase": {
+                "content": "If you have any other problems, you can tell me in English.",
+                "id": 42,
+                "summary": "Other Problems"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/16953d0ef98a7b7260c9a4b213392dbc.mp3",
+            "content": "मैं तुम्हारी जांच करने जा रहा हूं।",
+            "id": 166,
+            "language": "Hindi",
+            "phrase": {
+                "content": "I’m going to examine you.",
+                "id": 43,
+                "summary": "Physical Exam Starts"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/046119ec9711af50685ecd0e67775837.mp3",
+            "content": "अगर आपको ज्यादा दर्द महसूस हो तो मुझे बताएं।",
+            "id": 595,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Tell me if you feel more pain.",
+                "id": 149,
+                "summary": "Tell if Pain"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/df0c4efb913d0374917fbe1e18d71425.mp3",
+            "content": "कृपया अपनी शर्ट उतार दें।",
+            "id": 599,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Please remove your shirt.",
+                "id": 150,
+                "summary": "Remove Clothing"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/07418918f90735c3330898ee0ef1841d.mp3",
+            "content": "अपने मुँह से गहरी साँसें लेते रहें।",
+            "id": 167,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Keep taking deep breaths through your mouth.",
+                "id": 44,
+                "summary": "Deep Breath"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/db6a3d8958d76aae42f17af3a5c722a0.mp3",
+            "content": "99 कहो जब मैं अपने स्टेथोस्कोप के साथ सुनता हूं।",
+            "id": 168,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Say \"99\" when I listen with my stethoscope.",
+                "id": 45,
+                "summary": "99"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/002858a6dadce5c5e63abe0946009bd4.mp3",
+            "content": "मैं इस सूती कली को तुम्हारे नासिका में डालने जा रहा हूँ। आपको अजीब लगेगा लेकिन यह दर्दनाक नहीं है।",
+            "id": 169,
+            "language": "Hindi",
+            "phrase": {
+                "content": "I'm going to put this cotton bud into your nostrils. You will feel strange but it is not painful.",
+                "id": 46,
+                "summary": "Swabbing"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/daeb8e557d110c1cead06329a2fd10f0.mp3",
+            "content": "यह कोरोनावायरस के लिए परीक्षण करना है",
+            "id": 170,
+            "language": "Hindi",
+            "phrase": {
+                "content": "This is to test for coronavirus",
+                "id": 47,
+                "summary": "Covid"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f809a76da739978c44a8d5112aafa613.mp3",
+            "content": "यदि कोरोनोवायरस पॉजिटिव है, तो हम आपके फोन को कल तक कॉल करते हैं।",
+            "id": 172,
+            "language": "Hindi",
+            "phrase": {
+                "content": "If coronavirus positive, we call your phone by tomorrow.",
+                "id": 49,
+                "summary": "Result Collection"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b6221ef59ecd7a33e2a7376605f84897.mp3",
+            "content": "अपने सिर को पीछे झुकाएं",
+            "id": 171,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Tilt your head back",
+                "id": 48,
+                "summary": "Tilt Head"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/20b71c8d20a6a36a8e443e308417c24b.mp3",
+            "content": "यदि कोरोनावायरस नकारात्मक है, तो हम आपको 3 दिनों के बाद एक एसएमएस भेजते हैं।",
+            "id": 607,
+            "language": "Hindi",
+            "phrase": {
+                "content": "If coronavirus negative, we send you an SMS after 3 days.",
+                "id": 152,
+                "summary": "COVID Negative"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/382ed3bf4529e8aee0c10a7c843299b9.mp3",
+            "content": "बाद में, आप एक एक्स-रे करेंगे",
+            "id": 173,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Later, you will do an X-ray",
+                "id": 50,
+                "summary": "X-ray"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/2da669d30d9220777fde2792be4f292a.mp3",
+            "content": "आपके एक्स-रे पर संक्रमण का कोई संकेत नहीं है",
+            "id": 174,
+            "language": "Hindi",
+            "phrase": {
+                "content": "There is no sign of infection on your X-ray",
+                "id": 51,
+                "summary": "X-ray OK"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/9baaf7030418d0bd0865845e0ea4adad.mp3",
+            "content": "आप जल्द ही वापस जा सकते हैं।",
+            "id": 175,
+            "language": "Hindi",
+            "phrase": {
+                "content": "You can go back soon.",
+                "id": 52,
+                "summary": "Can go back"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0f30d7daf14ed4ea343acbda17b366dd.mp3",
+            "content": "यहां रुको, इस क्षेत्र को मत छोड़ो",
+            "id": 176,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Wait here, do not leave this area",
+                "id": 53,
+                "summary": "Wait Patient"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/402d8f549e7799b7a485ba87a3ef314e.mp3",
+            "content": "आपको कुछ दिनों तक अस्पताल में रहना होगा",
+            "id": 177,
+            "language": "Hindi",
+            "phrase": {
+                "content": "You have to stay in the hospital for a few days",
+                "id": 54,
+                "summary": "Hospital Stay"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f2109b1e0954d1e409054d4c24223eb9.mp3",
+            "content": "मैं आपको बेहतर महसूस कराने के लिए दवा दूंगा",
+            "id": 178,
+            "language": "Hindi",
+            "phrase": {
+                "content": "I'll give you medicine to make you feel better",
+                "id": 55,
+                "summary": "Medicine"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/80ac5f4733466512404d8448c50bb026.mp3",
+            "content": "सांस लेने में समस्या होने पर आपको वापस आना चाहिए।",
+            "id": 180,
+            "language": "Hindi",
+            "phrase": {
+                "content": "You must come back if you have problems with breathing.",
+                "id": 57,
+                "summary": "Problem after 5 days"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/70735b4773792521fc9e1876fe8c1f09.mp3",
+            "content": "आपको अगले 5 दिनों तक काम नहीं करना चाहिए।",
+            "id": 179,
+            "language": "Hindi",
+            "phrase": {
+                "content": "You must not work for the next 5 days.",
+                "id": 56,
+                "summary": "No work 5 days"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/30d8c96ffa5dc167f9756dc866635034.mp3",
+            "content": "5 दिनों के बाद पूरी तरह से ठीक नहीं होने पर आपको वापस आना होगा।",
+            "id": 603,
+            "language": "Hindi",
+            "phrase": {
+                "content": "You must come back if you do not recover completely after 5 days.",
+                "id": 151,
+                "summary": "Come back 5 days"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/781b9e8f43cd185cb97d3c467be9bb12.mp3",
+            "content": "हैंडआउट को ध्यान से पढ़ें",
+            "id": 181,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Read the handout carefully",
+                "id": 58,
+                "summary": "Handout"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/29db52969d3985965cd01dc51b235ede.mp3",
+            "content": "धन्यवाद",
+            "id": 182,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Thank you",
+                "id": 59,
+                "summary": "Thank you"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/801756381dfa2072d5292ddbb9189190.mp3",
+            "content": "कृपया सार्वजनिक परिवहन से बचें।",
+            "id": 1861,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Please avoid public transport.",
+                "id": 166,
+                "summary": "Transport"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d008583019d5639da8346261b7c511bc.mp3",
+            "content": "आप अपना निजी परिवहन, टैक्सी या निजी किराए की कार ले सकते हैं।",
+            "id": 1862,
+            "language": "Hindi",
+            "phrase": {
+                "content": "You can take your own private transport, a taxi or a private hire car.",
+                "id": 167,
+                "summary": "Take Taxi"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b29fe2f0574eacb5c85bbfbb33ee2101.mp3",
+            "content": "मास्क पहनें और कार में पीछे की सीट पर अकेले बैठें।",
+            "id": 1863,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Wear a mask and sit alone in the back seat in the car.",
+                "id": 168,
+                "summary": "In Car"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8eeaee7181be1a4b2b3088736f6bd3dd.mp3",
+            "content": "कार की खिड़कियां खोलें और एयर कंडीशनिंग बंद करें।",
+            "id": 1864,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Open car windows and turn off air-conditioning.",
+                "id": 169,
+                "summary": "No AC"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/742bad1c4aa4647faa3924698309636f.mp3",
+            "content": "कृपया टैक्सी या निजी भाड़े की कार से रसीद सुरक्षित रखें। यदि आपके परीक्षा परिणाम आपको संक्रमित होने का संकेत देते हैं, तो इसकी आवश्यकता होगी।",
+            "id": 1865,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Please safely keep the receipt from the taxi or private hire car. If your test results indicate you are infected, this will be needed.",
+                "id": 170,
+                "summary": "Receipt"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ed336f1f95c082d1b78f989a3826b3bd.mp3",
+            "content": "दूसरों से दूर रहें। आपको चिकित्सा अवकाश पर रहने के दौरान घर रहना चाहिए और बाहर नहीं जा सकते। आप केवल स्वास्थ्य या चिकित्सा कारणों से बाहर जा सकते हैं।",
+            "id": 1866,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Stay away from others. You must stay home and can not go outside while being on medical leave. You may only go out for health or medical reasons.",
+                "id": 171,
+                "summary": "Isolation"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4902d84ed11ef07f06c548f3814dc432.mp3",
+            "content": "यदि आपको अपना परीक्षण परिणाम प्राप्त करने से पहले किसी भी चिकित्सा नियुक्ति के लिए जाने की आवश्यकता है, तो सावधान रहें। डॉक्टर, नर्स या अन्य कर्मचारियों को बताएं कि आपको हाल ही में COVID-19 के लिए परीक्षण किया गया था। इसके अलावा, उन्हें अपने लक्षणों के बारे में बताएं। दिन से पहले, आपको उन्हें सूचित करने के लिए 6344 8222 पर कॉल करना चाहिए।",
+            "id": 1867,
+            "language": "Hindi",
+            "phrase": {
+                "content": "If you need to go for any medical appointment before you get your test result, be careful. Tell the doctor, nurse, or other staff that you were recently tested for COVID-19. Also, tell them about your symptoms. Before the day, you should call 6344 8222 to inform them.",
+                "id": 172,
+                "summary": "Medical Appointment"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/480842f471ff0c0b173b94e1101a0620.mp3",
+            "content": "आपने कोरोनावायरस के लिए सकारात्मक परीक्षण किया है।",
+            "id": 183,
+            "language": "Hindi",
+            "phrase": {
+                "content": "You have tested positive for coronavirus.",
+                "id": 60,
+                "summary": "Tested Positive"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0a3fc4b36ebe253807137579a8e48cbc.mp3",
+            "content": "हम आपको अस्पताल ले जाएंगे।",
+            "id": 184,
+            "language": "Hindi",
+            "phrase": {
+                "content": "We will take you to the hospital.",
+                "id": 61,
+                "summary": "Hospital Admission"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c8575df520dc44736434c03faec0a6d5.mp3",
+            "content": "हम आपको एक अलगाव सुविधा प्रदान करेंगे।",
+            "id": 185,
+            "language": "Hindi",
+            "phrase": {
+                "content": "We will transfer you to an isolation facility.",
+                "id": 62,
+                "summary": "Isolation Facility"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f2b2c8e00ee9f74057ba3aa633e04ce4.mp3",
+            "content": "शुभ प्रभात",
+            "id": 361,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Good morning",
+                "id": 64,
+                "summary": "Morning"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6cb699c78cb10474a41959b690580d4b.mp3",
+            "content": "सुसंध्या",
+            "id": 1476,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Good Evening",
+                "id": 173,
+                "summary": "Evening"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7bf47dcd8703244771a9edd160910aed.mp3",
+            "content": "नमस्कार",
+            "id": 1483,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Good Afternoon",
+                "id": 174,
+                "summary": "Afternoon"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ca9275888fb5ee311a95411fefc626b9.mp3",
+            "content": "मैं नर्स हूं",
+            "id": 362,
+            "language": "Hindi",
+            "phrase": {
+                "content": "I am the nurse",
+                "id": 65,
+                "summary": "Nurse"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/03986f22b0e9a5025e6d8d74bd41a571.mp3",
+            "content": "मैं एक डॉक्टर हूं",
+            "id": 363,
+            "language": "Hindi",
+            "phrase": {
+                "content": "I am the doctor",
+                "id": 66,
+                "summary": "Doctor"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c69964932c1fccb8ba6302db5012b829.mp3",
+            "content": "आप गहन चिकित्सा इकाई में हैं।",
+            "id": 364,
+            "language": "Hindi",
+            "phrase": {
+                "content": "You are in the intensive care unit.",
+                "id": 67,
+                "summary": "In ICU"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/83bce3934d07df1ef3de57db9c36a0bd.mp3",
+            "content": "आज सोमवार है",
+            "id": 365,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Today is Monday",
+                "id": 68,
+                "summary": "Monday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b77c7f9d0115074c13b441c9426c8cb6.mp3",
+            "content": "आज मंगलवार है",
+            "id": 366,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Today is Tuesday",
+                "id": 69,
+                "summary": "Tuesday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/fde1af42daef9d9aed9f3251e18b0e13.mp3",
+            "content": "आज बुधवार है",
+            "id": 367,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Today is Wednesday",
+                "id": 70,
+                "summary": "Wednesday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5be8a1d19ac6544439586398f1e405a8.mp3",
+            "content": "आज गुरूवार है",
+            "id": 368,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Today is Thursday",
+                "id": 71,
+                "summary": "Thursday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/72ae68963f684c791cb78151747b868a.mp3",
+            "content": "आज शुक्रवार है",
+            "id": 369,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Today is Friday",
+                "id": 72,
+                "summary": "Friday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3ce84e95833df06a05d66bd1829a25b3.mp3",
+            "content": "आज शनिवार है",
+            "id": 370,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Today is Saturday",
+                "id": 73,
+                "summary": "Saturday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/119cf2efb476304705828ce8fb2c6e5e.mp3",
+            "content": "आज रविवार है",
+            "id": 371,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Today is Sunday",
+                "id": 74,
+                "summary": "Sunday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3ef1bee52e7bf5ad52298a73df39dffc.mp3",
+            "content": "तुम ठीक हो रहे हो",
+            "id": 611,
+            "language": "Hindi",
+            "phrase": {
+                "content": "You are getting better",
+                "id": 153,
+                "summary": "Getting Better"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4bccb56128017e4f0beb63c18e193bf4.mp3",
+            "content": "जब आप बेहतर होंगे तो हम श्वास नली को निकाल देंगे",
+            "id": 372,
+            "language": "Hindi",
+            "phrase": {
+                "content": "We will remove the breathing tube when you are better",
+                "id": 75,
+                "summary": "Remove Tube Later"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ee3d7e07c4b4987c24992d47da388b4c.mp3",
+            "content": "श्वास नली को हटाने के बाद आप बात कर सकते हैं",
+            "id": 373,
+            "language": "Hindi",
+            "phrase": {
+                "content": "You can talk after we remove the breathing tube",
+                "id": 76,
+                "summary": "Can Talk as Remove"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/134f05efb0c2f1991823f38421e103a0.mp3",
+            "content": "एक गहरी सास लो",
+            "id": 374,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Take a deep breath",
+                "id": 77,
+                "summary": "Deep breath"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/af3959b8a46b3af967f30229d16018ab.mp3",
+            "content": "मुझे एक बड़ी खाँसी दो",
+            "id": 375,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Give me a big cough",
+                "id": 78,
+                "summary": "Big cough"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6df54be347b1a8bf95d447c0ae23345c.mp3",
+            "content": "संघर्ष मत करो",
+            "id": 376,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Don’t struggle",
+                "id": 79,
+                "summary": "Don’t struggle"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c8b0350d77dad3211f00b73f9b5222e0.mp3",
+            "content": "हिलना मत",
+            "id": 377,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Don’t move",
+                "id": 80,
+                "summary": "Don’t move"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/abcdca93b69140bd677e8d33e8cddefa.mp3",
+            "content": "अपनी बांह को ऊपर उठाएं",
+            "id": 378,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Lift up your arm",
+                "id": 81,
+                "summary": "Lift up your arm"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/51b09832b984998c211027885a3480dd.mp3",
+            "content": "अपने पैर को ऊपर उठाएं",
+            "id": 379,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Lift up your leg",
+                "id": 82,
+                "summary": "Lift up your leg"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/23e6311f975173cb0c33b10e0eef3406.mp3",
+            "content": "मेरा हाथ निचोड़ो",
+            "id": 380,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Squeeze my hand",
+                "id": 83,
+                "summary": "Squeeze my hand"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ae68933705ddfdcd4fcc4fc57ddff7d4.mp3",
+            "content": "मुझे दो उंगलियां दिखाओ",
+            "id": 381,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Show me two fingers",
+                "id": 84,
+                "summary": "Show two fingers"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/08fad05855c70f7885430b87b19e90e0.mp3",
+            "content": "अपना मुहँ खोलो",
+            "id": 382,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Open your mouth",
+                "id": 85,
+                "summary": "Open mouth"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a50f01cc49271e3cbf576f7617d14de5.mp3",
+            "content": "अपनी जीभ बाहर निकालना",
+            "id": 383,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Stick out your tongue",
+                "id": 86,
+                "summary": "Stick out tongue"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b887a503707bc7cb137929724d4c7f24.mp3",
+            "content": "अपनी आँखें खोलो",
+            "id": 384,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Open your eyes",
+                "id": 87,
+                "summary": "Open eyes"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a5d762c6ddab8d142996bc01b3dfd1a2.mp3",
+            "content": "मैं तुम्हारी आँखों में एक रोशनी चमकाने जा रहा हूँ। यह उज्ज्वल होगा।",
+            "id": 385,
+            "language": "Hindi",
+            "phrase": {
+                "content": "I’m going to shine a light into your eyes. It will be bright.",
+                "id": 88,
+                "summary": "Shine a light into your eyes"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7be03f41ed185cea1f207ef0459f3723.mp3",
+            "content": "आपके फेफड़े कमजोर हैं। हम आपको सांस लेने में मदद करने के लिए एक श्वास नली डालने जा रहे हैं",
+            "id": 386,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Your lungs are weak. We are going to insert a breathing tube to help you breathe",
+                "id": 89,
+                "summary": "Insert a breathing tube"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6a997c9b643de6baf3c143903da64391.mp3",
+            "content": "आप अब सोने जा रहे हैं",
+            "id": 387,
+            "language": "Hindi",
+            "phrase": {
+                "content": "You are going to sleep now",
+                "id": 90,
+                "summary": "Sleep"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/25d5a7da1f3efeebeb4c0a96cd094743.mp3",
+            "content": "हम आपके फेफड़ों को फैलाने में मदद करने के लिए आपको अपने पेट पर घुमा रहे हैं",
+            "id": 388,
+            "language": "Hindi",
+            "phrase": {
+                "content": "We are turning you onto your belly to help your lungs expand",
+                "id": 91,
+                "summary": "Turn onto belly"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0fe5c7a785adaa2ce7fe688b3657592e.mp3",
+            "content": "हम आपको मूत्र पारित करने में मदद करने के लिए एक ट्यूब डाल रहे हैं",
+            "id": 389,
+            "language": "Hindi",
+            "phrase": {
+                "content": "We are inserting a tube to help you pass urine",
+                "id": 92,
+                "summary": "Insert tube urine"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1420c09ba9d8f338d96459cef38fea3d.mp3",
+            "content": "हम आपकी नाक के माध्यम से एक ट्यूब डाल रहे हैं",
+            "id": 390,
+            "language": "Hindi",
+            "phrase": {
+                "content": "We are inserting a tube through your nose",
+                "id": 93,
+                "summary": "Insert tube nose"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/2e0149363ac8e7ad00d0755ae06bc5a5.mp3",
+            "content": "हम आपको दवाएँ देने के लिए आपकी गर्दन में एक इंजेक्शन देने जा रहे हैं",
+            "id": 391,
+            "language": "Hindi",
+            "phrase": {
+                "content": "We are going to give you an injection in your neck to give you medications",
+                "id": 94,
+                "summary": "Injection in Neck"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b5bab1a3b37a6ad45b607c9ee3b3392c.mp3",
+            "content": "हम आपके रक्तचाप को मापने के लिए आपको अपनी बांह में एक इंजेक्शन देने जा रहे हैं",
+            "id": 392,
+            "language": "Hindi",
+            "phrase": {
+                "content": "We are going to give you an injection in your arm to measure your blood pressure",
+                "id": 95,
+                "summary": "Measure Blood Pressure"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5fb2651b7eb614e03c9dc27c70d580c6.mp3",
+            "content": "हम आपको नींद की दवाएँ देंगे।",
+            "id": 393,
+            "language": "Hindi",
+            "phrase": {
+                "content": "We will give you sleeping medications.",
+                "id": 96,
+                "summary": "Sleeping Meds"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/39cbb26d6d6e7a0a2c29f9a483879e25.mp3",
+            "content": "हम आपको दर्द निवारक दवाएं देंगे।",
+            "id": 394,
+            "language": "Hindi",
+            "phrase": {
+                "content": "We will give you painkillers.",
+                "id": 97,
+                "summary": "Painkillers"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/77820bcb1e1d264260878cf9f94cd1a0.mp3",
+            "content": "हम आपको अपना रक्तचाप बनाए रखने के लिए दवा दे रहे हैं।",
+            "id": 395,
+            "language": "Hindi",
+            "phrase": {
+                "content": "We are giving you medication to keep your blood pressure up.",
+                "id": 98,
+                "summary": "Blood Pressure Medication"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/34cd9a2030e817df9ad96134115caf15.mp3",
+            "content": "हम श्वास नली को हटाने जा रहे हैं।",
+            "id": 396,
+            "language": "Hindi",
+            "phrase": {
+                "content": "We are going to remove the breathing tube.",
+                "id": 99,
+                "summary": "Remove Tube"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/575983519bd6055d9311ae6f36a66dfc.mp3",
+            "content": "हम आपके कफ को चूसने जा रहे हैं",
+            "id": 397,
+            "language": "Hindi",
+            "phrase": {
+                "content": "We are going to suck out your phlegm",
+                "id": 100,
+                "summary": "Phlegm suck out"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/9f843a2eaf3c4c5d4545d822c8d7de6f.mp3",
+            "content": "हम आपको स्पंज से साफ करने जा रहे हैं",
+            "id": 398,
+            "language": "Hindi",
+            "phrase": {
+                "content": "We are going to clean you with a sponge",
+                "id": 101,
+                "summary": "Clean with sponge"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/402235cff67b015e3d5ddc898b612e6f.mp3",
+            "content": "बाएँ मुड़ें",
+            "id": 399,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Turn left",
+                "id": 102,
+                "summary": "​Turn left"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/bd429868ef7d4261fab611492ff544db.mp3",
+            "content": "दायें मुड़ो",
+            "id": 400,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Turn right",
+                "id": 103,
+                "summary": "Turn right"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c36165bd369a44f7761d21c6b7403009.mp3",
+            "content": "हम आपके डायपर बदल देंगे",
+            "id": 401,
+            "language": "Hindi",
+            "phrase": {
+                "content": "We will change your diapers",
+                "id": 104,
+                "summary": "We will change your diapers"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/51b09832b984998c211027885a3480dd_T3ktvEn.mp3",
+            "content": "अपने पैर को ऊपर उठाएं",
+            "id": 402,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Lift up your leg",
+                "id": 105,
+                "summary": "Lift up your leg"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ea1bfa3a623f9fc2dbe435fc20777d8a.mp3",
+            "content": "हम आपको बैठने जा रहे हैं",
+            "id": 403,
+            "language": "Hindi",
+            "phrase": {
+                "content": "We are going to sit you up",
+                "id": 106,
+                "summary": "We are going to sit you up"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3cbe1a5eefc703f96230ad6f69dc4197.mp3",
+            "content": "हम आपको बिस्तर पर स्थानांतरित करने जा रहे हैं",
+            "id": 404,
+            "language": "Hindi",
+            "phrase": {
+                "content": "We are going to shift you up the bed",
+                "id": 107,
+                "summary": "Shift head"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a9e99024013db4f2a5baf3ae1bb1a408.mp3",
+            "content": "हम आपका मुंह साफ करने जा रहे हैं",
+            "id": 405,
+            "language": "Hindi",
+            "phrase": {
+                "content": "We are going to clean your mouth",
+                "id": 108,
+                "summary": "Clean mouth"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4d0748c444c568f28204e2bbabb30427.mp3",
+            "content": "गदल को मत निगलो",
+            "id": 406,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Do not swallow the gargle",
+                "id": 109,
+                "summary": "Dont swallow"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/aa5e602ed0a9ad3629ced627e794e509.mp3",
+            "content": "क्या आपको दर्द हो रहा है?",
+            "id": 407,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Are you in pain?",
+                "id": 110,
+                "summary": "Are you in pain?"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/90d7f412125c8572e73d8a8c481bd98c.mp3",
+            "content": "दर्द कहाँ है?",
+            "id": 408,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Where is the pain?",
+                "id": 111,
+                "summary": "Where is the pain?"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/cd88a5abd8bd153a4655025d08b71897.mp3",
+            "content": "क्या यह हल्का, मध्यम या गंभीर है?",
+            "id": 409,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Is it mild, moderate or severe?",
+                "id": 112,
+                "summary": "Is it mild, moderate or severe?"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7ddab49a31c2870e5ac571c9e5569b59.mp3",
+            "content": "क्या आप दर्द की ओर इशारा कर सकते हैं?",
+            "id": 410,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Can you point to the pain?",
+                "id": 113,
+                "summary": "Can you point to the pain?"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/78e37e3799abdd8780bfa8116b1d3cd2.mp3",
+            "content": "सिर",
+            "id": 411,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Head",
+                "id": 114,
+                "summary": "Head"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/935ce68ced3b0fe2a4f53eb2d6e77fb7.mp3",
+            "content": "आंखें",
+            "id": 412,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Eyes",
+                "id": 115,
+                "summary": "Eyes"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/36baea8fbfbf8843bb7bf4b92ff2ef8a.mp3",
+            "content": "कान",
+            "id": 413,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Ears",
+                "id": 116,
+                "summary": "Ears"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/224509fef2fff362f7a591c68088e139.mp3",
+            "content": "नाक",
+            "id": 414,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Nose",
+                "id": 117,
+                "summary": "Nose"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/511f834af8efe4305579b0d464be4aa6.mp3",
+            "content": "मुंह",
+            "id": 415,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Mouth",
+                "id": 118,
+                "summary": "Mouth"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/2194b3e9ee883837d80bccc965ef5304.mp3",
+            "content": "गला",
+            "id": 416,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Throat",
+                "id": 119,
+                "summary": "Throat"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1a77ee244935de518d995561d3f0b43e.mp3",
+            "content": "छाती",
+            "id": 417,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Chest",
+                "id": 120,
+                "summary": "Chest"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8e1a8f4b9b317bb6ceb373cd35725c4f.mp3",
+            "content": "पेट",
+            "id": 418,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Abdomen",
+                "id": 121,
+                "summary": "Abdomen"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/69c2ec52e7e279bea77abc66e8e3946b.mp3",
+            "content": "वापस",
+            "id": 419,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Back",
+                "id": 122,
+                "summary": "Back"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7b55a9a107993f78d08eb9f4899c1623.mp3",
+            "content": "हाथ या बांह",
+            "id": 420,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Hand or Arm",
+                "id": 123,
+                "summary": "Arms"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/cbb0e43b5c552e1e1496ec54aeaad3c5.mp3",
+            "content": "पैर",
+            "id": 421,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Legs",
+                "id": 124,
+                "summary": "Legs"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/222f6dac3f01b20d514e0e0955548a51.mp3",
+            "content": "पैर का पंजा",
+            "id": 422,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Feet",
+                "id": 125,
+                "summary": "Feet"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c4ca4238a0b923820dcc509a6f75849b_YfR69gg.mp3",
+            "content": "1",
+            "id": 423,
+            "language": "Hindi",
+            "phrase": {
+                "content": "1",
+                "id": 126,
+                "summary": "1"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c81e728d9d4c2f636f067f89cc14862c_BqTUF8X.mp3",
+            "content": "2",
+            "id": 424,
+            "language": "Hindi",
+            "phrase": {
+                "content": "2",
+                "id": 127,
+                "summary": "2"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/eccbc87e4b5ce2fe28308fd9f2a7baf3_3cMt1Vt.mp3",
+            "content": "3",
+            "id": 425,
+            "language": "Hindi",
+            "phrase": {
+                "content": "3",
+                "id": 128,
+                "summary": "3"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a87ff679a2f3e71d9181a67b7542122c_8fRUsJr.mp3",
+            "content": "4",
+            "id": 426,
+            "language": "Hindi",
+            "phrase": {
+                "content": "4",
+                "id": 129,
+                "summary": "4"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/e4da3b7fbbce2345d7772b0674a318d5_1gwQUwy.mp3",
+            "content": "5",
+            "id": 427,
+            "language": "Hindi",
+            "phrase": {
+                "content": "5",
+                "id": 130,
+                "summary": "5"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1679091c5a880faf6fb5e6087eb1b2dc_AuSoOBt.mp3",
+            "content": "6",
+            "id": 428,
+            "language": "Hindi",
+            "phrase": {
+                "content": "6",
+                "id": 131,
+                "summary": "6"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8f14e45fceea167a5a36dedd4bea2543_CwjxM37.mp3",
+            "content": "7",
+            "id": 429,
+            "language": "Hindi",
+            "phrase": {
+                "content": "7",
+                "id": 132,
+                "summary": "7"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c9f0f895fb98ab9159f51fd0297e236d_n2ksJLD.mp3",
+            "content": "8",
+            "id": 430,
+            "language": "Hindi",
+            "phrase": {
+                "content": "8",
+                "id": 133,
+                "summary": "8"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/45c48cce2e2d7fbdea1afc51c7c6ad26_e5OohMa.mp3",
+            "content": "9",
+            "id": 431,
+            "language": "Hindi",
+            "phrase": {
+                "content": "9",
+                "id": 134,
+                "summary": "9"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d3d9446802a44259755d38e6d163e820_9yAnCmj.mp3",
+            "content": "10",
+            "id": 432,
+            "language": "Hindi",
+            "phrase": {
+                "content": "10",
+                "id": 135,
+                "summary": "10"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/cfcd208495d565ef66e7dff9f98764da_UGWWXCc.mp3",
+            "content": "0",
+            "id": 433,
+            "language": "Hindi",
+            "phrase": {
+                "content": "0",
+                "id": 136,
+                "summary": "0"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/70c1e6d1a9f80b2bc929445561b01aeb.mp3",
+            "content": "जनवरी",
+            "id": 434,
+            "language": "Hindi",
+            "phrase": {
+                "content": "January",
+                "id": 137,
+                "summary": "January"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/9e96d1c2e6701c0bb564d2f54943ae40.mp3",
+            "content": "फ़र",
+            "id": 435,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Feb",
+                "id": 138,
+                "summary": "Feb"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1d869259dedfd8ffdd59261730a4d84a.mp3",
+            "content": "मार्च",
+            "id": 436,
+            "language": "Hindi",
+            "phrase": {
+                "content": "March",
+                "id": 139,
+                "summary": "March"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/85be126d83bfb4db7f0e5d5c582e4a5a.mp3",
+            "content": "अप्रैल",
+            "id": 437,
+            "language": "Hindi",
+            "phrase": {
+                "content": "April",
+                "id": 140,
+                "summary": "April"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0019ea4d4a475509118aa22c568aa4fb.mp3",
+            "content": "मई",
+            "id": 438,
+            "language": "Hindi",
+            "phrase": {
+                "content": "May",
+                "id": 141,
+                "summary": "May"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0dd976c9d14e7e12f14e6f72a1e418e0.mp3",
+            "content": "जून",
+            "id": 439,
+            "language": "Hindi",
+            "phrase": {
+                "content": "June",
+                "id": 142,
+                "summary": "June"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5581651e9f25d26e66ea63531de726d2.mp3",
+            "content": "जुलाई",
+            "id": 440,
+            "language": "Hindi",
+            "phrase": {
+                "content": "July",
+                "id": 143,
+                "summary": "July"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4853273cbdf872cc7948e0ff6fac83f9.mp3",
+            "content": "अगस्त",
+            "id": 441,
+            "language": "Hindi",
+            "phrase": {
+                "content": "August",
+                "id": 144,
+                "summary": "August"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/71bf207fa44bb5193c2cf97a1f0761a4.mp3",
+            "content": "सितंबर",
+            "id": 442,
+            "language": "Hindi",
+            "phrase": {
+                "content": "September",
+                "id": 145,
+                "summary": "September"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b764cf9c1a6f5629aa867c7175918595.mp3",
+            "content": "अक्टूबर",
+            "id": 443,
+            "language": "Hindi",
+            "phrase": {
+                "content": "October",
+                "id": 146,
+                "summary": "October"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/dc80a1d469d0562d0e358142f022f36e.mp3",
+            "content": "नवंबर",
+            "id": 444,
+            "language": "Hindi",
+            "phrase": {
+                "content": "November",
+                "id": 147,
+                "summary": "November"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b281ae009d9448712cedc3ca3e489b97.mp3",
+            "content": "दिसंबर",
+            "id": 445,
+            "language": "Hindi",
+            "phrase": {
+                "content": "December",
+                "id": 148,
+                "summary": "December"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/98488cc3a0e0bae06944892c54c91757.mp3",
+            "content": "घर में एक अलग कमरे में रहें। यह सबसे अच्छा है अगर कमरे में संलग्न बाथरूम है। यह घर के अन्य सदस्यों के साथ संपर्क को कम करना है। यदि आप साझा बाथरूम का उपयोग कर रहे हैं, तो बाथरूम का उपयोग करने से पहले या बाद में आपको साफ करना होगा।",
+            "id": 1868,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Stay in a separate room at home. It is best if the room has an attached bathroom. This is to reduce contact with the other members of the house. If you are using a shared bathroom, the bathroom needs to be cleaned before or after you use it.",
+                "id": 176,
+                "summary": "Separate"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/e92cefeb0b6382e6e99c231d4a03919f.mp3",
+            "content": "अपने कमरे के बाहर रखे जाने वाले भोजन, पानी और अन्य आपूर्ति की व्यवस्था करें। आपको स्वयं उन वस्तुओं को अपने कमरे में लाना होगा।",
+            "id": 1869,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Arrange for food, water, and other supplies to be placed outside your room. You yourself have to bring those items into your room.",
+                "id": 177,
+                "summary": "Arrange"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3737068102e75e9e37ba8a31a3670997.mp3",
+            "content": "जब तक आप अपने स्वाब परीक्षण के परिणाम नहीं जानते हैं, तब तक परिवार के सदस्यों के साथ संपर्क कम करें। विशेष रूप से, पुराने लोगों के पास न जाने की कोशिश करें।",
+            "id": 1870,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Until you know your swab test results, reduce your contact with family members. Especially, try not to get near older people.",
+                "id": 178,
+                "summary": "Elderly"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ead2c417ab1d3f6cc49fab2c41c5f862.mp3",
+            "content": "कृपया अच्छी व्यक्तिगत स्वच्छता बनाए रखें। अपने हाथों को साबुन और पानी से बार-बार धोएं। अपनी आंखों, नाक और मुंह को न छूने की कोशिश करें। खांसते या छींकते समय हमेशा अपना मुंह ढक कर रखें।",
+            "id": 1871,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Please maintain good personal hygiene. Wash your hands with soap and water frequently. Try not to touch your eyes, nose, and mouth. Always cover your mouth when coughing or sneezing.",
+                "id": 179,
+                "summary": "Hygine"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8a0b038255435aa45da41e60eac095d5.mp3",
+            "content": "कृपया अपने चम्मच, कांटा, प्लेट, कटोरे, भोजन का उपयोग करने से दूसरों को रोकें। इसके अलावा अपने तौलिया की तरह व्यक्तिगत स्वच्छता आइटम साझा न करें।",
+            "id": 1872,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Please prevent others from using your spoon, fork, plates, bowls, food. Also do not share personal hygiene items like your towel.",
+                "id": 180,
+                "summary": "Sharing"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/152a8bd6dbcc02429a37827e77a705e6.mp3",
+            "content": "आपके लिए निर्धारित दवाएं लेना जारी रखें (यदि कोई हो)।",
+            "id": 1873,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Continue to take the medications prescribed for you (if any).",
+                "id": 181,
+                "summary": "Medication"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/376bf81eb6df8e787fa90d7a5f8bbb37.mp3",
+            "content": "कृपया ढेर सारा पानी पिएं।",
+            "id": 1874,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Please drink a lot of water.",
+                "id": 182,
+                "summary": "Drink"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/857f97f8279668f54a927434ae4c1d90.mp3",
+            "content": "घर पर अपने तापमान और लक्षणों की निगरानी रखें।",
+            "id": 1875,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Keep monitoring your temperature and symptoms at home.",
+                "id": 183,
+                "summary": "Monitor"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/801756381dfa2072d5292ddbb9189190.mp3",
+            "content": "कृपया सार्वजनिक परिवहन से बचें।",
+            "id": 1861,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Please avoid public transport.",
+                "id": 166,
+                "summary": "Transport"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d008583019d5639da8346261b7c511bc.mp3",
+            "content": "आप अपना निजी परिवहन, टैक्सी या निजी किराए की कार ले सकते हैं।",
+            "id": 1862,
+            "language": "Hindi",
+            "phrase": {
+                "content": "You can take your own private transport, a taxi or a private hire car.",
+                "id": 167,
+                "summary": "Take Taxi"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/448763a7cd8f254458731a44e50a4b2d.mp3",
+            "content": "यदि आपकी खांसी खराब हो रही है और आपको सांस फूल रही है, या आपका बुखार लगातार 38 डिग्री सेल्सियस से ऊपर है",
+            "id": 1876,
+            "language": "Hindi",
+            "phrase": {
+                "content": "If your cough is getting worse and you feel breathless, or your fever is persistently above 38 degrees Celsius",
+                "id": 184,
+                "summary": "38C"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6251ab2ae638ba120f909b12f462c06e.mp3",
+            "content": "सर्जिकल मास्क पहनें और हमारे आपातकालीन विभाग में आएं।",
+            "id": 1877,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Wear a surgical mask and come to our Emergency Department.",
+                "id": 185,
+                "summary": "Mask"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/164580acde61a8d05854336cbcd1fbbe.mp3",
+            "content": "आपातकालीन स्थिति में, एम्बुलेंस के लिए 995 पर कॉल करें। एम्बुलेंस ऑपरेटर को सूचित करें कि आपको हाल ही में COVID-19 के लिए परीक्षण किया गया था और उन्हें अपना यात्रा इतिहास भी बताएं।",
+            "id": 1878,
+            "language": "Hindi",
+            "phrase": {
+                "content": "In an emergency situation, call 995 for an ambulance. Inform the ambulance operator that you were recently tested for COVID-19 and also tell them your travel history.",
+                "id": 187,
+                "summary": "Ambulance"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/675563418f3174cd62d94f2783e9baaf.mp3",
+            "content": "1) ब्लड प्रेशर कफ को रीडर मशीन से कनेक्ट करें।",
+            "id": 1879,
+            "language": "Hindi",
+            "phrase": {
+                "content": "1) Connect the blood pressure cuff to the reader machine.",
+                "id": 188,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/55be1bb8ca5fd0e4fe7e2733ebe971cb.mp3",
+            "content": "2) कफ पर &quot;तीर&quot; आपकी बांह के अंदर की तरफ नीचे की ओर होना चाहिए।",
+            "id": 1880,
+            "language": "Hindi",
+            "phrase": {
+                "content": "2) The “arrow” on the the cuff should be pointing downwards on the inside of your arm.",
+                "id": 189,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1990093f7e62b1f74242dab9483603cb.mp3",
+            "content": "(!) कफ को आपकी कोहनी के जोड़ से 1 से 2 सेमी ऊपर होना चाहिए।",
+            "id": 1881,
+            "language": "Hindi",
+            "phrase": {
+                "content": "(!) The cuff should be positioned 1 to 2 cm above your elbow joint.",
+                "id": 190,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8be782644f6bdde9ece4807e6b742b0a.mp3",
+            "content": "3) बीपी कफ अपने हाथ पर snugly फिट होना चाहिए। यह ढीला महसूस नहीं करना चाहिए। 1 बाईं उंगली के लिए (अच्छे गेज के लिए) फिट होने के लिए कुछ जगह छोड़ दें",
+            "id": 1882,
+            "language": "Hindi",
+            "phrase": {
+                "content": "3) The BP cuff should fit snugly onto your arm. It should not feel loose. Leave some space enough for 1 left finger to fit in (for good gauge)",
+                "id": 191,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7e6565e0f8ad4a50e3afd41d5627bf8d.mp3",
+            "content": "4) ब्लड प्रेशर मापने के दौरान ट्यूब को न मोड़ें।",
+            "id": 1883,
+            "language": "Hindi",
+            "phrase": {
+                "content": "4) Do not bend the tube during blood pressure measurement.",
+                "id": 192,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/375b1c45a5df7684d5f9e530512ea4eb.mp3",
+            "content": "5) अपने रक्तचाप को मापते हुए अपनी पूरी बांह को एक मेज पर रखें और आराम करें।",
+            "id": 1884,
+            "language": "Hindi",
+            "phrase": {
+                "content": "5) Relax & Rest your entire arm on a table while measuring your blood pressure.",
+                "id": 193,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/761389fe329d603c895437cad58a7e54.mp3",
+            "content": "6) अपने बीपी को मापने के लिए &quot;स्टार्ट / स्टॉप&quot; बटन दबाएं। 1 मिनट तक प्रतीक्षा करें जब तक कि 3 नंबर दिखाई न दें।",
+            "id": 1885,
+            "language": "Hindi",
+            "phrase": {
+                "content": "6) Press the “Start/Stop” button to start measuring your BP. Wait for 1 minute until 3 numbers appear.",
+                "id": 194,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7b51fa63381e0a3517b64aeafbe709d6.mp3",
+            "content": "7) शीर्ष नंबर आपका सिस्टोलिक रक्तचाप है। मध्य संख्या आपका डायस्टोलिक रक्तचाप है। नीचे की संख्या आपकी पल्स दर है।",
+            "id": 1886,
+            "language": "Hindi",
+            "phrase": {
+                "content": "7) The top number is your Systolic blood pressure. The middle number is your Diastolic blood pressure. The bottom number is your Pulse rate.",
+                "id": 195,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3b8df34a4c3a07bbc3a51f5a9cca4f4e.mp3",
+            "content": "COVID-19 क्या है?\r\n\r\nCOVID-19 (विशेष रूप से, एक कोरोनावायरस) एक बीमारी है जो चीन के वुहान शहर से शुरू हुई, यह एक श्वसन बीमारी है।",
+            "id": 1242,
+            "language": "Hindi",
+            "phrase": {
+                "content": "What is COVID-19?\r\n\r\nCOVID-19 (more specifically, a coronavirus) is an illness that started from the Wuhan City in China, it is a respiratory illness.",
+                "id": 155,
+                "summary": "What COVID"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/e9084f55d3fa21ef91db260fca111d25.mp3",
+            "content": "COVID-19 के लक्षण क्या हैं? सबसे आम लक्षण बुखार, थकान और सूखी खांसी हैं। कुछ रोगियों में नाक बहना, गले में खराश या दस्त भी होता है। ये लक्षण आमतौर पर हल्के होते हैं। कुछ लोग संक्रमित हो जाते हैं लेकिन उनमें कोई लक्षण नहीं होते हैं। हालाँकि, यह फेफड़ों में संक्रमण या निमोनिया के कारण भी हो सकता है।",
+            "id": 1276,
+            "language": "Hindi",
+            "phrase": {
+                "content": "What are the symptoms of COVID-19?\r\n\r\nThe most common symptoms are fever, tiredness and dry cough. Some patients also have a runny nose, sore throat or diarrhea. These symptoms are usually mild.\r\n\r\nSome people become infected but do not have any symptoms.\r\n\r\nHowever, it also can be caused by a lung infection or pneumonia.",
+                "id": 156,
+                "summary": "What are the symptoms of COVID-19?"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d97033530f3a72a07892926685a3b11d.mp3",
+            "content": "COVID-19 कैसे फैलता है? लोग COVID-19 से पहले से संक्रमित अन्य व्यक्तियों द्वारा संक्रमित हो सकते हैं। वायरस खांसी और छींकने से फैलता है। वायरस मुंह से लार, प्लेट्स, चम्मच और कांटे से भी फैल सकता है।",
+            "id": 1277,
+            "language": "Hindi",
+            "phrase": {
+                "content": "How does COVID-19 spread?\r\n\r\nPeople can be infected by other persons already infected with COVID-19. The virus spreads through cough and sneezing. The virus can also spread with saliva from the mouth, used plates, spoons, and forks.",
+                "id": 157,
+                "summary": "COVID Spread"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/908fa1586e7ff21d7b58b12076bbfe19.mp3",
+            "content": "COVID-19 के लिए परीक्षण क्या है? यह एक स्वैब परीक्षण है। आपके नाक के छिद्रों में या आपके गले के पीछे एक स्वाब डाला जाएगा। यह लगभग 10 सेकंड तक चलेगा। थोड़ी सी असुविधा हो सकती है, हालांकि, यह बहुत दर्दनाक नहीं है।",
+            "id": 1278,
+            "language": "Hindi",
+            "phrase": {
+                "content": "What is the test for COVID-19?\r\n\r\nIt is a swab test. A swab will be inserted in your nostrils or at the back of your throat. It will last about 10 seconds. There might be a slight discomfort, however, it is not too painful.",
+                "id": 158,
+                "summary": "COVID-19 Test"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/826bcb82e3fa31be7c0daaa2b967d51c.mp3",
+            "content": "यदि मेरे पास COVID-19 है तो क्या होगा? प्राधिकरण आपके लिए अलग रहने की व्यवस्था करेगा या आपको अस्पताल में भर्ती करेगा। वे आपके स्वास्थ्य की निगरानी करेंगे, कि इसमें सुधार हो रहा है या नहीं। एक्स-रे या रक्त परीक्षण की भी आवश्यकता हो सकती है। आमतौर पर, वे हर 24 घंटे में आपके स्वाब का परीक्षण करेंगे। यदि आपका परीक्षण लगातार दो बार नकारात्मक है, तो आपको छोड़ दिया जाएगा। लेकिन घर जाने के बाद, आपको 2 सप्ताह के लिए सभी से अलग रहना होगा।",
+            "id": 1279,
+            "language": "Hindi",
+            "phrase": {
+                "content": "What if I have COVID-19?\r\n\r\nAuthority will make separate living arrangements for you or admit you to a hospital. They will monitor your health, whether it is improving or not. X-ray or blood test may also be needed. Usually, they will test your swab every 24 hours. If your test is negative twice in a row, you will be released. But after going home, you have to stay separate from everyone for 2 weeks.",
+                "id": 159,
+                "summary": "COVID-19 Positive"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/e2fc5b06e8edf73c0cf57a54f2651634.mp3",
+            "content": "अगर मेरे पास COVID-19 है तो क्या मैं मर जाऊंगा? COVID-19 आपको और आपके परिवार को चिंतित कर सकता है। हालांकि, 80% समय, COVID-19 संक्रमण हल्के होते हैं। उन्हें किसी भी उपचार की आवश्यकता नहीं है। जो लोग बूढ़े हैं या स्वास्थ्य संबंधी अन्य समस्याएं हैं, उनके नुकसान का थोड़ा जोखिम है। सांस लेने में मदद के लिए केवल 5% रोगियों को आईसीयू की आवश्यकता होती है।",
+            "id": 1280,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Will I die if I have COVID-19?\r\n\r\nCOVID-19 may make you and your family worried. However, 80% of the time, COVID-19 infections are mild. They do not even need any treatment. There is a slight risk of damage to those who are old or have other health problems. Only 5% of patients need ICU for helping them breathe.",
+                "id": 160,
+                "summary": "Die COVID-19"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/9920759649f5f2137ceb7e9a4475c77f.mp3",
+            "content": "क्या COVID-19 का कोई इलाज है? COVID-19 के अधिकांश रोगियों को किसी भी उपचार की आवश्यकता नहीं होती है। उन्हें केवल खांसी, बुखार और अन्य लक्षणों के लिए दवा की आवश्यकता होती है। हालांकि, 5% रोगियों के लिए जो बहुत बीमार हैं, कोई सिद्ध उपचार नहीं हैं। हालांकि, हम इलाज की खोज के बहुत करीब हैं। डरो नहीं। यदि आपको सांस लेने में समस्या है तो हम आपको सांस लेने में मदद करने के लिए एक मशीन का उपयोग करेंगे। हम आपको रक्तचाप की दवा देंगे।",
+            "id": 1281,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Is there a treatment for COVID-19?\r\n\r\nMost patients of COVID-19 do not need any treatment. They only need medicine for cough, fever and other symptoms. However, for 5% of the patients who are very ill, there are no proven treatments. However, we are very near to discovering treatment. Do not be afraid. If you have problems breathing we will use a machine to help you breathe. We will give you medicine for blood pressure.",
+                "id": 161,
+                "summary": "COVID-19 Treatment"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/181e3aaba4503d6c0ea597c4f6bb5543.mp3",
+            "content": "मुझे उपचार के लिए कितना भुगतान करना होगा? सिंगापुर सरकार की घोषणा के अनुसार, यदि आप सिंगापुर के नागरिक हैं, या एक स्थायी निवासी, या दीर्घकालिक पास धारक हैं, तो सरकार भुगतान करेगी। इसलिए अगर आपके पास वर्क परमिट है तो भी सरकार भुगतान करेगी। लेकिन, यदि आप 27 मार्च 2020 के बाद सिंगापुर से बाहर चले गए और लौटने के 14 दिनों के भीतर भर्ती हो गए, तो सरकार आपके बिलों का भुगतान नहीं करेगी।",
+            "id": 1282,
+            "language": "Hindi",
+            "phrase": {
+                "content": "How much will I have to pay for Treatment?\r\n\r\nAccording to the announcement of the Singapore Government, if you are a citizen of Singapore, or a permanent resident, or a long term pass holder, the government will pay. So even if you have a work permit, the government will pay. But, if you went out of Singapore after 27 March 2020 and get admitted within 14 days of returning, the government will not pay your bills.",
+                "id": 162,
+                "summary": "Treatment Cost"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/98d6acf17069f79afec0740870027562.mp3",
+            "content": "मुझे काम नहीं करने की चिंता है। क्या मेरे द्वारा अपनी नौकरी गवां दी जाएगी? आपके नियोक्ता को कानून द्वारा आपके उपचार की अनुमति है। अगर आपको अभी काम नहीं करना है तो भी नियोक्ता को आपका वेतन देना होगा। यदि आपके वेतन का समय पर भुगतान नहीं किया जाता है, तो सिंगापुर सरकार नियोक्ता के खिलाफ कार्रवाई कर सकती है।",
+            "id": 1283,
+            "language": "Hindi",
+            "phrase": {
+                "content": "I am worried about not working. Will I lose my job?\r\n\r\nYour employer has to allow your treatment by the law. The employer has to pay your salary even if you cannot work now.  If your salary is not paid timely, the Singapore Government can take action against the employer.",
+                "id": 163,
+                "summary": "Job Loss"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

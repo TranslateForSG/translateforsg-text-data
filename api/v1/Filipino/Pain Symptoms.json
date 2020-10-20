@@ -1,0 +1,59 @@
+{
+    "count": 4,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/9b1fa234e474cdae8f99b6c358440742_mh4M13y.mp3",
+            "content": "Mayroon ka bang nararamdaman na masakit ngayon?",
+            "id": 736,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Are you in pain?",
+                "id": 110,
+                "summary": "Are you in pain?"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d5a460eb5764534e35116f2bf091b54e_fjHNkSP.mp3",
+            "content": "Saang banda ang masakit?",
+            "id": 737,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Where is the pain?",
+                "id": 111,
+                "summary": "Where is the pain?"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/9dc77eaff343506126f0a9b13f620ef8_mKnLQzT.mp3",
+            "content": "Ang sakit na nararamdaman ba ay banayad, katamtaman o malubha?",
+            "id": 738,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Is it mild, moderate or severe?",
+                "id": 112,
+                "summary": "Is it mild, moderate or severe?"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1ad254883416199c363393381d807890_PjJV58o.mp3",
+            "content": "Maaring ituro mo kung anung parte ng katawan ang masakit?",
+            "id": 739,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Can you point to the pain?",
+                "id": 113,
+                "summary": "Can you point to the pain?"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

@@ -1,0 +1,150 @@
+{
+    "count": 11,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/95ed1511a7419ffc97f40e64c0263612_qMH3mBN.mp3",
+            "content": "请深呼吸",
+            "id": 2061,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Take a deep breath",
+                "id": 77,
+                "summary": "Deep breath"
+            },
+            "romanized": "qǐng shēn hū xī",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/fd7292d219bf722437140289fddcae27_Iq5t6Kt.mp3",
+            "content": "请给我大力地咳嗽",
+            "id": 2062,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Give me a big cough",
+                "id": 78,
+                "summary": "Big cough"
+            },
+            "romanized": "qǐng gěi wǒ dà lì de ké sòu",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b30c687f104b7ab2e8cc6953eb6698b1_wdj5W34.mp3",
+            "content": "别挣扎",
+            "id": 2063,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Don’t struggle",
+                "id": 79,
+                "summary": "Don’t struggle"
+            },
+            "romanized": "bié zhēng zhā",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0f225a7c1284817ad9e3c09079ccbb43_Rft6fnm.mp3",
+            "content": "别动",
+            "id": 2064,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Don’t move",
+                "id": 80,
+                "summary": "Don’t move"
+            },
+            "romanized": "bié dòng",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/14afcd6f337b8460665a19b3f12b79c1_bA4OQxq.mp3",
+            "content": "举起手",
+            "id": 2065,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Lift up your arm",
+                "id": 81,
+                "summary": "Lift up your arm"
+            },
+            "romanized": "jǔ qǐ shǒu",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/bb5b8a0baf7f7c7a8402fc01fe9f8edf_Y9DHodP.mp3",
+            "content": "抬起脚",
+            "id": 2066,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Lift up your leg",
+                "id": 82,
+                "summary": "Lift up your leg"
+            },
+            "romanized": "tái qǐ jiǎo",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c917c9d200c53e4f29f08edf94759536_tRPS4oc.mp3",
+            "content": "握我的手",
+            "id": 2068,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Squeeze my hand",
+                "id": 83,
+                "summary": "Squeeze my hand"
+            },
+            "romanized": "wò wǒ de shǒu",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/421357c7eb643239af72af66516daa59_3iif5ZL.mp3",
+            "content": "伸出两只手指",
+            "id": 2069,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Show me two fingers",
+                "id": 84,
+                "summary": "Show two fingers"
+            },
+            "romanized": "shēn chū liǎng zhǐ shǒu zhǐ",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6c923ac71b8b7af76c51376478b708d4_4stJvQb.mp3",
+            "content": "张开嘴巴",
+            "id": 2070,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Open your mouth",
+                "id": 85,
+                "summary": "Open mouth"
+            },
+            "romanized": "zhāng kāi zǔi bā",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/25018b246097d0cf5c3e2715483cd2ef.mp3",
+            "content": "伸出你的舌头",
+            "id": 2071,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Stick out your tongue",
+                "id": 86,
+                "summary": "Stick out tongue"
+            },
+            "romanized": "shēn chū nǐ de shé tóu",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c6dfc1b18b10ff44c8ebe7d6b1415327.mp3",
+            "content": "张开你的眼睛",
+            "id": 2072,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Open your eyes",
+                "id": 87,
+                "summary": "Open eyes"
+            },
+            "romanized": "zhāng kāi nǐ de yǎn jīng",
+            "special_note": ""
+        }
+    ]
+}

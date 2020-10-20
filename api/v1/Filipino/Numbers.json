@@ -1,0 +1,150 @@
+{
+    "count": 11,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f9dd51ebcb2f3fa564b7a9e77b5a59af_OVVHG4Z.mp3",
+            "content": "Isa",
+            "id": 752,
+            "language": "Filipino",
+            "phrase": {
+                "content": "1",
+                "id": 126,
+                "summary": "1"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/2d7156aa7ac287dffa66698035162bdb_kslwNbB.mp3",
+            "content": "Dalawa",
+            "id": 753,
+            "language": "Filipino",
+            "phrase": {
+                "content": "2",
+                "id": 127,
+                "summary": "2"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5547544dfdb10b22b2c0779b1b23ae58_i4G4O9L.mp3",
+            "content": "Tatlo",
+            "id": 754,
+            "language": "Filipino",
+            "phrase": {
+                "content": "3",
+                "id": 128,
+                "summary": "3"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c7b23b67ae6a021233f7e8a44778079c_yfKsJmJ.mp3",
+            "content": "Apat",
+            "id": 755,
+            "language": "Filipino",
+            "phrase": {
+                "content": "4",
+                "id": 129,
+                "summary": "4"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0cb9cde516c38ed84dc1f3f2b5556ed3_OeBm7fi.mp3",
+            "content": "Lima",
+            "id": 756,
+            "language": "Filipino",
+            "phrase": {
+                "content": "5",
+                "id": 130,
+                "summary": "5"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ca8fe59dd02d0f752997acdfbeb0303b_7bEXfKO.mp3",
+            "content": "Anim",
+            "id": 757,
+            "language": "Filipino",
+            "phrase": {
+                "content": "6",
+                "id": 131,
+                "summary": "6"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/84cb470849c58753662cb21fbb427ac2_VDbnE1m.mp3",
+            "content": "Pito",
+            "id": 758,
+            "language": "Filipino",
+            "phrase": {
+                "content": "7",
+                "id": 132,
+                "summary": "7"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ba6360fb9e3cd47b766121d986402472_wc0te9V.mp3",
+            "content": "Walo",
+            "id": 759,
+            "language": "Filipino",
+            "phrase": {
+                "content": "8",
+                "id": 133,
+                "summary": "8"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/fbb469baf48892fc729a365efaa23168_VupwahT.mp3",
+            "content": "Siyam",
+            "id": 760,
+            "language": "Filipino",
+            "phrase": {
+                "content": "9",
+                "id": 134,
+                "summary": "9"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ca53d8e59bc93dd342745a6f902af342_Msg8fZ0.mp3",
+            "content": "Sampu",
+            "id": 761,
+            "language": "Filipino",
+            "phrase": {
+                "content": "10",
+                "id": 135,
+                "summary": "10"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d7ed4ee1df437474d005188535f74875_UUlTGSw.mp3",
+            "content": "Zero",
+            "id": 762,
+            "language": "Filipino",
+            "phrase": {
+                "content": "0",
+                "id": 136,
+                "summary": "0"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

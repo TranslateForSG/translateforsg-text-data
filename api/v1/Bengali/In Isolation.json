@@ -1,0 +1,46 @@
+{
+    "count": 3,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/309cdce54278de548a0287c5bac0f708_XZKRepR.mp3",
+            "content": "বাড়িতে আলাদা ঘরে থাকুন। বাড়ির অন্যান্য সদস্যদের সাথে যোগাযোগ কমানোর জন্য রুমে একটি সংযুক্ত বাথরুম থাকলে এটি সবচেয়ে ভাল। যদি আপনি বাড়ির অন্যদের সাথে বাথরুম ব্যবহার করে থাকেন তাহলে আপনি বাথরুমটি ব্যবহার করার আগে ও পরে পরিষ্কার করা দরকার।",
+            "id": 1816,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Stay in a separate room at home. It is best if the room has an attached bathroom. This is to reduce contact with the other members of the house. If you are using a shared bathroom, the bathroom needs to be cleaned before or after you use it.",
+                "id": 176,
+                "summary": "Separate"
+            },
+            "romanized": "Barite alada ghore thakun. Barir onnanno shodosshoder shathe jogajog komanor jonno room e ekti shongjukto bathroom thakle eti shobcheye bhalo. Jodi apni barir onnoder shathe bebohar kore thaken tahole apni bathroomti bebohar korar aage o pore porishkar kora dorkar.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/25c85ba0a2184a66ecbe1109a65a3033_zmq5Htx.mp3",
+            "content": "খাবার, পানি এবং অন্যান্য সরবরাহ যেন আপনার ঘরের বাইরে রাখা হয় এটার ব্যবস্থা করে রাখুন। আপনাকে নিজেই সেই জিনিসগুলো আপনার ঘরে আনতে হবে।",
+            "id": 1817,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Arrange for food, water, and other supplies to be placed outside your room. You yourself have to bring those items into your room.",
+                "id": 177,
+                "summary": "Arrange"
+            },
+            "romanized": "Khabar, pani ebong onnanno shorboraho jeno apnar ghorer bayre rakha hoy, etar bebostha kore rakhun. Apnake nijei shei jinishgulo apnar ghore ante hobe.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/27dcaf0b29fa574dc60e9db985f35331_qQMYdmY.mp3",
+            "content": "যতক্ষণ আপনার সোয়াব টেস্ট-এর ফলাফল না জানেন, ততক্ষণ পর্যন্ত পরিবারের সদস্যদের সাথে আপনার যোগাযোগ কমাতে চেষ্টা করবেন। বিশেষ করে, বয়স্ক মানুষদের কাছে না যাওয়ার চেষ্টা করবেন।",
+            "id": 1818,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Until you know your swab test results, reduce your contact with family members. Especially, try not to get near older people.",
+                "id": 178,
+                "summary": "Elderly"
+            },
+            "romanized": "Jotokkhon apnar swab test er folafol na janen, totokkhon porjonto poribarer shodosshoder shathe apnar jogajog komate cheshta korben. Bishesh kore, boyoshko manushder kache na jawar cheshta korben.",
+            "special_note": ""
+        }
+    ]
+}

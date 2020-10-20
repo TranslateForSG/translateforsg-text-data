@@ -1,0 +1,72 @@
+{
+    "count": 5,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/16953d0ef98a7b7260c9a4b213392dbc.mp3",
+            "content": "मैं तुम्हारी जांच करने जा रहा हूं।",
+            "id": 166,
+            "language": "Hindi",
+            "phrase": {
+                "content": "I’m going to examine you.",
+                "id": 43,
+                "summary": "Physical Exam Starts"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/046119ec9711af50685ecd0e67775837.mp3",
+            "content": "अगर आपको ज्यादा दर्द महसूस हो तो मुझे बताएं।",
+            "id": 595,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Tell me if you feel more pain.",
+                "id": 149,
+                "summary": "Tell if Pain"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/df0c4efb913d0374917fbe1e18d71425.mp3",
+            "content": "कृपया अपनी शर्ट उतार दें।",
+            "id": 599,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Please remove your shirt.",
+                "id": 150,
+                "summary": "Remove Clothing"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/07418918f90735c3330898ee0ef1841d.mp3",
+            "content": "अपने मुँह से गहरी साँसें लेते रहें।",
+            "id": 167,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Keep taking deep breaths through your mouth.",
+                "id": 44,
+                "summary": "Deep Breath"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/db6a3d8958d76aae42f17af3a5c722a0.mp3",
+            "content": "99 कहो जब मैं अपने स्टेथोस्कोप के साथ सुनता हूं।",
+            "id": 168,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Say \"99\" when I listen with my stethoscope.",
+                "id": 45,
+                "summary": "99"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

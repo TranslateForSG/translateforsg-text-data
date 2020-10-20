@@ -1,0 +1,59 @@
+{
+    "count": 4,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm104.m4a",
+            "content": "உடலில் ஏதேனும் வலியுண்டா?",
+            "id": 2286,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Are you in pain?",
+                "id": 110,
+                "summary": "Are you in pain?"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm105.m4a",
+            "content": "உடலில் எங்கு வலிக்கின்றது?",
+            "id": 2287,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Where is the pain?",
+                "id": 111,
+                "summary": "Where is the pain?"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm106.m4a",
+            "content": "எவ்வளவு வலிக்கின்றது? கொஞ்சமாகவா? மிதமாகவா? இல்லை அதிகமாகவா?",
+            "id": 2288,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Is it mild, moderate or severe?",
+                "id": 112,
+                "summary": "Is it mild, moderate or severe?"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm107.m4a",
+            "content": "வலிக்கின்ற இடத்தை சுட்டிக்காட்ட முடியுமா?",
+            "id": 2289,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Can you point to the pain?",
+                "id": 113,
+                "summary": "Can you point to the pain?"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

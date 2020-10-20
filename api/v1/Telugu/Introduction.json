@@ -1,0 +1,98 @@
+{
+    "count": 7,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ca90b5c533fcfee93e5953ebb4eed08d_kRKgC0j.mp3",
+            "content": "నేను ఒక వైద్యుడిని. నేను తెలుగు మాట్లాడలేను. ఈ వెబ్‌సైట్‌ను ఉపయోగించి నేను మీతో మాట్లాడతాను. నాకు వీలైనంతవరకు ఇంగ్లీషులో సమాధానం ఇవ్వండి. ధన్యవాదాలు.",
+            "id": 2889,
+            "language": "Telugu",
+            "phrase": {
+                "content": "I am a doctor. I do not speak your language. I will communicate with you using this website. Answer me in English as much as possible. Thank you.",
+                "id": 1,
+                "summary": "Intro"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d2815ace7418f6eb8a47e30126dd3d39_CAwSTff.mp3",
+            "content": "మీ పేరు ఏమిటి?",
+            "id": 2890,
+            "language": "Telugu",
+            "phrase": {
+                "content": "What's your name?",
+                "id": 2,
+                "summary": "Name"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5cecc7afcbca328775129d52f24ceb16_XwBwYho.mp3",
+            "content": "దయచేసి మీ FIN లేదా IC నంబర్ ఇవ్వండి",
+            "id": 2891,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Please give me your Identity Card or Work Permit",
+                "id": 3,
+                "summary": "IC"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/9b22c28855a72e6fb1da5c2e5c3e0960_M83Y8i1.mp3",
+            "content": "ఏ కంపెనీ కింద మీరు పనిచేస్తారు?",
+            "id": 2892,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Which company are you employed under / work for?",
+                "id": 4,
+                "summary": "Company"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a1bd96a00a93bc72c830d4cf5676cde3_BuIZhJ9.mp3",
+            "content": "మీ సూపర్వైజర్ పేరు ఇంకా ఫోన్ నెంబర్ ఏమిటి?",
+            "id": 2893,
+            "language": "Telugu",
+            "phrase": {
+                "content": "What is your supervisor’s name and contact number?",
+                "id": 5,
+                "summary": "Supervisor"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ff91ee71155742178778415b8da89537_rgAnEJs.mp3",
+            "content": "మీరు సింగపూర్‌లో ఎక్కడ ఉంటారు?",
+            "id": 2894,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Where do you live in Singapore?",
+                "id": 6,
+                "summary": "Residence"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/006b5105a1d817444134ff4d2aea8f39.mp3",
+            "content": "మీ ప్రాంతంలో ఈ ఇన్ఫెక్షన్ సోకిన వ్యక్తులు ఎవరయినా మీకు తెలుసా?",
+            "id": 2895,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Do you know if any infected patients are from your area?",
+                "id": 7,
+                "summary": "Cluster"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

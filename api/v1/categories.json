@@ -1,0 +1,137 @@
+{
+    "count": 26,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": 1,
+            "name": "Introduction",
+            "needs_original_phrase": true
+        },
+        {
+            "id": 2,
+            "name": "Contact and Travel",
+            "needs_original_phrase": true
+        },
+        {
+            "id": 3,
+            "name": "Symptoms",
+            "needs_original_phrase": true
+        },
+        {
+            "id": 4,
+            "name": "Past Medical Hx",
+            "needs_original_phrase": true
+        },
+        {
+            "id": 5,
+            "name": "Physical Exam",
+            "needs_original_phrase": true
+        },
+        {
+            "id": 6,
+            "name": "Investigations",
+            "needs_original_phrase": true
+        },
+        {
+            "id": 7,
+            "name": "Discharge Advice",
+            "needs_original_phrase": true
+        },
+        {
+            "id": 19,
+            "name": "Precaution Measures",
+            "needs_original_phrase": null
+        },
+        {
+            "id": 8,
+            "name": "Breaking Bad News",
+            "needs_original_phrase": true
+        },
+        {
+            "id": 9,
+            "name": "ICU Orientation",
+            "needs_original_phrase": true
+        },
+        {
+            "id": 10,
+            "name": "ICU Instructions",
+            "needs_original_phrase": true
+        },
+        {
+            "id": 11,
+            "name": "ICU Procedures",
+            "needs_original_phrase": true
+        },
+        {
+            "id": 12,
+            "name": "ICU Nursing",
+            "needs_original_phrase": true
+        },
+        {
+            "id": 13,
+            "name": "Pain Symptoms",
+            "needs_original_phrase": true
+        },
+        {
+            "id": 14,
+            "name": "Body Parts",
+            "needs_original_phrase": true
+        },
+        {
+            "id": 15,
+            "name": "Numbers",
+            "needs_original_phrase": true
+        },
+        {
+            "id": 16,
+            "name": "Months",
+            "needs_original_phrase": true
+        },
+        {
+            "id": 25,
+            "name": "Patient Info Leaflet",
+            "needs_original_phrase": true
+        },
+        {
+            "id": 21,
+            "name": "In Isolation",
+            "needs_original_phrase": true
+        },
+        {
+            "id": 22,
+            "name": "Responsibility",
+            "needs_original_phrase": true
+        },
+        {
+            "id": 23,
+            "name": "Symptoms Worse",
+            "needs_original_phrase": null
+        },
+        {
+            "id": 24,
+            "name": "Blood Pressure",
+            "needs_original_phrase": true
+        },
+        {
+            "id": 17,
+            "name": "FAQ",
+            "needs_original_phrase": false
+        },
+        {
+            "id": 26,
+            "name": "Rapid Triage",
+            "needs_original_phrase": null
+        },
+        {
+            "id": 27,
+            "name": "Radiographer",
+            "needs_original_phrase": true
+        },
+        {
+            "id": 28,
+            "name": "Contact Tracing",
+            "needs_original_phrase": null
+        }
+    ]
+}

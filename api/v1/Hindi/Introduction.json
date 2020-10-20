@@ -1,0 +1,98 @@
+{
+    "count": 7,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/de4ff5030fbb7013fd5463532340b6da.mp3",
+            "content": "मैं एक डॉक्टर हूँ। मैं आपकी भाषा नहीं बोलता। मैं इस वेबसाइट का उपयोग करके आपसे संवाद करूंगा। जितना हो सके अंग्रेजी में मुझे जवाब दो। धन्यवाद।",
+            "id": 186,
+            "language": "Hindi",
+            "phrase": {
+                "content": "I am a doctor. I do not speak your language. I will communicate with you using this website. Answer me in English as much as possible. Thank you.",
+                "id": 1,
+                "summary": "Intro"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/df4021b1bd3507a74f3a854bfe4dad6f.mp3",
+            "content": "तुम्हारा नाम क्या है?",
+            "id": 125,
+            "language": "Hindi",
+            "phrase": {
+                "content": "What's your name?",
+                "id": 2,
+                "summary": "Name"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ef33c0a28915962be1961162ed748029.mp3",
+            "content": "कृपया मुझे अपना आइडेंटिटी कार्ड या वर्क परमिट दें",
+            "id": 126,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Please give me your Identity Card or Work Permit",
+                "id": 3,
+                "summary": "IC"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/22bae4c2c504a4659da1e7748db01355.mp3",
+            "content": "आप किस कंपनी के तहत / काम के लिए कार्यरत हैं?",
+            "id": 127,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Which company are you employed under / work for?",
+                "id": 4,
+                "summary": "Company"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/45b0b10d2d284ea57ef432d00ce89a62.mp3",
+            "content": "आपके पर्यवेक्षक का नाम और संपर्क नंबर क्या है?",
+            "id": 128,
+            "language": "Hindi",
+            "phrase": {
+                "content": "What is your supervisor’s name and contact number?",
+                "id": 5,
+                "summary": "Supervisor"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c6a127bcfa19f4dad1649a24279ed011.mp3",
+            "content": "आप सिंगापुर में कहाँ रहते हैं?",
+            "id": 129,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Where do you live in Singapore?",
+                "id": 6,
+                "summary": "Residence"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/78fe0f81844bf9982fc90336291fd887.mp3",
+            "content": "क्या आप जानते हैं कि कोई संक्रमित रोगी आपके क्षेत्र से है?",
+            "id": 140,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Do you know if any infected patients are from your area?",
+                "id": 7,
+                "summary": "Cluster"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

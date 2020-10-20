@@ -1,0 +1,189 @@
+{
+    "count": 14,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/dab11be908324e964922af5f854538ad_6Y6Wb4K.mp3",
+            "content": "మీకు జ్వరం ఉందా?",
+            "id": 2907,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Do you have a fever?",
+                "id": 14,
+                "summary": "Fever"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ede6a86ed4f32893616fb06ec75d08ed_cMu5v8s.mp3",
+            "content": "ఎన్ని రోజుల నుంచి?",
+            "id": 2908,
+            "language": "Telugu",
+            "phrase": {
+                "content": "How many days?",
+                "id": 15,
+                "summary": "Length"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/97b5ce38c98703f6c5c1149b3031ac1a_Hkh6E9g.mp3",
+            "content": "మీరు టెంపరేచర్ ని థర్మామీటర్‌తో కొలిచారా? మీరు అలా చేస్తే, అత్యధిక టెంపరేచర్ ఎంత ఉంది?",
+            "id": 2909,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Did you measure it with a thermometer? If you did, what was the highest reading?",
+                "id": 16,
+                "summary": "Reading"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b21af67f0eb8e1c6aaf4d092b347c6cd_RNVsCSJ.mp3",
+            "content": "మీ ముక్కు కారుతోందా?",
+            "id": 2910,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Runny nose?",
+                "id": 17,
+                "summary": "Runny nose"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c084e7ce0e8c4378a0a095d23c606b79_0I7z1Ty.mp3",
+            "content": "మీకు దగ్గు ఉందా?",
+            "id": 2911,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Cough?",
+                "id": 18,
+                "summary": "Cough"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3ea028a0829777e75e9a11795664a5ce_WAdNM7L.mp3",
+            "content": "మీకు గొంతు నొప్పి ఉందా?",
+            "id": 2912,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Sore throat?",
+                "id": 19,
+                "summary": "Sore throat"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/14026c1c25dd330dcc5c0872af7db5ac_JOGz5VR.mp3",
+            "content": "మీకు శ్వాస తీసుకోవడంలో ఇబ్బంది ఉందా?",
+            "id": 2913,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Difficulty breathing?",
+                "id": 20,
+                "summary": "Breathing"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/cb4dcb05e154abb6dddaa553e43258ac_qYKa3pp.mp3",
+            "content": "వాసన చూడగలుగుతున్నారా ?",
+            "id": 2914,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Cannot smell properly?",
+                "id": 21,
+                "summary": "Anosmia"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/448760b00b3dbed98cf2423e5a47e0f4.mp3",
+            "content": "మీరు తినేదాన్ని రుచి చూడగలరా?",
+            "id": 2915,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Do you feel less taste in the mouth?",
+                "id": 22,
+                "summary": "Ageusia"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/fe0db480b88870a7c343b8cbaba4cae4_LwH0sU4.mp3",
+            "content": "మీకు విరేచనాలు అవుతున్నాయా? రోజుకు ఎన్నిసార్లు?",
+            "id": 2916,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Do you have diarrhoea / diarrhea? How many times a day?",
+                "id": 23,
+                "summary": "diarrhoea"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/531927946c5cab360b0118a4817014d8_eyGHHAH.mp3",
+            "content": "మీకు దద్దుర్లు ఉన్నాయా?",
+            "id": 2917,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Skin Rash or Itching?",
+                "id": 24,
+                "summary": "Rash"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/439de35ea8a6ea629c4e639cf9405fb6_3Vq8W1A.mp3",
+            "content": "మీ శరీరంలో ఏదైనా నొప్పి ఉందా?",
+            "id": 2918,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Do you have any pain on your body?",
+                "id": 25,
+                "summary": "Pain"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f4eedd91776c4771f1bea4d7105223cd_0UVaHKp.mp3",
+            "content": "ప్రత్యేకంగా, మీకు ఛాతీ నొప్పి ఉందా?",
+            "id": 2919,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Specifically, any chest pain?",
+                "id": 26,
+                "summary": "Chest Pain"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/540bc66e3c69f07bce06eda53c627ecc_ZjlEX1R.mp3",
+            "content": "నొప్పి ఎక్కడ బాధిస్తుందో సూచించండి",
+            "id": 2920,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Point to the place.",
+                "id": 27,
+                "summary": "Point Out"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

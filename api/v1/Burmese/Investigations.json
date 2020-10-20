@@ -1,0 +1,98 @@
+{
+    "count": 7,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f8c1b20ebedac070cdb9b05be15f9032_WAjpuaB.mp3",
+            "content": "နားကြပ်တံလေးကိုသင့်နှာ‌ခေါင်း‌ပေါက် အတွင်းသို့ ထိုးသွင်းပါ‌တော့မယ်။ ခံစားရတာ အနည်းငယ်မသက်မသာဖြစ်ပါလိမ့်မယ်။နာတော့မနာကျင်ပါဘူး။",
+            "id": 1713,
+            "language": "Burmese",
+            "phrase": {
+                "content": "I'm going to put this cotton bud into your nostrils. You will feel strange but it is not painful.",
+                "id": 46,
+                "summary": "Swabbing"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f4465210cddc832f44713e04effcc20a_A1JLeCT.mp3",
+            "content": "ဒီလိုမျိုးတွေလုပ်ပြီးတော့ ကိုရိုနာဗိုင်းရပ်စ် ရှိ၊မရှိ စစ်ဆေးတာ ဖြစ်ပါတယ်။",
+            "id": 1715,
+            "language": "Burmese",
+            "phrase": {
+                "content": "This is to test for coronavirus",
+                "id": 47,
+                "summary": "Covid"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6431ae35a093a146aae0d662ed272b90_u8ZpvqU.mp3",
+            "content": "သင့်တွင် ကိုရိုနာဗိုင်းရပ်စ်တွေ့ရှိပါက မနက်ဖြန် သင့်ကိုဆက်သွယ်လိုက်ပါ့မယ်။",
+            "id": 1714,
+            "language": "Burmese",
+            "phrase": {
+                "content": "If coronavirus positive, we call your phone by tomorrow.",
+                "id": 49,
+                "summary": "Result Collection"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5378647c72e76c4fc4effda6ffd346fe_1FdSSLp.mp3",
+            "content": "သင့်ထံတွင် ကိုရိုနာဗိုင်းရပ်စ်မတွေ့ရှိပါက နောက် ၃ရက်နေရင် သင့်ဆီကို မက်ဆေ့ပို့ပေးပါလိမ့်မယ်။",
+            "id": 1716,
+            "language": "Burmese",
+            "phrase": {
+                "content": "If coronavirus negative, we send you an SMS after 3 days.",
+                "id": 152,
+                "summary": "COVID Negative"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/af55c1bb98a663da3fbaf297715d5e70_rH78XoY.mp3",
+            "content": "ခေါင်းကိုအနောက်သို့အနည်းငယ်လှန်ပေးပါ။",
+            "id": 1717,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Tilt your head back",
+                "id": 48,
+                "summary": "Tilt Head"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b66a525d12e245eec42fcbbe30ca4439_eB3Xacz.mp3",
+            "content": "ခဏနေရင် ဓာတ်မှန်ရိုက်ရပါမယ်။",
+            "id": 1718,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Later, you will do an X-ray",
+                "id": 50,
+                "summary": "X-ray"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ede7832f47077872e4e352000879a1b3_nkWUzMT.mp3",
+            "content": "ဓာတ်မှန်ရဲ့အဖြေမှာ ရောဂါကူးစက်တဲ့ အရိပ်အယောင်မတွေ့ပါဘူး။",
+            "id": 1719,
+            "language": "Burmese",
+            "phrase": {
+                "content": "There is no sign of infection on your X-ray",
+                "id": 51,
+                "summary": "X-ray OK"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

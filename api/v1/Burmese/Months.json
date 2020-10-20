@@ -1,0 +1,163 @@
+{
+    "count": 12,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/178eab9d872bdc797f44e3dd306a1cd9_LfDdYXB.mp3",
+            "content": "ဇန်နဝါရီလ",
+            "id": 1803,
+            "language": "Burmese",
+            "phrase": {
+                "content": "January",
+                "id": 137,
+                "summary": "January"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/668a107865140d8c46e8877a7ffa58c8_CH8X58M.mp3",
+            "content": "ဖေဖော်ဝါရီလ",
+            "id": 1804,
+            "language": "Burmese",
+            "phrase": {
+                "content": "Feb",
+                "id": 138,
+                "summary": "Feb"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3765f2b4a566c507dc1d59a5dccc58d4_o6y7k6h.mp3",
+            "content": "မတ်လ",
+            "id": 1805,
+            "language": "Burmese",
+            "phrase": {
+                "content": "March",
+                "id": 139,
+                "summary": "March"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/55b228288e130cb787243ff3b3bc016d_ruelAZa.mp3",
+            "content": "ဧပြီလ",
+            "id": 1806,
+            "language": "Burmese",
+            "phrase": {
+                "content": "April",
+                "id": 140,
+                "summary": "April"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/35cb8a833b84691058bad2e1aaad70c1_G1XhkPB.mp3",
+            "content": "မေလ",
+            "id": 1807,
+            "language": "Burmese",
+            "phrase": {
+                "content": "May",
+                "id": 141,
+                "summary": "May"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f32a22cad66472a9be6d9285766c806e_uVivFif.mp3",
+            "content": "ဇွန်လ",
+            "id": 1808,
+            "language": "Burmese",
+            "phrase": {
+                "content": "June",
+                "id": 142,
+                "summary": "June"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7ba577bd6dc9bcd8eea6c82db99c8426_u4xsHbx.mp3",
+            "content": "ဇူလှိုင်လ",
+            "id": 1809,
+            "language": "Burmese",
+            "phrase": {
+                "content": "July",
+                "id": 143,
+                "summary": "July"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/008ac94a53a97714fbfab7c21aac9f62_UYKOopT.mp3",
+            "content": "သြဂုတ်လ",
+            "id": 1810,
+            "language": "Burmese",
+            "phrase": {
+                "content": "August",
+                "id": 144,
+                "summary": "August"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/53009039820e85477a8c9780d75d2c90_TGM4zns.mp3",
+            "content": "စက်တင်ဘာလ",
+            "id": 1811,
+            "language": "Burmese",
+            "phrase": {
+                "content": "September",
+                "id": 145,
+                "summary": "September"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/accc8514832a16c2c0bbb8f9fa20d511_KXkvBFt.mp3",
+            "content": "အောက်တိုဘာလ",
+            "id": 1812,
+            "language": "Burmese",
+            "phrase": {
+                "content": "October",
+                "id": 146,
+                "summary": "October"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/114a60d82004b052a486ce04879599a3_LOwUfn9.mp3",
+            "content": "နိုဝင်ဘာလ",
+            "id": 1813,
+            "language": "Burmese",
+            "phrase": {
+                "content": "November",
+                "id": 147,
+                "summary": "November"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ce66f76a1a75f7fd10bb0b8dafeb7ed4_WfPSzkf.mp3",
+            "content": "ဒီဇင်ဘာလ",
+            "id": 1814,
+            "language": "Burmese",
+            "phrase": {
+                "content": "December",
+                "id": 148,
+                "summary": "December"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

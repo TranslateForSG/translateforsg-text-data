@@ -1,0 +1,46 @@
+{
+    "count": 3,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": null,
+            "content": "ਤੁਹਾਡੀ ਕੋਰੋਨਾਵਾਇਰਸ ਲਈ ਜਾਂਚ ਕੀਤੀ ਗਈ ਹੈ ਤੇ ਤੁਹਾਨੂੰ ਕੋਰੋਨਾਵਾਇਰਸ ਹੈ.",
+            "id": 3181,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "You have tested positive for coronavirus.",
+                "id": 60,
+                "summary": "Tested Positive"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਅਸੀਂ ਤੁਹਾਨੂੰ ਹਸਪਤਾਲ ਲੈ ਜਾਵਾਂਗੇ.",
+            "id": 3182,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "We will take you to the hospital.",
+                "id": 61,
+                "summary": "Hospital Admission"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": null,
+            "content": "ਤੁਹਾਨੂੰ ਅਲੱਗ ਰੱਖਣ ਲਈ ਅਸੀਂ ਤੁਹਾਨੂੰ ਕਿਸੇ ਹੋਰ ਵੱਖਰੀ ਜਗ੍ਹਾ ਤੇ ਲੈ ਜਾਵਾਂਗੇ",
+            "id": 3183,
+            "language": "Punjabi",
+            "phrase": {
+                "content": "We will transfer you to an isolation facility.",
+                "id": 62,
+                "summary": "Isolation Facility"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

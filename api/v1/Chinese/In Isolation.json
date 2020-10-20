@@ -1,0 +1,46 @@
+{
+    "count": 3,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/70528824ef0cf2660666807276df4fd3.mp3",
+            "content": "在家里时，请独自住在一个房间内。如果可以，请单独使用一间厕所来减少与其他人的接触。如果你和其他人共用同一间厕所，使用前后需要消毒。",
+            "id": 2145,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Stay in a separate room at home. It is best if the room has an attached bathroom. This is to reduce contact with the other members of the house. If you are using a shared bathroom, the bathroom needs to be cleaned before or after you use it.",
+                "id": 176,
+                "summary": "Separate"
+            },
+            "romanized": "zài jiā lǐ shí ， qǐng dú zì zhù zài yī gè fáng jiān nèi 。 rú guǒ kě yǐ ， qǐng dān dú shǐ yòng yī jiān cè suǒ lái jiǎn shǎo yǔ qí tā rén de jiē hóng 。 rú guǒ nǐ hé qí tā rén gòng yòng tóng yī jiān cè suǒ ， shǐ yòng qián hòu xū yào xiāo dú 。",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b44cc0e176ff9590e258ca0a3031e936.mp3",
+            "content": "请要求他人为您定时准备食物、水和其他日常用品，将它们放置在您的房门外，好让您可以把它们带进房内",
+            "id": 2146,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Arrange for food, water, and other supplies to be placed outside your room. You yourself have to bring those items into your room.",
+                "id": 177,
+                "summary": "Arrange"
+            },
+            "romanized": "qǐng yào qíu tā rén wèi nín dìng shí zhǔn bèi shí wù 、 shǔi hé qí tā rì cháng yòng pǐn ， jiāng tā men fàng zhì zài nín de fáng mén wài ， hǎo ràng nín kě yǐ bǎ tā men dài jìn fáng nèi",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/035f5ddea2c895a791f9d72edc1b49e9.mp3",
+            "content": "直到您的检测结果为阴性前，请减少您与其他家人（尤其是年幼和年长人士）的近距离接触。",
+            "id": 2147,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Until you know your swab test results, reduce your contact with family members. Especially, try not to get near older people.",
+                "id": 178,
+                "summary": "Elderly"
+            },
+            "romanized": "zhí dào nín de jiǎn cè jié guǒ wèi yīn xìng qián ， qǐng jiǎn shǎo nín yǔ qí tā jiā rén （ yóu qí shì nián yòu hé nián cháng rén shì ） de jìn jù lí jiē hóng 。",
+            "special_note": ""
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "count": 3,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8ab6301bb080e535d7aba8c6f3f74175.mp3",
+            "content": "Ở trong một phòng riêng ở nhà. Tốt nhất là phòng có phòng tắm kèm theo. Điều này là để giảm liên lạc với các thành viên khác trong nhà. Nếu bạn đang sử dụng phòng tắm chung, phòng tắm cần được làm sạch trước hoặc sau khi bạn sử dụng.",
+            "id": 1939,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Stay in a separate room at home. It is best if the room has an attached bathroom. This is to reduce contact with the other members of the house. If you are using a shared bathroom, the bathroom needs to be cleaned before or after you use it.",
+                "id": 176,
+                "summary": "Separate"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0b51f96f0d408acbd46bcc27b7599fff.mp3",
+            "content": "Sắp xếp thực phẩm, nước và các vật dụng khác được đặt bên ngoài phòng của bạn. Chính bạn phải mang những vật dụng đó vào phòng của bạn.",
+            "id": 1940,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Arrange for food, water, and other supplies to be placed outside your room. You yourself have to bring those items into your room.",
+                "id": 177,
+                "summary": "Arrange"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d1a2c7f8957defd7dd9b75dbd7cf156b.mp3",
+            "content": "Cho đến khi bạn biết kết quả xét nghiệm gạc của mình, hãy giảm liên lạc với các thành viên trong gia đình. Đặc biệt, cố gắng không đến gần người lớn tuổi.",
+            "id": 1941,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Until you know your swab test results, reduce your contact with family members. Especially, try not to get near older people.",
+                "id": 178,
+                "summary": "Elderly"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

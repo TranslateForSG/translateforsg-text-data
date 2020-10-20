@@ -1,0 +1,85 @@
+{
+    "count": 6,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c17ffd5e934c08a6457cea7b37174aed.mp3",
+            "content": "पिछले 14 दिनों में, क्या आपने किसी ऐसे व्यक्ति से मुलाकात की है जिसके पास कोरोनवायरस है?",
+            "id": 130,
+            "language": "Hindi",
+            "phrase": {
+                "content": "In the last 14 days, did you meet anyone who has coronavirus?",
+                "id": 9,
+                "summary": "People"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f26d2a0cc577affe392c2b8cec186434.mp3",
+            "content": "आप के रूप में एक ही कमरे में कितने लोग रह रहे हैं?",
+            "id": 141,
+            "language": "Hindi",
+            "phrase": {
+                "content": "How many people are staying in the same room as you?",
+                "id": 8,
+                "summary": "Room"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1ead2a7a19eed5c19078e562d3da89d4.mp3",
+            "content": "Who? उनसे आपका क्या रिश्ता है?",
+            "id": 139,
+            "language": "Hindi",
+            "phrase": {
+                "content": "Who? What is your relationship with them?",
+                "id": 10,
+                "summary": "People Meet"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/14b59082f963d5136812120c4a5c3f38.mp3",
+            "content": "आप कितने दिन पहले उनसे मिले थे?",
+            "id": 131,
+            "language": "Hindi",
+            "phrase": {
+                "content": "How many days ago did you meet them?",
+                "id": 11,
+                "summary": "People Meet"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/e230f5b9895f0be8dc375acb09d57e2b.mp3",
+            "content": "आप कब तक उसके साथ थे?",
+            "id": 132,
+            "language": "Hindi",
+            "phrase": {
+                "content": "How long were you with him/her?",
+                "id": 12,
+                "summary": "People Meet"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c82f52d5455a10e66174084d512b0ece.mp3",
+            "content": "पिछले 14 दिनों में, क्या आपने सिंगापुर की यात्रा की? यदि हाँ, तो हमें अंग्रेजी में देशों को बताएं।",
+            "id": 133,
+            "language": "Hindi",
+            "phrase": {
+                "content": "In the last 14 days, did you travel out of Singapore? If yes, tell us the countries in English.",
+                "id": 13,
+                "summary": "14 Days Travel"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

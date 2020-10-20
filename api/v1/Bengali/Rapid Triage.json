@@ -1,0 +1,85 @@
+{
+    "count": 6,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1.mp3",
+            "content": "প্রাথমিক পরীক্ষা কেন্দ্র (মোবাইল র‍্যাপিড ট্রিয়াজ স্টেশন)",
+            "id": 3086,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Mobile Rapid Triage Station",
+                "id": 202,
+                "summary": "Name"
+            },
+            "romanized": "Praa-tho-mik Pori-kkha Kendro",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/2.mp3",
+            "content": "আমরা প্রাথমিক পরীক্ষা কেন্দ্রে (মোবাইল র‍্যাপিড ট্রিয়াজ স্টেশন) আপনার শরীরের তাপমাত্রা, এবং অন্যান্য লক্ষণগুলো পরীক্ষা করে দেখব।",
+            "id": 3087,
+            "language": "Bengali",
+            "phrase": {
+                "content": "At the mobile rapid triage station, we will be screening your temperature and taking your vital signs.",
+                "id": 203,
+                "summary": "Intro"
+            },
+            "romanized": "Aamra Praa-tho-mik Pori-kkha Kendre (Mobile Triage Station) Aapnar shorir-er tap-matra, ebong onna-nno lokkhon-gulo pori-kkha ko-re dekh-bo.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3.mp3",
+            "content": "প্রথমত, আপনার ওয়ার্ক পারমিট দেখান অথবা স্ক্যান করুন।",
+            "id": 3088,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Please show us/scan your work permit.",
+                "id": 204,
+                "summary": "WP"
+            },
+            "romanized": "Protho-moto, apnar work permit dekhan otho-ba scan korun.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4.mp3",
+            "content": "আপনি ডরমেটরিতে কোন ব্লকে থাকেন? কত নম্বর রুমে?",
+            "id": 3089,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Please tell us your block and room no. in your dorm.",
+                "id": 205,
+                "summary": "Block & Room"
+            },
+            "romanized": "apni dormitory te kon block e thaken? koto number room-e?",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5.mp3",
+            "content": "যদি দরকার পড়ে, তবে আমরা আপনাকে একজন ডাক্তারের কাছে পাঠাবো।",
+            "id": 3090,
+            "language": "Bengali",
+            "phrase": {
+                "content": "You may be referred to see a doctor where necessary.",
+                "id": 206,
+                "summary": "Doc Refer Can"
+            },
+            "romanized": "Zodi dorkar pore, tobe aamra apnake ek-jon doctor-er ka-che pathabo.",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6.mp3",
+            "content": "ধন্যবাদ",
+            "id": 3091,
+            "language": "Bengali",
+            "phrase": {
+                "content": "Thank you",
+                "id": 207,
+                "summary": "Thanks"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

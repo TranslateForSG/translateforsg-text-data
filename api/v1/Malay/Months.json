@@ -1,0 +1,163 @@
+{
+    "count": 12,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1831bebb539949a55a71435e32368a9f.mp3",
+            "content": "Januari",
+            "id": 1077,
+            "language": "Malay",
+            "phrase": {
+                "content": "January",
+                "id": 137,
+                "summary": "January"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/17b0aa1b491885d22ee808e34577ea0c.mp3",
+            "content": "Februari",
+            "id": 1078,
+            "language": "Malay",
+            "phrase": {
+                "content": "Feb",
+                "id": 138,
+                "summary": "Feb"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1748c0644a50090814d3e170723ccc5c.mp3",
+            "content": "Mac",
+            "id": 1079,
+            "language": "Malay",
+            "phrase": {
+                "content": "March",
+                "id": 139,
+                "summary": "March"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3fcf026bbfffb63fb24b8de9d0446949.mp3",
+            "content": "April",
+            "id": 1080,
+            "language": "Malay",
+            "phrase": {
+                "content": "April",
+                "id": 140,
+                "summary": "April"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f2fa6af586895a4535f1c514c2aac01b.mp3",
+            "content": "Mei",
+            "id": 1081,
+            "language": "Malay",
+            "phrase": {
+                "content": "May",
+                "id": 141,
+                "summary": "May"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/eb4b40c1221dad5b23fe7ef84d292be1.mp3",
+            "content": "Jun",
+            "id": 1082,
+            "language": "Malay",
+            "phrase": {
+                "content": "June",
+                "id": 142,
+                "summary": "June"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/e66531d9b7544cdcb65302adb44d43a7.mp3",
+            "content": "Julai",
+            "id": 1083,
+            "language": "Malay",
+            "phrase": {
+                "content": "July",
+                "id": 143,
+                "summary": "July"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8cfbac2f2146ce40dadb6b1d4c48758c.mp3",
+            "content": "Ogos",
+            "id": 1084,
+            "language": "Malay",
+            "phrase": {
+                "content": "August",
+                "id": 144,
+                "summary": "August"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/cc5d90569e1c8313c2b1c2aab1401174.mp3",
+            "content": "September",
+            "id": 1085,
+            "language": "Malay",
+            "phrase": {
+                "content": "September",
+                "id": 145,
+                "summary": "September"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/43f11a7e230c388aec20d207d4e23014.mp3",
+            "content": "Oktober",
+            "id": 1086,
+            "language": "Malay",
+            "phrase": {
+                "content": "October",
+                "id": 146,
+                "summary": "October"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7e823b37564da492ca1629b4732289a8.mp3",
+            "content": "November",
+            "id": 1087,
+            "language": "Malay",
+            "phrase": {
+                "content": "November",
+                "id": 147,
+                "summary": "November"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/40ac310c71c0c2aef714cf41bc6a2031.mp3",
+            "content": "Disember",
+            "id": 1088,
+            "language": "Malay",
+            "phrase": {
+                "content": "December",
+                "id": 148,
+                "summary": "December"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

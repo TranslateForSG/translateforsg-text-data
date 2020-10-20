@@ -1,0 +1,111 @@
+{
+    "count": 8,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/dc019259d962c456cc65da4d954dcb43_BXXTeSI.mp3",
+            "content": "నేను ఈ కాటన్ మొగ్గను మీ ముక్కులో పెట్టబోతున్నాను. మీరు వింతగా భావిస్తారు కానీ బాధాకరమైనది కాదు.",
+            "id": 2941,
+            "language": "Telugu",
+            "phrase": {
+                "content": "I'm going to put this cotton bud into your nostrils. You will feel strange but it is not painful.",
+                "id": 46,
+                "summary": "Swabbing"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b5b4063287b2b71d2ab0b42f57c7375d_VG7JLwN.mp3",
+            "content": "ఇది కరోనావైరస్ పరీక్షా చెయ్యడం కోసం ఇది చేస్తున్నాము",
+            "id": 2942,
+            "language": "Telugu",
+            "phrase": {
+                "content": "This is to test for coronavirus",
+                "id": 47,
+                "summary": "Covid"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f50f879e6424c8fb125a73cd197c7743_6UyrPjS.mp3",
+            "content": "మీకు కరోనావైరస్ ఉంటే, మేము రేపు మీకు ఫోన్‌  చేస్తాము.",
+            "id": 2944,
+            "language": "Telugu",
+            "phrase": {
+                "content": "If coronavirus positive, we call your phone by tomorrow.",
+                "id": 49,
+                "summary": "Result Collection"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b36f68d8c78233ad032d9aefffc9fc7e_S059qCZ.mp3",
+            "content": "మీ తల వెనుకకు వంచండి",
+            "id": 2943,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Tilt your head back",
+                "id": 48,
+                "summary": "Tilt Head"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d0a89f60cd57de91d2b93a33150df7bb_927Tvn7.mp3",
+            "content": "మీకు కరోనావైరస్ లేకపోతే, మేము 3 రోజుల తర్వాత మీకు SMS పంపుతాము",
+            "id": 2945,
+            "language": "Telugu",
+            "phrase": {
+                "content": "If coronavirus negative, we send you an SMS after 3 days.",
+                "id": 152,
+                "summary": "COVID Negative"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/071a6e1abcf800acc56e312d7b2ade02_myey61s.mp3",
+            "content": "తరువాత, మీరు ఎక్స్-రే తీయించుకుంటారు",
+            "id": 2946,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Later, you will do an X-ray",
+                "id": 50,
+                "summary": "X-ray"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7eeff0b2c783a25b8a9e1035d424df40_6DkxqxE.mp3",
+            "content": "మీ ఎక్స్-రేలు మీ ఎక్స్-రేలో సంక్రమణ (ఇన్ఫెక్షన్) కనిపించట్లేదు",
+            "id": 2947,
+            "language": "Telugu",
+            "phrase": {
+                "content": "There is no sign of infection on your X-ray",
+                "id": 51,
+                "summary": "X-ray OK"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f6a9949d3cf781781839e4c33d81910a_K43Po13.mp3",
+            "content": "మీ శ్లాబ్ టెస్ట్ నెగటివ్ గా వచ్చినాక కూడా మీకు జ్వరం, దగ్గు, ముక్కు కారటం మొదలైన లక్షణాలు ఉంటే, మీరు ఐసొలేషన్ లోనే వుoడవలసి వుoటుoది.",
+            "id": 2948,
+            "language": "Telugu",
+            "phrase": {
+                "content": "If your COVID Swab is negative but you have symptoms of fever, cough, runny nose, you have to remain in an isolation area.",
+                "id": 201,
+                "summary": "Negative w/ Symptoms"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

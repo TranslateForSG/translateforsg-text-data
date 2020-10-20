@@ -1,0 +1,111 @@
+{
+    "count": 8,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/035086a4322b5478e9f035b73c19316e.mp3",
+            "content": "请您将手扣的管线接到血压检测器",
+            "id": 2134,
+            "language": "Chinese",
+            "phrase": {
+                "content": "1) Connect the blood pressure cuff to the reader machine.",
+                "id": 188,
+                "summary": ""
+            },
+            "romanized": "Qǐng nín jiàng shǒu kòu de guǎn xiàn jiē dào xiě yā jiǎn cè qì",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/9fccf070406062bec0f2ae1568c6c725.mp3",
+            "content": "手扣上的箭头应该指向您手臂的内侧",
+            "id": 2135,
+            "language": "Chinese",
+            "phrase": {
+                "content": "2) The “arrow” on the the cuff should be pointing downwards on the inside of your arm.",
+                "id": 189,
+                "summary": ""
+            },
+            "romanized": "Shǒu kòu shàng de jiàn tóu yīng gāi zhǐ xiàng nín shǒu bì de nèi cè",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/fbf5d222352a565a1b7d0e33478c3d93.mp3",
+            "content": "手扣位置应该位于您手肘的1-2公分以上",
+            "id": 2136,
+            "language": "Chinese",
+            "phrase": {
+                "content": "(!) The cuff should be positioned 1 to 2 cm above your elbow joint.",
+                "id": 190,
+                "summary": ""
+            },
+            "romanized": "Shǒu kòu wèi zhì yīng gāi wèi yú nín shǒu zhǒu de yī dào èr gōng fēn yǐ shàng",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a3389b29d4750999423e594e188a1c6a.mp3",
+            "content": "手扣不应该系得太紧，也不应该太松。 留大概一根手指的空间就好了",
+            "id": 2137,
+            "language": "Chinese",
+            "phrase": {
+                "content": "3) The BP cuff should fit snugly onto your arm. It should not feel loose. Leave some space enough for 1 left finger to fit in (for good gauge)",
+                "id": 191,
+                "summary": ""
+            },
+            "romanized": "Shǒu kòu bù yìng gāi xì dé tài jǐn, yě bù yìng gāi tài sōng. Liú dà gài yī gēn shǒu zhǐ de kōng jiān jiù hǎo le",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/88d351c0e10559cee03c75803cbc640e.mp3",
+            "content": "测量血压时，请避免按压血压器的管线",
+            "id": 2138,
+            "language": "Chinese",
+            "phrase": {
+                "content": "4) Do not bend the tube during blood pressure measurement.",
+                "id": 192,
+                "summary": ""
+            },
+            "romanized": "cèl liáng xiě yā shí, qǐng bì miǎn àn yā xiě yā qì de guǎn xiàn",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/38d6ce0c7cbbe3994f5b117366d0e94a.mp3",
+            "content": "测量血压时，请放轻松，将整个手臂放在桌上",
+            "id": 2139,
+            "language": "Chinese",
+            "phrase": {
+                "content": "5) Relax & Rest your entire arm on a table while measuring your blood pressure.",
+                "id": 193,
+                "summary": ""
+            },
+            "romanized": "cè liáng xiě yā shí, qǐng fàng qīng sōng, jiāng zhěng gè shǒubì fàng zài zhuō shàng",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5e6c5846724e386666a1f85f6467c916.mp3",
+            "content": "按 “开始／停止” 的青/蓝/黑色按钮以开始测量血压。请等上一分钟，直到屏幕显示三组号码",
+            "id": 2140,
+            "language": "Chinese",
+            "phrase": {
+                "content": "6) Press the “Start/Stop” button to start measuring your BP. Wait for 1 minute until 3 numbers appear.",
+                "id": 194,
+                "summary": ""
+            },
+            "romanized": "Àn “kāi shǐ / tíng zhǐ” de qīng / lán / hēi sè àn niǔ yǐ kāi shǐ cè liáng xiě yā. Qǐng děng shàng yī fēn zhōng, zhí dào píng mù xiǎn shì sān zǔ hào mǎ",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f098565c7b9cf85d43edc1611da1e9b6.mp3",
+            "content": "第一个号数是您的收缩压。第二个号数是您的舒张压。最后的号数是您的心跳率。",
+            "id": 2141,
+            "language": "Chinese",
+            "phrase": {
+                "content": "7) The top number is your Systolic blood pressure. The middle number is your Diastolic blood pressure. The bottom number is your Pulse rate.",
+                "id": 195,
+                "summary": ""
+            },
+            "romanized": "Dì yī gè hào shù shì nín de shōu suō yā. Dì èr gè hào shù shì nín de shū zhāng yā. Zuì hòu de hào shù shì nín de xīn tiào lǜ.",
+            "special_note": ""
+        }
+    ]
+}

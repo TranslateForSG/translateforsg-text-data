@@ -1,0 +1,202 @@
+{
+    "count": 15,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm20.m4a",
+            "content": "இதற்கு முன் உங்களுக்கு ஏதேனும் மருத்துவ ரீதியான பிரச்சனைகள் இருந்திருக்கிறதா?",
+            "id": 2191,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Do you have any past medical history?",
+                "id": 28,
+                "summary": "Medical History"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm21.m4a",
+            "content": "உங்களுக்கு இவற்றுள் ஏதேனும் இருந்தால் என்னிடம் கூறுங்கள்.",
+            "id": 2192,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Point to which ones.",
+                "id": 29,
+                "summary": "Symptoms"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm22.m4a",
+            "content": "ஆஸ்துமா",
+            "id": 2193,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Asthma",
+                "id": 30,
+                "summary": "Asthma"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm23.m4a",
+            "content": "நிமோனியா",
+            "id": 2194,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Pneumonia",
+                "id": 31,
+                "summary": "Pneumonia"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm24.m4a",
+            "content": "உயர் இரத்த அழுத்தம் (ஹைப்பர்டென்ஷன்)",
+            "id": 2195,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Hypertension",
+                "id": 32,
+                "summary": "Hypertension"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm25.m4a",
+            "content": "(ஹைப்பர்லிபிடெமியா எனப்படும் ரத்தத்தில் அதிகமாக கொழுப்பு இருக்கும் நோய்)",
+            "id": 2196,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Hyperlipidemia / Cholesterol",
+                "id": 33,
+                "summary": "Hyperlipidemia"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm26.m4a",
+            "content": "நீரிழிவு நோய் (டையபீட்டிஸ்/இனிப்பு நீர்/சர்க்கரை வியாதி/ஷுகர்)",
+            "id": 2197,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Diabetes",
+                "id": 34,
+                "summary": "Diabetes"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm27.m4a",
+            "content": "இதய கோளாறு",
+            "id": 2198,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Heart problems",
+                "id": 35,
+                "summary": "Heart problems"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm28.m4a",
+            "content": "சிறுநீரகத்தில் (கிட்ணி) பிரச்சினை",
+            "id": 2199,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Kidney problems",
+                "id": 36,
+                "summary": "Kidney problems"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm31.m4a",
+            "content": "நீங்கள் தவிர்க்க வேண்டிய மருந்து மாத்திரைகள் ஏதேனும் உண்டா? அதாவது உங்களுக்கு ஏதேனும் மருந்து அலர்ஜி (allergy) உண்டா?",
+            "id": 2200,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Do you have a drug allergy?",
+                "id": 37,
+                "summary": "Drug allergy"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm32.m4a",
+            "content": "நீங்கள் புகை பிடிப்பீர்களா? ஒரு நாளில் எத்தனை சிகரெட்டுகள் புகைபிடிப்பீர்கள்?",
+            "id": 2201,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Do you smoke? If yes, how many cigarettes a day?",
+                "id": 38,
+                "summary": "Smoke"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm33.m4a",
+            "content": "உங்களுக்கு மது அருந்துதல்/ குடி பழக்கம் இருக்கிறதா? ஒரு வாரத்தில் எவ்வளவு மது அருந்துவீர்கள்?",
+            "id": 2202,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Do you drink? If yes, how much (number of bottles a week, type of alcohol)?",
+                "id": 39,
+                "summary": "Drink Alcohol"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/04d40afce0c21274490b52245a04dfee_Q8Wk0dA.mp3",
+            "content": "பொதுவாக உங்களுடைய மன நிலை எப்படியுள்ளது? விரலை மேல் அல்லது கீழ் காட்டுங்கள்",
+            "id": 2203,
+            "language": "Tamil",
+            "phrase": {
+                "content": "How do you feel emotionally?",
+                "id": 40,
+                "summary": "Emotion Feeling"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/66c594cbe8315377ea97b16cb4814f67_SxlHi4t.mp3",
+            "content": "எப்போதாவது உங்களுக்குத் தற்கொலை செய்துகொள்ள வேண்டும் என்ற எண்ணம் தோன்றியுள்ளதா?",
+            "id": 2204,
+            "language": "Tamil",
+            "phrase": {
+                "content": "Do you have suicidal thoughts?",
+                "id": 41,
+                "summary": "Suicidal thoughts"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ta/Tm34.m4a",
+            "content": "உங்களுக்கு வேறு ஏதாவது மருத்துவ/உடல் நலம் சார்ந்த பிரச்சனைகள் இருந்தால், என்னிடம் ஆங்கிலத்தில் சொல்லுங்கள்",
+            "id": 2205,
+            "language": "Tamil",
+            "phrase": {
+                "content": "If you have any other problems, you can tell me in English.",
+                "id": 42,
+                "summary": "Other Problems"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

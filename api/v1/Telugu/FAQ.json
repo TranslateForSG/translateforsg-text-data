@@ -1,0 +1,150 @@
+{
+    "count": 11,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b78c4ca6c5bb72887e08e45eb0831f2c.mp3",
+            "content": "కోవిడ్ -19 అంటే ఏమిటి?\n\nకోవిడ్ -19 (మరింత ప్రత్యేకంగా, ఒక కరోనావైరస్) అనేది చైనాలోని వుహాన్ నగరం నుండి ప్రారంభమైన శ్వాసకోశ అనారోగ్యం.",
+            "id": 3075,
+            "language": "Telugu",
+            "phrase": {
+                "content": "What is COVID-19?\r\n\r\nCOVID-19 (more specifically, a coronavirus) is an illness that started from the Wuhan City in China, it is a respiratory illness.",
+                "id": 155,
+                "summary": "What COVID"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8e6ea3cdc5b70acf193ea7834ca8cb60.mp3",
+            "content": "కోవిడ్ -19 యొక్క లక్షణాలు ఏమిటి?\n\nఅత్యంత సాధారణ లక్షణాలు జ్వరం, అలసట మరియు పొడి దగ్గు. కొoత మందిలో ముక్కు  కారడం, గొంతు నొప్పి లేదా విరేచనాలు వంటి లక్షణాలు వుoడవచ్చు. ఇవి సాధారణంగా తక్కువ మోతాదులో ఉంటాయి.\n\nకొంతమందికి ఈ వ్యాధి సోకినప్పటికీ  పై లక్షణాలు వుoడవు.\n\nఅయితే, పైన చెప్పిన లక్షణాలు ఊపిరితిత్తుల ఇన్ఫెక్షన్ లేదా న్యుమోనియా వలన కూడా రావచ్చును.",
+            "id": 3076,
+            "language": "Telugu",
+            "phrase": {
+                "content": "What are the symptoms of COVID-19?\r\n\r\nThe most common symptoms are fever, tiredness and dry cough. Some patients also have a runny nose, sore throat or diarrhea. These symptoms are usually mild.\r\n\r\nSome people become infected but do not have any symptoms.\r\n\r\nHowever, it also can be caused by a lung infection or pneumonia.",
+                "id": 156,
+                "summary": "What are the symptoms of COVID-19?"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c908d1d73fd485e948855675302ca666.mp3",
+            "content": "కోవిడ్ -19 ఎలా వ్యాపిస్తుంది?\n\nఇప్పటికే కోవిడ్ -19 వున్న వారి నుoడి ఇతరులకు  సోకవచ్చు. ఈ వైరస్ సోకినవారి దగ్గు మరియు తుమ్మడం ద్వారా వెలువడిన తుoపరల నుoడి వ్యాపిస్తుంది. వారి  నోటి లాలాజలం ద్వారా కాని, వారు ఉపయోగించిన ప్లేట్లు, స్పూన్లు, మరియు ఫోర్కుల ద్వార కూడ వ్యాప్తి చెందుతుంది.",
+            "id": 3077,
+            "language": "Telugu",
+            "phrase": {
+                "content": "How does COVID-19 spread?\r\n\r\nPeople can be infected by other persons already infected with COVID-19. The virus spreads through cough and sneezing. The virus can also spread with saliva from the mouth, used plates, spoons, and forks.",
+                "id": 157,
+                "summary": "COVID Spread"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4a0561a8101e15706a70574b9508d3c4.mp3",
+            "content": "కోవిడ్ -19 పరీక్ష అంటే ఏమిటి?\n\nఇది ఒక శ్వాబ్ టెస్టు . ఒక  శ్వాబ్ మీ ముక్కు లేదా మీ గొంతు వెనుక భాగంలో కి అతిజాగ్రత్తగా పంపి చేస్తారు. ఇందుకు10 సెకన్లు పడుతుoది. కొద్దిగా ఇబ్బంది ఉండవచ్చు. అయితే, అది మరీ నొప్పిగా ఏమీ వుoడదు.",
+            "id": 3078,
+            "language": "Telugu",
+            "phrase": {
+                "content": "What is the test for COVID-19?\r\n\r\nIt is a swab test. A swab will be inserted in your nostrils or at the back of your throat. It will last about 10 seconds. There might be a slight discomfort, however, it is not too painful.",
+                "id": 158,
+                "summary": "COVID-19 Test"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5233b9108cc006564a3e87f0ef513f72.mp3",
+            "content": "నాకు కోవిడ్ -19 ఉంటే ఏంచేస్తారు?\n\nఅధికారులు మిమ్మల్ని అలాoటి వారికోసం ప్రత్యేకిoచిన చోటుకి గాని లేదా ఆసుపత్రికి గాని తరలిస్తారు. వారు మీ ఆరోగ్యం మెరుగుపడుతుoదా లేదా అని మానిటర్ చేస్తారు. ఎక్సరే లేదా రక్త పరీక్ష కూడా అవసరమవుతాయి.  సాధారణంగా, మీకు ప్రతి 24 గంటలకు ఒకసారి శ్వాబ్ టెస్ట్ చేస్తారు. మీ టెస్ట్ రిజల్ట్ వరుసగా రెండుసార్లు నెగటివ్ గా ఉంటే, మిమ్మల్ని విడుదల చేస్తారు. కానీ ఆతర్వాత, మీరు 2 వారాల వరకు విడిగా వుoడాలి.",
+            "id": 3079,
+            "language": "Telugu",
+            "phrase": {
+                "content": "What if I have COVID-19?\r\n\r\nAuthority will make separate living arrangements for you or admit you to a hospital. They will monitor your health, whether it is improving or not. X-ray or blood test may also be needed. Usually, they will test your swab every 24 hours. If your test is negative twice in a row, you will be released. But after going home, you have to stay separate from everyone for 2 weeks.",
+                "id": 159,
+                "summary": "COVID-19 Positive"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/924a476966ac8cc3d186894b02949af9.mp3",
+            "content": "నాకు కోవిడ్ -19 ఉంటే నేను చనిపోతానా?\n\nకోవిడ్ -19 అంటే మీరు,  మీ కుటుంబం భయపడవచ్చు. అయితే, 80% మందిలో, కోవిడ్ -19 ఇన్ఫెక్షన్ మైల్డ్ గా ఉంటుoది. వారికి వైద్యం కూడా ఏమీ అవసరం వుoడదు. వృధ్ధులు లేదా ఇతర ఆరోగ్య సమస్యలు ఉన్నవారికి  కొద్దిగా రిస్కు ఉంది. 5% మందికి శ్వాస సహాయం కోసం ICU అవసరం.",
+            "id": 3080,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Will I die if I have COVID-19?\r\n\r\nCOVID-19 may make you and your family worried. However, 80% of the time, COVID-19 infections are mild. They do not even need any treatment. There is a slight risk of damage to those who are old or have other health problems. Only 5% of patients need ICU for helping them breathe.",
+                "id": 160,
+                "summary": "Die COVID-19"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/e9df347c16fbcfd4e75fc4fb2bdf196b.mp3",
+            "content": "కోవిడ్ -19  నివారిoచడానికి చికిత్స ఉందా?\n\nకోవిడ్ -19  రోగులు చాలా మందికి ఏ చికిత్స అవసరం లేదు. వారికి దగ్గు, జ్వరం మరియు ఇతర లక్షణాల కోసం మాత్రమే మందు అవసరం. అయితే, బాగా అనారోగ్యానికి గురైన సుమారు 5% రోగులకోసం, ఏ రకమైన చికిత్సలు లేవు. అయితే, చాలా త్వరలోనే  చికిత్స కనిపెట్టబోతున్నారుభయపడవద్దు. మీకు శ్వాస సమస్యలు ఉంటే మీకు మెషీను పెడతారు. మీకు బిపికి కూడ మందు ఇస్తారు.",
+            "id": 3081,
+            "language": "Telugu",
+            "phrase": {
+                "content": "Is there a treatment for COVID-19?\r\n\r\nMost patients of COVID-19 do not need any treatment. They only need medicine for cough, fever and other symptoms. However, for 5% of the patients who are very ill, there are no proven treatments. However, we are very near to discovering treatment. Do not be afraid. If you have problems breathing we will use a machine to help you breathe. We will give you medicine for blood pressure.",
+                "id": 161,
+                "summary": "COVID-19 Treatment"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/37da92a987802555b149a84c361c91b1.mp3",
+            "content": "నేను నా ట్రీట్మెంటుకి ఎంత డబ్బు  చెల్లించవలసి ఉంటుంది?\n\nసింగపూర్ ప్రభుత్వం యొక్క ప్రకటన ప్రకారం, మీరు సింగపూర్ సిటిజన్, లేదా పిఆర్, లేదా లాoగ్ టర్మ్ పాస్ హోల్డరు అయితే, ప్రభుత్వం చెల్లిస్తుoది. మీకు వర్కు పర్మిట్ వున్నా కూడా ప్రభుత్వం చెల్లిస్తుoది. కానీ, మీరు 27 మార్చి 2020 తరువాత సింగపూర్ బయటకు వెళ్లి తిరిగి వచ్చిన14 రోజుల లోపల అడ్మిట్ అయితే, ప్రభుత్వం మీ బిల్లులు చెల్లించదు.",
+            "id": 3082,
+            "language": "Telugu",
+            "phrase": {
+                "content": "How much will I have to pay for Treatment?\r\n\r\nAccording to the announcement of the Singapore Government, if you are a citizen of Singapore, or a permanent resident, or a long term pass holder, the government will pay. So even if you have a work permit, the government will pay. But, if you went out of Singapore after 27 March 2020 and get admitted within 14 days of returning, the government will not pay your bills.",
+                "id": 162,
+                "summary": "Treatment Cost"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/116c65f1a8b513190436d9393edb2817.mp3",
+            "content": "నేను నా ఉద్యోగం పోతుoదేమో అని భయపడుతున్నాను.\n\nచట్టప్రకారం మీ ఎంప్లాయరు మీ ట్రీట్ మెoటు కి పర్మిషన్ ఇవ్వాలి. మీరు ఇప్పుడు పని చెయ్యలేకపోయినప్పటికీ మీ ఎంప్లాయరు మీ జీతం చెల్లించాల్సి ఉంటుంది. మీ జీతం సకాలంలో చెల్లించకపోతే, సింగపూర్ ప్రభుత్వం మీ ఎంప్లాయరు మీద చర్య తీసుకుంటుంది.",
+            "id": 3083,
+            "language": "Telugu",
+            "phrase": {
+                "content": "I am worried about not working. Will I lose my job?\r\n\r\nYour employer has to allow your treatment by the law. The employer has to pay your salary even if you cannot work now.  If your salary is not paid timely, the Singapore Government can take action against the employer.",
+                "id": 163,
+                "summary": "Job Loss"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/e54c042f209cebac80d2d332f72f2d0c.mp3",
+            "content": "నాకు భయంగావుoది. ఇంటికి వెళ్లాలనిపిస్తోoది .\n\nఈ సమయంలో అలా అనిపిoచడం సహజమే.\n\nమీరు మీ కుటుంబం యొక్క భద్రత కోసం డాక్టర్ లు మరియు ప్రభుత్వం చెప్పినట్లు గా నడుచుకోవాలి. సింగపూర్ ప్రభుత్వం మీకు సురక్షితమైన  ట్రీట్ మెoట్ లు ఏర్పాట్లు చేసింది. సింగపూర్ లో మంచి ఆస్పత్రులు మరియు ట్రీట్ మెoట్ లు ఉన్నాయి. మేము మీకు ఉత్తమ ట్రీట్ మెoట్ ఇవ్వడానికి మా శాయశక్తులా ప్రయత్నిస్తాము.",
+            "id": 3084,
+            "language": "Telugu",
+            "phrase": {
+                "content": "I am scared and I want to go home.\r\n\r\nIt is natural to be scared and anxious during this period.\r\n\r\nYou must follow the instructions of doctors and the Government for the safety of your family. The Singapore Government has made arrangements, so we can safely give you treatment. Singapore has good hospitals and treatment here. We will do our best to give you the best treatment possible.",
+                "id": 164,
+                "summary": "Scared"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/82f3331cba35c34dfaa509210e379273.mp3",
+            "content": "నేను కోవిడ్ -19 ఇన్ఫెక్షన్ నిరోధించడానికి ఏంచెయ్యాలి?\n\nఅదృష్టవశాత్తూ, మిమ్మలిని మీరు ఈ  ఇన్ఫెక్షన్ నుoచి రక్షిoచు కోవడానికి కొన్ని జాగ్రత్తలు తీసుకోవచ్చు. \n\nఅవి:\n1. కనీసం 20 సెకన్ల సబ్బు మరియు నీటితో మీ చేతులు శుభ్రంగా కడగడం.\n2.  కళ్ళు, ముక్కు మరియు నోటిని తాకవద్దు.\n3. మీరు దగ్గినప్పుడు లేదా తుమ్మినప్పుడు మీ నోటిని మరియు ముక్కుని మోచేతితో లేదా టిష్యూ తో కవర్ చేసుకోవడం.\n4. ఇతరులకు కనీసం 1 మీటర్ దూరం లో వుoడడం.\n5. మీరు అనారోగ్యంగా వుoటే ఇతరుల నుండి దూరంగా  ఇంటిలోనే ఉండటం. మీకు జ్వరం, దగ్గు లేదా శ్వాస సమస్య ఉంటే, దయచేసి ప్రారంభంలోనే మెడికల్ హెల్ప్  తీసుకోవడం.",
+            "id": 3085,
+            "language": "Telugu",
+            "phrase": {
+                "content": "How can I prevent COVID-19 Infection?\r\n\r\nFortunately, there are some actions you can take to minimize the risk of infection. They are:\r\n\r\n1. Thoroughly washing your hands with soap and water for at least 20 seconds.\r\n2. Do not touch eyes, nose, and mouth.\r\n3. Covering your mouth and nose with your elbow or tissue when you cough or sneeze.\r\n4. Maintaining at least 1 meter distance between yourself and anyone else.\r\n5. Staying home if you feel unwell and keep away from others. If you have a fever, cough or breathing problem, please seek medical attention early.",
+                "id": 165,
+                "summary": "Prevention"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

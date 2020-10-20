@@ -1,0 +1,72 @@
+{
+    "count": 5,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3a7b8fe9b52ad4f269792421531defe6.mp3",
+            "content": "Saya akan periksa anda sekarang.",
+            "id": 982,
+            "language": "Malay",
+            "phrase": {
+                "content": "I’m going to examine you.",
+                "id": 43,
+                "summary": "Physical Exam Starts"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/fae738cca516d74483cd27464108bc7a.mp3",
+            "content": "Kalau sakit, bilang saya. ",
+            "id": 983,
+            "language": "Malay",
+            "phrase": {
+                "content": "Tell me if you feel more pain.",
+                "id": 149,
+                "summary": "Tell if Pain"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/af19b48b80b09b594f48e8639b874dc2.mp3",
+            "content": "Tolong buka baju.",
+            "id": 984,
+            "language": "Malay",
+            "phrase": {
+                "content": "Please remove your shirt.",
+                "id": 150,
+                "summary": "Remove Clothing"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d90b16bb90d729242f2171edb799abd2.mp3",
+            "content": "Tarik nafas dan hembus berulang kali.",
+            "id": 985,
+            "language": "Malay",
+            "phrase": {
+                "content": "Keep taking deep breaths through your mouth.",
+                "id": 44,
+                "summary": "Deep Breath"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8ed046e0fe6e7e1c63028a86e4368411.mp3",
+            "content": "Cakap “99” bila saya dengar dengan stetoskop.",
+            "id": 986,
+            "language": "Malay",
+            "phrase": {
+                "content": "Say \"99\" when I listen with my stethoscope.",
+                "id": 45,
+                "summary": "99"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

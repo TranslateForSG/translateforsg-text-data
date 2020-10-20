@@ -1,0 +1,2490 @@
+{
+    "count": 191,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f8a21343403c4fda14c45070feacd4a3.mp3",
+            "content": "Tôi là một bác sĩ. Tôi không nói ngôn ngữ của bạn. Tôi sẽ liên lạc với bạn bằng cách sử dụng trang web này. Trả lời tôi bằng tiếng Anh càng nhiều càng tốt. Cảm ơn bạn.",
+            "id": 1304,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "I am a doctor. I do not speak your language. I will communicate with you using this website. Answer me in English as much as possible. Thank you.",
+                "id": 1,
+                "summary": "Intro"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/e04761942ee0e7f7f0d9ac409d37c95b.mp3",
+            "content": "Bạn tên là gì?",
+            "id": 1305,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "What's your name?",
+                "id": 2,
+                "summary": "Name"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1038ce0d64669331ccaac7ba97943a3e.mp3",
+            "content": "Vui lòng cho tôi Chứng minh nhân dân hoặc Giấy phép làm việc",
+            "id": 1306,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Please give me your Identity Card or Work Permit",
+                "id": 3,
+                "summary": "IC"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/000e9298936edba3d401df11a4ece733.mp3",
+            "content": "Công ty bạn đang làm việc dưới / làm việc cho?",
+            "id": 1307,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Which company are you employed under / work for?",
+                "id": 4,
+                "summary": "Company"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/e71db3507e5d076f37be6f91cc48a84f.mp3",
+            "content": "Tên và số liên lạc của người giám sát của bạn là gì?",
+            "id": 1308,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "What is your supervisor’s name and contact number?",
+                "id": 5,
+                "summary": "Supervisor"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ceb09c497d0cd069dae653b7ddaba346.mp3",
+            "content": "Bạn sống ở đâu tại Singapore?",
+            "id": 1309,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Where do you live in Singapore?",
+                "id": 6,
+                "summary": "Residence"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c569b80eca1436a84f22739dd4fafc0b.mp3",
+            "content": "Bạn có biết nếu có bệnh nhân bị nhiễm bệnh từ khu vực của bạn?",
+            "id": 1310,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Do you know if any infected patients are from your area?",
+                "id": 7,
+                "summary": "Cluster"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5424f4bd8a7ebe619859c5fae0bc3e0d.mp3",
+            "content": "Trong 14 ngày qua, bạn có gặp ai bị coronavirus không?",
+            "id": 1311,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "In the last 14 days, did you meet anyone who has coronavirus?",
+                "id": 9,
+                "summary": "People"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/dbdcbd4127d8685354d993afe5ef1615.mp3",
+            "content": "Có bao nhiêu người đang ở trong cùng một phòng với bạn?",
+            "id": 1312,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "How many people are staying in the same room as you?",
+                "id": 8,
+                "summary": "Room"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/2f5080986076d8231b2f5da179524885.mp3",
+            "content": "WHO? Mối quan hệ của bạn với họ là gì?",
+            "id": 1313,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Who? What is your relationship with them?",
+                "id": 10,
+                "summary": "People Meet"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0e2dac3804dda3cd1c4cad9985890aab.mp3",
+            "content": "Bạn đã gặp họ bao nhiêu ngày trước?",
+            "id": 1314,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "How many days ago did you meet them?",
+                "id": 11,
+                "summary": "People Meet"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/28727cbd1145c6367adac7c6eafa1ccb.mp3",
+            "content": "Bạn ở với anh ấy / cô ấy bao lâu?",
+            "id": 1315,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "How long were you with him/her?",
+                "id": 12,
+                "summary": "People Meet"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ed49d982eb2a150c15ef855867ee82e3.mp3",
+            "content": "Trong 14 ngày qua, bạn có đi du lịch Singapore không? Nếu có, cho chúng tôi biết các nước bằng tiếng Anh.",
+            "id": 1316,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "In the last 14 days, did you travel out of Singapore? If yes, tell us the countries in English.",
+                "id": 13,
+                "summary": "14 Days Travel"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/60a8a2903e8183108bda0dd7136569d8.mp3",
+            "content": "Bạn có bị sốt không?",
+            "id": 1317,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Do you have a fever?",
+                "id": 14,
+                "summary": "Fever"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/21eb914e2370a51de4a2f69cf23ba756.mp3",
+            "content": "Bao nhiêu ngày?",
+            "id": 1318,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "How many days?",
+                "id": 15,
+                "summary": "Length"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/bc1837e34c0d40606c595367da096341.mp3",
+            "content": "Bạn đã đo nó bằng nhiệt kế? Nếu bạn đã làm, đọc cao nhất là gì?",
+            "id": 1319,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Did you measure it with a thermometer? If you did, what was the highest reading?",
+                "id": 16,
+                "summary": "Reading"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0e0028c6988cfb74927abbb0f7958b71.mp3",
+            "content": "Sổ mũi?",
+            "id": 1320,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Runny nose?",
+                "id": 17,
+                "summary": "Runny nose"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/44e446bb25c88631c94b04ff7b748360.mp3",
+            "content": "Ho?",
+            "id": 1321,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Cough?",
+                "id": 18,
+                "summary": "Cough"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/63970c82f8c226f89b2601bd65bfa765.mp3",
+            "content": "Đau họng?",
+            "id": 1322,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Sore throat?",
+                "id": 19,
+                "summary": "Sore throat"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/232f27d87af430f7cf1359bef1a7cbe7.mp3",
+            "content": "Khó thở?",
+            "id": 1323,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Difficulty breathing?",
+                "id": 20,
+                "summary": "Breathing"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f7a6103ccc400b2bc250ae079e398ccf.mp3",
+            "content": "Không thể ngửi đúng cách?",
+            "id": 1324,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Cannot smell properly?",
+                "id": 21,
+                "summary": "Anosmia"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/2af4000d1d5ad14c335ad36aa7434a03.mp3",
+            "content": "Bạn có cảm thấy ít hương vị trong miệng?",
+            "id": 1325,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Do you feel less taste in the mouth?",
+                "id": 22,
+                "summary": "Ageusia"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/30f989bd354d44d88336f54869f83f6e.mp3",
+            "content": "Bạn có bị tiêu chảy / tiêu chảy? Bao nhiêu lần một ngày?",
+            "id": 1326,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Do you have diarrhoea / diarrhea? How many times a day?",
+                "id": 23,
+                "summary": "diarrhoea"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d2f526fd712dc751341cf6f9c4cb0873.mp3",
+            "content": "Phát ban da hay ngứa?",
+            "id": 1327,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Skin Rash or Itching?",
+                "id": 24,
+                "summary": "Rash"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6fd128f2e1979b3c8f9640a406e9b873.mp3",
+            "content": "Bạn có bất kỳ đau đớn trên cơ thể của bạn?",
+            "id": 1328,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Do you have any pain on your body?",
+                "id": 25,
+                "summary": "Pain"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/aa8a4f8d01ff7c0a2566ebf7315488ae.mp3",
+            "content": "Cụ thể, có đau ngực không?",
+            "id": 1329,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Specifically, any chest pain?",
+                "id": 26,
+                "summary": "Chest Pain"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/51c4f013868c41bbca972076fa7392b7.mp3",
+            "content": "Chỉ vào nơi.",
+            "id": 1330,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Point to the place.",
+                "id": 27,
+                "summary": "Point Out"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7b8982a16233638b188d78897d4c1257.mp3",
+            "content": "Bạn có bất kỳ lịch sử y tế trong quá khứ?",
+            "id": 1331,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Do you have any past medical history?",
+                "id": 28,
+                "summary": "Medical History"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/916e064e2ad5af98d8a540cc0bbd212b.mp3",
+            "content": "Chỉ vào cái nào.",
+            "id": 1332,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Point to which ones.",
+                "id": 29,
+                "summary": "Symptoms"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/338803383efac663bd51317b743f1daa.mp3",
+            "content": "Hen suyễn",
+            "id": 1333,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Asthma",
+                "id": 30,
+                "summary": "Asthma"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/48cbe96f62c34808fe62704cc3460c59.mp3",
+            "content": "Viêm phổi",
+            "id": 1334,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Pneumonia",
+                "id": 31,
+                "summary": "Pneumonia"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c9306f010c38ae54c16b6ca03b029053.mp3",
+            "content": "Tăng huyết áp",
+            "id": 1335,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Hypertension",
+                "id": 32,
+                "summary": "Hypertension"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/fa298630468eb93a9b956a9aa1b32ff5.mp3",
+            "content": "Tăng lipid máu / Cholesterol",
+            "id": 1336,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Hyperlipidemia / Cholesterol",
+                "id": 33,
+                "summary": "Hyperlipidemia"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/28af22ee4a858bdf3fab0a7a2e8b2289.mp3",
+            "content": "Bệnh tiểu đường",
+            "id": 1337,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Diabetes",
+                "id": 34,
+                "summary": "Diabetes"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5f2288b3e85d4a9f25d449110bb33fc9.mp3",
+            "content": "Vấn đề tim mạch",
+            "id": 1338,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Heart problems",
+                "id": 35,
+                "summary": "Heart problems"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7633a9974cd154801f0ffe8619ff373a.mp3",
+            "content": "Vấn đề về thận",
+            "id": 1339,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Kidney problems",
+                "id": 36,
+                "summary": "Kidney problems"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/70bfb7632e1948899d5e25d82cf9c2f4.mp3",
+            "content": "Bạn có bị dị ứng thuốc?",
+            "id": 1340,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Do you have a drug allergy?",
+                "id": 37,
+                "summary": "Drug allergy"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0d910ed4d0eb42c907debe728d5d29c6.mp3",
+            "content": "Bạn có hút thuốc không? Nếu có, bao nhiêu điếu thuốc mỗi ngày?",
+            "id": 1341,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Do you smoke? If yes, how many cigarettes a day?",
+                "id": 38,
+                "summary": "Smoke"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6b82fb7db5fb8e8b0169711802a2206d.mp3",
+            "content": "Anh lại uống rượu? Nếu có, bao nhiêu (số chai một tuần, loại rượu)?",
+            "id": 1342,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Do you drink? If yes, how much (number of bottles a week, type of alcohol)?",
+                "id": 39,
+                "summary": "Drink Alcohol"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f7084eb5b033422b34fd9c11b194f103.mp3",
+            "content": "Làm thế nào để bạn cảm thấy xúc động?",
+            "id": 1343,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "How do you feel emotionally?",
+                "id": 40,
+                "summary": "Emotion Feeling"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3793f099b045c9bbe653d50ee6c44c75.mp3",
+            "content": "Bạn có ý nghĩ tự tử?",
+            "id": 1344,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Do you have suicidal thoughts?",
+                "id": 41,
+                "summary": "Suicidal thoughts"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7e03028323c4a6afdca079507a2700ea.mp3",
+            "content": "Nếu bạn có bất kỳ vấn đề nào khác, bạn có thể nói với tôi bằng tiếng Anh.",
+            "id": 1345,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "If you have any other problems, you can tell me in English.",
+                "id": 42,
+                "summary": "Other Problems"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/81f0b20d33fadd2775320326384e9d09.mp3",
+            "content": "Tôi sẽ kiểm tra bạn.",
+            "id": 1346,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "I’m going to examine you.",
+                "id": 43,
+                "summary": "Physical Exam Starts"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/eb443d0caaa2507d3d2568ec8565bb24.mp3",
+            "content": "Hãy nói cho tôi nếu bạn cảm thấy đau hơn.",
+            "id": 1347,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Tell me if you feel more pain.",
+                "id": 149,
+                "summary": "Tell if Pain"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d23ff7751089a98331fca1bb198e993d.mp3",
+            "content": "Hãy cởi áo ra.",
+            "id": 1348,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Please remove your shirt.",
+                "id": 150,
+                "summary": "Remove Clothing"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b72c1a423fbb18c6e7350c4d20589ae8.mp3",
+            "content": "Tiếp tục hít thở sâu bằng miệng.",
+            "id": 1349,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Keep taking deep breaths through your mouth.",
+                "id": 44,
+                "summary": "Deep Breath"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ddd5f6681633a4f7efe30124d0dc4dd7.mp3",
+            "content": "Nói &quot;99&quot; khi tôi nghe bằng ống nghe.",
+            "id": 1350,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Say \"99\" when I listen with my stethoscope.",
+                "id": 45,
+                "summary": "99"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4e9094ed8c3c51ade51a957519e2a570.mp3",
+            "content": "Tôi sẽ đặt nụ bông này vào lỗ mũi của bạn. Bạn sẽ cảm thấy kỳ lạ nhưng nó không đau đớn.",
+            "id": 1351,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "I'm going to put this cotton bud into your nostrils. You will feel strange but it is not painful.",
+                "id": 46,
+                "summary": "Swabbing"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6e5221a96bdbe133c3f571056d4156d3.mp3",
+            "content": "Đây là để kiểm tra coronavirus",
+            "id": 1352,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "This is to test for coronavirus",
+                "id": 47,
+                "summary": "Covid"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3936693ad3f674b47dd882420a54f869.mp3",
+            "content": "Nếu coronavirus dương tính, chúng tôi sẽ gọi điện thoại của bạn vào ngày mai.",
+            "id": 1353,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "If coronavirus positive, we call your phone by tomorrow.",
+                "id": 49,
+                "summary": "Result Collection"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6fa48f28fe590b9643519470f99df49c.mp3",
+            "content": "Nghiêng đầu lại",
+            "id": 1354,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Tilt your head back",
+                "id": 48,
+                "summary": "Tilt Head"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/2fd761415372aa5768eee7328bb34e4a.mp3",
+            "content": "Nếu coronavirus âm tính, chúng tôi sẽ gửi cho bạn SMS sau 3 ngày.",
+            "id": 1355,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "If coronavirus negative, we send you an SMS after 3 days.",
+                "id": 152,
+                "summary": "COVID Negative"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a71fafc6e343d401770183e8883c84df.mp3",
+            "content": "Sau đó, bạn sẽ chụp X-quang",
+            "id": 1356,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Later, you will do an X-ray",
+                "id": 50,
+                "summary": "X-ray"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f538c86c99f25b53d78635fec5b22266.mp3",
+            "content": "Không có dấu hiệu nhiễm trùng trên X-quang của bạn",
+            "id": 1357,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "There is no sign of infection on your X-ray",
+                "id": 51,
+                "summary": "X-ray OK"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/52596b5ab96702ede3e789dd488c9d28.mp3",
+            "content": "Bạn có thể quay lại sớm.",
+            "id": 1358,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "You can go back soon.",
+                "id": 52,
+                "summary": "Can go back"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/43ef14e8e0831a7d65f432d27a0bb701.mp3",
+            "content": "Đợi ở đây, đừng rời khỏi khu vực này",
+            "id": 1359,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Wait here, do not leave this area",
+                "id": 53,
+                "summary": "Wait Patient"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5f858a3cdcf15f464d060d4c1f34a5a7.mp3",
+            "content": "Bạn phải ở lại bệnh viện vài ngày",
+            "id": 1360,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "You have to stay in the hospital for a few days",
+                "id": 54,
+                "summary": "Hospital Stay"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7ca54d93bbace8d6bfa4e687116ae8dc.mp3",
+            "content": "Tôi sẽ cho bạn thuốc để bạn cảm thấy tốt hơn",
+            "id": 1361,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "I'll give you medicine to make you feel better",
+                "id": 55,
+                "summary": "Medicine"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/2aeae3d7e7972d0c50e16ab82e1aefef.mp3",
+            "content": "Bạn phải quay lại nếu bạn có vấn đề với hô hấp.",
+            "id": 1363,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "You must come back if you have problems with breathing.",
+                "id": 57,
+                "summary": "Problem after 5 days"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/06065a75fcaea083b5f292231dce6cfd.mp3",
+            "content": "Bạn không được làm việc trong 5 ngày tới.",
+            "id": 1362,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "You must not work for the next 5 days.",
+                "id": 56,
+                "summary": "No work 5 days"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a03b320af5460047be4e3965ba708e1f.mp3",
+            "content": "Bạn phải quay lại nếu bạn không hồi phục hoàn toàn sau 5 ngày.",
+            "id": 1364,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "You must come back if you do not recover completely after 5 days.",
+                "id": 151,
+                "summary": "Come back 5 days"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f14752cd3e954d542776d100e79c3b1d.mp3",
+            "content": "Đọc kỹ tài liệu",
+            "id": 1365,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Read the handout carefully",
+                "id": 58,
+                "summary": "Handout"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/009d992d35b0feedc801f06e684ab312.mp3",
+            "content": "Cảm ơn bạn",
+            "id": 1366,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Thank you",
+                "id": 59,
+                "summary": "Thank you"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/34446695e5e40a0592ef8c452c62b2d3.mp3",
+            "content": "Vui lòng tránh giao thông công cộng.",
+            "id": 1467,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Please avoid public transport.",
+                "id": 166,
+                "summary": "Transport"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/691a1cfb6b8546de18d347c3db631179.mp3",
+            "content": "Bạn có thể đi phương tiện giao thông cá nhân của riêng bạn, một chiếc taxi hoặc một chiếc xe cho thuê tư nhân.",
+            "id": 1468,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "You can take your own private transport, a taxi or a private hire car.",
+                "id": 167,
+                "summary": "Take Taxi"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/64213c67bc4b49a33bd6bc727e8462ae.mp3",
+            "content": "Đeo khẩu trang và ngồi một mình ở ghế sau trong xe.",
+            "id": 1469,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Wear a mask and sit alone in the back seat in the car.",
+                "id": 168,
+                "summary": "In Car"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b098dd6f4a5d9491291d20d606479460.mp3",
+            "content": "Mở cửa sổ xe và tắt điều hòa.",
+            "id": 1470,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Open car windows and turn off air-conditioning.",
+                "id": 169,
+                "summary": "No AC"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4a75efcc61fef88052875517e6e04c26.mp3",
+            "content": "Hãy giữ an toàn biên lai từ taxi hoặc xe thuê riêng. Nếu kết quả xét nghiệm của bạn cho thấy bạn bị nhiễm bệnh, điều này sẽ cần thiết.",
+            "id": 1471,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Please safely keep the receipt from the taxi or private hire car. If your test results indicate you are infected, this will be needed.",
+                "id": 170,
+                "summary": "Receipt"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/590246ba4e0d9b15cb821c8a6154d4af.mp3",
+            "content": "Tránh xa người khác. Bạn phải ở nhà và không thể ra ngoài trong khi đang nghỉ phép. Bạn chỉ có thể đi ra ngoài vì lý do sức khỏe hoặc y tế.",
+            "id": 1472,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Stay away from others. You must stay home and can not go outside while being on medical leave. You may only go out for health or medical reasons.",
+                "id": 171,
+                "summary": "Isolation"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7db851694572f6e5c24e6a48597840fd.mp3",
+            "content": "Nếu bạn cần phải đi đến bất kỳ cuộc hẹn y tế nào trước khi bạn nhận được kết quả xét nghiệm của mình, hãy cẩn thận. Nói với bác sĩ, y tá hoặc nhân viên khác rằng gần đây bạn đã được xét nghiệm COVID-19. Ngoài ra, nói với họ về các triệu chứng của bạn. Trước ngày, bạn nên gọi 6344 8222 để thông báo cho họ.",
+            "id": 1473,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "If you need to go for any medical appointment before you get your test result, be careful. Tell the doctor, nurse, or other staff that you were recently tested for COVID-19. Also, tell them about your symptoms. Before the day, you should call 6344 8222 to inform them.",
+                "id": 172,
+                "summary": "Medical Appointment"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/705b433e40625da3ed80fc2875905910.mp3",
+            "content": "Bạn đã thử nghiệm dương tính với coronavirus.",
+            "id": 1367,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "You have tested positive for coronavirus.",
+                "id": 60,
+                "summary": "Tested Positive"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/9c5fc63952f125da726c72e8d741f2d6.mp3",
+            "content": "Chúng tôi sẽ đưa bạn đến bệnh viện.",
+            "id": 1368,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "We will take you to the hospital.",
+                "id": 61,
+                "summary": "Hospital Admission"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b5938a841c28453642acd15a06161f3f.mp3",
+            "content": "Chúng tôi sẽ chuyển cho bạn một cơ sở cách ly.",
+            "id": 1369,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "We will transfer you to an isolation facility.",
+                "id": 62,
+                "summary": "Isolation Facility"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/385b8a266881e5a0dad3c8ea693816f0.mp3",
+            "content": "Buổi sáng tốt lành",
+            "id": 1370,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Good morning",
+                "id": 64,
+                "summary": "Morning"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/088b77f09d6e9a91cb4f9638cb76c41a.mp3",
+            "content": "Chào buổi tối",
+            "id": 1480,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Good Evening",
+                "id": 173,
+                "summary": "Evening"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4c1306e2ffbd7399dcaa04ee551216ff.mp3",
+            "content": "Chào buổi trưa",
+            "id": 1487,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Good Afternoon",
+                "id": 174,
+                "summary": "Afternoon"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3b37c1ac67cdeba83d7084d10eb845b6.mp3",
+            "content": "Tôi là y tá",
+            "id": 1371,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "I am the nurse",
+                "id": 65,
+                "summary": "Nurse"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/bbff7b0a66aa9ef4f916c828711a1ccc.mp3",
+            "content": "tôi là bác sĩ",
+            "id": 1372,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "I am the doctor",
+                "id": 66,
+                "summary": "Doctor"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b01d11ec215cb1c59da5d2acb04a75b9.mp3",
+            "content": "Bạn đang ở trong phòng chăm sóc đặc biệt.",
+            "id": 1373,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "You are in the intensive care unit.",
+                "id": 67,
+                "summary": "In ICU"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4ca4885d3d227f8324aceb52c461be08.mp3",
+            "content": "Hôm nay là thứ hai",
+            "id": 1374,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Today is Monday",
+                "id": 68,
+                "summary": "Monday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c338d862a54c72db6eec3956094133b5.mp3",
+            "content": "Hôm nay là thứ ba",
+            "id": 1375,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Today is Tuesday",
+                "id": 69,
+                "summary": "Tuesday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c2178e12e18d23bb951dc3328469761e.mp3",
+            "content": "Hôm nay là thứ tư",
+            "id": 1376,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Today is Wednesday",
+                "id": 70,
+                "summary": "Wednesday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b3d04b99b36049d55dd8808acb0f669d.mp3",
+            "content": "Hôm nay là thứ năm",
+            "id": 1377,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Today is Thursday",
+                "id": 71,
+                "summary": "Thursday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/fff058a04d6df30e624a82e86ea14401.mp3",
+            "content": "Hôm nay là thứ sáu",
+            "id": 1378,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Today is Friday",
+                "id": 72,
+                "summary": "Friday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d6859292e194936f7dd1b21550b76c6e.mp3",
+            "content": "Hôm nay là thứ bảy",
+            "id": 1379,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Today is Saturday",
+                "id": 73,
+                "summary": "Saturday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/fc2abafeb1e6ab39b777a796e2e7ee34.mp3",
+            "content": "Hôm nay là chủ nhật",
+            "id": 1380,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Today is Sunday",
+                "id": 74,
+                "summary": "Sunday"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3a65dc85ecbea7ecd83090ec6e291cf3.mp3",
+            "content": "Bạn tốt hơn rồi đấy",
+            "id": 1381,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "You are getting better",
+                "id": 153,
+                "summary": "Getting Better"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0d4bf6b3052ad053c01d97078b2897d0.mp3",
+            "content": "Chúng tôi sẽ loại bỏ ống thở khi bạn tốt hơn",
+            "id": 1382,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "We will remove the breathing tube when you are better",
+                "id": 75,
+                "summary": "Remove Tube Later"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/715558a023d3d757054f6b783582d02f.mp3",
+            "content": "Bạn có thể nói chuyện sau khi chúng tôi tháo ống thở",
+            "id": 1383,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "You can talk after we remove the breathing tube",
+                "id": 76,
+                "summary": "Can Talk as Remove"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/68daa771b5ac299ce6d222100033a3c6.mp3",
+            "content": "Hít thật sâu",
+            "id": 1384,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Take a deep breath",
+                "id": 77,
+                "summary": "Deep breath"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/228586225d592b0208244d4d230ee11d.mp3",
+            "content": "Cho tôi một tiếng ho lớn",
+            "id": 1385,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Give me a big cough",
+                "id": 78,
+                "summary": "Big cough"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a05bdc49e454ff8097164ac193d0db9e.mp3",
+            "content": "Đừng đấu tranh",
+            "id": 1386,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Don’t struggle",
+                "id": 79,
+                "summary": "Don’t struggle"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/cda30e93b5e427e318803e5bf0a195c8.mp3",
+            "content": "Đừng di chuyển",
+            "id": 1387,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Don’t move",
+                "id": 80,
+                "summary": "Don’t move"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/73eadd8452d68fbc3168552b3e8773ef.mp3",
+            "content": "Nâng cánh tay của bạn lên",
+            "id": 1388,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Lift up your arm",
+                "id": 81,
+                "summary": "Lift up your arm"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f333b394e32177cc772ef0f0b5fe492a.mp3",
+            "content": "Nâng chân của bạn lên",
+            "id": 1389,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Lift up your leg",
+                "id": 82,
+                "summary": "Lift up your leg"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3e0aa3fcd1a2d2185926e9367a21e458.mp3",
+            "content": "Bóp tay tôi",
+            "id": 1390,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Squeeze my hand",
+                "id": 83,
+                "summary": "Squeeze my hand"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/34c7e947150db99f440208db8ce2c21d.mp3",
+            "content": "Cho tôi xem hai ngón tay",
+            "id": 1391,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Show me two fingers",
+                "id": 84,
+                "summary": "Show two fingers"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7ddf414e1dab7036b769e42547d51220.mp3",
+            "content": "Mở miệng",
+            "id": 1392,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Open your mouth",
+                "id": 85,
+                "summary": "Open mouth"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4ae7e27f5ea23c35ab85757455ef6dc4.mp3",
+            "content": "Thè lưỡi",
+            "id": 1393,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Stick out your tongue",
+                "id": 86,
+                "summary": "Stick out tongue"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d21e01d2aa3a170dbfe98d2452c62618.mp3",
+            "content": "Mở mắt ra",
+            "id": 1394,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Open your eyes",
+                "id": 87,
+                "summary": "Open eyes"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/507ba84dd55a5cff66edafcde5c1a485.mp3",
+            "content": "Tôi sẽ chiếu ánh sáng vào mắt bạn. Nó sẽ sáng",
+            "id": 1395,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "I’m going to shine a light into your eyes. It will be bright.",
+                "id": 88,
+                "summary": "Shine a light into your eyes"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/10ed1579ab9f0ac84e3c7098d679bb00.mp3",
+            "content": "Phổi của bạn yếu. Chúng tôi sẽ chèn một ống thở để giúp bạn thở",
+            "id": 1396,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Your lungs are weak. We are going to insert a breathing tube to help you breathe",
+                "id": 89,
+                "summary": "Insert a breathing tube"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/07d0bb2ef16dbbc5cc75ee1aaea0070f.mp3",
+            "content": "Bạn sẽ đi ngủ bây giờ",
+            "id": 1397,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "You are going to sleep now",
+                "id": 90,
+                "summary": "Sleep"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/9dadff38ff577cf426c3a73d917747a4.mp3",
+            "content": "Chúng tôi đang đặt bạn lên bụng của bạn để giúp phổi của bạn mở rộng",
+            "id": 1398,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "We are turning you onto your belly to help your lungs expand",
+                "id": 91,
+                "summary": "Turn onto belly"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6ccf0bc97bb98dc5a9445e55b1a222fe.mp3",
+            "content": "Chúng tôi đang chèn một ống để giúp bạn thông tiểu",
+            "id": 1399,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "We are inserting a tube to help you pass urine",
+                "id": 92,
+                "summary": "Insert tube urine"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b1a88e6e2e6c98d11b9dab5714f1577b.mp3",
+            "content": "Chúng tôi đang chèn một ống qua mũi của bạn",
+            "id": 1400,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "We are inserting a tube through your nose",
+                "id": 93,
+                "summary": "Insert tube nose"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5de10ea12225d33be702805d42676f96.mp3",
+            "content": "Chúng tôi sẽ tiêm thuốc vào cổ bạn để cho bạn uống thuốc",
+            "id": 1401,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "We are going to give you an injection in your neck to give you medications",
+                "id": 94,
+                "summary": "Injection in Neck"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0f68d4dfd805f166e195c8612d5e4ded.mp3",
+            "content": "Chúng tôi sẽ tiêm cho bạn cánh tay để đo huyết áp",
+            "id": 1402,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "We are going to give you an injection in your arm to measure your blood pressure",
+                "id": 95,
+                "summary": "Measure Blood Pressure"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/70193bc927d3295f43c4118ba7514a3e.mp3",
+            "content": "Chúng tôi sẽ cung cấp cho bạn thuốc ngủ.",
+            "id": 1403,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "We will give you sleeping medications.",
+                "id": 96,
+                "summary": "Sleeping Meds"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/68e81371041b70f4c8fa6e240023e1d2.mp3",
+            "content": "Chúng tôi sẽ cung cấp cho bạn thuốc giảm đau.",
+            "id": 1404,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "We will give you painkillers.",
+                "id": 97,
+                "summary": "Painkillers"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/524a35b395fa6d54417235cbc00387b5.mp3",
+            "content": "Chúng tôi đang cho bạn thuốc để giữ cho huyết áp của bạn tăng lên.",
+            "id": 1405,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "We are giving you medication to keep your blood pressure up.",
+                "id": 98,
+                "summary": "Blood Pressure Medication"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ffa00fded568e9a6717026efe9a29831.mp3",
+            "content": "Chúng tôi sẽ loại bỏ các ống thở.",
+            "id": 1406,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "We are going to remove the breathing tube.",
+                "id": 99,
+                "summary": "Remove Tube"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a8bf0f8e3be0e3f1f3c33663e1d2d64a.mp3",
+            "content": "Chúng tôi sẽ hút đờm của bạn",
+            "id": 1407,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "We are going to suck out your phlegm",
+                "id": 100,
+                "summary": "Phlegm suck out"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4b868ecea8a66ee2ee5c341897343d2f.mp3",
+            "content": "Chúng tôi sẽ làm sạch bạn với một miếng bọt biển",
+            "id": 1408,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "We are going to clean you with a sponge",
+                "id": 101,
+                "summary": "Clean with sponge"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/43a5496a185bd75166ee8ff085dad55f.mp3",
+            "content": "Rẽ trái",
+            "id": 1409,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Turn left",
+                "id": 102,
+                "summary": "​Turn left"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3d7d3d5093e35478eb13315ca209bef7.mp3",
+            "content": "Rẽ phải",
+            "id": 1410,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Turn right",
+                "id": 103,
+                "summary": "Turn right"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0db61bb5bff2cf6881b9cb33cf75ed02.mp3",
+            "content": "Chúng tôi sẽ thay tã của bạn",
+            "id": 1411,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "We will change your diapers",
+                "id": 104,
+                "summary": "We will change your diapers"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f333b394e32177cc772ef0f0b5fe492a_HlseveH.mp3",
+            "content": "Nâng chân của bạn lên",
+            "id": 1412,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Lift up your leg",
+                "id": 105,
+                "summary": "Lift up your leg"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/06807535e1189910d64261f999bfa133.mp3",
+            "content": "Chúng tôi sẽ ngồi bạn lên",
+            "id": 1413,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "We are going to sit you up",
+                "id": 106,
+                "summary": "We are going to sit you up"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f20fce05d466318dad1f39194dc14d81.mp3",
+            "content": "Chúng tôi sẽ chuyển bạn lên giường",
+            "id": 1414,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "We are going to shift you up the bed",
+                "id": 107,
+                "summary": "Shift head"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/084637e637813c3fee974fca9c67edea.mp3",
+            "content": "Chúng tôi sẽ làm sạch miệng của bạn",
+            "id": 1415,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "We are going to clean your mouth",
+                "id": 108,
+                "summary": "Clean mouth"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d5af9d87d572d705e8037b9020c34a3e.mp3",
+            "content": "Đừng nuốt nước súc miệng",
+            "id": 1416,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Do not swallow the gargle",
+                "id": 109,
+                "summary": "Dont swallow"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f946ea5e7f6f8ba5c198122d797d81c2.mp3",
+            "content": "Bạn có đau không?",
+            "id": 1417,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Are you in pain?",
+                "id": 110,
+                "summary": "Are you in pain?"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4e767df2b9953a55a9e3609b8a088f2d.mp3",
+            "content": "Nơi là nỗi đau?",
+            "id": 1418,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Where is the pain?",
+                "id": 111,
+                "summary": "Where is the pain?"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/53262729276b40365a73fb194a3c240c.mp3",
+            "content": "Là nhẹ, vừa hay nặng?",
+            "id": 1419,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Is it mild, moderate or severe?",
+                "id": 112,
+                "summary": "Is it mild, moderate or severe?"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0fcfeba5387fa3e1571dd0d187b9ca60.mp3",
+            "content": "Bạn có thể chỉ ra nỗi đau?",
+            "id": 1420,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Can you point to the pain?",
+                "id": 113,
+                "summary": "Can you point to the pain?"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ca15ee184615bb74c975ebb1d15b1b66.mp3",
+            "content": "Cái đầu",
+            "id": 1421,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Head",
+                "id": 114,
+                "summary": "Head"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1ed56dd089653c41b74995658c22a3f9.mp3",
+            "content": "Đôi mắt",
+            "id": 1422,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Eyes",
+                "id": 115,
+                "summary": "Eyes"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/cf7c73b4df076b1ad3404669b8635631.mp3",
+            "content": "Đôi tai",
+            "id": 1423,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Ears",
+                "id": 116,
+                "summary": "Ears"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0cebedb0a187e90a1bf97eca39fc0a15.mp3",
+            "content": "Mũi",
+            "id": 1424,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Nose",
+                "id": 117,
+                "summary": "Nose"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6d9faa9a1a57aaf29710e97f1a3543fc.mp3",
+            "content": "Mồm",
+            "id": 1425,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Mouth",
+                "id": 118,
+                "summary": "Mouth"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/53f2532d6ab2a4b07bdf7307946aa5c2.mp3",
+            "content": "Họng",
+            "id": 1426,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Throat",
+                "id": 119,
+                "summary": "Throat"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/bb4e783769d45f53c55e167506901294.mp3",
+            "content": "Ngực",
+            "id": 1427,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Chest",
+                "id": 120,
+                "summary": "Chest"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/682a1b4c86e92027850fcb43cbc7fe55.mp3",
+            "content": "Bụng",
+            "id": 1428,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Abdomen",
+                "id": 121,
+                "summary": "Abdomen"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c7371f3fea7a28c3737f706ae795a963.mp3",
+            "content": "Trở lại",
+            "id": 1429,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Back",
+                "id": 122,
+                "summary": "Back"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c44611d26a5d3bacc489440b6355f0e3.mp3",
+            "content": "Tay hoặc cánh tay",
+            "id": 1430,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Hand or Arm",
+                "id": 123,
+                "summary": "Arms"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5b76c6e3b7e360177a00888121feee72.mp3",
+            "content": "Chân",
+            "id": 1431,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Legs",
+                "id": 124,
+                "summary": "Legs"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/907bb5ea58c1a04fec7e6e6a70600dfe.mp3",
+            "content": "Đôi chân",
+            "id": 1432,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Feet",
+                "id": 125,
+                "summary": "Feet"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c4ca4238a0b923820dcc509a6f75849b_v0Idf6F.mp3",
+            "content": "1",
+            "id": 1433,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "1",
+                "id": 126,
+                "summary": "1"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c81e728d9d4c2f636f067f89cc14862c_WEysu9M.mp3",
+            "content": "2",
+            "id": 1434,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "2",
+                "id": 127,
+                "summary": "2"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/eccbc87e4b5ce2fe28308fd9f2a7baf3_9zG7Ifc.mp3",
+            "content": "3",
+            "id": 1435,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "3",
+                "id": 128,
+                "summary": "3"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a87ff679a2f3e71d9181a67b7542122c_SIixFgm.mp3",
+            "content": "4",
+            "id": 1436,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "4",
+                "id": 129,
+                "summary": "4"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/e4da3b7fbbce2345d7772b0674a318d5_6y7bBBZ.mp3",
+            "content": "5",
+            "id": 1437,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "5",
+                "id": 130,
+                "summary": "5"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1679091c5a880faf6fb5e6087eb1b2dc_BlFQTgz.mp3",
+            "content": "6",
+            "id": 1438,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "6",
+                "id": 131,
+                "summary": "6"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8f14e45fceea167a5a36dedd4bea2543_4625aBc.mp3",
+            "content": "7",
+            "id": 1439,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "7",
+                "id": 132,
+                "summary": "7"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/28b8d4839823f20e9643cf2114ea5d62.mp3",
+            "content": "số 8",
+            "id": 1440,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "8",
+                "id": 133,
+                "summary": "8"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/45c48cce2e2d7fbdea1afc51c7c6ad26_fVRjXuv.mp3",
+            "content": "9",
+            "id": 1441,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "9",
+                "id": 134,
+                "summary": "9"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d3d9446802a44259755d38e6d163e820_gEcvuNm.mp3",
+            "content": "10",
+            "id": 1442,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "10",
+                "id": 135,
+                "summary": "10"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/cfcd208495d565ef66e7dff9f98764da_9KDGSMV.mp3",
+            "content": "0",
+            "id": 1443,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "0",
+                "id": 136,
+                "summary": "0"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d53eedaf4667a8b633ef366b6f998bc1.mp3",
+            "content": "tháng Giêng",
+            "id": 1444,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "January",
+                "id": 137,
+                "summary": "January"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/db0152e02cad5a18e49580cb853e2345.mp3",
+            "content": "Tháng hai",
+            "id": 1445,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Feb",
+                "id": 138,
+                "summary": "Feb"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/2c6fc9cfdef659af718377358548748c.mp3",
+            "content": "tháng Ba",
+            "id": 1446,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "March",
+                "id": 139,
+                "summary": "March"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b72b5e9b10b97f49267adbb861528d22.mp3",
+            "content": "Tháng 4",
+            "id": 1447,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "April",
+                "id": 140,
+                "summary": "April"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/65b9f1e8cdff9e0d2ea18ba0c4bac7a0.mp3",
+            "content": "có thể",
+            "id": 1448,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "May",
+                "id": 141,
+                "summary": "May"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/98a2d2b7c4b3c0049e3a53c8a57d7aca.mp3",
+            "content": "Tháng 6",
+            "id": 1449,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "June",
+                "id": 142,
+                "summary": "June"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/bfcc6b04a1e20ee346774d57ec79e5ce.mp3",
+            "content": "Tháng 7",
+            "id": 1450,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "July",
+                "id": 143,
+                "summary": "July"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4f422079809acae92c82e7eb2cdc2534.mp3",
+            "content": "tháng Tám",
+            "id": 1451,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "August",
+                "id": 144,
+                "summary": "August"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a3951810060b9efe25902c3bc8b39059.mp3",
+            "content": "Tháng Chín",
+            "id": 1452,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "September",
+                "id": 145,
+                "summary": "September"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/9c6373859d007ec1ada9d6b539941754.mp3",
+            "content": "Tháng Mười",
+            "id": 1453,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "October",
+                "id": 146,
+                "summary": "October"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8d9c852229ca739408782b7982e2d7ce.mp3",
+            "content": "Tháng 11",
+            "id": 1454,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "November",
+                "id": 147,
+                "summary": "November"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/9b4c5daee0fb304f9d879f045b958fe7.mp3",
+            "content": "Tháng 12",
+            "id": 1455,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "December",
+                "id": 148,
+                "summary": "December"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/8ab6301bb080e535d7aba8c6f3f74175.mp3",
+            "content": "Ở trong một phòng riêng ở nhà. Tốt nhất là phòng có phòng tắm kèm theo. Điều này là để giảm liên lạc với các thành viên khác trong nhà. Nếu bạn đang sử dụng phòng tắm chung, phòng tắm cần được làm sạch trước hoặc sau khi bạn sử dụng.",
+            "id": 1939,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Stay in a separate room at home. It is best if the room has an attached bathroom. This is to reduce contact with the other members of the house. If you are using a shared bathroom, the bathroom needs to be cleaned before or after you use it.",
+                "id": 176,
+                "summary": "Separate"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0b51f96f0d408acbd46bcc27b7599fff.mp3",
+            "content": "Sắp xếp thực phẩm, nước và các vật dụng khác được đặt bên ngoài phòng của bạn. Chính bạn phải mang những vật dụng đó vào phòng của bạn.",
+            "id": 1940,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Arrange for food, water, and other supplies to be placed outside your room. You yourself have to bring those items into your room.",
+                "id": 177,
+                "summary": "Arrange"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d1a2c7f8957defd7dd9b75dbd7cf156b.mp3",
+            "content": "Cho đến khi bạn biết kết quả xét nghiệm gạc của mình, hãy giảm liên lạc với các thành viên trong gia đình. Đặc biệt, cố gắng không đến gần người lớn tuổi.",
+            "id": 1941,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Until you know your swab test results, reduce your contact with family members. Especially, try not to get near older people.",
+                "id": 178,
+                "summary": "Elderly"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/b34c0df21029af21e004819e15effd84.mp3",
+            "content": "Hãy giữ gìn vệ sinh cá nhân tốt. Rửa tay bằng xà phòng và nước thường xuyên. Cố gắng không chạm vào mắt, mũi và miệng của bạn. Luôn che miệng khi ho hoặc hắt hơi.",
+            "id": 1942,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Please maintain good personal hygiene. Wash your hands with soap and water frequently. Try not to touch your eyes, nose, and mouth. Always cover your mouth when coughing or sneezing.",
+                "id": 179,
+                "summary": "Hygine"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a9fca7271686091737e250cf5d2909ff.mp3",
+            "content": "Vui lòng ngăn người khác sử dụng muỗng, nĩa, đĩa, bát, thức ăn của bạn. Cũng không chia sẻ các vật dụng vệ sinh cá nhân như khăn của bạn.",
+            "id": 1943,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Please prevent others from using your spoon, fork, plates, bowls, food. Also do not share personal hygiene items like your towel.",
+                "id": 180,
+                "summary": "Sharing"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4f0bdbe1d6065242482e98e95ecd0c68.mp3",
+            "content": "Tiếp tục dùng thuốc theo quy định cho bạn (nếu có).",
+            "id": 1944,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Continue to take the medications prescribed for you (if any).",
+                "id": 181,
+                "summary": "Medication"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7aa494a380fb2d20be9974b9cde69777.mp3",
+            "content": "Vui lòng uống nhiều nước.",
+            "id": 1945,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Please drink a lot of water.",
+                "id": 182,
+                "summary": "Drink"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/3c968cbde47a087527b7454d0081b598.mp3",
+            "content": "Theo dõi nhiệt độ và các triệu chứng của bạn ở nhà.",
+            "id": 1946,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Keep monitoring your temperature and symptoms at home.",
+                "id": 183,
+                "summary": "Monitor"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/34446695e5e40a0592ef8c452c62b2d3.mp3",
+            "content": "Vui lòng tránh giao thông công cộng.",
+            "id": 1467,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Please avoid public transport.",
+                "id": 166,
+                "summary": "Transport"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/691a1cfb6b8546de18d347c3db631179.mp3",
+            "content": "Bạn có thể đi phương tiện giao thông cá nhân của riêng bạn, một chiếc taxi hoặc một chiếc xe cho thuê tư nhân.",
+            "id": 1468,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "You can take your own private transport, a taxi or a private hire car.",
+                "id": 167,
+                "summary": "Take Taxi"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d015afaa472b1f44cc1b86b262059f26.mp3",
+            "content": "Nếu ho của bạn trở nên tồi tệ hơn và bạn cảm thấy khó thở, hoặc sốt của bạn kéo dài trên 38 độ C",
+            "id": 1947,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "If your cough is getting worse and you feel breathless, or your fever is persistently above 38 degrees Celsius",
+                "id": 184,
+                "summary": "38C"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/6d0dc4dcd7d1db010af2b68487de3d15.mp3",
+            "content": "Đeo mặt nạ phẫu thuật và đến Khoa Cấp cứu của chúng tôi.",
+            "id": 1948,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Wear a surgical mask and come to our Emergency Department.",
+                "id": 185,
+                "summary": "Mask"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7a83722f0829c4215fd25832e9252591.mp3",
+            "content": "Trong tình huống khẩn cấp, hãy gọi 995 cho xe cứu thương. Thông báo cho nhân viên cứu thương rằng gần đây bạn đã được thử nghiệm COVID-19 và cũng cho họ biết lịch sử du lịch của bạn.",
+            "id": 1949,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "In an emergency situation, call 995 for an ambulance. Inform the ambulance operator that you were recently tested for COVID-19 and also tell them your travel history.",
+                "id": 187,
+                "summary": "Ambulance"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/cba9a8452afead539d4e1332da5b4c08.mp3",
+            "content": "1) Kết nối vòng đo huyết áp với máy đọc.",
+            "id": 1950,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "1) Connect the blood pressure cuff to the reader machine.",
+                "id": 188,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f3f1fd3a67049f8d6bde9685c0d8dfb7.mp3",
+            "content": "2) Mũi tên của người Viking trên vòng bít phải hướng xuống dưới bên trong cánh tay của bạn.",
+            "id": 1951,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "2) The “arrow” on the the cuff should be pointing downwards on the inside of your arm.",
+                "id": 189,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/61aa48d7f96870eeba61633aeef9d1a0.mp3",
+            "content": "(!) Vòng bít phải được đặt ở vị trí cao hơn khớp khuỷu tay của bạn từ 1 đến 2 cm.",
+            "id": 1952,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "(!) The cuff should be positioned 1 to 2 cm above your elbow joint.",
+                "id": 190,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c535d3b79c308d34110e0300ce373ba2.mp3",
+            "content": "3) Vòng bít HA phải vừa khít với cánh tay của bạn. Nó không nên cảm thấy lỏng lẻo. Để lại một khoảng trống đủ cho 1 ngón tay trái vừa vặn (cho thước đo tốt)",
+            "id": 1953,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "3) The BP cuff should fit snugly onto your arm. It should not feel loose. Leave some space enough for 1 left finger to fit in (for good gauge)",
+                "id": 191,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/692c75ddbca7dc6f378286efaf3a8f6d.mp3",
+            "content": "4) Không uốn cong ống trong khi đo huyết áp.",
+            "id": 1954,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "4) Do not bend the tube during blood pressure measurement.",
+                "id": 192,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a2c3eee38259cdc9844614cc47415406.mp3",
+            "content": "5) Thư giãn và đặt toàn bộ cánh tay của bạn lên bàn trong khi đo huyết áp.",
+            "id": 1955,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "5) Relax & Rest your entire arm on a table while measuring your blood pressure.",
+                "id": 193,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/50ab5fdf06f91b22a075827e91330733.mp3",
+            "content": "6) Nhấn nút Bắt đầu / Dừng chặn để bắt đầu đo HA của bạn. Đợi trong 1 phút cho đến khi 3 số xuất hiện.",
+            "id": 1956,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "6) Press the “Start/Stop” button to start measuring your BP. Wait for 1 minute until 3 numbers appear.",
+                "id": 194,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/978da88c7e086067e78476472be5d034.mp3",
+            "content": "7) Số hàng đầu là huyết áp tâm thu của bạn. Số ở giữa là huyết áp tâm trương của bạn. Số dưới cùng là tốc độ xung của bạn.",
+            "id": 1957,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "7) The top number is your Systolic blood pressure. The middle number is your Diastolic blood pressure. The bottom number is your Pulse rate.",
+                "id": 195,
+                "summary": ""
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c510ac972086618eddc6ac4097a3f95e.mp3",
+            "content": "COVID-19 là gì? COVID-19 (cụ thể hơn là coronavirus) là một căn bệnh bắt đầu từ thành phố Vũ Hán ở Trung Quốc, đây là một bệnh về đường hô hấp.",
+            "id": 1456,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "What is COVID-19?\r\n\r\nCOVID-19 (more specifically, a coronavirus) is an illness that started from the Wuhan City in China, it is a respiratory illness.",
+                "id": 155,
+                "summary": "What COVID"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/ec51c02837d9698367a71b6e91f0f904.mp3",
+            "content": "Các triệu chứng của COVID-19 là gì? Các triệu chứng phổ biến nhất là sốt, mệt mỏi và ho khan. Một số bệnh nhân cũng bị sổ mũi, đau họng hoặc tiêu chảy. Những triệu chứng này thường nhẹ. Một số người bị nhiễm bệnh nhưng không có bất kỳ triệu chứng nào. Tuy nhiên, nó cũng có thể được gây ra bởi nhiễm trùng phổi hoặc viêm phổi.",
+            "id": 1457,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "What are the symptoms of COVID-19?\r\n\r\nThe most common symptoms are fever, tiredness and dry cough. Some patients also have a runny nose, sore throat or diarrhea. These symptoms are usually mild.\r\n\r\nSome people become infected but do not have any symptoms.\r\n\r\nHowever, it also can be caused by a lung infection or pneumonia.",
+                "id": 156,
+                "summary": "What are the symptoms of COVID-19?"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/0a5626e4b5acb10b076e8d1a3f3075f2.mp3",
+            "content": "COVID-19 lây lan như thế nào? Mọi người có thể bị nhiễm bởi những người khác đã bị nhiễm COVID-19. Virus lây lan qua ho và hắt hơi. Virus cũng có thể lây lan qua nước bọt từ miệng, đĩa, thìa và dĩa đã sử dụng.",
+            "id": 1458,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "How does COVID-19 spread?\r\n\r\nPeople can be infected by other persons already infected with COVID-19. The virus spreads through cough and sneezing. The virus can also spread with saliva from the mouth, used plates, spoons, and forks.",
+                "id": 157,
+                "summary": "COVID Spread"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5f7cf6442ec6575ecc5090a143e0e150.mp3",
+            "content": "Bài kiểm tra COVID-19 là gì? Đây là một thử nghiệm gạc. Một miếng gạc sẽ được đưa vào lỗ mũi hoặc phía sau cổ họng của bạn. Nó sẽ kéo dài khoảng 10 giây. Có thể có một chút khó chịu, tuy nhiên, nó không quá đau.",
+            "id": 1459,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "What is the test for COVID-19?\r\n\r\nIt is a swab test. A swab will be inserted in your nostrils or at the back of your throat. It will last about 10 seconds. There might be a slight discomfort, however, it is not too painful.",
+                "id": 158,
+                "summary": "COVID-19 Test"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/693e54c476d61087e0d705df86238bbe.mp3",
+            "content": "Nếu tôi có COVID-19 thì sao? Chính quyền sẽ sắp xếp cuộc sống riêng cho bạn hoặc đưa bạn đến bệnh viện. Họ sẽ theo dõi sức khỏe của bạn, cho dù nó đang được cải thiện hay không. X-quang hoặc xét nghiệm máu cũng có thể cần thiết. Thông thường, họ sẽ kiểm tra tăm bông của bạn cứ sau 24 giờ. Nếu bài kiểm tra của bạn âm tính hai lần liên tiếp, bạn sẽ được thả ra. Nhưng sau khi về nhà, bạn phải ở riêng với mọi người trong 2 tuần.",
+            "id": 1460,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "What if I have COVID-19?\r\n\r\nAuthority will make separate living arrangements for you or admit you to a hospital. They will monitor your health, whether it is improving or not. X-ray or blood test may also be needed. Usually, they will test your swab every 24 hours. If your test is negative twice in a row, you will be released. But after going home, you have to stay separate from everyone for 2 weeks.",
+                "id": 159,
+                "summary": "COVID-19 Positive"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/f584b46ff05704e3888a79ed3a4d664d.mp3",
+            "content": "Tôi sẽ chết nếu tôi có COVID-19? COVID-19 có thể khiến bạn và gia đình lo lắng. Tuy nhiên, 80% thời gian, nhiễm trùng COVID-19 là nhẹ. Họ thậm chí không cần điều trị. Có một chút rủi ro thiệt hại cho những người già hoặc có vấn đề sức khỏe khác. Chỉ 5% bệnh nhân cần ICU để giúp họ thở.",
+            "id": 1461,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Will I die if I have COVID-19?\r\n\r\nCOVID-19 may make you and your family worried. However, 80% of the time, COVID-19 infections are mild. They do not even need any treatment. There is a slight risk of damage to those who are old or have other health problems. Only 5% of patients need ICU for helping them breathe.",
+                "id": 160,
+                "summary": "Die COVID-19"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a262f021301d4fbb4e6360404d0d1e11.mp3",
+            "content": "Có cách điều trị COVID-19 không? Hầu hết bệnh nhân COVID-19 không cần điều trị. Họ chỉ cần thuốc trị ho, sốt và các triệu chứng khác. Tuy nhiên, đối với 5% bệnh nhân bị bệnh nặng, không có phương pháp điều trị nào được chứng minh. Tuy nhiên, chúng tôi rất gần để khám phá điều trị. Đừng sợ. Nếu bạn có vấn đề về hô hấp, chúng tôi sẽ sử dụng máy để giúp bạn thở. Chúng tôi sẽ cung cấp cho bạn thuốc cho huyết áp.",
+            "id": 1462,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "Is there a treatment for COVID-19?\r\n\r\nMost patients of COVID-19 do not need any treatment. They only need medicine for cough, fever and other symptoms. However, for 5% of the patients who are very ill, there are no proven treatments. However, we are very near to discovering treatment. Do not be afraid. If you have problems breathing we will use a machine to help you breathe. We will give you medicine for blood pressure.",
+                "id": 161,
+                "summary": "COVID-19 Treatment"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d52e1644234129573887b546c1457a4a.mp3",
+            "content": "Tôi sẽ phải trả bao nhiêu cho Điều trị? Theo thông báo của Chính phủ Singapore, nếu bạn là công dân Singapore, hoặc thường trú nhân, hoặc người giữ thẻ dài hạn, chính phủ sẽ thanh toán. Vì vậy, ngay cả khi bạn có giấy phép làm việc, chính phủ sẽ trả tiền. Nhưng, nếu bạn rời khỏi Singapore sau ngày 27 tháng 3 năm 2020 và được nhận trong vòng 14 ngày kể từ ngày trở về, chính phủ sẽ không thanh toán hóa đơn của bạn.",
+            "id": 1463,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "How much will I have to pay for Treatment?\r\n\r\nAccording to the announcement of the Singapore Government, if you are a citizen of Singapore, or a permanent resident, or a long term pass holder, the government will pay. So even if you have a work permit, the government will pay. But, if you went out of Singapore after 27 March 2020 and get admitted within 14 days of returning, the government will not pay your bills.",
+                "id": 162,
+                "summary": "Treatment Cost"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/2d9ef923fd4479d1c9ea3d98c776cd49.mp3",
+            "content": "Tôi lo lắng về việc không làm việc. Tôi sẽ mất việc? Chủ lao động của bạn phải cho phép bạn đối xử với pháp luật. Nhà tuyển dụng phải trả lương cho bạn ngay cả khi bạn không thể làm việc ngay bây giờ. Nếu tiền lương của bạn không được trả kịp thời, Chính phủ Singapore có thể có hành động chống lại chủ lao động.",
+            "id": 1464,
+            "language": "Vietnamese",
+            "phrase": {
+                "content": "I am worried about not working. Will I lose my job?\r\n\r\nYour employer has to allow your treatment by the law. The employer has to pay your salary even if you cannot work now.  If your salary is not paid timely, the Singapore Government can take action against the employer.",
+                "id": 163,
+                "summary": "Job Loss"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

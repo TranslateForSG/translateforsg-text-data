@@ -1,0 +1,124 @@
+{
+    "count": 9,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/94524a37c4e74c4335793442182b35f6_PZAtZN7.mp3",
+            "content": "Maaari ka nang umuwi sa ilang sandali",
+            "id": 689,
+            "language": "Filipino",
+            "phrase": {
+                "content": "You can go back soon.",
+                "id": 52,
+                "summary": "Can go back"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/15b2fa2e0fddf53e9e4b5e20ee5026f3_QoRAV3K.mp3",
+            "content": "Maaari lamang na maghintay dito, huwag aalis sa lugar na ito",
+            "id": 690,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Wait here, do not leave this area",
+                "id": 53,
+                "summary": "Wait Patient"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c708182b1105877d92273217b93482a5_6J2y2uk.mp3",
+            "content": "Kailangan mong manatili sa ospital sa loob ng ilang mga araw",
+            "id": 691,
+            "language": "Filipino",
+            "phrase": {
+                "content": "You have to stay in the hospital for a few days",
+                "id": 54,
+                "summary": "Hospital Stay"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/1783defb0d6fbaa090e44abf0b118cd4_FlRipzK.mp3",
+            "content": "Bibigyan kita ng gamot upang mapabuti ang iyong pakiramdam",
+            "id": 692,
+            "language": "Filipino",
+            "phrase": {
+                "content": "I'll give you medicine to make you feel better",
+                "id": 55,
+                "summary": "Medicine"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7d1b71a0f3b3a5a2a57f8d71e09625a4_kIZUZjt.mp3",
+            "content": "Kailangan mong bumalik dito sakaling magkaroon ng problema sa paghinga",
+            "id": 694,
+            "language": "Filipino",
+            "phrase": {
+                "content": "You must not work for the next 5 days.",
+                "id": 56,
+                "summary": "No work 5 days"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/c6ac4df27a9235aea0da9eea9d337b52_DMFyUjY.mp3",
+            "content": "Kailangan mong hindi pumasok sa trabaho sa loob ng limang araw",
+            "id": 693,
+            "language": "Filipino",
+            "phrase": {
+                "content": "You must come back if you have problems with breathing.",
+                "id": 57,
+                "summary": "Problem after 5 days"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/d6d351e71aeffb7fb7808edf87ed4c5b_e1RWAn4.mp3",
+            "content": "Kailangan mong bumalik dito sakaling hindi ka tuluyang gumaling pagkatapos ng limang araw",
+            "id": 695,
+            "language": "Filipino",
+            "phrase": {
+                "content": "You must come back if you do not recover completely after 5 days.",
+                "id": 151,
+                "summary": "Come back 5 days"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/7ebf667896c1749369bd0e8f23a5c9a8_V41ZJHa.mp3",
+            "content": "Basahin mo ng maigi ang handout",
+            "id": 696,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Read the handout carefully",
+                "id": 58,
+                "summary": "Handout"
+            },
+            "romanized": "",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4744e108b907d0b3c15a0e3594b72462_baZNTOW.mp3",
+            "content": "Salamat.",
+            "id": 697,
+            "language": "Filipino",
+            "phrase": {
+                "content": "Thank you",
+                "id": 59,
+                "summary": "Thank you"
+            },
+            "romanized": "",
+            "special_note": ""
+        }
+    ]
+}

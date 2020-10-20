@@ -1,0 +1,163 @@
+{
+    "count": 12,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4be2abbcf7d3f280c292a8d0c4fbba98_zJV13n3.mp3",
+            "content": "头",
+            "id": 2098,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Head",
+                "id": 114,
+                "summary": "Head"
+            },
+            "romanized": "tóu",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/946f5c8c6903b9f74125c4fe026e6dcd_F3lgp8r.mp3",
+            "content": "眼睛",
+            "id": 2099,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Eyes",
+                "id": 115,
+                "summary": "Eyes"
+            },
+            "romanized": "yǎn jīng",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/62507462c9a26d733b3828b0fd0bc642_hR9synz.mp3",
+            "content": "耳朵",
+            "id": 2100,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Ears",
+                "id": 116,
+                "summary": "Ears"
+            },
+            "romanized": "ěr duǒ",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/e6134a29931ad14d89de9017a9213734_3Y9tk3W.mp3",
+            "content": "鼻子",
+            "id": 2101,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Nose",
+                "id": 117,
+                "summary": "Nose"
+            },
+            "romanized": "bí zǐ",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/4e3e32131e9cb81a572fbcac4c77fa9d_ULcJC2N.mp3",
+            "content": "嘴巴/口",
+            "id": 2102,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Mouth",
+                "id": 118,
+                "summary": "Mouth"
+            },
+            "romanized": "zǔi bā / kǒu",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/e997c075dd5a68b5c5932b330ae3f9a4_f9tFeZS.mp3",
+            "content": "喉咙",
+            "id": 2103,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Throat",
+                "id": 119,
+                "summary": "Throat"
+            },
+            "romanized": "hóu lóng",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/793f195dacff9b8c582d0f74f9241815_RVfXRwj.mp3",
+            "content": "胸口",
+            "id": 2104,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Chest",
+                "id": 120,
+                "summary": "Chest"
+            },
+            "romanized": "xiōng kǒu",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/25bc427ca3db02f20c6477481f0f3064.mp3",
+            "content": "腹部/肚子",
+            "id": 2105,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Abdomen",
+                "id": 121,
+                "summary": "Abdomen"
+            },
+            "romanized": "fù bù / dù zǐ",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/a6d9108337c6a1f9f257896b287448a1_KrIWhUi.mp3",
+            "content": "背",
+            "id": 2106,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Back",
+                "id": 122,
+                "summary": "Back"
+            },
+            "romanized": "bèi",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/9d17d34aa3d2ae632d81a90f0077afc0_hbeGxCe.mp3",
+            "content": "手或手臂",
+            "id": 2107,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Hand or Arm",
+                "id": 123,
+                "summary": "Arms"
+            },
+            "romanized": "shǒu huò shǒu bì",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/9d023c6d9baab342350b143564c2496c_EsJaHt5.mp3",
+            "content": "腿",
+            "id": 2108,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Legs",
+                "id": 124,
+                "summary": "Legs"
+            },
+            "romanized": "tǔi",
+            "special_note": ""
+        },
+        {
+            "audio_clip": "https://storage.googleapis.com/translateforsg-data/recorded_clips/5297c017274229b3b965ff8fb1cbbc8a_VCwgsWx.mp3",
+            "content": "脚",
+            "id": 2109,
+            "language": "Chinese",
+            "phrase": {
+                "content": "Feet",
+                "id": 125,
+                "summary": "Feet"
+            },
+            "romanized": "jiǎo",
+            "special_note": ""
+        }
+    ]
+}
